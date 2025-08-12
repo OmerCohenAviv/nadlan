@@ -1,0 +1,4841 @@
+{
+  "neighborhood_name": "רסקו",
+  "city_name": "לוד",
+  "transaction_count": 151,
+  "transactions": [
+    {
+      "assetId": 10007343.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2025-06-24",
+      "dealAmount": 1030000,
+      "parcelNum": "4024-215-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-12-05",
+          "dealAmount": 960000
+        },
+        {
+          "dealDate": "2019-03-14",
+          "dealAmount": 540000
+        },
+        {
+          "dealDate": "2008-01-31",
+          "dealAmount": 70000
+        }
+      ],
+      "trend": {
+        "rate": 7.3,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 23953,
+      "row_id": 1
+    },
+    {
+      "assetId": 10037947.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-05-29",
+      "dealAmount": 2360300,
+      "parcelNum": "5382-21-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.5,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-03-24",
+          "dealAmount": 1730000
+        }
+      ],
+      "trend": {
+        "rate": 36.4,
+        "years": 0.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 1180150
+        },
+        {
+          "proportion": "50",
+          "price": 1180150
+        }
+      ],
+      "priceSM": 32782,
+      "row_id": 2
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-05-28",
+      "dealAmount": 2395000,
+      "parcelNum": "5382-21-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 107.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22383,
+      "row_id": 3
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-05-04",
+      "dealAmount": 1880000,
+      "parcelNum": "5382-21-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "אחת עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-04",
+          "dealAmount": 1976000
+        }
+      ],
+      "trend": {
+        "rate": -4.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 20435,
+      "row_id": 4
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-04-27",
+      "dealAmount": 2352000,
+      "parcelNum": "5382-21-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 109.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21578,
+      "row_id": 5
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-04-23",
+      "dealAmount": 1983000,
+      "parcelNum": "5382-21-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21554,
+      "row_id": 6
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-04-20",
+      "dealAmount": 1271000,
+      "parcelNum": "5382-21-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 48.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26479,
+      "row_id": 7
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-04-10",
+      "dealAmount": 1668800,
+      "parcelNum": "5382-21-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 66.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25285,
+      "row_id": 8
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-04-09",
+      "dealAmount": 1244000,
+      "parcelNum": "5382-21-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 48.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25917,
+      "row_id": 9
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-04-07",
+      "dealAmount": 1977000,
+      "parcelNum": "5382-21-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 92.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21489,
+      "row_id": 10
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-04-06",
+      "dealAmount": 1765800,
+      "parcelNum": "5382-21-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 76.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23234,
+      "row_id": 11
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-31",
+      "dealAmount": 2034000,
+      "parcelNum": "5382-21-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשיעית",
+      "assetArea": 92.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22109,
+      "row_id": 12
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-26",
+      "dealAmount": 1983000,
+      "parcelNum": "5382-21-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 92.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-03-26",
+          "dealAmount": 2009000
+        }
+      ],
+      "trend": {
+        "rate": -1.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21554,
+      "row_id": 13
+    },
+    {
+      "assetId": 10037915.0,
+      "addressId": 53708421,
+      "polygonId": "53339460",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 14",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2110000,
+      "parcelNum": "5382-3-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.0,
+      "yearBuilt": 2025,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26709,
+      "row_id": 14
+    },
+    {
+      "assetId": 10037913.0,
+      "addressId": 53708421,
+      "polygonId": "53339460",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 14",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2500000,
+      "parcelNum": "5382-3-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.0,
+      "yearBuilt": 2025,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-22",
+          "dealAmount": 615000
+        },
+        {
+          "dealDate": "2013-02-20",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2008-11-14",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 306.5,
+        "years": 9.8
+      },
+      "ownership": [
+        {
+          "proportion": "49",
+          "price": 1225000
+        },
+        {
+          "proportion": "51",
+          "price": 1275000
+        }
+      ],
+      "priceSM": 31646,
+      "row_id": 15
+    },
+    {
+      "assetId": 10037941.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2320000,
+      "parcelNum": "5382-21-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.5,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-08-18",
+          "dealAmount": 520000
+        },
+        {
+          "dealDate": "2011-07-04",
+          "dealAmount": 410000
+        }
+      ],
+      "trend": {
+        "rate": 346.2,
+        "years": 11.6
+      },
+      "ownership": [
+        {
+          "proportion": "49",
+          "price": 1136800
+        },
+        {
+          "proportion": "51",
+          "price": 1183200
+        }
+      ],
+      "priceSM": 32222,
+      "row_id": 16
+    },
+    {
+      "assetId": 10037946.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2340000,
+      "parcelNum": "5382-21-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.5,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-03-17",
+          "dealAmount": 1759000
+        },
+        {
+          "dealDate": "2015-01-05",
+          "dealAmount": 530000
+        }
+      ],
+      "trend": {
+        "rate": 33.0,
+        "years": 0.0
+      },
+      "ownership": [
+        {
+          "proportion": "49",
+          "price": 1146600
+        },
+        {
+          "proportion": "51",
+          "price": 1193400
+        }
+      ],
+      "priceSM": 32500,
+      "row_id": 17
+    },
+    {
+      "assetId": 10037942.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2330000,
+      "parcelNum": "5382-21-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.5,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-08-20",
+          "dealAmount": 495000
+        }
+      ],
+      "trend": {
+        "rate": 370.7,
+        "years": 12.6
+      },
+      "ownership": [
+        {
+          "proportion": "49",
+          "price": 1141700
+        },
+        {
+          "proportion": "51",
+          "price": 1188300
+        }
+      ],
+      "priceSM": 32361,
+      "row_id": 18
+    },
+    {
+      "assetId": 10037944.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2490000,
+      "parcelNum": "5382-21-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.5,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-03-03",
+          "dealAmount": 2397000
+        }
+      ],
+      "trend": {
+        "rate": 3.9,
+        "years": 0.1
+      },
+      "ownership": [
+        {
+          "proportion": "49",
+          "price": 1220100
+        },
+        {
+          "proportion": "51",
+          "price": 1269900
+        }
+      ],
+      "priceSM": 34583,
+      "row_id": 19
+    },
+    {
+      "assetId": 10037945.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2310000,
+      "parcelNum": "5382-21-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.5,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-01-08",
+          "dealAmount": 1770506
+        },
+        {
+          "dealDate": "2016-06-14",
+          "dealAmount": 106000
+        }
+      ],
+      "trend": {
+        "rate": 30.5,
+        "years": 0.2
+      },
+      "ownership": [
+        {
+          "proportion": "49",
+          "price": 1131900
+        },
+        {
+          "proportion": "51",
+          "price": 1178100
+        }
+      ],
+      "priceSM": 32083,
+      "row_id": 20
+    },
+    {
+      "assetId": 10037906.0,
+      "addressId": 53708421,
+      "polygonId": "53339460",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 14",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2373900,
+      "parcelNum": "5382-3-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.0,
+      "yearBuilt": 2025,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-03-07",
+          "dealAmount": 374000
+        }
+      ],
+      "trend": {
+        "rate": 534.7,
+        "years": 7.1
+      },
+      "ownership": [
+        {
+          "proportion": "49",
+          "price": 1163211
+        },
+        {
+          "proportion": "51",
+          "price": 1210689
+        }
+      ],
+      "priceSM": 30049,
+      "row_id": 21
+    },
+    {
+      "assetId": 10037916.0,
+      "addressId": 53708421,
+      "polygonId": "53339460",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 14",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2550000,
+      "parcelNum": "5382-3-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 78.0,
+      "yearBuilt": 2025,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-14",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 672.7,
+        "years": 15.1
+      },
+      "ownership": [
+        {
+          "proportion": "49",
+          "price": 1249500
+        },
+        {
+          "proportion": "51",
+          "price": 1300500
+        }
+      ],
+      "priceSM": 32692,
+      "row_id": 22
+    },
+    {
+      "assetId": 10037917.0,
+      "addressId": 53708421,
+      "polygonId": "53339460",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 14",
+      "dealDate": "2025-03-24",
+      "dealAmount": 790000,
+      "parcelNum": "5382-3-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.0,
+      "yearBuilt": 2025,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-03-24",
+          "dealAmount": 720000
+        }
+      ],
+      "trend": {
+        "rate": 9.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 23
+    },
+    {
+      "assetId": 10037907.0,
+      "addressId": 53708421,
+      "polygonId": "53339460",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 14",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2540000,
+      "parcelNum": "5382-3-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 78.0,
+      "yearBuilt": 2025,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-09-08",
+          "dealAmount": 112000
+        }
+      ],
+      "trend": {
+        "rate": 2167.9,
+        "years": 8.5
+      },
+      "ownership": [
+        {
+          "proportion": "49",
+          "price": 1244600
+        },
+        {
+          "proportion": "51",
+          "price": 1295400
+        }
+      ],
+      "priceSM": 32564,
+      "row_id": 24
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-24",
+      "dealAmount": 78000,
+      "parcelNum": "5382-21-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.5,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-03-24",
+          "dealAmount": 1315000
+        },
+        {
+          "dealDate": "2015-07-07",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2000-10-10",
+          "dealAmount": 325000
+        }
+      ],
+      "trend": {
+        "rate": -94.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 1083,
+      "row_id": 25
+    },
+    {
+      "assetId": 10025726.0,
+      "addressId": 53703185,
+      "polygonId": "72631042",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 5",
+      "dealDate": "2025-03-24",
+      "dealAmount": 3750000,
+      "parcelNum": "4541-17-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 34.8,
+      "yearBuilt": 1950,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-03-25",
+          "dealAmount": 223000
+        },
+        {
+          "dealDate": "1998-05-05",
+          "dealAmount": 425000
+        }
+      ],
+      "trend": {
+        "rate": 1581.6,
+        "years": 24.0
+      },
+      "ownership": [
+        {
+          "proportion": "49",
+          "price": 1837500
+        },
+        {
+          "proportion": "51",
+          "price": 1912500
+        }
+      ],
+      "priceSM": 110294,
+      "row_id": 26
+    },
+    {
+      "assetId": 10037939.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-24",
+      "dealAmount": 1730000,
+      "parcelNum": "5382-21-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 72.5,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23862,
+      "row_id": 27
+    },
+    {
+      "assetId": 10037914.0,
+      "addressId": 53708421,
+      "polygonId": "53339460",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 14",
+      "dealDate": "2025-03-24",
+      "dealAmount": 1076000,
+      "parcelNum": "5382-3-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 78.0,
+      "yearBuilt": 2025,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13795,
+      "row_id": 28
+    },
+    {
+      "assetId": 10037909.0,
+      "addressId": 53708421,
+      "polygonId": "53339460",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 14",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2470000,
+      "parcelNum": "5382-3-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 78.0,
+      "yearBuilt": 2025,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31667,
+      "row_id": 29
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2266000,
+      "parcelNum": "5382-21-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 107.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21178,
+      "row_id": 30
+    },
+    {
+      "assetId": 10037912.0,
+      "addressId": 53708421,
+      "polygonId": "53339460",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 14",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2510000,
+      "parcelNum": "5382-3-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 78.0,
+      "yearBuilt": 2025,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32179,
+      "row_id": 31
+    },
+    {
+      "assetId": 10037908.0,
+      "addressId": 53708421,
+      "polygonId": "53339460",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 14",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2560000,
+      "parcelNum": "5382-3-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.0,
+      "yearBuilt": 2025,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32405,
+      "row_id": 32
+    },
+    {
+      "assetId": 10037911.0,
+      "addressId": 53708421,
+      "polygonId": "53339460",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 14",
+      "dealDate": "2025-03-24",
+      "dealAmount": 2490000,
+      "parcelNum": "5382-3-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 78.0,
+      "yearBuilt": 2025,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31923,
+      "row_id": 33
+    },
+    {
+      "assetId": 10037938.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-24",
+      "dealAmount": 1066000,
+      "parcelNum": "5382-21-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 72.5,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14703,
+      "row_id": 34
+    },
+    {
+      "assetId": 10037934.0,
+      "addressId": 0,
+      "polygonId": "5382-20",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "0",
+      "dealDate": "2025-03-20",
+      "dealAmount": 1743000,
+      "parcelNum": "5382-20-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 7000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22934,
+      "row_id": 35
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-18",
+      "dealAmount": 2266800,
+      "parcelNum": "5382-21-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 107.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21185,
+      "row_id": 36
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-17",
+      "dealAmount": 2003700,
+      "parcelNum": "5382-21-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמש עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21779,
+      "row_id": 37
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-16",
+      "dealAmount": 2003000,
+      "parcelNum": "5382-21-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 93.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21538,
+      "row_id": 38
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-03-06",
+      "dealAmount": 1515800,
+      "parcelNum": "5382-21-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שתים עשרה",
+      "assetArea": 93.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-03-06",
+          "dealAmount": 2003700
+        }
+      ],
+      "trend": {
+        "rate": -24.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 16299,
+      "row_id": 39
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-02-27",
+      "dealAmount": 1107800,
+      "parcelNum": "5382-21-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "חמישית",
+      "assetArea": 48.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23079,
+      "row_id": 40
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-02-26",
+      "dealAmount": 1515000,
+      "parcelNum": "5382-21-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 66.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-02-26",
+          "dealAmount": 1239310
+        }
+      ],
+      "trend": {
+        "rate": 22.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 22955,
+      "row_id": 41
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-02-25",
+      "dealAmount": 1515000,
+      "parcelNum": "5382-21-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 93.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-02-25",
+          "dealAmount": 1983000
+        },
+        {
+          "dealDate": "2025-02-25",
+          "dealAmount": 1742800
+        },
+        {
+          "dealDate": "2025-02-25",
+          "dealAmount": 2003800
+        },
+        {
+          "dealDate": "2025-02-25",
+          "dealAmount": 1238800
+        }
+      ],
+      "trend": {
+        "rate": -23.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 16290,
+      "row_id": 42
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-02-24",
+      "dealAmount": 2003000,
+      "parcelNum": "5382-21-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 93.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21538,
+      "row_id": 43
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-02-19",
+      "dealAmount": 1983500,
+      "parcelNum": "5382-21-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "אחת עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-02-19",
+          "dealAmount": 1543800
+        }
+      ],
+      "trend": {
+        "rate": 28.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21560,
+      "row_id": 44
+    },
+    {
+      "assetId": 10037948.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2025-01-19",
+      "dealAmount": 1557100,
+      "parcelNum": "5382-21-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 66.0,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23592,
+      "row_id": 45
+    },
+    {
+      "assetId": 10008615.0,
+      "addressId": 53700333,
+      "polygonId": "52551330",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 10",
+      "dealDate": "2025-01-18",
+      "dealAmount": 1130000,
+      "parcelNum": "4024-414-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-12-13",
+          "dealAmount": 730000
+        }
+      ],
+      "trend": {
+        "rate": 54.8,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 16143,
+      "row_id": 46
+    },
+    {
+      "assetId": 10025784.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2024-12-09",
+      "dealAmount": 1060000,
+      "parcelNum": "4541-29-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-01-23",
+          "dealAmount": 940000
+        },
+        {
+          "dealDate": "2020-06-29",
+          "dealAmount": 850000
+        },
+        {
+          "dealDate": "2007-10-25",
+          "dealAmount": 128000
+        }
+      ],
+      "trend": {
+        "rate": 12.8,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 26500,
+      "row_id": 47
+    },
+    {
+      "assetId": 10007331.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2024-08-14",
+      "dealAmount": 1075000,
+      "parcelNum": "4024-215-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-12-16",
+          "dealAmount": 757500
+        }
+      ],
+      "trend": {
+        "rate": 41.9,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 25000,
+      "row_id": 48
+    },
+    {
+      "assetId": 10025773.0,
+      "addressId": 53901779,
+      "polygonId": "65965189",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 1",
+      "dealDate": "2024-08-07",
+      "dealAmount": 1330000,
+      "parcelNum": "4541-27-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 52.4,
+      "yearBuilt": 1960,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-20",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 269.4,
+        "years": 14.7
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 665000
+        },
+        {
+          "proportion": "50",
+          "price": 665000
+        }
+      ],
+      "priceSM": 25577,
+      "row_id": 49
+    },
+    {
+      "assetId": 10007299.0,
+      "addressId": 53903802,
+      "polygonId": "53340662",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 1",
+      "dealDate": "2024-07-22",
+      "dealAmount": 1070000,
+      "parcelNum": "4024-214-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24374,
+      "row_id": 50
+    },
+    {
+      "assetId": 10007380.0,
+      "addressId": 53700982,
+      "polygonId": "53350711",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 8",
+      "dealDate": "2024-07-18",
+      "dealAmount": 875000,
+      "parcelNum": "4024-216-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19932,
+      "row_id": 51
+    },
+    {
+      "assetId": 10008630.0,
+      "addressId": 53700333,
+      "polygonId": "52551330",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 10",
+      "dealDate": "2024-07-08",
+      "dealAmount": 600000,
+      "parcelNum": "4024-414-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-28",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 13636,
+      "row_id": 53
+    },
+    {
+      "assetId": 10025783.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2024-05-01",
+      "dealAmount": 500000,
+      "parcelNum": "4541-29-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-11-28",
+          "dealAmount": 180000
+        },
+        {
+          "dealDate": "2022-08-25",
+          "dealAmount": 180000
+        },
+        {
+          "dealDate": "2022-07-25",
+          "dealAmount": 408000
+        },
+        {
+          "dealDate": "2013-04-28",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 177.8,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 54
+    },
+    {
+      "assetId": 10007379.0,
+      "addressId": 53700982,
+      "polygonId": "53350711",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 8",
+      "dealDate": "2024-01-29",
+      "dealAmount": 980000,
+      "parcelNum": "4024-216-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-11",
+          "dealAmount": 730000
+        },
+        {
+          "dealDate": "2012-11-21",
+          "dealAmount": 425000
+        }
+      ],
+      "trend": {
+        "rate": 34.2,
+        "years": 6.7
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 490000
+        },
+        {
+          "proportion": "50",
+          "price": 490000
+        }
+      ],
+      "priceSM": 22791,
+      "row_id": 55
+    },
+    {
+      "assetId": 10008554.0,
+      "addressId": 53901845,
+      "polygonId": "52414438",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 2",
+      "dealDate": "2024-01-19",
+      "dealAmount": 580000,
+      "parcelNum": "4024-411-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 56
+    },
+    {
+      "assetId": 10025761.0,
+      "addressId": 53708536,
+      "polygonId": "52571932",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 3",
+      "dealDate": "2024-01-13",
+      "dealAmount": 1516600,
+      "parcelNum": "4541-25-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 120.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-07-17",
+          "dealAmount": 950000
+        }
+      ],
+      "trend": {
+        "rate": 59.6,
+        "years": 11.5
+      },
+      "ownership": [
+        {
+          "proportion": "48",
+          "price": 727968
+        },
+        {
+          "proportion": "52",
+          "price": 788632
+        }
+      ],
+      "priceSM": 12638,
+      "row_id": 57
+    },
+    {
+      "assetId": 10007377.0,
+      "addressId": 53700982,
+      "polygonId": "53350711",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 8",
+      "dealDate": "2023-12-20",
+      "dealAmount": 550000,
+      "parcelNum": "4024-216-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12528,
+      "row_id": 58
+    },
+    {
+      "assetId": 10007368.0,
+      "addressId": 53700982,
+      "polygonId": "53350711",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 8",
+      "dealDate": "2023-12-14",
+      "dealAmount": 185000,
+      "parcelNum": "4024-216-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4214,
+      "row_id": 59
+    },
+    {
+      "assetId": 10008567.0,
+      "addressId": 53901845,
+      "polygonId": "52414438",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 2",
+      "dealDate": "2023-10-26",
+      "dealAmount": 1030000,
+      "parcelNum": "4024-411-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-16",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "1999-03-22",
+          "dealAmount": 315000
+        }
+      ],
+      "trend": {
+        "rate": 194.3,
+        "years": 12.9
+      },
+      "ownership": [],
+      "priceSM": 23409,
+      "row_id": 60
+    },
+    {
+      "assetId": 10007300.0,
+      "addressId": 53903802,
+      "polygonId": "53340662",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 1",
+      "dealDate": "2023-09-27",
+      "dealAmount": 1040000,
+      "parcelNum": "4024-214-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23690,
+      "row_id": 61
+    },
+    {
+      "assetId": 10025740.0,
+      "addressId": 53700327,
+      "polygonId": "53340294",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גלבוע 2",
+      "dealDate": "2023-08-03",
+      "dealAmount": 1500000,
+      "parcelNum": "4541-21-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 63.1,
+      "yearBuilt": 1960,
+      "streetCode": 70000551,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23772,
+      "row_id": 62
+    },
+    {
+      "assetId": 10025792.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2023-07-26",
+      "dealAmount": 880000,
+      "parcelNum": "4541-29-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21836,
+      "row_id": 63
+    },
+    {
+      "assetId": 10037901.0,
+      "addressId": 53708497,
+      "polygonId": "52539155",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 12",
+      "dealDate": "2023-07-20",
+      "dealAmount": 660000,
+      "parcelNum": "5382-1-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 72.5,
+      "yearBuilt": 1970,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9103,
+      "row_id": 64
+    },
+    {
+      "assetId": 10025771.0,
+      "addressId": 53706672,
+      "polygonId": "52485665",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 2",
+      "dealDate": "2023-07-17",
+      "dealAmount": 1200000,
+      "parcelNum": "4541-26-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 35.0,
+      "yearBuilt": 1960,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-11-19",
+          "dealAmount": 166000
+        }
+      ],
+      "trend": {
+        "rate": 622.9,
+        "years": 20.7
+      },
+      "ownership": [],
+      "priceSM": 34286,
+      "row_id": 65
+    },
+    {
+      "assetId": 10007349.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2023-06-29",
+      "dealAmount": 307000,
+      "parcelNum": "4024-215-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6993,
+      "row_id": 66
+    },
+    {
+      "assetId": 10008584.0,
+      "addressId": 53709057,
+      "polygonId": "52441794",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 4",
+      "dealDate": "2023-06-15",
+      "dealAmount": 1290000,
+      "parcelNum": "4024-412-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29385,
+      "row_id": 67
+    },
+    {
+      "assetId": 10007326.0,
+      "addressId": 53903802,
+      "polygonId": "53340662",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 1",
+      "dealDate": "2023-06-06",
+      "dealAmount": 980000,
+      "parcelNum": "4024-214-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-09-22",
+          "dealAmount": 850000
+        },
+        {
+          "dealDate": "2011-08-18",
+          "dealAmount": 310000
+        },
+        {
+          "dealDate": "2007-11-05",
+          "dealAmount": 106000
+        }
+      ],
+      "trend": {
+        "rate": 15.3,
+        "years": 0.7
+      },
+      "ownership": [],
+      "priceSM": 22791,
+      "row_id": 68
+    },
+    {
+      "assetId": 10008594.0,
+      "addressId": 53709057,
+      "polygonId": "52441794",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 4",
+      "dealDate": "2023-02-26",
+      "dealAmount": 1170000,
+      "parcelNum": "4024-412-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-22",
+          "dealAmount": 800000
+        }
+      ],
+      "trend": {
+        "rate": 46.2,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 27209,
+      "row_id": 69
+    },
+    {
+      "assetId": 10007345.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2023-02-06",
+      "dealAmount": 700000,
+      "parcelNum": "4024-215-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-08-03",
+          "dealAmount": 64000
+        }
+      ],
+      "trend": {
+        "rate": 993.8,
+        "years": 22.5
+      },
+      "ownership": [],
+      "priceSM": 16279,
+      "row_id": 70
+    },
+    {
+      "assetId": 10008609.0,
+      "addressId": 53709056,
+      "polygonId": "53099556",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 6",
+      "dealDate": "2023-02-02",
+      "dealAmount": 1370000,
+      "parcelNum": "4024-413-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-04-20",
+          "dealAmount": 730000
+        }
+      ],
+      "trend": {
+        "rate": 87.7,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 31136,
+      "row_id": 71
+    },
+    {
+      "assetId": 10008579.0,
+      "addressId": 53709057,
+      "polygonId": "52441794",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 4",
+      "dealDate": "2022-12-13",
+      "dealAmount": 1080000,
+      "parcelNum": "4024-412-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-10-22",
+          "dealAmount": 635000
+        }
+      ],
+      "trend": {
+        "rate": 70.1,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 25116,
+      "row_id": 72
+    },
+    {
+      "assetId": 10008627.0,
+      "addressId": 53700333,
+      "polygonId": "52551330",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 10",
+      "dealDate": "2022-12-11",
+      "dealAmount": 1075000,
+      "parcelNum": "4024-414-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-03-07",
+          "dealAmount": 474000
+        }
+      ],
+      "trend": {
+        "rate": 126.8,
+        "years": 21.8
+      },
+      "ownership": [],
+      "priceSM": 24432,
+      "row_id": 73
+    },
+    {
+      "assetId": 10007317.0,
+      "addressId": 53903802,
+      "polygonId": "53340662",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 1",
+      "dealDate": "2022-11-30",
+      "dealAmount": 950000,
+      "parcelNum": "4024-214-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-10-15",
+          "dealAmount": 733000
+        },
+        {
+          "dealDate": "2013-05-06",
+          "dealAmount": 460000
+        },
+        {
+          "dealDate": "2011-07-07",
+          "dealAmount": 370000
+        }
+      ],
+      "trend": {
+        "rate": 29.6,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 22093,
+      "row_id": 74
+    },
+    {
+      "assetId": 10025785.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2022-11-16",
+      "dealAmount": 930000,
+      "parcelNum": "4541-29-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-06-29",
+          "dealAmount": 807000
+        },
+        {
+          "dealDate": "2012-04-24",
+          "dealAmount": 362000
+        }
+      ],
+      "trend": {
+        "rate": 15.2,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 23250,
+      "row_id": 75
+    },
+    {
+      "assetId": 10007352.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2022-11-16",
+      "dealAmount": 830000,
+      "parcelNum": "4024-215-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-11-19",
+          "dealAmount": 226000
+        }
+      ],
+      "trend": {
+        "rate": 267.3,
+        "years": 21.0
+      },
+      "ownership": [],
+      "priceSM": 19302,
+      "row_id": 76
+    },
+    {
+      "assetId": 10007339.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2022-10-03",
+      "dealAmount": 187000,
+      "parcelNum": "4024-215-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4260,
+      "row_id": 77
+    },
+    {
+      "assetId": 10037943.0,
+      "addressId": 53698281,
+      "polygonId": "52506975",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 16",
+      "dealDate": "2022-09-18",
+      "dealAmount": 1800000,
+      "parcelNum": "5382-21-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 72.5,
+      "yearBuilt": 2029,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-20",
+          "dealAmount": 230000
+        }
+      ],
+      "trend": {
+        "rate": 682.6,
+        "years": 14.3
+      },
+      "ownership": [],
+      "priceSM": 25000,
+      "row_id": 78
+    },
+    {
+      "assetId": 10007369.0,
+      "addressId": 53700982,
+      "polygonId": "53350711",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 8",
+      "dealDate": "2022-08-21",
+      "dealAmount": 1000000,
+      "parcelNum": "4024-216-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-03-28",
+          "dealAmount": 780000
+        },
+        {
+          "dealDate": "2016-03-14",
+          "dealAmount": 670000
+        }
+      ],
+      "trend": {
+        "rate": 28.2,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 23256,
+      "row_id": 79
+    },
+    {
+      "assetId": 10007325.0,
+      "addressId": 53903802,
+      "polygonId": "53340662",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 1",
+      "dealDate": "2022-08-18",
+      "dealAmount": 294000,
+      "parcelNum": "4024-214-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6697,
+      "row_id": 80
+    },
+    {
+      "assetId": 10008622.0,
+      "addressId": 53700333,
+      "polygonId": "52551330",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 10",
+      "dealDate": "2022-08-17",
+      "dealAmount": 975000,
+      "parcelNum": "4024-414-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21715,
+      "row_id": 81
+    },
+    {
+      "assetId": 10008596.0,
+      "addressId": 53709056,
+      "polygonId": "53099556",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 6",
+      "dealDate": "2022-08-14",
+      "dealAmount": 1030000,
+      "parcelNum": "4024-413-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 23.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-06-24",
+          "dealAmount": 530000
+        },
+        {
+          "dealDate": "2014-01-15",
+          "dealAmount": 522000
+        }
+      ],
+      "trend": {
+        "rate": 94.3,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 44783,
+      "row_id": 82
+    },
+    {
+      "assetId": 10025737.0,
+      "addressId": 53701309,
+      "polygonId": "52402285",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גלבוע 4",
+      "dealDate": "2022-06-22",
+      "dealAmount": 1310000,
+      "parcelNum": "4541-20-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 53.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000551,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24304,
+      "row_id": 84
+    },
+    {
+      "assetId": 10025793.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2022-05-11",
+      "dealAmount": 820000,
+      "parcelNum": "4541-29-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20347,
+      "row_id": 85
+    },
+    {
+      "assetId": 10025749.0,
+      "addressId": 53832444,
+      "polygonId": "53351336",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גלבוע 1",
+      "dealDate": "2022-03-28",
+      "dealAmount": 1450000,
+      "parcelNum": "4541-22-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.1,
+      "yearBuilt": 1950,
+      "streetCode": 70000551,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 40166,
+      "row_id": 86
+    },
+    {
+      "assetId": 10025735.0,
+      "addressId": 53701309,
+      "polygonId": "52402285",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גלבוע 4",
+      "dealDate": "2022-03-21",
+      "dealAmount": 1370000,
+      "parcelNum": "4541-20-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 53.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000551,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25417,
+      "row_id": 87
+    },
+    {
+      "assetId": 10007321.0,
+      "addressId": 53903802,
+      "polygonId": "53340662",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 1",
+      "dealDate": "2022-02-16",
+      "dealAmount": 830000,
+      "parcelNum": "4024-214-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-11-23",
+          "dealAmount": 423000
+        }
+      ],
+      "trend": {
+        "rate": 96.2,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 19302,
+      "row_id": 88
+    },
+    {
+      "assetId": 10008571.0,
+      "addressId": 53709057,
+      "polygonId": "52441794",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 4",
+      "dealDate": "2022-02-07",
+      "dealAmount": 1050000,
+      "parcelNum": "4024-412-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-09-21",
+          "dealAmount": 850000
+        }
+      ],
+      "trend": {
+        "rate": 23.5,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 14000,
+      "row_id": 89
+    },
+    {
+      "assetId": 10007372.0,
+      "addressId": 53700982,
+      "polygonId": "53350711",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 8",
+      "dealDate": "2022-01-16",
+      "dealAmount": 750000,
+      "parcelNum": "4024-216-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17084,
+      "row_id": 90
+    },
+    {
+      "assetId": 10007374.0,
+      "addressId": 53700982,
+      "polygonId": "53350711",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 8",
+      "dealDate": "2021-12-15",
+      "dealAmount": 199000,
+      "parcelNum": "4024-216-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4533,
+      "row_id": 91
+    },
+    {
+      "assetId": 10008580.0,
+      "addressId": 53709057,
+      "polygonId": "52441794",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 4",
+      "dealDate": "2021-11-07",
+      "dealAmount": 650000,
+      "parcelNum": "4024-412-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 0.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 92
+    },
+    {
+      "assetId": 10007381.0,
+      "addressId": 53700982,
+      "polygonId": "53350711",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 8",
+      "dealDate": "2021-09-02",
+      "dealAmount": 825000,
+      "parcelNum": "4024-216-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18793,
+      "row_id": 93
+    },
+    {
+      "assetId": 10008593.0,
+      "addressId": 53709057,
+      "polygonId": "52441794",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 4",
+      "dealDate": "2021-08-04",
+      "dealAmount": 950000,
+      "parcelNum": "4024-412-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-09-20",
+          "dealAmount": 800000
+        },
+        {
+          "dealDate": "2014-05-26",
+          "dealAmount": 570000
+        }
+      ],
+      "trend": {
+        "rate": 18.8,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 22093,
+      "row_id": 94
+    },
+    {
+      "assetId": 10007319.0,
+      "addressId": 53903802,
+      "polygonId": "53340662",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 1",
+      "dealDate": "2021-03-16",
+      "dealAmount": 700000,
+      "parcelNum": "4024-214-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15945,
+      "row_id": 95
+    },
+    {
+      "assetId": 10008603.0,
+      "addressId": 53709056,
+      "polygonId": "53099556",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 6",
+      "dealDate": "2021-03-04",
+      "dealAmount": 860000,
+      "parcelNum": "4024-413-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-31",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 160.6,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 19545,
+      "row_id": 96
+    },
+    {
+      "assetId": 10007303.0,
+      "addressId": 53903802,
+      "polygonId": "53340662",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 1",
+      "dealDate": "2021-02-23",
+      "dealAmount": 890000,
+      "parcelNum": "4024-214-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-01",
+          "dealAmount": 675000
+        },
+        {
+          "dealDate": "2012-12-09",
+          "dealAmount": 535000
+        },
+        {
+          "dealDate": "2012-03-04",
+          "dealAmount": 375000
+        },
+        {
+          "dealDate": "2009-02-08",
+          "dealAmount": 220000
+        }
+      ],
+      "trend": {
+        "rate": 31.9,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 20698,
+      "row_id": 97
+    },
+    {
+      "assetId": 10008572.0,
+      "addressId": 53709057,
+      "polygonId": "52441794",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 4",
+      "dealDate": "2021-02-15",
+      "dealAmount": 960000,
+      "parcelNum": "4024-412-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13333,
+      "row_id": 98
+    },
+    {
+      "assetId": 10007346.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2021-02-11",
+      "dealAmount": 566000,
+      "parcelNum": "4024-215-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12893,
+      "row_id": 99
+    },
+    {
+      "assetId": 10007320.0,
+      "addressId": 53903802,
+      "polygonId": "53340662",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 1",
+      "dealDate": "2020-10-17",
+      "dealAmount": 820000,
+      "parcelNum": "4024-214-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-11-12",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2011-03-14",
+          "dealAmount": 384000
+        },
+        {
+          "dealDate": "2010-12-14",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 64.0,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 19070,
+      "row_id": 100
+    },
+    {
+      "assetId": 10008600.0,
+      "addressId": 53709056,
+      "polygonId": "53099556",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 6",
+      "dealDate": "2020-09-04",
+      "dealAmount": 360000,
+      "parcelNum": "4024-413-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 23.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15126,
+      "row_id": 101
+    },
+    {
+      "assetId": 10007353.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2020-06-07",
+      "dealAmount": 700000,
+      "parcelNum": "4024-215-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-10-31",
+          "dealAmount": 120000
+        },
+        {
+          "dealDate": "2001-04-25",
+          "dealAmount": 199000
+        }
+      ],
+      "trend": {
+        "rate": 483.3,
+        "years": 12.6
+      },
+      "ownership": [],
+      "priceSM": 16279,
+      "row_id": 102
+    },
+    {
+      "assetId": 10025768.0,
+      "addressId": 53706672,
+      "polygonId": "52485665",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 2",
+      "dealDate": "2019-11-13",
+      "dealAmount": 880000,
+      "parcelNum": "4541-26-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 35.0,
+      "yearBuilt": 1960,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-02-11",
+          "dealAmount": 660000
+        },
+        {
+          "dealDate": "2008-09-12",
+          "dealAmount": 100000
+        }
+      ],
+      "trend": {
+        "rate": 33.3,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 25143,
+      "row_id": 103
+    },
+    {
+      "assetId": 10008564.0,
+      "addressId": 53901845,
+      "polygonId": "52414438",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 2",
+      "dealDate": "2019-10-03",
+      "dealAmount": 780000,
+      "parcelNum": "4024-411-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17372,
+      "row_id": 104
+    },
+    {
+      "assetId": 10037897.0,
+      "addressId": 53708497,
+      "polygonId": "52539155",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 12",
+      "dealDate": "2019-09-05",
+      "dealAmount": 687000,
+      "parcelNum": "5382-1-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 72.5,
+      "yearBuilt": 1970,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9476,
+      "row_id": 105
+    },
+    {
+      "assetId": 10007364.0,
+      "addressId": 53700982,
+      "polygonId": "53350711",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 8",
+      "dealDate": "2019-09-02",
+      "dealAmount": 840000,
+      "parcelNum": "4024-216-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19134,
+      "row_id": 106
+    },
+    {
+      "assetId": 10025797.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2019-07-15",
+      "dealAmount": 650000,
+      "parcelNum": "4541-29-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16129,
+      "row_id": 107
+    },
+    {
+      "assetId": 10007363.0,
+      "addressId": 53700982,
+      "polygonId": "53350711",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 8",
+      "dealDate": "2019-06-13",
+      "dealAmount": 915000,
+      "parcelNum": "4024-216-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20843,
+      "row_id": 108
+    },
+    {
+      "assetId": 10007337.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2019-06-12",
+      "dealAmount": 350000,
+      "parcelNum": "4024-215-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7973,
+      "row_id": 109
+    },
+    {
+      "assetId": 10007311.0,
+      "addressId": 53903802,
+      "polygonId": "53340662",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 1",
+      "dealDate": "2019-05-22",
+      "dealAmount": 750000,
+      "parcelNum": "4024-214-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17084,
+      "row_id": 110
+    },
+    {
+      "assetId": 10008591.0,
+      "addressId": 53709057,
+      "polygonId": "52441794",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 4",
+      "dealDate": "2018-11-07",
+      "dealAmount": 800000,
+      "parcelNum": "4024-412-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-04-19",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2008-08-27",
+          "dealAmount": 205000
+        }
+      ],
+      "trend": {
+        "rate": 77.8,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 18605,
+      "row_id": 111
+    },
+    {
+      "assetId": 10008629.0,
+      "addressId": 53700333,
+      "polygonId": "52551330",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 10",
+      "dealDate": "2018-11-01",
+      "dealAmount": 1040000,
+      "parcelNum": "4024-414-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-24",
+          "dealAmount": 800000
+        },
+        {
+          "dealDate": "2007-01-22",
+          "dealAmount": 181000
+        }
+      ],
+      "trend": {
+        "rate": 30.0,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 23636,
+      "row_id": 112
+    },
+    {
+      "assetId": 10008589.0,
+      "addressId": 53709057,
+      "polygonId": "52441794",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 4",
+      "dealDate": "2018-07-11",
+      "dealAmount": 800000,
+      "parcelNum": "4024-412-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-05-31",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 166.7,
+        "years": 19.1
+      },
+      "ownership": [],
+      "priceSM": 18605,
+      "row_id": 113
+    },
+    {
+      "assetId": 10025789.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2018-06-19",
+      "dealAmount": 730000,
+      "parcelNum": "4541-29-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-10-30",
+          "dealAmount": 130000
+        }
+      ],
+      "trend": {
+        "rate": 461.5,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 18250,
+      "row_id": 114
+    },
+    {
+      "assetId": 10037894.0,
+      "addressId": 53708497,
+      "polygonId": "52539155",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 12",
+      "dealDate": "2017-06-29",
+      "dealAmount": 120000,
+      "parcelNum": "5382-1-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 72.5,
+      "yearBuilt": 1970,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1655,
+      "row_id": 115
+    },
+    {
+      "assetId": 10025786.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2017-02-05",
+      "dealAmount": 535000,
+      "parcelNum": "4541-29-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13275,
+      "row_id": 116
+    },
+    {
+      "assetId": 10025779.0,
+      "addressId": 53901779,
+      "polygonId": "65965189",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 1",
+      "dealDate": "2016-11-20",
+      "dealAmount": 630000,
+      "parcelNum": "4541-27-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15479,
+      "row_id": 117
+    },
+    {
+      "assetId": 10007357.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2016-09-25",
+      "dealAmount": 232000,
+      "parcelNum": "4024-215-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5285,
+      "row_id": 118
+    },
+    {
+      "assetId": 10025796.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2016-07-06",
+      "dealAmount": 530000,
+      "parcelNum": "4541-29-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-02",
+          "dealAmount": 460000
+        },
+        {
+          "dealDate": "2009-11-08",
+          "dealAmount": 247000
+        }
+      ],
+      "trend": {
+        "rate": 15.2,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 13250,
+      "row_id": 119
+    },
+    {
+      "assetId": 10025788.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2016-06-07",
+      "dealAmount": 540000,
+      "parcelNum": "4541-29-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13400,
+      "row_id": 120
+    },
+    {
+      "assetId": 10007375.0,
+      "addressId": 53700982,
+      "polygonId": "53350711",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 8",
+      "dealDate": "2016-02-23",
+      "dealAmount": 550000,
+      "parcelNum": "4024-216-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-05-11",
+          "dealAmount": 235000
+        }
+      ],
+      "trend": {
+        "rate": 134.0,
+        "years": 14.8
+      },
+      "ownership": [],
+      "priceSM": 12791,
+      "row_id": 121
+    },
+    {
+      "assetId": 10008590.0,
+      "addressId": 53709057,
+      "polygonId": "52441794",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 4",
+      "dealDate": "2015-08-26",
+      "dealAmount": 600000,
+      "parcelNum": "4024-412-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13667,
+      "row_id": 122
+    },
+    {
+      "assetId": 10025727.0,
+      "addressId": 53703185,
+      "polygonId": "72631042",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 5",
+      "dealDate": "2015-02-11",
+      "dealAmount": 110000,
+      "parcelNum": "4541-17-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 34.8,
+      "yearBuilt": 1950,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-01",
+          "dealAmount": 119000
+        }
+      ],
+      "trend": {
+        "rate": -7.6,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 3235,
+      "row_id": 123
+    },
+    {
+      "assetId": 10025795.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2014-10-20",
+      "dealAmount": 420000,
+      "parcelNum": "4541-29-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10422,
+      "row_id": 124
+    },
+    {
+      "assetId": 10025767.0,
+      "addressId": 53706672,
+      "polygonId": "52485665",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 2",
+      "dealDate": "2014-06-30",
+      "dealAmount": 1026000,
+      "parcelNum": "4541-26-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 52.4,
+      "yearBuilt": 1960,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19580,
+      "row_id": 125
+    },
+    {
+      "assetId": 10025756.0,
+      "addressId": 53708536,
+      "polygonId": "52571932",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 3",
+      "dealDate": "2014-06-11",
+      "dealAmount": 660000,
+      "parcelNum": "4541-25-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 63.7,
+      "yearBuilt": 1970,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10361,
+      "row_id": 126
+    },
+    {
+      "assetId": 10008602.0,
+      "addressId": 53709056,
+      "polygonId": "53099556",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 6",
+      "dealDate": "2014-04-02",
+      "dealAmount": 727000,
+      "parcelNum": "4024-413-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-11",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 73.1,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 16523,
+      "row_id": 127
+    },
+    {
+      "assetId": 10008626.0,
+      "addressId": 53700333,
+      "polygonId": "52551330",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 10",
+      "dealDate": "2013-09-11",
+      "dealAmount": 535000,
+      "parcelNum": "4024-414-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11915,
+      "row_id": 128
+    },
+    {
+      "assetId": 10037902.0,
+      "addressId": 53708497,
+      "polygonId": "52539155",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 12",
+      "dealDate": "2013-03-11",
+      "dealAmount": 439000,
+      "parcelNum": "5382-1-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 72.5,
+      "yearBuilt": 1970,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-20",
+          "dealAmount": 358000
+        },
+        {
+          "dealDate": "2008-12-10",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 22.6,
+        "years": 0.7
+      },
+      "ownership": [],
+      "priceSM": 6097,
+      "row_id": 129
+    },
+    {
+      "assetId": 10025791.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2012-11-06",
+      "dealAmount": 350000,
+      "parcelNum": "4541-29-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8685,
+      "row_id": 130
+    },
+    {
+      "assetId": 10025780.0,
+      "addressId": 53901779,
+      "polygonId": "65965189",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 1",
+      "dealDate": "2012-10-23",
+      "dealAmount": 900000,
+      "parcelNum": "4541-27-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 105.0,
+      "yearBuilt": 1960,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8571,
+      "row_id": 131
+    },
+    {
+      "assetId": 10025762.0,
+      "addressId": 53708536,
+      "polygonId": "52571932",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 3",
+      "dealDate": "2012-10-16",
+      "dealAmount": 430000,
+      "parcelNum": "4541-25-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 35.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-01-12",
+          "dealAmount": 315000
+        }
+      ],
+      "trend": {
+        "rate": 36.5,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 12286,
+      "row_id": 132
+    },
+    {
+      "assetId": 10008578.0,
+      "addressId": 53709057,
+      "polygonId": "52441794",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 4",
+      "dealDate": "2012-08-29",
+      "dealAmount": 575000,
+      "parcelNum": "4024-412-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13098,
+      "row_id": 133
+    },
+    {
+      "assetId": 10008607.0,
+      "addressId": 53709056,
+      "polygonId": "53099556",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 6",
+      "dealDate": "2012-04-19",
+      "dealAmount": 430000,
+      "parcelNum": "4024-413-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9577,
+      "row_id": 134
+    },
+    {
+      "assetId": 10025787.0,
+      "addressId": 68634866,
+      "polygonId": "52396487",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "אלפעל 1",
+      "dealDate": "2011-11-13",
+      "dealAmount": 300000,
+      "parcelNum": "4541-29-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 40.3,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7444,
+      "row_id": 137
+    },
+    {
+      "assetId": 10025778.0,
+      "addressId": 53901779,
+      "polygonId": "65965189",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 1",
+      "dealDate": "2011-07-17",
+      "dealAmount": 400000,
+      "parcelNum": "4541-27-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 64.0,
+      "yearBuilt": 1960,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6250,
+      "row_id": 138
+    },
+    {
+      "assetId": 10007356.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2011-05-25",
+      "dealAmount": 370000,
+      "parcelNum": "4024-215-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-10-27",
+          "dealAmount": 265000
+        }
+      ],
+      "trend": {
+        "rate": 39.6,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 8605,
+      "row_id": 139
+    },
+    {
+      "assetId": 10008601.0,
+      "addressId": 53709056,
+      "polygonId": "53099556",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 6",
+      "dealDate": "2011-04-13",
+      "dealAmount": 445000,
+      "parcelNum": "4024-413-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7542,
+      "row_id": 140
+    },
+    {
+      "assetId": 10007336.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2010-08-06",
+      "dealAmount": 177000,
+      "parcelNum": "4024-215-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4032,
+      "row_id": 141
+    },
+    {
+      "assetId": 10008605.0,
+      "addressId": 53709056,
+      "polygonId": "53099556",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 6",
+      "dealDate": "2010-07-26",
+      "dealAmount": 527000,
+      "parcelNum": "4024-413-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11737,
+      "row_id": 142
+    },
+    {
+      "assetId": 10008612.0,
+      "addressId": 53709056,
+      "polygonId": "53099556",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 6",
+      "dealDate": "2010-04-21",
+      "dealAmount": 310000,
+      "parcelNum": "4024-413-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6904,
+      "row_id": 143
+    },
+    {
+      "assetId": 10037891.0,
+      "addressId": 53708497,
+      "polygonId": "52539155",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 12",
+      "dealDate": "2010-03-25",
+      "dealAmount": 350000,
+      "parcelNum": "5382-1-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 72.5,
+      "yearBuilt": 1970,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4828,
+      "row_id": 144
+    },
+    {
+      "assetId": 10007350.0,
+      "addressId": 53700331,
+      "polygonId": "52469227",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 3",
+      "dealDate": "2010-03-14",
+      "dealAmount": 240000,
+      "parcelNum": "4024-215-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-12-30",
+          "dealAmount": 175000
+        }
+      ],
+      "trend": {
+        "rate": 37.1,
+        "years": 1.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 120000
+        },
+        {
+          "proportion": "50",
+          "price": 120000
+        }
+      ],
+      "priceSM": 5581,
+      "row_id": 145
+    },
+    {
+      "assetId": 10008587.0,
+      "addressId": 53709057,
+      "polygonId": "52441794",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 4",
+      "dealDate": "2010-02-25",
+      "dealAmount": 345000,
+      "parcelNum": "4024-412-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-02-22",
+          "dealAmount": 197000
+        }
+      ],
+      "trend": {
+        "rate": 75.1,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 8023,
+      "row_id": 146
+    },
+    {
+      "assetId": 10008623.0,
+      "addressId": 53700333,
+      "polygonId": "52551330",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 10",
+      "dealDate": "2009-06-25",
+      "dealAmount": 320000,
+      "parcelNum": "4024-414-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7127,
+      "row_id": 147
+    },
+    {
+      "assetId": 10025770.0,
+      "addressId": 53706672,
+      "polygonId": "52485665",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 2",
+      "dealDate": "2009-04-04",
+      "dealAmount": 59000,
+      "parcelNum": "4541-26-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1450,
+      "row_id": 148
+    },
+    {
+      "assetId": 10025775.0,
+      "addressId": 53901779,
+      "polygonId": "65965189",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 1",
+      "dealDate": "2009-03-01",
+      "dealAmount": 285000,
+      "parcelNum": "4541-27-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "ראשונה",
+      "assetArea": 60.4,
+      "yearBuilt": 1960,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4719,
+      "row_id": 149
+    },
+    {
+      "assetId": 10037895.0,
+      "addressId": 53708497,
+      "polygonId": "52539155",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "איינשטיין 12",
+      "dealDate": "2008-11-12",
+      "dealAmount": 207000,
+      "parcelNum": "5382-1-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 72.5,
+      "yearBuilt": 1970,
+      "streetCode": 70000504,
+      "settlmentID": 7000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2855,
+      "row_id": 150
+    },
+    {
+      "assetId": 10007366.0,
+      "addressId": 53700982,
+      "polygonId": "53350711",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 8",
+      "dealDate": "2008-11-03",
+      "dealAmount": 65000,
+      "parcelNum": "4024-216-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1481,
+      "row_id": 151
+    },
+    {
+      "assetId": 10025759.0,
+      "addressId": 53708536,
+      "polygonId": "52571932",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "גולן 3",
+      "dealDate": "2008-04-22",
+      "dealAmount": 65000,
+      "parcelNum": "4541-25-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 35.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000550,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1857,
+      "row_id": 152
+    },
+    {
+      "assetId": 10008604.0,
+      "addressId": 53709056,
+      "polygonId": "53099556",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 6",
+      "dealDate": "2007-05-27",
+      "dealAmount": 176000,
+      "parcelNum": "4024-413-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3920,
+      "row_id": 154
+    },
+    {
+      "assetId": 10008569.0,
+      "addressId": 53901845,
+      "polygonId": "52414438",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "נתן שוורץ 2",
+      "dealDate": "2006-10-27",
+      "dealAmount": 137000,
+      "parcelNum": "4024-411-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 44.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000547,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3051,
+      "row_id": 155
+    },
+    {
+      "assetId": 10025729.0,
+      "addressId": 53703185,
+      "polygonId": "72631042",
+      "neighborhoodName": "רסקו",
+      "neighborhoodId": 65210313,
+      "address": "חטיבת יפתח 5",
+      "dealDate": "2004-06-24",
+      "dealAmount": 180000,
+      "parcelNum": "4541-17-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 40.8,
+      "yearBuilt": 1950,
+      "streetCode": 70000561,
+      "settlmentID": 7000,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4412,
+      "row_id": 156
+    }
+  ]
+}

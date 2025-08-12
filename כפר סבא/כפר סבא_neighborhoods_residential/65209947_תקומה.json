@@ -1,0 +1,7724 @@
+{
+  "neighborhood_name": "תקומה",
+  "city_name": "כפר סבא",
+  "transaction_count": 246,
+  "transactions": [
+    {
+      "assetId": 80171078.0,
+      "addressId": 53706041,
+      "polygonId": "52389519",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 4",
+      "dealDate": "2025-05-14",
+      "dealAmount": 2400000,
+      "parcelNum": "6435-149-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 96.67,
+      "yearBuilt": 1993,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-12-24",
+          "dealAmount": 880000
+        }
+      ],
+      "trend": {
+        "rate": 172.7,
+        "years": 17.4
+      },
+      "ownership": [],
+      "priceSM": 25000,
+      "row_id": 2
+    },
+    {
+      "assetId": 80171089.0,
+      "addressId": 53706045,
+      "polygonId": "52238893",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 6",
+      "dealDate": "2025-05-05",
+      "dealAmount": 2300000,
+      "parcelNum": "6435-150-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 96.45,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23847,
+      "row_id": 3
+    },
+    {
+      "assetId": 80171090.0,
+      "addressId": 53706045,
+      "polygonId": "52238893",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 6",
+      "dealDate": "2025-03-27",
+      "dealAmount": 3020000,
+      "parcelNum": "6435-150-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 98.3,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-04-15",
+          "dealAmount": 1800000
+        }
+      ],
+      "trend": {
+        "rate": 67.8,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 30816,
+      "row_id": 4
+    },
+    {
+      "assetId": 80170526.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2025-03-16",
+      "dealAmount": 2430000,
+      "parcelNum": "6435-96-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 62468,
+      "row_id": 5
+    },
+    {
+      "assetId": 80171736.0,
+      "addressId": 53705897,
+      "polygonId": "52233570",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 32",
+      "dealDate": "2025-01-22",
+      "dealAmount": 2670000,
+      "parcelNum": "6435-210-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 105.4,
+      "yearBuilt": 1999,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-04-09",
+          "dealAmount": 884000
+        }
+      ],
+      "trend": {
+        "rate": 202.0,
+        "years": 24.8
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 1335000
+        },
+        {
+          "proportion": "50",
+          "price": 1335000
+        }
+      ],
+      "priceSM": 25429,
+      "row_id": 6
+    },
+    {
+      "assetId": 80171054.0,
+      "addressId": 53714399,
+      "polygonId": "52228561",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 2",
+      "dealDate": "2025-01-12",
+      "dealAmount": 2500000,
+      "parcelNum": "6435-148-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 95.45,
+      "yearBuilt": 1992,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-06-24",
+          "dealAmount": 867000
+        }
+      ],
+      "trend": {
+        "rate": 188.4,
+        "years": 17.6
+      },
+      "ownership": [],
+      "priceSM": 26316,
+      "row_id": 7
+    },
+    {
+      "assetId": 80362337.0,
+      "addressId": 53705896,
+      "polygonId": "52341160",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 14",
+      "dealDate": "2024-07-24",
+      "dealAmount": 3815000,
+      "parcelNum": "6435-276-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית, שישית",
+      "assetArea": 155.8,
+      "yearBuilt": 2001,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-05-19",
+          "dealAmount": 2800000
+        }
+      ],
+      "trend": {
+        "rate": 36.2,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 24613,
+      "row_id": 8
+    },
+    {
+      "assetId": 80170489.0,
+      "addressId": 53724968,
+      "polygonId": "53167398",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 2",
+      "dealDate": "2024-03-08",
+      "dealAmount": 2080000,
+      "parcelNum": "6435-94-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 47.7,
+      "yearBuilt": 1975,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 43606,
+      "row_id": 9
+    },
+    {
+      "assetId": 80170578.0,
+      "addressId": 53724969,
+      "polygonId": "53303488",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 7",
+      "dealDate": "2023-06-28",
+      "dealAmount": 450000,
+      "parcelNum": "6435-100-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11688,
+      "row_id": 10
+    },
+    {
+      "assetId": 80171792.0,
+      "addressId": 53722948,
+      "polygonId": "52330292",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 6",
+      "dealDate": "2023-04-25",
+      "dealAmount": 2578000,
+      "parcelNum": "6435-211-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 80.15,
+      "yearBuilt": 1998,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32165,
+      "row_id": 11
+    },
+    {
+      "assetId": 80171786.0,
+      "addressId": 53722948,
+      "polygonId": "52330292",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 6",
+      "dealDate": "2022-11-22",
+      "dealAmount": 2520000,
+      "parcelNum": "6435-211-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 70.8,
+      "yearBuilt": 1998,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-11-07",
+          "dealAmount": 1275000
+        },
+        {
+          "dealDate": "2004-06-08",
+          "dealAmount": 790000
+        }
+      ],
+      "trend": {
+        "rate": 97.6,
+        "years": 12.0
+      },
+      "ownership": [],
+      "priceSM": 36000,
+      "row_id": 27
+    },
+    {
+      "assetId": 80171082.0,
+      "addressId": 53706041,
+      "polygonId": "52389519",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 4",
+      "dealDate": "2022-11-02",
+      "dealAmount": 2480000,
+      "parcelNum": "6435-149-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.67,
+      "yearBuilt": 1993,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-11-19",
+          "dealAmount": 1890000
+        }
+      ],
+      "trend": {
+        "rate": 31.2,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 25833,
+      "row_id": 28
+    },
+    {
+      "assetId": 80172844.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2022-10-23",
+      "dealAmount": 3000000,
+      "parcelNum": "6435-279-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "קרקע תחתונה+שניה",
+      "assetArea": 82.7,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-02-29",
+          "dealAmount": 1740000
+        },
+        {
+          "dealDate": "2008-02-22",
+          "dealAmount": 1029000
+        },
+        {
+          "dealDate": "2001-11-23",
+          "dealAmount": 754000
+        }
+      ],
+      "trend": {
+        "rate": 72.4,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 36585,
+      "row_id": 29
+    },
+    {
+      "assetId": 80171066.0,
+      "addressId": 53714399,
+      "polygonId": "52228561",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 2",
+      "dealDate": "2022-08-18",
+      "dealAmount": 2630000,
+      "parcelNum": "6435-148-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.67,
+      "yearBuilt": 1992,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-10-02",
+          "dealAmount": 1700000
+        }
+      ],
+      "trend": {
+        "rate": 54.7,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 27396,
+      "row_id": 30
+    },
+    {
+      "assetId": 80170528.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2022-05-02",
+      "dealAmount": 2050000,
+      "parcelNum": "6435-96-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-10",
+          "dealAmount": 905000
+        },
+        {
+          "dealDate": "2008-10-10",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "1999-03-03",
+          "dealAmount": 454000
+        }
+      ],
+      "trend": {
+        "rate": 126.5,
+        "years": 12.2
+      },
+      "ownership": [],
+      "priceSM": 53947,
+      "row_id": 31
+    },
+    {
+      "assetId": 80171742.0,
+      "addressId": 53705897,
+      "polygonId": "52233570",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 32",
+      "dealDate": "2022-02-24",
+      "dealAmount": 2630000,
+      "parcelNum": "6435-210-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 91.4,
+      "yearBuilt": 1999,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-09-06",
+          "dealAmount": 801000
+        }
+      ],
+      "trend": {
+        "rate": 228.3,
+        "years": 21.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 1315000
+        },
+        {
+          "proportion": "50",
+          "price": 1315000
+        }
+      ],
+      "priceSM": 28901,
+      "row_id": 32
+    },
+    {
+      "assetId": 80170781.0,
+      "addressId": 53727209,
+      "polygonId": "52335538",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 192",
+      "dealDate": "2021-10-11",
+      "dealAmount": 1830000,
+      "parcelNum": "6435-124-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 66.4,
+      "yearBuilt": 1965,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27560,
+      "row_id": 33
+    },
+    {
+      "assetId": 80172776.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2021-06-20",
+      "dealAmount": 2150000,
+      "parcelNum": "6435-274-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+שניה",
+      "assetArea": 98.3,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-07",
+          "dealAmount": 1645000
+        },
+        {
+          "dealDate": "2002-01-24",
+          "dealAmount": 897000
+        }
+      ],
+      "trend": {
+        "rate": 30.7,
+        "years": 6.5
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 709500
+        },
+        {
+          "proportion": "33",
+          "price": 709500
+        },
+        {
+          "proportion": "33",
+          "price": 709500
+        }
+      ],
+      "priceSM": 21939,
+      "row_id": 34
+    },
+    {
+      "assetId": 80171831.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2021-06-10",
+      "dealAmount": 2450000,
+      "parcelNum": "6435-213-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 107.95,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22696,
+      "row_id": 35
+    },
+    {
+      "assetId": 80171776.0,
+      "addressId": 53716644,
+      "polygonId": "52330292",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 34",
+      "dealDate": "2021-05-26",
+      "dealAmount": 2800000,
+      "parcelNum": "6435-211-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "חמישית+גג",
+      "assetArea": 171.72,
+      "yearBuilt": 1998,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-03-04",
+          "dealAmount": 1092000
+        }
+      ],
+      "trend": {
+        "rate": 156.4,
+        "years": 22.2
+      },
+      "ownership": [],
+      "priceSM": 16374,
+      "row_id": 36
+    },
+    {
+      "assetId": 80171798.0,
+      "addressId": 53721917,
+      "polygonId": "52389057",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 8",
+      "dealDate": "2021-05-10",
+      "dealAmount": 2550000,
+      "parcelNum": "6435-212-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 118.95,
+      "yearBuilt": 1997,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21438,
+      "row_id": 37
+    },
+    {
+      "assetId": 80171116.0,
+      "addressId": 53714815,
+      "polygonId": "52367448",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 8",
+      "dealDate": "2021-05-09",
+      "dealAmount": 1965000,
+      "parcelNum": "6435-151-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 93.0,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-10-10",
+          "dealAmount": 869000
+        }
+      ],
+      "trend": {
+        "rate": 126.1,
+        "years": 18.6
+      },
+      "ownership": [],
+      "priceSM": 21129,
+      "row_id": 38
+    },
+    {
+      "assetId": 80172797.0,
+      "addressId": 53905655,
+      "polygonId": "52368473",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 31",
+      "dealDate": "2021-02-28",
+      "dealAmount": 2500000,
+      "parcelNum": "6435-277-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 99.35,
+      "yearBuilt": 1998,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-02-25",
+          "dealAmount": 806000
+        }
+      ],
+      "trend": {
+        "rate": 210.2,
+        "years": 23.0
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 625000
+        },
+        {
+          "proportion": "25",
+          "price": 625000
+        },
+        {
+          "proportion": "50",
+          "price": 1250000
+        }
+      ],
+      "priceSM": 25253,
+      "row_id": 39
+    },
+    {
+      "assetId": 80170669.0,
+      "addressId": 53906717,
+      "polygonId": "52345873",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 24",
+      "dealDate": "2021-01-04",
+      "dealAmount": 1600000,
+      "parcelNum": "6435-104-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 46.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 34115,
+      "row_id": 40
+    },
+    {
+      "assetId": 80172739.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2020-12-18",
+      "dealAmount": 2500000,
+      "parcelNum": "6435-272-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+קרקע",
+      "assetArea": 96.0,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-07-04",
+          "dealAmount": 1178000
+        }
+      ],
+      "trend": {
+        "rate": 112.2,
+        "years": 14.5
+      },
+      "ownership": [],
+      "priceSM": 26042,
+      "row_id": 41
+    },
+    {
+      "assetId": 80362327.0,
+      "addressId": 53705896,
+      "polygonId": "52341160",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 14",
+      "dealDate": "2020-11-30",
+      "dealAmount": 1950000,
+      "parcelNum": "6435-276-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.25,
+      "yearBuilt": 2001,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-03-11",
+          "dealAmount": 1550000
+        },
+        {
+          "dealDate": "2002-07-09",
+          "dealAmount": 864000
+        }
+      ],
+      "trend": {
+        "rate": 25.8,
+        "years": 7.7
+      },
+      "ownership": [],
+      "priceSM": 24074,
+      "row_id": 42
+    },
+    {
+      "assetId": 80171095.0,
+      "addressId": 53706045,
+      "polygonId": "52238893",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 6",
+      "dealDate": "2020-11-16",
+      "dealAmount": 1800000,
+      "parcelNum": "6435-150-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 96.45,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-02-27",
+          "dealAmount": 719000
+        }
+      ],
+      "trend": {
+        "rate": 150.3,
+        "years": 20.7
+      },
+      "ownership": [],
+      "priceSM": 18750,
+      "row_id": 43
+    },
+    {
+      "assetId": 80172858.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2020-11-03",
+      "dealAmount": 2130000,
+      "parcelNum": "6435-279-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה + שניה",
+      "assetArea": 97.0,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-07-27",
+          "dealAmount": 1950000
+        },
+        {
+          "dealDate": "2009-04-30",
+          "dealAmount": 1300000
+        },
+        {
+          "dealDate": "2002-04-11",
+          "dealAmount": 860000
+        }
+      ],
+      "trend": {
+        "rate": 9.2,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 21959,
+      "row_id": 44
+    },
+    {
+      "assetId": 80171840.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2020-10-12",
+      "dealAmount": 2400000,
+      "parcelNum": "6435-213-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "חמישית",
+      "assetArea": 93.95,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25546,
+      "row_id": 45
+    },
+    {
+      "assetId": 80171087.0,
+      "addressId": 53706045,
+      "polygonId": "52238893",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 6",
+      "dealDate": "2020-09-17",
+      "dealAmount": 1830000,
+      "parcelNum": "6435-150-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 96.45,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-02",
+          "dealAmount": 1330000
+        }
+      ],
+      "trend": {
+        "rate": 37.6,
+        "years": 10.1
+      },
+      "ownership": [],
+      "priceSM": 19062,
+      "row_id": 46
+    },
+    {
+      "assetId": 80171774.0,
+      "addressId": 53716644,
+      "polygonId": "52330292",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 34",
+      "dealDate": "2020-08-24",
+      "dealAmount": 1690000,
+      "parcelNum": "6435-211-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 70.8,
+      "yearBuilt": 1998,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-18",
+          "dealAmount": 1420000
+        },
+        {
+          "dealDate": "2011-06-23",
+          "dealAmount": 1275000
+        }
+      ],
+      "trend": {
+        "rate": 19.0,
+        "years": 5.7
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 557700
+        },
+        {
+          "proportion": "33",
+          "price": 557700
+        },
+        {
+          "proportion": "33",
+          "price": 557700
+        }
+      ],
+      "priceSM": 24143,
+      "row_id": 47
+    },
+    {
+      "assetId": 80171081.0,
+      "addressId": 53706041,
+      "polygonId": "52389519",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 4",
+      "dealDate": "2020-08-02",
+      "dealAmount": 1890000,
+      "parcelNum": "6435-149-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 95.45,
+      "yearBuilt": 1993,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-04",
+          "dealAmount": 1340000
+        }
+      ],
+      "trend": {
+        "rate": 41.0,
+        "years": 10.1
+      },
+      "ownership": [],
+      "priceSM": 19895,
+      "row_id": 48
+    },
+    {
+      "assetId": 80172849.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2020-03-12",
+      "dealAmount": 2070000,
+      "parcelNum": "6435-279-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+שלישית",
+      "assetArea": 97.3,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-25",
+          "dealAmount": 1580000
+        },
+        {
+          "dealDate": "2001-11-12",
+          "dealAmount": 801000
+        }
+      ],
+      "trend": {
+        "rate": 31.0,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 21340,
+      "row_id": 49
+    },
+    {
+      "assetId": 80172817.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2020-01-19",
+      "dealAmount": 2100000,
+      "parcelNum": "6435-278-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה + קרקע",
+      "assetArea": 105.0,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-03-11",
+          "dealAmount": 1300000
+        },
+        {
+          "dealDate": "2003-05-01",
+          "dealAmount": 897000
+        }
+      ],
+      "trend": {
+        "rate": 61.5,
+        "years": 10.9
+      },
+      "ownership": [],
+      "priceSM": 20000,
+      "row_id": 50
+    },
+    {
+      "assetId": 80172752.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2019-11-26",
+      "dealAmount": 2130000,
+      "parcelNum": "6435-273-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה + שניה",
+      "assetArea": 97.7,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-09-09",
+          "dealAmount": 915000
+        }
+      ],
+      "trend": {
+        "rate": 132.8,
+        "years": 16.2
+      },
+      "ownership": [],
+      "priceSM": 21959,
+      "row_id": 51
+    },
+    {
+      "assetId": 80171787.0,
+      "addressId": 53722948,
+      "polygonId": "52330292",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 6",
+      "dealDate": "2019-08-14",
+      "dealAmount": 2150000,
+      "parcelNum": "6435-211-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 107.95,
+      "yearBuilt": 1998,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19917,
+      "row_id": 52
+    },
+    {
+      "assetId": 80171094.0,
+      "addressId": 53706045,
+      "polygonId": "52238893",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 6",
+      "dealDate": "2019-06-06",
+      "dealAmount": 1850000,
+      "parcelNum": "6435-150-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 98.3,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-21",
+          "dealAmount": 1519000
+        }
+      ],
+      "trend": {
+        "rate": 21.8,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 18878,
+      "row_id": 53
+    },
+    {
+      "assetId": 80172838.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2019-05-14",
+      "dealAmount": 2300000,
+      "parcelNum": "6435-279-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "קרקע תחתונה+קרקע",
+      "assetArea": 82.5,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-24",
+          "dealAmount": 1800000
+        },
+        {
+          "dealDate": "2009-07-08",
+          "dealAmount": 1440000
+        },
+        {
+          "dealDate": "2005-11-17",
+          "dealAmount": 1010000
+        },
+        {
+          "dealDate": "2001-08-30",
+          "dealAmount": 882000
+        }
+      ],
+      "trend": {
+        "rate": 27.8,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 28049,
+      "row_id": 54
+    },
+    {
+      "assetId": 80172852.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2019-02-27",
+      "dealAmount": 2790000,
+      "parcelNum": "6435-279-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע תחתונה+רביעית",
+      "assetArea": 182.5,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-06-09",
+          "dealAmount": 1157000
+        }
+      ],
+      "trend": {
+        "rate": 141.1,
+        "years": 16.7
+      },
+      "ownership": [],
+      "priceSM": 15330,
+      "row_id": 55
+    },
+    {
+      "assetId": 80171096.0,
+      "addressId": 53706045,
+      "polygonId": "52238893",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 6",
+      "dealDate": "2018-12-16",
+      "dealAmount": 1900000,
+      "parcelNum": "6435-150-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 98.3,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19329,
+      "row_id": 56
+    },
+    {
+      "assetId": 80172787.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2018-11-18",
+      "dealAmount": 2145000,
+      "parcelNum": "6435-274-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+שניה",
+      "assetArea": 97.5,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-22",
+          "dealAmount": 1540000
+        },
+        {
+          "dealDate": "2001-08-06",
+          "dealAmount": 822000
+        }
+      ],
+      "trend": {
+        "rate": 39.3,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 22113,
+      "row_id": 57
+    },
+    {
+      "assetId": 80362333.0,
+      "addressId": 53705896,
+      "polygonId": "52341160",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 14",
+      "dealDate": "2018-11-16",
+      "dealAmount": 1780000,
+      "parcelNum": "6435-276-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.25,
+      "yearBuilt": 2001,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-10-03",
+          "dealAmount": 1549000
+        },
+        {
+          "dealDate": "2005-09-29",
+          "dealAmount": 898000
+        },
+        {
+          "dealDate": "2002-01-25",
+          "dealAmount": 413000
+        }
+      ],
+      "trend": {
+        "rate": 14.9,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 21975,
+      "row_id": 58
+    },
+    {
+      "assetId": 80171063.0,
+      "addressId": 53714399,
+      "polygonId": "52228561",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 2",
+      "dealDate": "2018-10-31",
+      "dealAmount": 1800000,
+      "parcelNum": "6435-148-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 95.45,
+      "yearBuilt": 1992,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18858,
+      "row_id": 59
+    },
+    {
+      "assetId": 80171807.0,
+      "addressId": 53721917,
+      "polygonId": "52389057",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 8",
+      "dealDate": "2018-10-21",
+      "dealAmount": 2240000,
+      "parcelNum": "6435-212-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.5,
+      "floor": "רביעית",
+      "assetArea": 118.95,
+      "yearBuilt": 1997,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18831,
+      "row_id": 60
+    },
+    {
+      "assetId": 80172742.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2018-10-21",
+      "dealAmount": 2050000,
+      "parcelNum": "6435-272-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+שניה",
+      "assetArea": 95.4,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-08-04",
+          "dealAmount": 960000
+        }
+      ],
+      "trend": {
+        "rate": 113.5,
+        "years": 13.2
+      },
+      "ownership": [],
+      "priceSM": 21579,
+      "row_id": 61
+    },
+    {
+      "assetId": 80172759.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2018-10-10",
+      "dealAmount": 2040000,
+      "parcelNum": "6435-273-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה+קרקע",
+      "assetArea": 74.2,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-04-01",
+          "dealAmount": 1560000
+        },
+        {
+          "dealDate": "2004-05-11",
+          "dealAmount": 845000
+        }
+      ],
+      "trend": {
+        "rate": 30.8,
+        "years": 3.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 1020000
+        },
+        {
+          "proportion": "50",
+          "price": 1020000
+        }
+      ],
+      "priceSM": 27568,
+      "row_id": 62
+    },
+    {
+      "assetId": 80172839.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2018-07-05",
+      "dealAmount": 2300000,
+      "parcelNum": "6435-279-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+קרקע",
+      "assetArea": 97.5,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-03-31",
+          "dealAmount": 966000
+        }
+      ],
+      "trend": {
+        "rate": 138.1,
+        "years": 16.3
+      },
+      "ownership": [],
+      "priceSM": 23711,
+      "row_id": 63
+    },
+    {
+      "assetId": 80170760.0,
+      "addressId": 53720721,
+      "polygonId": "52348424",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 9",
+      "dealDate": "2017-09-27",
+      "dealAmount": 785000,
+      "parcelNum": "6435-123-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 64.4,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12189,
+      "row_id": 64
+    },
+    {
+      "assetId": 80171079.0,
+      "addressId": 53706041,
+      "polygonId": "52389519",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 4",
+      "dealDate": "2017-08-02",
+      "dealAmount": 1950000,
+      "parcelNum": "6435-149-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 95.45,
+      "yearBuilt": 1993,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20430,
+      "row_id": 65
+    },
+    {
+      "assetId": 80172851.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2017-06-15",
+      "dealAmount": 2890000,
+      "parcelNum": "6435-279-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע תחתונה+רביעית",
+      "assetArea": 186.3,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-06-17",
+          "dealAmount": 1171000
+        }
+      ],
+      "trend": {
+        "rate": 146.8,
+        "years": 15.0
+      },
+      "ownership": [],
+      "priceSM": 15538,
+      "row_id": 66
+    },
+    {
+      "assetId": 80171077.0,
+      "addressId": 53706041,
+      "polygonId": "52389519",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 4",
+      "dealDate": "2017-01-23",
+      "dealAmount": 1800000,
+      "parcelNum": "6435-149-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 95.45,
+      "yearBuilt": 1993,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-05-12",
+          "dealAmount": 1400000
+        },
+        {
+          "dealDate": "2002-02-06",
+          "dealAmount": 843000
+        }
+      ],
+      "trend": {
+        "rate": 28.6,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 18947,
+      "row_id": 67
+    },
+    {
+      "assetId": 80172840.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2016-12-12",
+      "dealAmount": 2285000,
+      "parcelNum": "6435-279-3",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+קרקע",
+      "assetArea": 97.0,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-05-08",
+          "dealAmount": 975000
+        }
+      ],
+      "trend": {
+        "rate": 134.4,
+        "years": 14.6
+      },
+      "ownership": [],
+      "priceSM": 23557,
+      "row_id": 68
+    },
+    {
+      "assetId": 80172779.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2016-06-01",
+      "dealAmount": 1870000,
+      "parcelNum": "6435-274-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+שלישית",
+      "assetArea": 98.3,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-05",
+          "dealAmount": 1640000
+        },
+        {
+          "dealDate": "2001-07-22",
+          "dealAmount": 819000
+        }
+      ],
+      "trend": {
+        "rate": 14.0,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 19082,
+      "row_id": 69
+    },
+    {
+      "assetId": 80170532.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2016-04-18",
+      "dealAmount": 1400000,
+      "parcelNum": "6435-96-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-04-09",
+          "dealAmount": 522000
+        }
+      ],
+      "trend": {
+        "rate": 168.2,
+        "years": 15.0
+      },
+      "ownership": [],
+      "priceSM": 36842,
+      "row_id": 70
+    },
+    {
+      "assetId": 80171104.0,
+      "addressId": 53714815,
+      "polygonId": "52367448",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 8",
+      "dealDate": "2016-03-30",
+      "dealAmount": 1800000,
+      "parcelNum": "6435-151-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 93.0,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19355,
+      "row_id": 71
+    },
+    {
+      "assetId": 80171760.0,
+      "addressId": 53705897,
+      "polygonId": "52233570",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 32",
+      "dealDate": "2016-03-07",
+      "dealAmount": 2156000,
+      "parcelNum": "6435-210-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 106.5,
+      "yearBuilt": 1999,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-07",
+          "dealAmount": 1900000
+        },
+        {
+          "dealDate": "1999-06-11",
+          "dealAmount": 971000
+        }
+      ],
+      "trend": {
+        "rate": 13.5,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 20340,
+      "row_id": 72
+    },
+    {
+      "assetId": 80170516.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2016-02-21",
+      "dealAmount": 1145000,
+      "parcelNum": "6435-96-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 39.6,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-02-28",
+          "dealAmount": 367000
+        }
+      ],
+      "trend": {
+        "rate": 212.0,
+        "years": 13.0
+      },
+      "ownership": [],
+      "priceSM": 29359,
+      "row_id": 73
+    },
+    {
+      "assetId": 80170454.0,
+      "addressId": 53722631,
+      "polygonId": "52296297",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 194",
+      "dealDate": "2015-11-10",
+      "dealAmount": 1300000,
+      "parcelNum": "6435-93-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 39.6,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-26",
+          "dealAmount": 352000
+        },
+        {
+          "dealDate": "2002-01-24",
+          "dealAmount": 128000
+        }
+      ],
+      "trend": {
+        "rate": 269.3,
+        "years": 3.9
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 650000
+        },
+        {
+          "proportion": "50",
+          "price": 650000
+        }
+      ],
+      "priceSM": 33333,
+      "row_id": 74
+    },
+    {
+      "assetId": 80172727.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2015-10-30",
+      "dealAmount": 2100000,
+      "parcelNum": "6435-272-1",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+קרקע",
+      "assetArea": 96.92,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-08-03",
+          "dealAmount": 1182000
+        }
+      ],
+      "trend": {
+        "rate": 77.7,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 21875,
+      "row_id": 75
+    },
+    {
+      "assetId": 80170466.0,
+      "addressId": 53722631,
+      "polygonId": "52296297",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 194",
+      "dealDate": "2015-10-19",
+      "dealAmount": 1200000,
+      "parcelNum": "6435-93-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30848,
+      "row_id": 76
+    },
+    {
+      "assetId": 80170681.0,
+      "addressId": 53906717,
+      "polygonId": "52345873",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 24",
+      "dealDate": "2015-10-08",
+      "dealAmount": 1200000,
+      "parcelNum": "6435-104-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 46.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-05-28",
+          "dealAmount": 443000
+        }
+      ],
+      "trend": {
+        "rate": 170.9,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 26087,
+      "row_id": 77
+    },
+    {
+      "assetId": 80170667.0,
+      "addressId": 53906717,
+      "polygonId": "52345873",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 24",
+      "dealDate": "2015-08-23",
+      "dealAmount": 1200000,
+      "parcelNum": "6435-104-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 46.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25586,
+      "row_id": 78
+    },
+    {
+      "assetId": 80172847.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2015-05-26",
+      "dealAmount": 1500000,
+      "parcelNum": "6435-279-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+שלישית",
+      "assetArea": 82.3,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-02-13",
+          "dealAmount": 785000
+        }
+      ],
+      "trend": {
+        "rate": 91.1,
+        "years": 14.3
+      },
+      "ownership": [],
+      "priceSM": 18293,
+      "row_id": 79
+    },
+    {
+      "assetId": 80170518.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2015-04-08",
+      "dealAmount": 1000000,
+      "parcelNum": "6435-96-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25707,
+      "row_id": 80
+    },
+    {
+      "assetId": 80171111.0,
+      "addressId": 53714815,
+      "polygonId": "52367448",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 8",
+      "dealDate": "2015-03-17",
+      "dealAmount": 1800000,
+      "parcelNum": "6435-151-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 109.0,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-06-17",
+          "dealAmount": 824000
+        }
+      ],
+      "trend": {
+        "rate": 118.4,
+        "years": 10.8
+      },
+      "ownership": [],
+      "priceSM": 16514,
+      "row_id": 81
+    },
+    {
+      "assetId": 80172848.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2015-03-10",
+      "dealAmount": 1830000,
+      "parcelNum": "6435-279-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+שלישית",
+      "assetArea": 97.0,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-01-09",
+          "dealAmount": 793000
+        }
+      ],
+      "trend": {
+        "rate": 130.8,
+        "years": 13.2
+      },
+      "ownership": [],
+      "priceSM": 18866,
+      "row_id": 82
+    },
+    {
+      "assetId": 80172857.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2015-01-08",
+      "dealAmount": 1990000,
+      "parcelNum": "6435-279-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע תחתונה + ראשונה",
+      "assetArea": 114.6,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-17",
+          "dealAmount": 1769000
+        },
+        {
+          "dealDate": "2001-06-25",
+          "dealAmount": 969000
+        }
+      ],
+      "trend": {
+        "rate": 12.5,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 17456,
+      "row_id": 83
+    },
+    {
+      "assetId": 80170529.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2015-01-07",
+      "dealAmount": 1125000,
+      "parcelNum": "6435-96-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28920,
+      "row_id": 84
+    },
+    {
+      "assetId": 80172728.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2014-12-28",
+      "dealAmount": 2035000,
+      "parcelNum": "6435-272-2",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+קרקע",
+      "assetArea": 97.65,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-11-08",
+          "dealAmount": 1173000
+        }
+      ],
+      "trend": {
+        "rate": 73.5,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 20979,
+      "row_id": 85
+    },
+    {
+      "assetId": 80172744.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2014-12-15",
+      "dealAmount": 2350000,
+      "parcelNum": "6435-272-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע תחתונה+שלישית+רביעית",
+      "assetArea": 166.65,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-09-02",
+          "dealAmount": 1289000
+        }
+      ],
+      "trend": {
+        "rate": 82.3,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 14157,
+      "row_id": 86
+    },
+    {
+      "assetId": 80171770.0,
+      "addressId": 53716644,
+      "polygonId": "52330292",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 34",
+      "dealDate": "2014-12-04",
+      "dealAmount": 1557000,
+      "parcelNum": "6435-211-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 107.95,
+      "yearBuilt": 1998,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14423,
+      "row_id": 87
+    },
+    {
+      "assetId": 80171803.0,
+      "addressId": 53721917,
+      "polygonId": "52389057",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 8",
+      "dealDate": "2014-11-27",
+      "dealAmount": 1325000,
+      "parcelNum": "6435-212-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 70.8,
+      "yearBuilt": 1997,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-07-20",
+          "dealAmount": 950000
+        },
+        {
+          "dealDate": "2006-06-29",
+          "dealAmount": 787000
+        }
+      ],
+      "trend": {
+        "rate": 39.5,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 18929,
+      "row_id": 88
+    },
+    {
+      "assetId": 80172753.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2014-05-28",
+      "dealAmount": 1525000,
+      "parcelNum": "6435-273-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע + תחתונה +שניה",
+      "assetArea": 79.6,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-09-16",
+          "dealAmount": 803000
+        }
+      ],
+      "trend": {
+        "rate": 89.9,
+        "years": 10.7
+      },
+      "ownership": [],
+      "priceSM": 19304,
+      "row_id": 89
+    },
+    {
+      "assetId": 80172819.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2014-05-15",
+      "dealAmount": 2285000,
+      "parcelNum": "6435-278-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע תחתונה + קרקע",
+      "assetArea": 117.5,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-07-01",
+          "dealAmount": 1156000
+        }
+      ],
+      "trend": {
+        "rate": 97.7,
+        "years": 9.9
+      },
+      "ownership": [],
+      "priceSM": 19530,
+      "row_id": 90
+    },
+    {
+      "assetId": 80170462.0,
+      "addressId": 53722631,
+      "polygonId": "52296297",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 194",
+      "dealDate": "2014-05-14",
+      "dealAmount": 224000,
+      "parcelNum": "6435-93-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 39.6,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5657,
+      "row_id": 91
+    },
+    {
+      "assetId": 80362328.0,
+      "addressId": 53705896,
+      "polygonId": "52341160",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 14",
+      "dealDate": "2014-04-24",
+      "dealAmount": 1760000,
+      "parcelNum": "6435-276-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 96.97,
+      "yearBuilt": 2001,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18150,
+      "row_id": 92
+    },
+    {
+      "assetId": 80171862.0,
+      "addressId": 0,
+      "polygonId": "6435-218",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "0",
+      "dealDate": "2014-03-24",
+      "dealAmount": 1595000,
+      "parcelNum": "6435-218-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "ראשונה",
+      "assetArea": 108.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6900,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14769,
+      "row_id": 93
+    },
+    {
+      "assetId": 80170534.0,
+      "addressId": 53721357,
+      "polygonId": "53303844",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 3",
+      "dealDate": "2014-01-27",
+      "dealAmount": 1209000,
+      "parcelNum": "6435-98-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 47.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-10",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 277.8,
+        "years": 1.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 604500
+        },
+        {
+          "proportion": "50",
+          "price": 604500
+        }
+      ],
+      "priceSM": 25723,
+      "row_id": 94
+    },
+    {
+      "assetId": 80171856.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2014-01-13",
+      "dealAmount": 1400000,
+      "parcelNum": "6435-213-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 80.15,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17467,
+      "row_id": 95
+    },
+    {
+      "assetId": 80171103.0,
+      "addressId": 53714815,
+      "polygonId": "52367448",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 8",
+      "dealDate": "2014-01-08",
+      "dealAmount": 2000000,
+      "parcelNum": "6435-151-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 109.0,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-08-06",
+          "dealAmount": 1055000
+        }
+      ],
+      "trend": {
+        "rate": 89.6,
+        "years": 10.4
+      },
+      "ownership": [],
+      "priceSM": 18349,
+      "row_id": 96
+    },
+    {
+      "assetId": 80170524.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2013-12-25",
+      "dealAmount": 1050000,
+      "parcelNum": "6435-96-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 39.6,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-02-09",
+          "dealAmount": 116000
+        }
+      ],
+      "trend": {
+        "rate": 805.2,
+        "years": 12.9
+      },
+      "ownership": [
+        {
+          "proportion": "6",
+          "price": 63000
+        },
+        {
+          "proportion": "6",
+          "price": 63000
+        },
+        {
+          "proportion": "6",
+          "price": 63000
+        },
+        {
+          "proportion": "20",
+          "price": 210000
+        },
+        {
+          "proportion": "20",
+          "price": 210000
+        },
+        {
+          "proportion": "20",
+          "price": 210000
+        },
+        {
+          "proportion": "20",
+          "price": 210000
+        }
+      ],
+      "priceSM": 26923,
+      "row_id": 97
+    },
+    {
+      "assetId": 80172761.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2013-10-24",
+      "dealAmount": 1620000,
+      "parcelNum": "6435-273-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+ראשונה",
+      "assetArea": 95.15,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-03-30",
+          "dealAmount": 935000
+        }
+      ],
+      "trend": {
+        "rate": 73.3,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 17053,
+      "row_id": 98
+    },
+    {
+      "assetId": 80170513.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2013-10-06",
+      "dealAmount": 1100000,
+      "parcelNum": "6435-96-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28278,
+      "row_id": 99
+    },
+    {
+      "assetId": 80170579.0,
+      "addressId": 53724969,
+      "polygonId": "53303488",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 7",
+      "dealDate": "2013-08-28",
+      "dealAmount": 1000000,
+      "parcelNum": "6435-100-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25974,
+      "row_id": 100
+    },
+    {
+      "assetId": 80172806.0,
+      "addressId": 53905655,
+      "polygonId": "52368473",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 31",
+      "dealDate": "2013-07-15",
+      "dealAmount": 1360000,
+      "parcelNum": "6435-277-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 74.0,
+      "yearBuilt": 1998,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-01-08",
+          "dealAmount": 669000
+        }
+      ],
+      "trend": {
+        "rate": 103.3,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 18378,
+      "row_id": 101
+    },
+    {
+      "assetId": 80362334.0,
+      "addressId": 53705896,
+      "polygonId": "52341160",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 14",
+      "dealDate": "2013-06-26",
+      "dealAmount": 1520000,
+      "parcelNum": "6435-276-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.68,
+      "yearBuilt": 2001,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-06-21",
+          "dealAmount": 991000
+        },
+        {
+          "dealDate": "2002-01-21",
+          "dealAmount": 828000
+        }
+      ],
+      "trend": {
+        "rate": 53.4,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 18765,
+      "row_id": 102
+    },
+    {
+      "assetId": 80172827.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2013-06-17",
+      "dealAmount": 1850000,
+      "parcelNum": "6435-278-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע תחתונה + שניה",
+      "assetArea": 117.5,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15745,
+      "row_id": 103
+    },
+    {
+      "assetId": 80362330.0,
+      "addressId": 53705896,
+      "polygonId": "52341160",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 14",
+      "dealDate": "2013-06-03",
+      "dealAmount": 1450000,
+      "parcelNum": "6435-276-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 80.25,
+      "yearBuilt": 2001,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18069,
+      "row_id": 104
+    },
+    {
+      "assetId": 80170536.0,
+      "addressId": 53721357,
+      "polygonId": "53303844",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 3",
+      "dealDate": "2013-05-12",
+      "dealAmount": 900000,
+      "parcelNum": "6435-98-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 57.7,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15598,
+      "row_id": 105
+    },
+    {
+      "assetId": 80362326.0,
+      "addressId": 53705896,
+      "polygonId": "52341160",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 14",
+      "dealDate": "2013-04-03",
+      "dealAmount": 2024000,
+      "parcelNum": "6435-276-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 98.37,
+      "yearBuilt": 2001,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20575,
+      "row_id": 106
+    },
+    {
+      "assetId": 80172830.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2013-03-22",
+      "dealAmount": 1550000,
+      "parcelNum": "6435-278-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה + שלישית",
+      "assetArea": 104.0,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-08-10",
+          "dealAmount": 936000
+        }
+      ],
+      "trend": {
+        "rate": 65.6,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 14904,
+      "row_id": 107
+    },
+    {
+      "assetId": 80170711.0,
+      "addressId": 53907962,
+      "polygonId": "52373963",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 190",
+      "dealDate": "2013-03-13",
+      "dealAmount": 1000000,
+      "parcelNum": "6435-122-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 45.5,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-08-16",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 138.1,
+        "years": 14.6
+      },
+      "ownership": [],
+      "priceSM": 22222,
+      "row_id": 108
+    },
+    {
+      "assetId": 80171847.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2013-03-07",
+      "dealAmount": 1300000,
+      "parcelNum": "6435-213-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 70.8,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18362,
+      "row_id": 109
+    },
+    {
+      "assetId": 80171109.0,
+      "addressId": 53714815,
+      "polygonId": "52367448",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 8",
+      "dealDate": "2013-02-19",
+      "dealAmount": 1660000,
+      "parcelNum": "6435-151-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 109.0,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-02-07",
+          "dealAmount": 1170000
+        },
+        {
+          "dealDate": "2007-03-25",
+          "dealAmount": 859000
+        }
+      ],
+      "trend": {
+        "rate": 41.9,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 15229,
+      "row_id": 110
+    },
+    {
+      "assetId": 80171825.0,
+      "addressId": 53721917,
+      "polygonId": "52389057",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 8",
+      "dealDate": "2013-02-17",
+      "dealAmount": 1700000,
+      "parcelNum": "6435-212-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "חמישית",
+      "assetArea": 93.95,
+      "yearBuilt": 1997,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18095,
+      "row_id": 111
+    },
+    {
+      "assetId": 80171832.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2013-02-08",
+      "dealAmount": 1350000,
+      "parcelNum": "6435-213-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 70.8,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19068,
+      "row_id": 112
+    },
+    {
+      "assetId": 80170764.0,
+      "addressId": 53720721,
+      "polygonId": "52348424",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 9",
+      "dealDate": "2013-02-03",
+      "dealAmount": 299000,
+      "parcelNum": "6435-123-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 66.2,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4517,
+      "row_id": 113
+    },
+    {
+      "assetId": 80172822.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2013-01-20",
+      "dealAmount": 1644000,
+      "parcelNum": "6435-278-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה + ראשונה",
+      "assetArea": 104.0,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-09-29",
+          "dealAmount": 900000
+        }
+      ],
+      "trend": {
+        "rate": 82.7,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 15808,
+      "row_id": 114
+    },
+    {
+      "assetId": 80171106.0,
+      "addressId": 53714815,
+      "polygonId": "52367448",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 8",
+      "dealDate": "2012-12-18",
+      "dealAmount": 1539000,
+      "parcelNum": "6435-151-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 93.0,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-05-01",
+          "dealAmount": 851000
+        },
+        {
+          "dealDate": "2002-03-25",
+          "dealAmount": 788000
+        },
+        {
+          "dealDate": "1998-10-02",
+          "dealAmount": 795000
+        }
+      ],
+      "trend": {
+        "rate": 80.8,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 16548,
+      "row_id": 115
+    },
+    {
+      "assetId": 80172778.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2012-12-07",
+      "dealAmount": 1620000,
+      "parcelNum": "6435-274-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+שלישית",
+      "assetArea": 98.3,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-03-25",
+          "dealAmount": 876000
+        }
+      ],
+      "trend": {
+        "rate": 84.9,
+        "years": 11.7
+      },
+      "ownership": [],
+      "priceSM": 16531,
+      "row_id": 116
+    },
+    {
+      "assetId": 80170474.0,
+      "addressId": 53722631,
+      "polygonId": "52296297",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 194",
+      "dealDate": "2012-12-04",
+      "dealAmount": 1100000,
+      "parcelNum": "6435-93-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-09-23",
+          "dealAmount": 470000
+        }
+      ],
+      "trend": {
+        "rate": 134.0,
+        "years": 13.2
+      },
+      "ownership": [],
+      "priceSM": 28947,
+      "row_id": 117
+    },
+    {
+      "assetId": 80172829.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2012-10-25",
+      "dealAmount": 1405000,
+      "parcelNum": "6435-278-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה + שלישית",
+      "assetArea": 79.0,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17785,
+      "row_id": 118
+    },
+    {
+      "assetId": 80172733.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2012-10-18",
+      "dealAmount": 1595000,
+      "parcelNum": "6435-272-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+שלישית",
+      "assetArea": 96.1,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-04-11",
+          "dealAmount": 1031000
+        }
+      ],
+      "trend": {
+        "rate": 54.7,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 16615,
+      "row_id": 119
+    },
+    {
+      "assetId": 80170539.0,
+      "addressId": 53721357,
+      "polygonId": "53303844",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 3",
+      "dealDate": "2012-10-12",
+      "dealAmount": 206000,
+      "parcelNum": "6435-98-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 57.7,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-04-23",
+          "dealAmount": 194000
+        },
+        {
+          "dealDate": "2011-09-21",
+          "dealAmount": 185000
+        },
+        {
+          "dealDate": "2005-02-01",
+          "dealAmount": 460000
+        }
+      ],
+      "trend": {
+        "rate": 6.2,
+        "years": 0.5
+      },
+      "ownership": [],
+      "priceSM": 3614,
+      "row_id": 120
+    },
+    {
+      "assetId": 80172820.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2012-09-13",
+      "dealAmount": 1480000,
+      "parcelNum": "6435-278-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה + ראשונה",
+      "assetArea": 78.5,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-06-06",
+          "dealAmount": 810000
+        }
+      ],
+      "trend": {
+        "rate": 82.7,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 18974,
+      "row_id": 121
+    },
+    {
+      "assetId": 80171086.0,
+      "addressId": 53706045,
+      "polygonId": "52238893",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 6",
+      "dealDate": "2012-09-11",
+      "dealAmount": 1625000,
+      "parcelNum": "6435-150-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 96.48,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-08-26",
+          "dealAmount": 1044000
+        }
+      ],
+      "trend": {
+        "rate": 55.7,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 16927,
+      "row_id": 122
+    },
+    {
+      "assetId": 80170761.0,
+      "addressId": 53720721,
+      "polygonId": "52348424",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 9",
+      "dealDate": "2012-08-07",
+      "dealAmount": 474000,
+      "parcelNum": "6435-123-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7193,
+      "row_id": 123
+    },
+    {
+      "assetId": 80170780.0,
+      "addressId": 53727209,
+      "polygonId": "52335538",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 192",
+      "dealDate": "2012-07-09",
+      "dealAmount": 870000,
+      "parcelNum": "6435-124-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 66.4,
+      "yearBuilt": 1965,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13102,
+      "row_id": 124
+    },
+    {
+      "assetId": 80171830.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2012-06-27",
+      "dealAmount": 1695000,
+      "parcelNum": "6435-213-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 118.95,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14250,
+      "row_id": 125
+    },
+    {
+      "assetId": 80170749.0,
+      "addressId": 53720897,
+      "polygonId": "52348424",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 5",
+      "dealDate": "2012-06-11",
+      "dealAmount": 950000,
+      "parcelNum": "6435-123-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14416,
+      "row_id": 126
+    },
+    {
+      "assetId": 80170520.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2012-06-03",
+      "dealAmount": 960000,
+      "parcelNum": "6435-96-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24679,
+      "row_id": 127
+    },
+    {
+      "assetId": 80171841.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2012-05-21",
+      "dealAmount": 1650000,
+      "parcelNum": "6435-213-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 80.15,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20586,
+      "row_id": 128
+    },
+    {
+      "assetId": 80172734.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2012-04-18",
+      "dealAmount": 1620000,
+      "parcelNum": "6435-272-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+שלישית",
+      "assetArea": 97.65,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-06-10",
+          "dealAmount": 1035000
+        }
+      ],
+      "trend": {
+        "rate": 56.5,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 16701,
+      "row_id": 129
+    },
+    {
+      "assetId": 80170475.0,
+      "addressId": 53722631,
+      "polygonId": "52296297",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 194",
+      "dealDate": "2012-04-18",
+      "dealAmount": 950000,
+      "parcelNum": "6435-93-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24422,
+      "row_id": 130
+    },
+    {
+      "assetId": 80170725.0,
+      "addressId": 53907962,
+      "polygonId": "52373963",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 190",
+      "dealDate": "2012-04-03",
+      "dealAmount": 960000,
+      "parcelNum": "6435-122-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה שלישית",
+      "assetArea": 75.8,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-28",
+          "dealAmount": 900000
+        }
+      ],
+      "trend": {
+        "rate": 6.7,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 12800,
+      "row_id": 131
+    },
+    {
+      "assetId": 80171817.0,
+      "addressId": 53721917,
+      "polygonId": "52389057",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 8",
+      "dealDate": "2011-12-20",
+      "dealAmount": 1730000,
+      "parcelNum": "6435-212-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 118.95,
+      "yearBuilt": 1997,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14544,
+      "row_id": 132
+    },
+    {
+      "assetId": 80170546.0,
+      "addressId": 53721357,
+      "polygonId": "53303844",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 3",
+      "dealDate": "2011-12-09",
+      "dealAmount": 850000,
+      "parcelNum": "6435-98-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 57.7,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14731,
+      "row_id": 133
+    },
+    {
+      "assetId": 80171091.0,
+      "addressId": 53706045,
+      "polygonId": "52238893",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 6",
+      "dealDate": "2011-12-01",
+      "dealAmount": 1375000,
+      "parcelNum": "6435-150-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.45,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14256,
+      "row_id": 134
+    },
+    {
+      "assetId": 80172792.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2011-07-25",
+      "dealAmount": 2750000,
+      "parcelNum": "6435-274-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ק. תחתונה+רביעית",
+      "assetArea": 185.5,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14825,
+      "row_id": 136
+    },
+    {
+      "assetId": 80171075.0,
+      "addressId": 53706041,
+      "polygonId": "52389519",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 4",
+      "dealDate": "2011-07-21",
+      "dealAmount": 1320000,
+      "parcelNum": "6435-149-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 95.45,
+      "yearBuilt": 1993,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13829,
+      "row_id": 137
+    },
+    {
+      "assetId": 80171768.0,
+      "addressId": 53716644,
+      "polygonId": "52330292",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 34",
+      "dealDate": "2011-06-05",
+      "dealAmount": 1291000,
+      "parcelNum": "6435-211-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 70.8,
+      "yearBuilt": 1998,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18234,
+      "row_id": 138
+    },
+    {
+      "assetId": 80171821.0,
+      "addressId": 53721917,
+      "polygonId": "52389057",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 8",
+      "dealDate": "2011-05-04",
+      "dealAmount": 1320000,
+      "parcelNum": "6435-212-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 70.8,
+      "yearBuilt": 1997,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-27",
+          "dealAmount": 756000
+        }
+      ],
+      "trend": {
+        "rate": 74.6,
+        "years": 11.4
+      },
+      "ownership": [],
+      "priceSM": 18857,
+      "row_id": 139
+    },
+    {
+      "assetId": 80171065.0,
+      "addressId": 53714399,
+      "polygonId": "52228561",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 2",
+      "dealDate": "2011-05-01",
+      "dealAmount": 1360000,
+      "parcelNum": "6435-148-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 95.45,
+      "yearBuilt": 1992,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14248,
+      "row_id": 140
+    },
+    {
+      "assetId": 80171059.0,
+      "addressId": 53714399,
+      "polygonId": "52228561",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 2",
+      "dealDate": "2011-03-27",
+      "dealAmount": 1345000,
+      "parcelNum": "6435-148-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.67,
+      "yearBuilt": 1992,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13913,
+      "row_id": 141
+    },
+    {
+      "assetId": 80171799.0,
+      "addressId": 53721917,
+      "polygonId": "52389057",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 8",
+      "dealDate": "2011-03-17",
+      "dealAmount": 1665000,
+      "parcelNum": "6435-212-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שניה",
+      "assetArea": 107.95,
+      "yearBuilt": 1997,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-01-12",
+          "dealAmount": 942000
+        }
+      ],
+      "trend": {
+        "rate": 76.8,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 15561,
+      "row_id": 142
+    },
+    {
+      "assetId": 80171118.0,
+      "addressId": 53714815,
+      "polygonId": "52367448",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 8",
+      "dealDate": "2011-03-06",
+      "dealAmount": 1675000,
+      "parcelNum": "6435-151-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית+גג",
+      "assetArea": 125.0,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-01-01",
+          "dealAmount": 1104000
+        }
+      ],
+      "trend": {
+        "rate": 51.7,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 13400,
+      "row_id": 143
+    },
+    {
+      "assetId": 80172832.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2010-11-02",
+      "dealAmount": 2069000,
+      "parcelNum": "6435-278-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע תח'+רביעית+חמיש",
+      "assetArea": 153.0,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-02-15",
+          "dealAmount": 1148000
+        }
+      ],
+      "trend": {
+        "rate": 80.2,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 13523,
+      "row_id": 144
+    },
+    {
+      "assetId": 80171852.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2010-08-26",
+      "dealAmount": 1735000,
+      "parcelNum": "6435-213-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 118.95,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-05-08",
+          "dealAmount": 1052000
+        }
+      ],
+      "trend": {
+        "rate": 64.9,
+        "years": 4.3
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 572550
+        },
+        {
+          "proportion": "66",
+          "price": 1145100
+        }
+      ],
+      "priceSM": 14703,
+      "row_id": 145
+    },
+    {
+      "assetId": 80171055.0,
+      "addressId": 53714399,
+      "polygonId": "52228561",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 2",
+      "dealDate": "2010-07-07",
+      "dealAmount": 1220000,
+      "parcelNum": "6435-148-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 96.67,
+      "yearBuilt": 1992,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-08-30",
+          "dealAmount": 815000
+        }
+      ],
+      "trend": {
+        "rate": 49.7,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 12708,
+      "row_id": 146
+    },
+    {
+      "assetId": 80171785.0,
+      "addressId": 53722948,
+      "polygonId": "52330292",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 6",
+      "dealDate": "2010-05-23",
+      "dealAmount": 1770000,
+      "parcelNum": "6435-211-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.5,
+      "floor": "שלישית",
+      "assetArea": 118.95,
+      "yearBuilt": 1998,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-11-04",
+          "dealAmount": 913000
+        }
+      ],
+      "trend": {
+        "rate": 93.9,
+        "years": 11.6
+      },
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 147
+    },
+    {
+      "assetId": 80171114.0,
+      "addressId": 53714815,
+      "polygonId": "52367448",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 8",
+      "dealDate": "2010-05-13",
+      "dealAmount": 1380000,
+      "parcelNum": "6435-151-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 93.0,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-02-07",
+          "dealAmount": 840000
+        }
+      ],
+      "trend": {
+        "rate": 64.3,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 14839,
+      "row_id": 148
+    },
+    {
+      "assetId": 80171088.0,
+      "addressId": 53706045,
+      "polygonId": "52238893",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 6",
+      "dealDate": "2010-02-10",
+      "dealAmount": 1300000,
+      "parcelNum": "6435-150-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 98.3,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13225,
+      "row_id": 149
+    },
+    {
+      "assetId": 80172804.0,
+      "addressId": 53905655,
+      "polygonId": "52368473",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 31",
+      "dealDate": "2009-12-25",
+      "dealAmount": 1000000,
+      "parcelNum": "6435-277-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 110.82,
+      "yearBuilt": 1998,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9024,
+      "row_id": 150
+    },
+    {
+      "assetId": 80172825.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2009-12-25",
+      "dealAmount": 1150000,
+      "parcelNum": "6435-278-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה + שניה",
+      "assetArea": 79.0,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-07-05",
+          "dealAmount": 782000
+        }
+      ],
+      "trend": {
+        "rate": 47.1,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 14557,
+      "row_id": 151
+    },
+    {
+      "assetId": 80171741.0,
+      "addressId": 53705897,
+      "polygonId": "52233570",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 32",
+      "dealDate": "2009-12-25",
+      "dealAmount": 1340000,
+      "parcelNum": "6435-210-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 91.4,
+      "yearBuilt": 1999,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-03-22",
+          "dealAmount": 750000
+        }
+      ],
+      "trend": {
+        "rate": 78.7,
+        "years": 9.8
+      },
+      "ownership": [],
+      "priceSM": 14725,
+      "row_id": 152
+    },
+    {
+      "assetId": 80170600.0,
+      "addressId": 53907493,
+      "polygonId": "52383890",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 9",
+      "dealDate": "2009-12-17",
+      "dealAmount": 1050000,
+      "parcelNum": "6435-101-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-02-18",
+          "dealAmount": 510000
+        }
+      ],
+      "trend": {
+        "rate": 105.9,
+        "years": 5.8
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 525000
+        },
+        {
+          "proportion": "50",
+          "price": 525000
+        }
+      ],
+      "priceSM": 27632,
+      "row_id": 153
+    },
+    {
+      "assetId": 80171820.0,
+      "addressId": 53721917,
+      "polygonId": "52389057",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 8",
+      "dealDate": "2009-12-16",
+      "dealAmount": 1710000,
+      "parcelNum": "6435-212-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "רביעית",
+      "assetArea": 118.95,
+      "yearBuilt": 1997,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14376,
+      "row_id": 154
+    },
+    {
+      "assetId": 80170469.0,
+      "addressId": 53722631,
+      "polygonId": "52296297",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 194",
+      "dealDate": "2009-12-10",
+      "dealAmount": 800000,
+      "parcelNum": "6435-93-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 39.6,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20202,
+      "row_id": 155
+    },
+    {
+      "assetId": 80172748.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2009-09-30",
+      "dealAmount": 1499000,
+      "parcelNum": "6435-273-1",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה + קרקע",
+      "assetArea": 97.7,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-12-23",
+          "dealAmount": 1045000
+        }
+      ],
+      "trend": {
+        "rate": 43.4,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 15454,
+      "row_id": 156
+    },
+    {
+      "assetId": 80170654.0,
+      "addressId": 53710928,
+      "polygonId": "52187512",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 13",
+      "dealDate": "2009-09-24",
+      "dealAmount": 750000,
+      "parcelNum": "6435-103-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 46.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15991,
+      "row_id": 157
+    },
+    {
+      "assetId": 80171829.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2009-08-23",
+      "dealAmount": 1205000,
+      "parcelNum": "6435-213-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.8,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17020,
+      "row_id": 158
+    },
+    {
+      "assetId": 80171782.0,
+      "addressId": 53722948,
+      "polygonId": "52330292",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 6",
+      "dealDate": "2009-08-13",
+      "dealAmount": 1490000,
+      "parcelNum": "6435-211-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.5,
+      "floor": "שניה",
+      "assetArea": 118.95,
+      "yearBuilt": 1998,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12526,
+      "row_id": 159
+    },
+    {
+      "assetId": 80170551.0,
+      "addressId": 53715969,
+      "polygonId": "52331815",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 2",
+      "dealDate": "2009-08-06",
+      "dealAmount": 622000,
+      "parcelNum": "6435-99-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 39.6,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15707,
+      "row_id": 160
+    },
+    {
+      "assetId": 80172741.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2009-08-04",
+      "dealAmount": 1300000,
+      "parcelNum": "6435-272-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+ראשונה",
+      "assetArea": 94.4,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-05-27",
+          "dealAmount": 985000
+        }
+      ],
+      "trend": {
+        "rate": 32.0,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 13830,
+      "row_id": 161
+    },
+    {
+      "assetId": 80170510.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2009-07-07",
+      "dealAmount": 640000,
+      "parcelNum": "6435-96-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16452,
+      "row_id": 162
+    },
+    {
+      "assetId": 80171759.0,
+      "addressId": 53705897,
+      "polygonId": "52233570",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 32",
+      "dealDate": "2009-06-11",
+      "dealAmount": 1465000,
+      "parcelNum": "6435-210-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 106.5,
+      "yearBuilt": 1999,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-06-18",
+          "dealAmount": 952000
+        }
+      ],
+      "trend": {
+        "rate": 53.9,
+        "years": 10.0
+      },
+      "ownership": [],
+      "priceSM": 13821,
+      "row_id": 163
+    },
+    {
+      "assetId": 80172737.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2009-06-10",
+      "dealAmount": 1300000,
+      "parcelNum": "6435-272-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה+קרקע",
+      "assetArea": 79.0,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-01-26",
+          "dealAmount": 769000
+        }
+      ],
+      "trend": {
+        "rate": 69.1,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 16456,
+      "row_id": 164
+    },
+    {
+      "assetId": 80170744.0,
+      "addressId": 53719089,
+      "polygonId": "52348424",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 3",
+      "dealDate": "2009-06-09",
+      "dealAmount": 800000,
+      "parcelNum": "6435-123-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12140,
+      "row_id": 165
+    },
+    {
+      "assetId": 80170490.0,
+      "addressId": 53724968,
+      "polygonId": "53167398",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 2",
+      "dealDate": "2009-05-18",
+      "dealAmount": 750000,
+      "parcelNum": "6435-94-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 47.7,
+      "yearBuilt": 1975,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15723,
+      "row_id": 166
+    },
+    {
+      "assetId": 80171749.0,
+      "addressId": 53705897,
+      "polygonId": "52233570",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 32",
+      "dealDate": "2009-04-23",
+      "dealAmount": 2450000,
+      "parcelNum": "6435-210-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 91.4,
+      "yearBuilt": 1999,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-09-13",
+          "dealAmount": 852000
+        }
+      ],
+      "trend": {
+        "rate": 187.6,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 26923,
+      "row_id": 167
+    },
+    {
+      "assetId": 80170495.0,
+      "addressId": 53720733,
+      "polygonId": "52385680",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 4",
+      "dealDate": "2009-03-18",
+      "dealAmount": 710000,
+      "parcelNum": "6435-95-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 47.7,
+      "yearBuilt": 1958,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-12-22",
+          "dealAmount": 187000
+        }
+      ],
+      "trend": {
+        "rate": 279.7,
+        "years": 10.2
+      },
+      "ownership": [],
+      "priceSM": 15106,
+      "row_id": 168
+    },
+    {
+      "assetId": 80171767.0,
+      "addressId": 53716644,
+      "polygonId": "52330292",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 34",
+      "dealDate": "2009-03-01",
+      "dealAmount": 1244000,
+      "parcelNum": "6435-211-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שניה",
+      "assetArea": 107.95,
+      "yearBuilt": 1998,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11524,
+      "row_id": 169
+    },
+    {
+      "assetId": 80171737.0,
+      "addressId": 53705897,
+      "polygonId": "52233570",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 32",
+      "dealDate": "2008-12-03",
+      "dealAmount": 1010100,
+      "parcelNum": "6435-210-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.4,
+      "yearBuilt": 1999,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-12-03",
+          "dealAmount": 1010100
+        },
+        {
+          "dealDate": "1999-02-23",
+          "dealAmount": 804000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 0.0
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 333333
+        },
+        {
+          "proportion": "66",
+          "price": 666666
+        }
+      ],
+      "priceSM": 11100,
+      "row_id": 170
+    },
+    {
+      "assetId": 80171780.0,
+      "addressId": 53722948,
+      "polygonId": "52330292",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 6",
+      "dealDate": "2008-11-06",
+      "dealAmount": 710000,
+      "parcelNum": "6435-211-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.8,
+      "yearBuilt": 1998,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-04-22",
+          "dealAmount": 700000
+        }
+      ],
+      "trend": {
+        "rate": 1.4,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 10143,
+      "row_id": 171
+    },
+    {
+      "assetId": 80170686.0,
+      "addressId": 53906717,
+      "polygonId": "52345873",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 24",
+      "dealDate": "2008-09-15",
+      "dealAmount": 180000,
+      "parcelNum": "6435-104-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שלישית",
+      "assetArea": 46.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3838,
+      "row_id": 172
+    },
+    {
+      "assetId": 80170614.0,
+      "addressId": 53722104,
+      "polygonId": "52192011",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 11",
+      "dealDate": "2008-09-08",
+      "dealAmount": 650000,
+      "parcelNum": "6435-102-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-07",
+          "dealAmount": 413000
+        }
+      ],
+      "trend": {
+        "rate": 57.4,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 17105,
+      "row_id": 173
+    },
+    {
+      "assetId": 80170737.0,
+      "addressId": 53907962,
+      "polygonId": "52373963",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 190",
+      "dealDate": "2008-06-27",
+      "dealAmount": 560000,
+      "parcelNum": "6435-122-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 45.0,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12444,
+      "row_id": 174
+    },
+    {
+      "assetId": 80170506.0,
+      "addressId": 53720733,
+      "polygonId": "52385680",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 4",
+      "dealDate": "2008-06-18",
+      "dealAmount": 600000,
+      "parcelNum": "6435-95-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 47.7,
+      "yearBuilt": 1958,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12579,
+      "row_id": 175
+    },
+    {
+      "assetId": 80170486.0,
+      "addressId": 53724968,
+      "polygonId": "53167398",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 2",
+      "dealDate": "2008-03-26",
+      "dealAmount": 652000,
+      "parcelNum": "6435-94-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 47.7,
+      "yearBuilt": 1975,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-05-20",
+          "dealAmount": 577000
+        }
+      ],
+      "trend": {
+        "rate": 13.0,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 13872,
+      "row_id": 176
+    },
+    {
+      "assetId": 80170531.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2008-02-28",
+      "dealAmount": 342000,
+      "parcelNum": "6435-96-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-10-12",
+          "dealAmount": 60000
+        }
+      ],
+      "trend": {
+        "rate": 470.0,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 9000,
+      "row_id": 177
+    },
+    {
+      "assetId": 80170720.0,
+      "addressId": 53907962,
+      "polygonId": "52373963",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 190",
+      "dealDate": "2008-02-01",
+      "dealAmount": 530000,
+      "parcelNum": "6435-122-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 45.0,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11778,
+      "row_id": 178
+    },
+    {
+      "assetId": 80171835.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2007-11-26",
+      "dealAmount": 758000,
+      "parcelNum": "6435-213-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 70.8,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10706,
+      "row_id": 179
+    },
+    {
+      "assetId": 80172863.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2007-11-15",
+      "dealAmount": 1500000,
+      "parcelNum": "6435-279-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 125.0,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12000,
+      "row_id": 180
+    },
+    {
+      "assetId": 80171784.0,
+      "addressId": 53722948,
+      "polygonId": "52330292",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 6",
+      "dealDate": "2007-11-12",
+      "dealAmount": 1040000,
+      "parcelNum": "6435-211-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שניה",
+      "assetArea": 107.95,
+      "yearBuilt": 1998,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9634,
+      "row_id": 181
+    },
+    {
+      "assetId": 80172803.0,
+      "addressId": 53905655,
+      "polygonId": "52368473",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 31",
+      "dealDate": "2007-10-17",
+      "dealAmount": 915000,
+      "parcelNum": "6435-277-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 99.35,
+      "yearBuilt": 1998,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9210,
+      "row_id": 182
+    },
+    {
+      "assetId": 80171745.0,
+      "addressId": 53705897,
+      "polygonId": "52233570",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 32",
+      "dealDate": "2007-09-06",
+      "dealAmount": 905000,
+      "parcelNum": "6435-210-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 91.4,
+      "yearBuilt": 1999,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-02-18",
+          "dealAmount": 835000
+        }
+      ],
+      "trend": {
+        "rate": 8.4,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 9945,
+      "row_id": 183
+    },
+    {
+      "assetId": 80170525.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2007-08-30",
+      "dealAmount": 515000,
+      "parcelNum": "6435-96-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 39.6,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-04-18",
+          "dealAmount": 446000
+        }
+      ],
+      "trend": {
+        "rate": 15.5,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 13205,
+      "row_id": 184
+    },
+    {
+      "assetId": 80171105.0,
+      "addressId": 53714815,
+      "polygonId": "52367448",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 8",
+      "dealDate": "2007-08-30",
+      "dealAmount": 974000,
+      "parcelNum": "6435-151-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 109.0,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8936,
+      "row_id": 185
+    },
+    {
+      "assetId": 80170537.0,
+      "addressId": 53721357,
+      "polygonId": "53303844",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 3",
+      "dealDate": "2007-08-08",
+      "dealAmount": 597000,
+      "parcelNum": "6435-98-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 57.7,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10347,
+      "row_id": 186
+    },
+    {
+      "assetId": 80172845.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2007-06-24",
+      "dealAmount": 990000,
+      "parcelNum": "6435-279-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+שניה",
+      "assetArea": 97.0,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-11-22",
+          "dealAmount": 793000
+        }
+      ],
+      "trend": {
+        "rate": 24.8,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 10206,
+      "row_id": 187
+    },
+    {
+      "assetId": 80172810.0,
+      "addressId": 53905655,
+      "polygonId": "52368473",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 31",
+      "dealDate": "2007-06-13",
+      "dealAmount": 790000,
+      "parcelNum": "6435-277-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 74.4,
+      "yearBuilt": 1998,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10618,
+      "row_id": 188
+    },
+    {
+      "assetId": 80172754.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2007-05-14",
+      "dealAmount": 1005000,
+      "parcelNum": "6435-273-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע+תחתונה+שלישית",
+      "assetArea": 97.7,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-04-04",
+          "dealAmount": 940000
+        }
+      ],
+      "trend": {
+        "rate": 6.9,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 10361,
+      "row_id": 189
+    },
+    {
+      "assetId": 80170777.0,
+      "addressId": 53727209,
+      "polygonId": "52335538",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 192",
+      "dealDate": "2007-05-07",
+      "dealAmount": 519000,
+      "parcelNum": "6435-124-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 66.4,
+      "yearBuilt": 1965,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-10-10",
+          "dealAmount": 459000
+        },
+        {
+          "dealDate": "1999-12-13",
+          "dealAmount": 496000
+        }
+      ],
+      "trend": {
+        "rate": 13.1,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 7864,
+      "row_id": 190
+    },
+    {
+      "assetId": 80170470.0,
+      "addressId": 53722631,
+      "polygonId": "52296297",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 194",
+      "dealDate": "2007-05-02",
+      "dealAmount": 475000,
+      "parcelNum": "6435-93-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 39.6,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11995,
+      "row_id": 191
+    },
+    {
+      "assetId": 80172743.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2007-04-30",
+      "dealAmount": 955000,
+      "parcelNum": "6435-272-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+שניה",
+      "assetArea": 94.4,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10117,
+      "row_id": 192
+    },
+    {
+      "assetId": 80170670.0,
+      "addressId": 53906717,
+      "polygonId": "52345873",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 24",
+      "dealDate": "2007-04-16",
+      "dealAmount": 534000,
+      "parcelNum": "6435-104-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 46.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-03-10",
+          "dealAmount": 404000
+        }
+      ],
+      "trend": {
+        "rate": 32.2,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 11609,
+      "row_id": 193
+    },
+    {
+      "assetId": 80170543.0,
+      "addressId": 53721357,
+      "polygonId": "53303844",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 3",
+      "dealDate": "2007-03-26",
+      "dealAmount": 133000,
+      "parcelNum": "6435-98-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.7,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2305,
+      "row_id": 194
+    },
+    {
+      "assetId": 80172740.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2007-03-07",
+      "dealAmount": 1123000,
+      "parcelNum": "6435-272-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+ראשונה",
+      "assetArea": 97.0,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-12-22",
+          "dealAmount": 901000
+        }
+      ],
+      "trend": {
+        "rate": 24.6,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 11577,
+      "row_id": 195
+    },
+    {
+      "assetId": 80171755.0,
+      "addressId": 53705897,
+      "polygonId": "52233570",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 32",
+      "dealDate": "2007-01-08",
+      "dealAmount": 1008000,
+      "parcelNum": "6435-210-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 105.4,
+      "yearBuilt": 1999,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-12-01",
+          "dealAmount": 899000
+        }
+      ],
+      "trend": {
+        "rate": 12.1,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 9600,
+      "row_id": 196
+    },
+    {
+      "assetId": 80172802.0,
+      "addressId": 53905655,
+      "polygonId": "52368473",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 31",
+      "dealDate": "2006-11-02",
+      "dealAmount": 758000,
+      "parcelNum": "6435-277-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1998,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-01-11",
+          "dealAmount": 568000
+        }
+      ],
+      "trend": {
+        "rate": 33.5,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 10243,
+      "row_id": 197
+    },
+    {
+      "assetId": 80172730.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2006-10-01",
+      "dealAmount": 1035000,
+      "parcelNum": "6435-272-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+ראשונה",
+      "assetArea": 97.65,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10599,
+      "row_id": 198
+    },
+    {
+      "assetId": 80170710.0,
+      "addressId": 53907962,
+      "polygonId": "52373963",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 190",
+      "dealDate": "2006-06-28",
+      "dealAmount": 523000,
+      "parcelNum": "6435-122-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 45.0,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11622,
+      "row_id": 199
+    },
+    {
+      "assetId": 80170757.0,
+      "addressId": 53720762,
+      "polygonId": "52348424",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 7",
+      "dealDate": "2006-06-15",
+      "dealAmount": 557000,
+      "parcelNum": "6435-123-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8452,
+      "row_id": 200
+    },
+    {
+      "assetId": 80171818.0,
+      "addressId": 53721917,
+      "polygonId": "52389057",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 8",
+      "dealDate": "2006-06-11",
+      "dealAmount": 833000,
+      "parcelNum": "6435-212-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 70.8,
+      "yearBuilt": 1997,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-01-13",
+          "dealAmount": 755000
+        }
+      ],
+      "trend": {
+        "rate": 10.3,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 11900,
+      "row_id": 201
+    },
+    {
+      "assetId": 80172745.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2006-05-04",
+      "dealAmount": 1426000,
+      "parcelNum": "6435-272-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע תחתונה+שלישית+רביעית",
+      "assetArea": 175.15,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8142,
+      "row_id": 202
+    },
+    {
+      "assetId": 80172732.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2006-03-13",
+      "dealAmount": 994000,
+      "parcelNum": "6435-272-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+שניה",
+      "assetArea": 97.65,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10179,
+      "row_id": 203
+    },
+    {
+      "assetId": 80171823.0,
+      "addressId": 53721917,
+      "polygonId": "52389057",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 8",
+      "dealDate": "2006-01-09",
+      "dealAmount": 1201000,
+      "parcelNum": "6435-212-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "חמישית",
+      "assetArea": 112.5,
+      "yearBuilt": 1997,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10676,
+      "row_id": 204
+    },
+    {
+      "assetId": 80171854.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2005-12-29",
+      "dealAmount": 918000,
+      "parcelNum": "6435-213-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 107.95,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8504,
+      "row_id": 205
+    },
+    {
+      "assetId": 80172843.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2005-12-21",
+      "dealAmount": 979000,
+      "parcelNum": "6435-279-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+ראשונה",
+      "assetArea": 97.3,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-01-14",
+          "dealAmount": 818000
+        }
+      ],
+      "trend": {
+        "rate": 19.7,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 10093,
+      "row_id": 206
+    },
+    {
+      "assetId": 80170549.0,
+      "addressId": 53721357,
+      "polygonId": "53303844",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 3",
+      "dealDate": "2005-10-30",
+      "dealAmount": 489000,
+      "parcelNum": "6435-98-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 57.7,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-04-06",
+          "dealAmount": 504000
+        }
+      ],
+      "trend": {
+        "rate": -3.0,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 8579,
+      "row_id": 207
+    },
+    {
+      "assetId": 80171097.0,
+      "addressId": 53706045,
+      "polygonId": "52238893",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 6",
+      "dealDate": "2005-10-07",
+      "dealAmount": 849000,
+      "parcelNum": "6435-150-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 96.45,
+      "yearBuilt": 1996,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8802,
+      "row_id": 208
+    },
+    {
+      "assetId": 80171851.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2005-09-14",
+      "dealAmount": 984000,
+      "parcelNum": "6435-213-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 107.95,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9115,
+      "row_id": 209
+    },
+    {
+      "assetId": 80170748.0,
+      "addressId": 53720897,
+      "polygonId": "52348424",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 5",
+      "dealDate": "2005-08-26",
+      "dealAmount": 533000,
+      "parcelNum": "6435-123-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 64.1,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8315,
+      "row_id": 210
+    },
+    {
+      "assetId": 80171834.0,
+      "addressId": 53722932,
+      "polygonId": "53165149",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "שועלי שמשון 7",
+      "dealDate": "2005-08-16",
+      "dealAmount": 972000,
+      "parcelNum": "6435-213-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 107.95,
+      "yearBuilt": 1995,
+      "streetCode": 69000548,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9004,
+      "row_id": 211
+    },
+    {
+      "assetId": 80170491.0,
+      "addressId": 53724968,
+      "polygonId": "53167398",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 2",
+      "dealDate": "2005-07-27",
+      "dealAmount": 482000,
+      "parcelNum": "6435-94-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 47.7,
+      "yearBuilt": 1975,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10105,
+      "row_id": 212
+    },
+    {
+      "assetId": 80172738.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2005-07-19",
+      "dealAmount": 860000,
+      "parcelNum": "6435-272-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה+קרקע",
+      "assetArea": 74.4,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11559,
+      "row_id": 213
+    },
+    {
+      "assetId": 80170754.0,
+      "addressId": 53720762,
+      "polygonId": "52348424",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 7",
+      "dealDate": "2005-06-03",
+      "dealAmount": 502000,
+      "parcelNum": "6435-123-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 64.1,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7832,
+      "row_id": 214
+    },
+    {
+      "assetId": 80171815.0,
+      "addressId": 53721917,
+      "polygonId": "52389057",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 8",
+      "dealDate": "2005-05-17",
+      "dealAmount": 754000,
+      "parcelNum": "6435-212-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 70.8,
+      "yearBuilt": 1997,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10650,
+      "row_id": 215
+    },
+    {
+      "assetId": 80170574.0,
+      "addressId": 53715969,
+      "polygonId": "52331815",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 2",
+      "dealDate": "2005-05-16",
+      "dealAmount": 481000,
+      "parcelNum": "6435-99-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 88.0,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5466,
+      "row_id": 216
+    },
+    {
+      "assetId": 80172729.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2005-04-19",
+      "dealAmount": 818000,
+      "parcelNum": "6435-272-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה+ראשונה",
+      "assetArea": 79.25,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10322,
+      "row_id": 217
+    },
+    {
+      "assetId": 80170772.0,
+      "addressId": 53727209,
+      "polygonId": "52335538",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 192",
+      "dealDate": "2005-04-06",
+      "dealAmount": 484000,
+      "parcelNum": "6435-124-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 66.4,
+      "yearBuilt": 1965,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-07-30",
+          "dealAmount": 438000
+        }
+      ],
+      "trend": {
+        "rate": 10.5,
+        "years": 6.7
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 121000
+        },
+        {
+          "proportion": "25",
+          "price": 121000
+        },
+        {
+          "proportion": "50",
+          "price": 242000
+        }
+      ],
+      "priceSM": 7333,
+      "row_id": 218
+    },
+    {
+      "assetId": 80170521.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2005-04-06",
+      "dealAmount": 514000,
+      "parcelNum": "6435-96-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13213,
+      "row_id": 219
+    },
+    {
+      "assetId": 80172771.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2005-03-31",
+      "dealAmount": 811000,
+      "parcelNum": "6435-274-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+קרקע",
+      "assetArea": 81.3,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-03-10",
+          "dealAmount": 909000
+        }
+      ],
+      "trend": {
+        "rate": -10.8,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 10012,
+      "row_id": 220
+    },
+    {
+      "assetId": 80170545.0,
+      "addressId": 53721357,
+      "polygonId": "53303844",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 3",
+      "dealDate": "2005-02-01",
+      "dealAmount": 429000,
+      "parcelNum": "6435-98-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.7,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7435,
+      "row_id": 221
+    },
+    {
+      "assetId": 80170460.0,
+      "addressId": 53722631,
+      "polygonId": "52296297",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 194",
+      "dealDate": "2005-01-19",
+      "dealAmount": 410000,
+      "parcelNum": "6435-93-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10540,
+      "row_id": 222
+    },
+    {
+      "assetId": 80172731.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2005-01-10",
+      "dealAmount": 799000,
+      "parcelNum": "6435-272-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה+שניה",
+      "assetArea": 79.8,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10013,
+      "row_id": 223
+    },
+    {
+      "assetId": 80362324.0,
+      "addressId": 53705896,
+      "polygonId": "52341160",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 14",
+      "dealDate": "2005-01-03",
+      "dealAmount": 990000,
+      "parcelNum": "6435-276-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 96.45,
+      "yearBuilt": 2001,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10264,
+      "row_id": 224
+    },
+    {
+      "assetId": 80172823.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2004-12-22",
+      "dealAmount": 955000,
+      "parcelNum": "6435-278-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע תחתונה + ראשונה",
+      "assetArea": 117.4,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8135,
+      "row_id": 225
+    },
+    {
+      "assetId": 80170610.0,
+      "addressId": 53722104,
+      "polygonId": "52192011",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "נורדאו 11",
+      "dealDate": "2004-11-23",
+      "dealAmount": 449000,
+      "parcelNum": "6435-102-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 69000553,
+      "settlmentID": 6900,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11662,
+      "row_id": 226
+    },
+    {
+      "assetId": 80170515.0,
+      "addressId": 53717223,
+      "polygonId": "52389081",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "יציאת אירופה 17",
+      "dealDate": "2004-11-22",
+      "dealAmount": 455000,
+      "parcelNum": "6435-96-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 69000550,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-07-11",
+          "dealAmount": 420000
+        },
+        {
+          "dealDate": "1998-03-15",
+          "dealAmount": 396000
+        }
+      ],
+      "trend": {
+        "rate": 8.3,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 11974,
+      "row_id": 227
+    },
+    {
+      "assetId": 80172736.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2004-11-15",
+      "dealAmount": 1349000,
+      "parcelNum": "6435-272-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע תחתונה+רביעית+חמישית",
+      "assetArea": 167.77,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8041,
+      "row_id": 228
+    },
+    {
+      "assetId": 80172824.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2004-08-10",
+      "dealAmount": 801000,
+      "parcelNum": "6435-278-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה + שניה",
+      "assetArea": 78.5,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10204,
+      "row_id": 229
+    },
+    {
+      "assetId": 80170718.0,
+      "addressId": 53907962,
+      "polygonId": "52373963",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "ויצמן 190",
+      "dealDate": "2004-08-08",
+      "dealAmount": 455000,
+      "parcelNum": "6435-122-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 45.0,
+      "yearBuilt": 1960,
+      "streetCode": 69000523,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10111,
+      "row_id": 230
+    },
+    {
+      "assetId": 80171809.0,
+      "addressId": 53721917,
+      "polygonId": "52389057",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 8",
+      "dealDate": "2004-08-06",
+      "dealAmount": 813000,
+      "parcelNum": "6435-212-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 66.5,
+      "yearBuilt": 1997,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12226,
+      "row_id": 231
+    },
+    {
+      "assetId": 80172735.0,
+      "addressId": 53904027,
+      "polygonId": "52239984",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 4",
+      "dealDate": "2004-07-08",
+      "dealAmount": 1285000,
+      "parcelNum": "6435-272-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע תחתונה+רביעית+חמישית",
+      "assetArea": 170.4,
+      "yearBuilt": 2006,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7541,
+      "row_id": 232
+    },
+    {
+      "assetId": 80172834.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2004-06-20",
+      "dealAmount": 1192000,
+      "parcelNum": "6435-278-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע תח'+רביעית+חמיש",
+      "assetArea": 154.5,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7715,
+      "row_id": 233
+    },
+    {
+      "assetId": 80172760.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2004-06-08",
+      "dealAmount": 843000,
+      "parcelNum": "6435-273-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה+קרקע",
+      "assetArea": 78.1,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10794,
+      "row_id": 234
+    },
+    {
+      "assetId": 80172826.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2004-05-27",
+      "dealAmount": 922000,
+      "parcelNum": "6435-278-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה + שניה",
+      "assetArea": 103.5,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8908,
+      "row_id": 235
+    },
+    {
+      "assetId": 80172833.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2004-05-19",
+      "dealAmount": 1215000,
+      "parcelNum": "6435-278-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע תח'+רביעית+חמיש",
+      "assetArea": 153.5,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7915,
+      "row_id": 236
+    },
+    {
+      "assetId": 80172828.0,
+      "addressId": 53902660,
+      "polygonId": "52335638",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "רופין 35",
+      "dealDate": "2004-05-02",
+      "dealAmount": 812000,
+      "parcelNum": "6435-278-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה + שלישית",
+      "assetArea": 78.5,
+      "yearBuilt": 2004,
+      "streetCode": 69000535,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10344,
+      "row_id": 237
+    },
+    {
+      "assetId": 80172757.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2004-03-26",
+      "dealAmount": 1272000,
+      "parcelNum": "6435-273-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע תח'+רביעית+חמיש",
+      "assetArea": 176.0,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7227,
+      "row_id": 238
+    },
+    {
+      "assetId": 80172765.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2004-03-21",
+      "dealAmount": 1272000,
+      "parcelNum": "6435-273-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע תח'+שלישית+רביע",
+      "assetArea": 176.2,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7219,
+      "row_id": 239
+    },
+    {
+      "assetId": 80172758.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2004-02-08",
+      "dealAmount": 1050000,
+      "parcelNum": "6435-273-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+קרקע",
+      "assetArea": 96.15,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10920,
+      "row_id": 240
+    },
+    {
+      "assetId": 80172766.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2004-02-02",
+      "dealAmount": 1300000,
+      "parcelNum": "6435-273-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע תח'+שלישית+רביע",
+      "assetArea": 170.25,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7636,
+      "row_id": 241
+    },
+    {
+      "assetId": 80172749.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2004-01-05",
+      "dealAmount": 1029000,
+      "parcelNum": "6435-273-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה + קרקע",
+      "assetArea": 96.7,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10641,
+      "row_id": 243
+    },
+    {
+      "assetId": 80172855.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2003-07-10",
+      "dealAmount": 772000,
+      "parcelNum": "6435-279-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה + קרקע",
+      "assetArea": 78.0,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9897,
+      "row_id": 246
+    },
+    {
+      "assetId": 80362325.0,
+      "addressId": 53705896,
+      "polygonId": "52341160",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 14",
+      "dealDate": "2003-02-06",
+      "dealAmount": 1142000,
+      "parcelNum": "6435-276-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 96.45,
+      "yearBuilt": 2001,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11840,
+      "row_id": 249
+    },
+    {
+      "assetId": 80172756.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2003-01-15",
+      "dealAmount": 1270000,
+      "parcelNum": "6435-273-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע תח'+רביעית+חמיש",
+      "assetArea": 173.8,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7307,
+      "row_id": 250
+    },
+    {
+      "assetId": 80172782.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2002-08-29",
+      "dealAmount": 1330000,
+      "parcelNum": "6435-274-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ק. תחתונה+רביעית",
+      "assetArea": 190.3,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6989,
+      "row_id": 252
+    },
+    {
+      "assetId": 80172762.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2002-08-12",
+      "dealAmount": 960000,
+      "parcelNum": "6435-273-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+ראשונה",
+      "assetArea": 96.15,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9984,
+      "row_id": 254
+    },
+    {
+      "assetId": 80172850.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2002-07-31",
+      "dealAmount": 1176000,
+      "parcelNum": "6435-279-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע תחתונה+רביעית",
+      "assetArea": 160.0,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7350,
+      "row_id": 256
+    },
+    {
+      "assetId": 80172784.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2002-06-23",
+      "dealAmount": 1083000,
+      "parcelNum": "6435-274-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+קרקע",
+      "assetArea": 98.0,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11051,
+      "row_id": 258
+    },
+    {
+      "assetId": 80172755.0,
+      "addressId": 53706056,
+      "polygonId": "52240371",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הראשונים 12",
+      "dealDate": "2002-06-12",
+      "dealAmount": 941000,
+      "parcelNum": "6435-273-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע+תחתונה+שלישית",
+      "assetArea": 96.7,
+      "yearBuilt": 2004,
+      "streetCode": 69000132,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9731,
+      "row_id": 259
+    },
+    {
+      "assetId": 80172854.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2002-06-09",
+      "dealAmount": 854000,
+      "parcelNum": "6435-279-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע תחתונה + קרקע",
+      "assetArea": 78.2,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10921,
+      "row_id": 260
+    },
+    {
+      "assetId": 80172781.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2002-05-28",
+      "dealAmount": 1362000,
+      "parcelNum": "6435-274-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ק. תחתונה+רביעית",
+      "assetArea": 179.0,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7609,
+      "row_id": 261
+    },
+    {
+      "assetId": 80172790.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2002-04-25",
+      "dealAmount": 927000,
+      "parcelNum": "6435-274-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+שלישית",
+      "assetArea": 97.3,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9527,
+      "row_id": 263
+    },
+    {
+      "assetId": 80172773.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2002-02-07",
+      "dealAmount": 912000,
+      "parcelNum": "6435-274-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+ראשונה",
+      "assetArea": 98.5,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9259,
+      "row_id": 272
+    },
+    {
+      "assetId": 80172772.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2002-01-20",
+      "dealAmount": 880000,
+      "parcelNum": "6435-274-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+ראשונה",
+      "assetArea": 99.0,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8889,
+      "row_id": 273
+    },
+    {
+      "assetId": 80172774.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2001-12-12",
+      "dealAmount": 764000,
+      "parcelNum": "6435-274-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+ראשונה",
+      "assetArea": 80.5,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9491,
+      "row_id": 277
+    },
+    {
+      "assetId": 80172861.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2001-11-21",
+      "dealAmount": 793000,
+      "parcelNum": "6435-279-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה + שלישית",
+      "assetArea": 102.4,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7744,
+      "row_id": 278
+    },
+    {
+      "assetId": 80172859.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2001-10-31",
+      "dealAmount": 829000,
+      "parcelNum": "6435-279-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה + שניה",
+      "assetArea": 102.6,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8080,
+      "row_id": 281
+    },
+    {
+      "assetId": 80172783.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2001-09-16",
+      "dealAmount": 971000,
+      "parcelNum": "6435-274-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+קרקע",
+      "assetArea": 96.7,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10041,
+      "row_id": 284
+    },
+    {
+      "assetId": 80172770.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2001-09-12",
+      "dealAmount": 976000,
+      "parcelNum": "6435-274-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+קרקע",
+      "assetArea": 97.8,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9980,
+      "row_id": 285
+    },
+    {
+      "assetId": 80172789.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2001-08-14",
+      "dealAmount": 825000,
+      "parcelNum": "6435-274-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+שלישית",
+      "assetArea": 97.0,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8505,
+      "row_id": 286
+    },
+    {
+      "assetId": 80172846.0,
+      "addressId": 53834109,
+      "polygonId": "53314086",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הסובלנות 1",
+      "dealDate": "2001-06-18",
+      "dealAmount": 838000,
+      "parcelNum": "6435-279-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע תחתונה+שניה",
+      "assetArea": 97.2,
+      "yearBuilt": 2002,
+      "streetCode": 69000169,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8621,
+      "row_id": 288
+    },
+    {
+      "assetId": 80172769.0,
+      "addressId": 53705894,
+      "polygonId": "52360927",
+      "neighborhoodName": "תקומה",
+      "neighborhoodId": 65209947,
+      "address": "הידידות 2",
+      "dealDate": "2001-04-30",
+      "dealAmount": 972000,
+      "parcelNum": "6435-274-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ק. תחתונה+קרקע",
+      "assetArea": 99.0,
+      "yearBuilt": 2002,
+      "streetCode": 69000167,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9818,
+      "row_id": 292
+    }
+  ]
+}

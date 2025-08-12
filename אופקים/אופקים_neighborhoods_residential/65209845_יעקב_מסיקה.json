@@ -1,0 +1,7543 @@
+{
+  "neighborhood_name": "יעקב מסיקה",
+  "city_name": "אופקים",
+  "transaction_count": 235,
+  "transactions": [
+    {
+      "assetId": 50224586.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2025-07-10",
+      "dealAmount": 600000,
+      "parcelNum": "39552-105-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-01-02",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2013-04-12",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 76.5,
+        "years": 9.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 300000
+        },
+        {
+          "proportion": "50",
+          "price": 300000
+        }
+      ],
+      "priceSM": 9677,
+      "row_id": 1
+    },
+    {
+      "assetId": 50224783.0,
+      "addressId": 53462691,
+      "polygonId": "52790421",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הגפן 132",
+      "dealDate": "2025-07-01",
+      "dealAmount": 1126000,
+      "parcelNum": "39553-19-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 95.0,
+      "yearBuilt": 1970,
+      "streetCode": 310108,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-18",
+          "dealAmount": 330000
+        },
+        {
+          "dealDate": "2007-08-19",
+          "dealAmount": 170000
+        },
+        {
+          "dealDate": "2006-12-11",
+          "dealAmount": 149000
+        }
+      ],
+      "trend": {
+        "rate": 241.2,
+        "years": 13.5
+      },
+      "ownership": [],
+      "priceSM": 11853,
+      "row_id": 2
+    },
+    {
+      "assetId": 50224952.0,
+      "addressId": 53467750,
+      "polygonId": "53390450",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 81",
+      "dealDate": "2025-05-29",
+      "dealAmount": 1075000,
+      "parcelNum": "39553-82-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 110.1,
+      "yearBuilt": 1970,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9764,
+      "row_id": 3
+    },
+    {
+      "assetId": 50227602.0,
+      "addressId": 53465219,
+      "polygonId": "52829381",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 25",
+      "dealDate": "2025-05-19",
+      "dealAmount": 610000,
+      "parcelNum": "39561-8-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 43.0,
+      "yearBuilt": 1960,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-06-01",
+          "dealAmount": 388000
+        }
+      ],
+      "trend": {
+        "rate": 57.2,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 14186,
+      "row_id": 4
+    },
+    {
+      "assetId": 50225825.0,
+      "addressId": 53845076,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 25",
+      "dealDate": "2025-05-11",
+      "dealAmount": 1010000,
+      "parcelNum": "39554-168-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11099,
+      "row_id": 5
+    },
+    {
+      "assetId": 50224715.0,
+      "addressId": 53468598,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 5",
+      "dealDate": "2025-04-15",
+      "dealAmount": 650000,
+      "parcelNum": "39552-106-62",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 80.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-04-20",
+          "dealAmount": 440000
+        }
+      ],
+      "trend": {
+        "rate": 47.7,
+        "years": 10.0
+      },
+      "ownership": [],
+      "priceSM": 8125,
+      "row_id": 6
+    },
+    {
+      "assetId": 50224437.0,
+      "addressId": 53465575,
+      "polygonId": "53411557",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 27",
+      "dealDate": "2025-03-16",
+      "dealAmount": 1600000,
+      "parcelNum": "39552-8-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 63.3,
+      "yearBuilt": 1970,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25276,
+      "row_id": 7
+    },
+    {
+      "assetId": 50224449.0,
+      "addressId": 53464527,
+      "polygonId": "52995355",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 19",
+      "dealDate": "2025-03-10",
+      "dealAmount": 83000,
+      "parcelNum": "39552-12-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 132.0,
+      "yearBuilt": 1960,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 629,
+      "row_id": 8
+    },
+    {
+      "assetId": 50224593.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2025-03-09",
+      "dealAmount": 590000,
+      "parcelNum": "39552-105-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9516,
+      "row_id": 9
+    },
+    {
+      "assetId": 50227021.0,
+      "addressId": 53467681,
+      "polygonId": "52838559",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב עוזיאל 9",
+      "dealDate": "2025-03-09",
+      "dealAmount": 1100000,
+      "parcelNum": "39557-42-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 28.4,
+      "yearBuilt": 1950,
+      "streetCode": 310113,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-07-14",
+          "dealAmount": 78000
+        }
+      ],
+      "trend": {
+        "rate": 1310.3,
+        "years": 21.7
+      },
+      "ownership": [],
+      "priceSM": 39286,
+      "row_id": 10
+    },
+    {
+      "assetId": 50227575.0,
+      "addressId": 53463748,
+      "polygonId": "52825622",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 21",
+      "dealDate": "2025-03-04",
+      "dealAmount": 910000,
+      "parcelNum": "39561-7-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-03",
+          "dealAmount": 510000
+        }
+      ],
+      "trend": {
+        "rate": 78.4,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 12639,
+      "row_id": 11
+    },
+    {
+      "assetId": 50225161.0,
+      "addressId": 53463471,
+      "polygonId": "53016034",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 153",
+      "dealDate": "2025-01-12",
+      "dealAmount": 1460000,
+      "parcelNum": "39554-58-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 150.0,
+      "yearBuilt": 1980,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9733,
+      "row_id": 12
+    },
+    {
+      "assetId": 50224677.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2025-01-08",
+      "dealAmount": 650000,
+      "parcelNum": "39552-106-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-06-01",
+          "dealAmount": 508000
+        }
+      ],
+      "trend": {
+        "rate": 28.0,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 11207,
+      "row_id": 13
+    },
+    {
+      "assetId": 50224881.0,
+      "addressId": 53844558,
+      "polygonId": "53388975",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "גולומב 28",
+      "dealDate": "2024-11-21",
+      "dealAmount": 1400000,
+      "parcelNum": "39553-56-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 87.5,
+      "yearBuilt": 1989,
+      "streetCode": 310121,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16000,
+      "row_id": 14
+    },
+    {
+      "assetId": 50224458.0,
+      "addressId": 53843799,
+      "polygonId": "52946837",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 13",
+      "dealDate": "2024-11-13",
+      "dealAmount": 2000000,
+      "parcelNum": "39552-15-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 63.3,
+      "yearBuilt": 1980,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31596,
+      "row_id": 15
+    },
+    {
+      "assetId": 50225176.0,
+      "addressId": 53843715,
+      "polygonId": "53038699",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 46",
+      "dealDate": "2024-11-10",
+      "dealAmount": 1500000,
+      "parcelNum": "39554-64-0",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 565.0,
+      "yearBuilt": 1960,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2655,
+      "row_id": 16
+    },
+    {
+      "assetId": 50224632.0,
+      "addressId": 53844606,
+      "polygonId": "53378133",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 4",
+      "dealDate": "2024-11-05",
+      "dealAmount": 685000,
+      "parcelNum": "39552-105-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-09",
+          "dealAmount": 560000
+        },
+        {
+          "dealDate": "2014-06-20",
+          "dealAmount": 280000
+        }
+      ],
+      "trend": {
+        "rate": 22.3,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 11048,
+      "row_id": 17
+    },
+    {
+      "assetId": 50224838.0,
+      "addressId": 53465408,
+      "polygonId": "52806291",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "יהודה הלוי 627",
+      "dealDate": "2024-10-28",
+      "dealAmount": 1350000,
+      "parcelNum": "39553-40-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "קרקע",
+      "assetArea": 162.0,
+      "yearBuilt": 1970,
+      "streetCode": 310116,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 18
+    },
+    {
+      "assetId": 50227052.0,
+      "addressId": 72956782,
+      "polygonId": "52751138",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "רבי דוד דהן 1",
+      "dealDate": "2024-10-14",
+      "dealAmount": 1250000,
+      "parcelNum": "39557-52-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 27.0,
+      "yearBuilt": 1992,
+      "streetCode": 310131,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 46296,
+      "row_id": 19
+    },
+    {
+      "assetId": 50226600.0,
+      "addressId": 72364519,
+      "polygonId": "53447091",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "גולומב 2",
+      "dealDate": "2024-09-29",
+      "dealAmount": 1950000,
+      "parcelNum": "39556-3-1",
+      "dealNature": "בית בודד",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.4,
+      "yearBuilt": 1950,
+      "streetCode": 310121,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 43919,
+      "row_id": 20
+    },
+    {
+      "assetId": 50224643.0,
+      "addressId": 53465659,
+      "polygonId": "53378133",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 6",
+      "dealDate": "2024-08-18",
+      "dealAmount": 600000,
+      "parcelNum": "39552-105-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-06-01",
+          "dealAmount": 509000
+        }
+      ],
+      "trend": {
+        "rate": 17.9,
+        "years": 1.2
+      },
+      "ownership": [],
+      "priceSM": 9677,
+      "row_id": 21
+    },
+    {
+      "assetId": 50225867.0,
+      "addressId": 53464736,
+      "polygonId": "52793130",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 40",
+      "dealDate": "2024-07-23",
+      "dealAmount": 630000,
+      "parcelNum": "39554-171-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-23",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2000-02-29",
+          "dealAmount": 52000
+        }
+      ],
+      "trend": {
+        "rate": 26.0,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 17500,
+      "row_id": 22
+    },
+    {
+      "assetId": 50224749.0,
+      "addressId": 53844471,
+      "polygonId": "52952426",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הגפן 108",
+      "dealDate": "2024-07-18",
+      "dealAmount": 1200000,
+      "parcelNum": "39553-8-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 67.5,
+      "yearBuilt": 1970,
+      "streetCode": 310108,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17778,
+      "row_id": 23
+    },
+    {
+      "assetId": 50224770.0,
+      "addressId": 53463660,
+      "polygonId": "52948610",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 120",
+      "dealDate": "2024-07-04",
+      "dealAmount": 1450000,
+      "parcelNum": "39553-15-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 55.5,
+      "yearBuilt": 1970,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26126,
+      "row_id": 24
+    },
+    {
+      "assetId": 50224732.0,
+      "addressId": 53839376,
+      "polygonId": "52993993",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 94",
+      "dealDate": "2024-06-27",
+      "dealAmount": 1700000,
+      "parcelNum": "39553-2-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 36.4,
+      "yearBuilt": 1960,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-04-13",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2018-05-22",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 209.1,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 47222,
+      "row_id": 25
+    },
+    {
+      "assetId": 50225720.0,
+      "addressId": 53464596,
+      "polygonId": "53155721",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 15",
+      "dealDate": "2024-06-26",
+      "dealAmount": 1200000,
+      "parcelNum": "39554-153-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 84.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-12-26",
+          "dealAmount": 820000
+        },
+        {
+          "dealDate": "2015-02-01",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2004-06-13",
+          "dealAmount": 202000
+        }
+      ],
+      "trend": {
+        "rate": 46.3,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 14286,
+      "row_id": 26
+    },
+    {
+      "assetId": 50225113.0,
+      "addressId": 53461888,
+      "polygonId": "53094170",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 123",
+      "dealDate": "2024-05-22",
+      "dealAmount": 1200000,
+      "parcelNum": "39554-41-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 92.0,
+      "yearBuilt": 1960,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13043,
+      "row_id": 27
+    },
+    {
+      "assetId": 50224649.0,
+      "addressId": 53465659,
+      "polygonId": "53378133",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 6",
+      "dealDate": "2024-05-02",
+      "dealAmount": 720000,
+      "parcelNum": "39552-105-70",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-06-01",
+          "dealAmount": 435000
+        },
+        {
+          "dealDate": "2018-02-26",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "2012-09-20",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2010-11-25",
+          "dealAmount": 230000
+        },
+        {
+          "dealDate": "2009-11-12",
+          "dealAmount": 190000
+        }
+      ],
+      "trend": {
+        "rate": 65.5,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 11613,
+      "row_id": 28
+    },
+    {
+      "assetId": 50225821.0,
+      "addressId": 53845076,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 25",
+      "dealDate": "2024-04-15",
+      "dealAmount": 620000,
+      "parcelNum": "39554-168-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 45.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-01",
+          "dealAmount": 268000
+        }
+      ],
+      "trend": {
+        "rate": 131.3,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 13778,
+      "row_id": 29
+    },
+    {
+      "assetId": 50225054.0,
+      "addressId": 53467212,
+      "polygonId": "53086159",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "גולומב 43",
+      "dealDate": "2024-04-09",
+      "dealAmount": 1270000,
+      "parcelNum": "39554-21-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.4,
+      "yearBuilt": 1960,
+      "streetCode": 310121,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 34890,
+      "row_id": 30
+    },
+    {
+      "assetId": 50224701.0,
+      "addressId": 53464573,
+      "polygonId": "52826063",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 7",
+      "dealDate": "2024-03-25",
+      "dealAmount": 660000,
+      "parcelNum": "39552-106-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-06-10",
+          "dealAmount": 390000
+        },
+        {
+          "dealDate": "2017-02-12",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2014-06-03",
+          "dealAmount": 270000
+        },
+        {
+          "dealDate": "2009-12-31",
+          "dealAmount": 145000
+        }
+      ],
+      "trend": {
+        "rate": 69.2,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 11379,
+      "row_id": 31
+    },
+    {
+      "assetId": 50224721.0,
+      "addressId": 53468598,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 5",
+      "dealDate": "2024-03-13",
+      "dealAmount": 850000,
+      "parcelNum": "39552-106-68",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-03-09",
+          "dealAmount": 520000
+        },
+        {
+          "dealDate": "2016-01-18",
+          "dealAmount": 490000
+        },
+        {
+          "dealDate": "2011-05-30",
+          "dealAmount": 440000
+        },
+        {
+          "dealDate": "2010-10-21",
+          "dealAmount": 420000
+        },
+        {
+          "dealDate": "2010-01-14",
+          "dealAmount": 280000
+        },
+        {
+          "dealDate": "2009-12-15",
+          "dealAmount": 230000
+        },
+        {
+          "dealDate": "2009-07-16",
+          "dealAmount": 210000
+        }
+      ],
+      "trend": {
+        "rate": 63.5,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 10625,
+      "row_id": 32
+    },
+    {
+      "assetId": 50227635.0,
+      "addressId": 53839028,
+      "polygonId": "52829381",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 29",
+      "dealDate": "2024-03-04",
+      "dealAmount": 580000,
+      "parcelNum": "39561-8-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 43.0,
+      "yearBuilt": 1960,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-17",
+          "dealAmount": 116000
+        },
+        {
+          "dealDate": "2005-06-16",
+          "dealAmount": 58000
+        }
+      ],
+      "trend": {
+        "rate": 400.0,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 13488,
+      "row_id": 33
+    },
+    {
+      "assetId": 50224604.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2023-11-08",
+      "dealAmount": 550000,
+      "parcelNum": "39552-105-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-31",
+          "dealAmount": 228000
+        }
+      ],
+      "trend": {
+        "rate": 141.2,
+        "years": 13.9
+      },
+      "ownership": [],
+      "priceSM": 8871,
+      "row_id": 34
+    },
+    {
+      "assetId": 50227116.0,
+      "addressId": 53844072,
+      "polygonId": "52945206",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב עוזיאל 18",
+      "dealDate": "2023-11-05",
+      "dealAmount": 1040000,
+      "parcelNum": "39557-72-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 28.4,
+      "yearBuilt": 1950,
+      "streetCode": 310113,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 36620,
+      "row_id": 35
+    },
+    {
+      "assetId": 50225806.0,
+      "addressId": 53845076,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 25",
+      "dealDate": "2023-11-03",
+      "dealAmount": 420000,
+      "parcelNum": "39554-168-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 46.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-10",
+          "dealAmount": 415000
+        },
+        {
+          "dealDate": "2009-01-16",
+          "dealAmount": 109000
+        }
+      ],
+      "trend": {
+        "rate": 1.2,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 9130,
+      "row_id": 36
+    },
+    {
+      "assetId": 50227048.0,
+      "addressId": 53467676,
+      "polygonId": "52831115",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 8",
+      "dealDate": "2023-10-17",
+      "dealAmount": 2400000,
+      "parcelNum": "39557-51-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 225.0,
+      "yearBuilt": 1960,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-09-17",
+          "dealAmount": 690000
+        }
+      ],
+      "trend": {
+        "rate": 247.8,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 10667,
+      "row_id": 37
+    },
+    {
+      "assetId": 80419062.0,
+      "addressId": 53464540,
+      "polygonId": "52976823",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 13",
+      "dealDate": "2023-08-24",
+      "dealAmount": 610000,
+      "parcelNum": "39554-154-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 36.0,
+      "yearBuilt": 1980,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-09-29",
+          "dealAmount": 430000
+        },
+        {
+          "dealDate": "2016-03-19",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2015-02-15",
+          "dealAmount": 540000
+        },
+        {
+          "dealDate": "2013-12-30",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2012-01-15",
+          "dealAmount": 403000
+        },
+        {
+          "dealDate": "2010-05-02",
+          "dealAmount": 190000
+        }
+      ],
+      "trend": {
+        "rate": 41.9,
+        "years": 1.9
+      },
+      "ownership": [],
+      "priceSM": 16944,
+      "row_id": 38
+    },
+    {
+      "assetId": 50225839.0,
+      "addressId": 53464321,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 31",
+      "dealDate": "2023-08-15",
+      "dealAmount": 360000,
+      "parcelNum": "39554-168-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4932,
+      "row_id": 39
+    },
+    {
+      "assetId": 50227601.0,
+      "addressId": 53845740,
+      "polygonId": "52829381",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 23",
+      "dealDate": "2023-08-03",
+      "dealAmount": 380000,
+      "parcelNum": "39561-8-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 36.0,
+      "yearBuilt": 1960,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-08-01",
+          "dealAmount": 107000
+        }
+      ],
+      "trend": {
+        "rate": 255.1,
+        "years": 24.0
+      },
+      "ownership": [],
+      "priceSM": 10556,
+      "row_id": 40
+    },
+    {
+      "assetId": 50224616.0,
+      "addressId": 53844606,
+      "polygonId": "53378133",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 4",
+      "dealDate": "2023-07-31",
+      "dealAmount": 690000,
+      "parcelNum": "39552-105-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-02-09",
+          "dealAmount": 435000
+        },
+        {
+          "dealDate": "2021-04-28",
+          "dealAmount": 385000
+        }
+      ],
+      "trend": {
+        "rate": 58.6,
+        "years": 0.5
+      },
+      "ownership": [],
+      "priceSM": 11129,
+      "row_id": 41
+    },
+    {
+      "assetId": 50225788.0,
+      "addressId": 53463113,
+      "polygonId": "53015035",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 17",
+      "dealDate": "2023-07-23",
+      "dealAmount": 670000,
+      "parcelNum": "39554-167-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 42.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-01-13",
+          "dealAmount": 435000
+        },
+        {
+          "dealDate": "2018-03-20",
+          "dealAmount": 315000
+        },
+        {
+          "dealDate": "2012-11-04",
+          "dealAmount": 250000
+        },
+        {
+          "dealDate": "2011-06-12",
+          "dealAmount": 230000
+        }
+      ],
+      "trend": {
+        "rate": 54.0,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 15952,
+      "row_id": 42
+    },
+    {
+      "assetId": 50224707.0,
+      "addressId": 53844521,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 3",
+      "dealDate": "2023-07-05",
+      "dealAmount": 690000,
+      "parcelNum": "39552-106-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11897,
+      "row_id": 43
+    },
+    {
+      "assetId": 50225873.0,
+      "addressId": 53464736,
+      "polygonId": "52793130",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 40",
+      "dealDate": "2023-06-18",
+      "dealAmount": 600000,
+      "parcelNum": "39554-171-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-07-25",
+          "dealAmount": 532000
+        },
+        {
+          "dealDate": "2014-08-20",
+          "dealAmount": 245000
+        }
+      ],
+      "trend": {
+        "rate": 12.8,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 16667,
+      "row_id": 44
+    },
+    {
+      "assetId": 50224651.0,
+      "addressId": 53465659,
+      "polygonId": "53378133",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 6",
+      "dealDate": "2023-06-04",
+      "dealAmount": 585000,
+      "parcelNum": "39552-105-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-09",
+          "dealAmount": 265000
+        },
+        {
+          "dealDate": "2012-06-25",
+          "dealAmount": 220000
+        }
+      ],
+      "trend": {
+        "rate": 120.8,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 9435,
+      "row_id": 45
+    },
+    {
+      "assetId": 50225116.0,
+      "addressId": 53462203,
+      "polygonId": "53086181",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 125",
+      "dealDate": "2023-05-28",
+      "dealAmount": 1277000,
+      "parcelNum": "39554-42-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 245.0,
+      "yearBuilt": 1950,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-10-02",
+          "dealAmount": 574000
+        },
+        {
+          "dealDate": "2012-10-28",
+          "dealAmount": 380000
+        }
+      ],
+      "trend": {
+        "rate": 122.5,
+        "years": 9.7
+      },
+      "ownership": [],
+      "priceSM": 5212,
+      "row_id": 46
+    },
+    {
+      "assetId": 50224461.0,
+      "addressId": 53466757,
+      "polygonId": "52838509",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 11",
+      "dealDate": "2023-05-22",
+      "dealAmount": 1100000,
+      "parcelNum": "39552-16-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 114.0,
+      "yearBuilt": 1960,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-06-08",
+          "dealAmount": 999000
+        }
+      ],
+      "trend": {
+        "rate": 10.1,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 9649,
+      "row_id": 47
+    },
+    {
+      "assetId": 50225061.0,
+      "addressId": 53773239,
+      "polygonId": "53421873",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "גולומב 39",
+      "dealDate": "2023-05-03",
+      "dealAmount": 450000,
+      "parcelNum": "39554-23-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 36.4,
+      "yearBuilt": 1980,
+      "streetCode": 310121,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12363,
+      "row_id": 48
+    },
+    {
+      "assetId": 50225814.0,
+      "addressId": 53464321,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 31",
+      "dealDate": "2023-04-27",
+      "dealAmount": 132000,
+      "parcelNum": "39554-168-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 45.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2933,
+      "row_id": 49
+    },
+    {
+      "assetId": 50224667.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2023-03-28",
+      "dealAmount": 660000,
+      "parcelNum": "39552-106-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-02-17",
+          "dealAmount": 453000
+        },
+        {
+          "dealDate": "2000-06-07",
+          "dealAmount": 207000
+        }
+      ],
+      "trend": {
+        "rate": 45.7,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 11379,
+      "row_id": 50
+    },
+    {
+      "assetId": 50224526.0,
+      "addressId": 53462178,
+      "polygonId": "52824654",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הפלמ\"ח 10",
+      "dealDate": "2023-03-28",
+      "dealAmount": 1655000,
+      "parcelNum": "39552-44-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "קרקע",
+      "assetArea": 84.5,
+      "yearBuilt": 1960,
+      "streetCode": 310115,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19586,
+      "row_id": 51
+    },
+    {
+      "assetId": 50225808.0,
+      "addressId": 53845076,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 25",
+      "dealDate": "2023-02-07",
+      "dealAmount": 164000,
+      "parcelNum": "39554-168-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 46.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3565,
+      "row_id": 52
+    },
+    {
+      "assetId": 50225845.0,
+      "addressId": 53845076,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 25",
+      "dealDate": "2023-01-08",
+      "dealAmount": 140000,
+      "parcelNum": "39554-168-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 45.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3111,
+      "row_id": 53
+    },
+    {
+      "assetId": 50224704.0,
+      "addressId": 53464573,
+      "polygonId": "52826063",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 7",
+      "dealDate": "2023-01-06",
+      "dealAmount": 655000,
+      "parcelNum": "39552-106-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11293,
+      "row_id": 54
+    },
+    {
+      "assetId": 50225110.0,
+      "addressId": 53466957,
+      "polygonId": "52996516",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 121",
+      "dealDate": "2022-12-21",
+      "dealAmount": 854000,
+      "parcelNum": "39554-40-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 126.0,
+      "yearBuilt": 1960,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6778,
+      "row_id": 55
+    },
+    {
+      "assetId": 50225780.0,
+      "addressId": 53464661,
+      "polygonId": "52822253",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 42",
+      "dealDate": "2022-12-13",
+      "dealAmount": 650000,
+      "parcelNum": "39554-156-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 80.1,
+      "yearBuilt": 1987,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8115,
+      "row_id": 56
+    },
+    {
+      "assetId": 50227117.0,
+      "addressId": 53844072,
+      "polygonId": "52945206",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב עוזיאל 18",
+      "dealDate": "2022-12-12",
+      "dealAmount": 560000,
+      "parcelNum": "39557-72-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 30.0,
+      "yearBuilt": 1950,
+      "streetCode": 310113,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18667,
+      "row_id": 57
+    },
+    {
+      "assetId": 80944669.0,
+      "addressId": 53770392,
+      "polygonId": "53118626",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 45",
+      "dealDate": "2022-12-11",
+      "dealAmount": 1400000,
+      "parcelNum": "39901-28-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 99.6,
+      "yearBuilt": 1970,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14056,
+      "row_id": 58
+    },
+    {
+      "assetId": 50225063.0,
+      "addressId": 53845199,
+      "polygonId": "52997462",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "גולומב 37",
+      "dealDate": "2022-11-03",
+      "dealAmount": 850000,
+      "parcelNum": "39554-24-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 36.4,
+      "yearBuilt": 1960,
+      "streetCode": 310121,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23352,
+      "row_id": 59
+    },
+    {
+      "assetId": 50225115.0,
+      "addressId": 53462203,
+      "polygonId": "53086181",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 125",
+      "dealDate": "2022-10-23",
+      "dealAmount": 1500000,
+      "parcelNum": "39554-42-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 133.0,
+      "yearBuilt": 1950,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-18",
+          "dealAmount": 660000
+        }
+      ],
+      "trend": {
+        "rate": 127.3,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 11278,
+      "row_id": 60
+    },
+    {
+      "assetId": 50227638.0,
+      "addressId": 53845740,
+      "polygonId": "52829381",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 23",
+      "dealDate": "2022-09-13",
+      "dealAmount": 237000,
+      "parcelNum": "39561-8-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 43.0,
+      "yearBuilt": 1960,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5512,
+      "row_id": 61
+    },
+    {
+      "assetId": 50224665.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2022-09-08",
+      "dealAmount": 620000,
+      "parcelNum": "39552-106-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-06-28",
+          "dealAmount": 430000
+        },
+        {
+          "dealDate": "2011-01-09",
+          "dealAmount": 345000
+        },
+        {
+          "dealDate": "2010-07-05",
+          "dealAmount": 220000
+        },
+        {
+          "dealDate": "2010-01-26",
+          "dealAmount": 180000
+        },
+        {
+          "dealDate": "2009-06-24",
+          "dealAmount": 150000
+        },
+        {
+          "dealDate": "2009-06-10",
+          "dealAmount": 115000
+        }
+      ],
+      "trend": {
+        "rate": 44.2,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 10690,
+      "row_id": 62
+    },
+    {
+      "assetId": 50227022.0,
+      "addressId": 53467681,
+      "polygonId": "52838559",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב עוזיאל 9",
+      "dealDate": "2022-08-28",
+      "dealAmount": 350000,
+      "parcelNum": "39557-42-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 28.4,
+      "yearBuilt": 1950,
+      "streetCode": 310113,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12324,
+      "row_id": 63
+    },
+    {
+      "assetId": 50225073.0,
+      "addressId": 53463531,
+      "polygonId": "52888659",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 99",
+      "dealDate": "2022-08-25",
+      "dealAmount": 1250000,
+      "parcelNum": "39554-27-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15432,
+      "row_id": 64
+    },
+    {
+      "assetId": 50225770.0,
+      "addressId": 53464562,
+      "polygonId": "52996893",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 11",
+      "dealDate": "2022-07-03",
+      "dealAmount": 470000,
+      "parcelNum": "39554-155-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13056,
+      "row_id": 65
+    },
+    {
+      "assetId": 50227090.0,
+      "addressId": 53465827,
+      "polygonId": "52812442",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרצל 24",
+      "dealDate": "2022-06-29",
+      "dealAmount": 1700000,
+      "parcelNum": "39557-62-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23611,
+      "row_id": 66
+    },
+    {
+      "assetId": 50224668.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2022-06-07",
+      "dealAmount": 101000,
+      "parcelNum": "39552-106-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1741,
+      "row_id": 67
+    },
+    {
+      "assetId": 50225837.0,
+      "addressId": 53845076,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 25",
+      "dealDate": "2022-05-31",
+      "dealAmount": 121000,
+      "parcelNum": "39554-168-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 45.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2689,
+      "row_id": 68
+    },
+    {
+      "assetId": 50225028.0,
+      "addressId": 53462201,
+      "polygonId": "52808890",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 176",
+      "dealDate": "2022-05-18",
+      "dealAmount": 1080000,
+      "parcelNum": "39554-12-2",
+      "dealNature": "בית בודד",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 28.4,
+      "yearBuilt": 1950,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-03-17",
+          "dealAmount": 266000
+        }
+      ],
+      "trend": {
+        "rate": 306.0,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 38571,
+      "row_id": 69
+    },
+    {
+      "assetId": 50227583.0,
+      "addressId": 53463748,
+      "polygonId": "52825622",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 21",
+      "dealDate": "2022-05-08",
+      "dealAmount": 287000,
+      "parcelNum": "39561-7-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3986,
+      "row_id": 70
+    },
+    {
+      "assetId": 80419063.0,
+      "addressId": 53464540,
+      "polygonId": "52976823",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 13",
+      "dealDate": "2022-04-05",
+      "dealAmount": 440000,
+      "parcelNum": "39554-154-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 35.6,
+      "yearBuilt": 1980,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-12-01",
+          "dealAmount": 310000
+        },
+        {
+          "dealDate": "2017-03-17",
+          "dealAmount": 305000
+        }
+      ],
+      "trend": {
+        "rate": 41.9,
+        "years": 1.3
+      },
+      "ownership": [],
+      "priceSM": 12571,
+      "row_id": 71
+    },
+    {
+      "assetId": 50224673.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2022-04-03",
+      "dealAmount": 560000,
+      "parcelNum": "39552-106-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-11-09",
+          "dealAmount": 385000
+        },
+        {
+          "dealDate": "2005-03-02",
+          "dealAmount": 78000
+        }
+      ],
+      "trend": {
+        "rate": 45.5,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 9655,
+      "row_id": 72
+    },
+    {
+      "assetId": 50224572.0,
+      "addressId": 53468757,
+      "polygonId": "52957262",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 84",
+      "dealDate": "2022-03-27",
+      "dealAmount": 1200000,
+      "parcelNum": "39552-95-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 130.6,
+      "yearBuilt": 1960,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-12-01",
+          "dealAmount": 1141000
+        }
+      ],
+      "trend": {
+        "rate": 5.2,
+        "years": 1.3
+      },
+      "ownership": [
+        {
+          "proportion": "11",
+          "price": 132000
+        },
+        {
+          "proportion": "11",
+          "price": 132000
+        },
+        {
+          "proportion": "11",
+          "price": 132000
+        },
+        {
+          "proportion": "33",
+          "price": 396000
+        },
+        {
+          "proportion": "33",
+          "price": 396000
+        }
+      ],
+      "priceSM": 9231,
+      "row_id": 73
+    },
+    {
+      "assetId": 50224711.0,
+      "addressId": 53468598,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 5",
+      "dealDate": "2022-03-15",
+      "dealAmount": 730000,
+      "parcelNum": "39552-106-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9125,
+      "row_id": 74
+    },
+    {
+      "assetId": 50225152.0,
+      "addressId": 53463470,
+      "polygonId": "53014777",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 143",
+      "dealDate": "2022-03-10",
+      "dealAmount": 750000,
+      "parcelNum": "39554-54-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.4,
+      "yearBuilt": 1970,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20604,
+      "row_id": 75
+    },
+    {
+      "assetId": 50224661.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2022-03-08",
+      "dealAmount": 520000,
+      "parcelNum": "39552-106-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-08-15",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 23.8,
+        "years": 0.6
+      },
+      "ownership": [],
+      "priceSM": 8966,
+      "row_id": 76
+    },
+    {
+      "assetId": 50225776.0,
+      "addressId": 53464661,
+      "polygonId": "52822253",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 42",
+      "dealDate": "2022-03-06",
+      "dealAmount": 680000,
+      "parcelNum": "39554-156-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 80.1,
+      "yearBuilt": 1987,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-08-02",
+          "dealAmount": 510000
+        },
+        {
+          "dealDate": "2016-11-14",
+          "dealAmount": 560000
+        },
+        {
+          "dealDate": "2009-12-24",
+          "dealAmount": 290000
+        },
+        {
+          "dealDate": "2008-09-18",
+          "dealAmount": 227000
+        },
+        {
+          "dealDate": "1999-05-10",
+          "dealAmount": 186000
+        }
+      ],
+      "trend": {
+        "rate": 33.3,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 8500,
+      "row_id": 77
+    },
+    {
+      "assetId": 50225834.0,
+      "addressId": 53845076,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 25",
+      "dealDate": "2022-03-03",
+      "dealAmount": 445000,
+      "parcelNum": "39554-168-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 45.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-03",
+          "dealAmount": 189000
+        }
+      ],
+      "trend": {
+        "rate": 135.4,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 9889,
+      "row_id": 78
+    },
+    {
+      "assetId": 50224589.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2022-02-24",
+      "dealAmount": 620000,
+      "parcelNum": "39552-105-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-11-22",
+          "dealAmount": 582000
+        },
+        {
+          "dealDate": "2013-02-18",
+          "dealAmount": 305000
+        }
+      ],
+      "trend": {
+        "rate": 6.5,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 79
+    },
+    {
+      "assetId": 50225763.0,
+      "addressId": 53464562,
+      "polygonId": "52996893",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 11",
+      "dealDate": "2022-02-22",
+      "dealAmount": 450000,
+      "parcelNum": "39554-155-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 80
+    },
+    {
+      "assetId": 50224724.0,
+      "addressId": 53468598,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 5",
+      "dealDate": "2022-02-22",
+      "dealAmount": 490000,
+      "parcelNum": "39552-106-71",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 80.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-24",
+          "dealAmount": 375000
+        },
+        {
+          "dealDate": "2013-07-01",
+          "dealAmount": 270000
+        },
+        {
+          "dealDate": "2007-01-14",
+          "dealAmount": 71000
+        }
+      ],
+      "trend": {
+        "rate": 30.7,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 6125,
+      "row_id": 81
+    },
+    {
+      "assetId": 50226734.0,
+      "addressId": 53460445,
+      "polygonId": "52788401",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "יהודה הלוי 6",
+      "dealDate": "2022-02-22",
+      "dealAmount": 764000,
+      "parcelNum": "39556-37-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 47.1,
+      "yearBuilt": 1970,
+      "streetCode": 310116,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-08-06",
+          "dealAmount": 730000
+        }
+      ],
+      "trend": {
+        "rate": 4.7,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 16255,
+      "row_id": 82
+    },
+    {
+      "assetId": 50227585.0,
+      "addressId": 53463748,
+      "polygonId": "52825622",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 21",
+      "dealDate": "2022-02-20",
+      "dealAmount": 106000,
+      "parcelNum": "39561-7-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1472,
+      "row_id": 83
+    },
+    {
+      "assetId": 50224786.0,
+      "addressId": 53464595,
+      "polygonId": "52783822",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 130",
+      "dealDate": "2022-02-18",
+      "dealAmount": 1800000,
+      "parcelNum": "39553-20-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 55.5,
+      "yearBuilt": 2000,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-15",
+          "dealAmount": 670000
+        }
+      ],
+      "trend": {
+        "rate": 168.7,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 32727,
+      "row_id": 84
+    },
+    {
+      "assetId": 50224594.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2022-02-10",
+      "dealAmount": 435000,
+      "parcelNum": "39552-105-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-06-06",
+          "dealAmount": 359000
+        },
+        {
+          "dealDate": "2016-02-02",
+          "dealAmount": 330000
+        },
+        {
+          "dealDate": "2013-02-27",
+          "dealAmount": 217000
+        },
+        {
+          "dealDate": "2008-01-01",
+          "dealAmount": 65000
+        },
+        {
+          "dealDate": "1998-06-01",
+          "dealAmount": 182000
+        }
+      ],
+      "trend": {
+        "rate": 21.2,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 7016,
+      "row_id": 85
+    },
+    {
+      "assetId": 50224717.0,
+      "addressId": 53468598,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 5",
+      "dealDate": "2022-01-19",
+      "dealAmount": 535000,
+      "parcelNum": "39552-106-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-07",
+          "dealAmount": 330000
+        },
+        {
+          "dealDate": "2012-12-18",
+          "dealAmount": 239000
+        },
+        {
+          "dealDate": "2007-08-14",
+          "dealAmount": 64000
+        }
+      ],
+      "trend": {
+        "rate": 62.1,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 9224,
+      "row_id": 86
+    },
+    {
+      "assetId": 50225859.0,
+      "addressId": 53464321,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 31",
+      "dealDate": "2021-12-26",
+      "dealAmount": 445000,
+      "parcelNum": "39554-168-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 45.5,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-26",
+          "dealAmount": 370000
+        },
+        {
+          "dealDate": "2010-07-01",
+          "dealAmount": 260000
+        }
+      ],
+      "trend": {
+        "rate": 20.3,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 9889,
+      "row_id": 87
+    },
+    {
+      "assetId": 50225854.0,
+      "addressId": 53845076,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 25",
+      "dealDate": "2021-12-14",
+      "dealAmount": 545000,
+      "parcelNum": "39554-168-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 46.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-07-19",
+          "dealAmount": 360000
+        },
+        {
+          "dealDate": "2012-04-18",
+          "dealAmount": 270000
+        },
+        {
+          "dealDate": "2011-08-11",
+          "dealAmount": 220000
+        }
+      ],
+      "trend": {
+        "rate": 51.4,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 11848,
+      "row_id": 88
+    },
+    {
+      "assetId": 50224827.0,
+      "addressId": 53464270,
+      "polygonId": "53156632",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "גולומב 16",
+      "dealDate": "2021-12-13",
+      "dealAmount": 500000,
+      "parcelNum": "39553-36-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 28.4,
+      "yearBuilt": 1990,
+      "streetCode": 310121,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17606,
+      "row_id": 89
+    },
+    {
+      "assetId": 50226976.0,
+      "addressId": 53844736,
+      "polygonId": "53387136",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 3",
+      "dealDate": "2021-11-28",
+      "dealAmount": 1605000,
+      "parcelNum": "39557-26-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 81.6,
+      "yearBuilt": 1970,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19669,
+      "row_id": 90
+    },
+    {
+      "assetId": 50224595.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2021-11-23",
+      "dealAmount": 340000,
+      "parcelNum": "39552-105-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-01-03",
+          "dealAmount": 299000
+        },
+        {
+          "dealDate": "2012-02-27",
+          "dealAmount": 180000
+        },
+        {
+          "dealDate": "2007-09-11",
+          "dealAmount": 66000
+        }
+      ],
+      "trend": {
+        "rate": 13.7,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 5484,
+      "row_id": 91
+    },
+    {
+      "assetId": 50224487.0,
+      "addressId": 53466220,
+      "polygonId": "52804675",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 16",
+      "dealDate": "2021-09-01",
+      "dealAmount": 1500000,
+      "parcelNum": "39552-30-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 85.0,
+      "yearBuilt": 1950,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-09-20",
+          "dealAmount": 749000
+        }
+      ],
+      "trend": {
+        "rate": 100.3,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 17647,
+      "row_id": 92
+    },
+    {
+      "assetId": 80944637.0,
+      "addressId": 0,
+      "polygonId": "53014142",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "החרוב 2",
+      "dealDate": "2021-08-15",
+      "dealAmount": 232000,
+      "parcelNum": "39901-23-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 1970,
+      "streetCode": 310151,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2900,
+      "row_id": 93
+    },
+    {
+      "assetId": 50227088.0,
+      "addressId": 53465211,
+      "polygonId": "53387608",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרצל 26",
+      "dealDate": "2021-08-06",
+      "dealAmount": 1230000,
+      "parcelNum": "39557-61-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 55.5,
+      "yearBuilt": 1960,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22162,
+      "row_id": 94
+    },
+    {
+      "assetId": 50225868.0,
+      "addressId": 53464736,
+      "polygonId": "52793130",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 40",
+      "dealDate": "2021-07-18",
+      "dealAmount": 123000,
+      "parcelNum": "39554-171-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2562,
+      "row_id": 95
+    },
+    {
+      "assetId": 50224610.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2021-07-04",
+      "dealAmount": 450000,
+      "parcelNum": "39552-105-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-18",
+          "dealAmount": 520000
+        },
+        {
+          "dealDate": "2014-02-18",
+          "dealAmount": 280000
+        }
+      ],
+      "trend": {
+        "rate": -13.5,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 7258,
+      "row_id": 96
+    },
+    {
+      "assetId": 50227637.0,
+      "addressId": 53845740,
+      "polygonId": "52829381",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 23",
+      "dealDate": "2021-06-09",
+      "dealAmount": 370000,
+      "parcelNum": "39561-8-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 36.0,
+      "yearBuilt": 1960,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-05",
+          "dealAmount": 230000
+        },
+        {
+          "dealDate": "2009-12-22",
+          "dealAmount": 70000
+        }
+      ],
+      "trend": {
+        "rate": 60.9,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 10278,
+      "row_id": 97
+    },
+    {
+      "assetId": 50227120.0,
+      "addressId": 53461054,
+      "polygonId": "52951865",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב עוזיאל 20",
+      "dealDate": "2021-06-03",
+      "dealAmount": 800000,
+      "parcelNum": "39557-73-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 47.4,
+      "yearBuilt": 1990,
+      "streetCode": 310113,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16878,
+      "row_id": 98
+    },
+    {
+      "assetId": 50227098.0,
+      "addressId": 72956841,
+      "polygonId": "52748744",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "רבי דוד דהן 9",
+      "dealDate": "2021-05-06",
+      "dealAmount": 400000,
+      "parcelNum": "39557-65-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 28.4,
+      "yearBuilt": 1950,
+      "streetCode": 310131,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14085,
+      "row_id": 99
+    },
+    {
+      "assetId": 50224617.0,
+      "addressId": 53844606,
+      "polygonId": "53378133",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 4",
+      "dealDate": "2021-04-29",
+      "dealAmount": 420000,
+      "parcelNum": "39552-105-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-10-27",
+          "dealAmount": 108000
+        }
+      ],
+      "trend": {
+        "rate": 288.9,
+        "years": 11.5
+      },
+      "ownership": [],
+      "priceSM": 6774,
+      "row_id": 100
+    },
+    {
+      "assetId": 50224767.0,
+      "addressId": 53918601,
+      "polygonId": "53447054",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הגפן 122",
+      "dealDate": "2021-04-18",
+      "dealAmount": 500000,
+      "parcelNum": "39553-14-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 67.5,
+      "yearBuilt": 2000,
+      "streetCode": 310108,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7407,
+      "row_id": 101
+    },
+    {
+      "assetId": 50224719.0,
+      "addressId": 53468598,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 5",
+      "dealDate": "2021-04-14",
+      "dealAmount": 650000,
+      "parcelNum": "39552-106-66",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-12-21",
+          "dealAmount": 540000
+        }
+      ],
+      "trend": {
+        "rate": 20.4,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 8125,
+      "row_id": 102
+    },
+    {
+      "assetId": 50227106.0,
+      "addressId": 53465210,
+      "polygonId": "52890216",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרצל 20",
+      "dealDate": "2021-04-05",
+      "dealAmount": 1562500,
+      "parcelNum": "39557-68-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 55.5,
+      "yearBuilt": 1984,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28153,
+      "row_id": 103
+    },
+    {
+      "assetId": 50225771.0,
+      "addressId": 53464562,
+      "polygonId": "52996893",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 11",
+      "dealDate": "2021-03-14",
+      "dealAmount": 400000,
+      "parcelNum": "39554-155-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-10",
+          "dealAmount": 280000
+        },
+        {
+          "dealDate": "2013-12-10",
+          "dealAmount": 218000
+        },
+        {
+          "dealDate": "2010-08-19",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 42.9,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 11111,
+      "row_id": 104
+    },
+    {
+      "assetId": 50225021.0,
+      "addressId": 53462985,
+      "polygonId": "53016148",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הדס 182",
+      "dealDate": "2021-02-18",
+      "dealAmount": 1975000,
+      "parcelNum": "39554-10-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 290.0,
+      "yearBuilt": 1993,
+      "streetCode": 310253,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6810,
+      "row_id": 105
+    },
+    {
+      "assetId": 50225012.0,
+      "addressId": 53845258,
+      "polygonId": "52996834",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הגפן 170",
+      "dealDate": "2021-02-16",
+      "dealAmount": 900000,
+      "parcelNum": "39554-7-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 218.0,
+      "yearBuilt": 1970,
+      "streetCode": 310108,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-06-09",
+          "dealAmount": 1200000
+        },
+        {
+          "dealDate": "2013-08-19",
+          "dealAmount": 1199000
+        }
+      ],
+      "trend": {
+        "rate": -25.0,
+        "years": 0.7
+      },
+      "ownership": [],
+      "priceSM": 4128,
+      "row_id": 106
+    },
+    {
+      "assetId": 50224654.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2020-11-29",
+      "dealAmount": 415000,
+      "parcelNum": "39552-106-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-20",
+          "dealAmount": 250000
+        },
+        {
+          "dealDate": "2014-02-27",
+          "dealAmount": 219000
+        },
+        {
+          "dealDate": "2010-01-21",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 66.0,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 7155,
+      "row_id": 107
+    },
+    {
+      "assetId": 50224607.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2020-11-09",
+      "dealAmount": 550000,
+      "parcelNum": "39552-105-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8871,
+      "row_id": 108
+    },
+    {
+      "assetId": 50224682.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2020-11-05",
+      "dealAmount": 400000,
+      "parcelNum": "39552-106-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-17",
+          "dealAmount": 195000
+        }
+      ],
+      "trend": {
+        "rate": 105.1,
+        "years": 10.6
+      },
+      "ownership": [],
+      "priceSM": 6897,
+      "row_id": 109
+    },
+    {
+      "assetId": 50224634.0,
+      "addressId": 53844606,
+      "polygonId": "53378133",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 4",
+      "dealDate": "2020-11-01",
+      "dealAmount": 430000,
+      "parcelNum": "39552-105-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-11",
+          "dealAmount": 334000
+        },
+        {
+          "dealDate": "2015-11-29",
+          "dealAmount": 280000
+        },
+        {
+          "dealDate": "2014-01-01",
+          "dealAmount": 258000
+        },
+        {
+          "dealDate": "2012-09-03",
+          "dealAmount": 280000
+        },
+        {
+          "dealDate": "2008-11-18",
+          "dealAmount": 62000
+        },
+        {
+          "dealDate": "2000-05-08",
+          "dealAmount": 201000
+        }
+      ],
+      "trend": {
+        "rate": 28.7,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 6935,
+      "row_id": 110
+    },
+    {
+      "assetId": 50224897.0,
+      "addressId": 72364495,
+      "polygonId": "53140126",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 63",
+      "dealDate": "2020-10-26",
+      "dealAmount": 1250000,
+      "parcelNum": "39553-66-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע ראשונה",
+      "assetArea": 115.3,
+      "yearBuilt": 1980,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10841,
+      "row_id": 111
+    },
+    {
+      "assetId": 50224820.0,
+      "addressId": 53844024,
+      "polygonId": "53387147",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "יהודה הלוי 3",
+      "dealDate": "2020-09-17",
+      "dealAmount": 830000,
+      "parcelNum": "39553-34-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 56.9,
+      "yearBuilt": 1960,
+      "streetCode": 310116,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14587,
+      "row_id": 112
+    },
+    {
+      "assetId": 50224823.0,
+      "addressId": 53459032,
+      "polygonId": "52838131",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "יהודה הלוי 1",
+      "dealDate": "2020-09-13",
+      "dealAmount": 520000,
+      "parcelNum": "39553-35-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 47.4,
+      "yearBuilt": 1990,
+      "streetCode": 310116,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10970,
+      "row_id": 113
+    },
+    {
+      "assetId": 50225139.0,
+      "addressId": 53461889,
+      "polygonId": "52792687",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 141",
+      "dealDate": "2020-08-31",
+      "dealAmount": 820000,
+      "parcelNum": "39554-50-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 95.0,
+      "yearBuilt": 1960,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8632,
+      "row_id": 114
+    },
+    {
+      "assetId": 50224440.0,
+      "addressId": 53467959,
+      "polygonId": "52779015",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 25",
+      "dealDate": "2020-08-27",
+      "dealAmount": 995000,
+      "parcelNum": "39552-9-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 77.8,
+      "yearBuilt": 1970,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12789,
+      "row_id": 115
+    },
+    {
+      "assetId": 50224958.0,
+      "addressId": 53462824,
+      "polygonId": "52840340",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 73",
+      "dealDate": "2020-07-08",
+      "dealAmount": 720000,
+      "parcelNum": "39553-84-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 107.9,
+      "yearBuilt": 1970,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6673,
+      "row_id": 116
+    },
+    {
+      "assetId": 50224917.0,
+      "addressId": 53464785,
+      "polygonId": "52799910",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב אבוחצירא 23",
+      "dealDate": "2020-07-06",
+      "dealAmount": 1170000,
+      "parcelNum": "39553-71-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 98.0,
+      "yearBuilt": 1992,
+      "streetCode": 310155,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11939,
+      "row_id": 117
+    },
+    {
+      "assetId": 50224588.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2020-06-18",
+      "dealAmount": 480000,
+      "parcelNum": "39552-105-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7742,
+      "row_id": 118
+    },
+    {
+      "assetId": 4346622.0,
+      "addressId": 0,
+      "polygonId": "39554-124",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "0",
+      "dealDate": "2020-05-26",
+      "dealAmount": 1130000,
+      "parcelNum": "39554-124-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 104.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10865,
+      "row_id": 119
+    },
+    {
+      "assetId": 50225844.0,
+      "addressId": 53464321,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 31",
+      "dealDate": "2020-05-10",
+      "dealAmount": 460000,
+      "parcelNum": "39554-168-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 45.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-03-08",
+          "dealAmount": 365000
+        },
+        {
+          "dealDate": "2011-11-13",
+          "dealAmount": 190000
+        }
+      ],
+      "trend": {
+        "rate": 26.0,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 10222,
+      "row_id": 120
+    },
+    {
+      "assetId": 50225773.0,
+      "addressId": 53464562,
+      "polygonId": "52996893",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 11",
+      "dealDate": "2020-05-07",
+      "dealAmount": 330000,
+      "parcelNum": "39554-155-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 38.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8684,
+      "row_id": 121
+    },
+    {
+      "assetId": 50224603.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2020-05-06",
+      "dealAmount": 360000,
+      "parcelNum": "39552-105-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-05",
+          "dealAmount": 389000
+        }
+      ],
+      "trend": {
+        "rate": -7.5,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 5806,
+      "row_id": 122
+    },
+    {
+      "assetId": 50224997.0,
+      "addressId": 53844186,
+      "polygonId": "52890003",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הגפן 150",
+      "dealDate": "2020-03-05",
+      "dealAmount": 865000,
+      "parcelNum": "39554-2-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.6,
+      "yearBuilt": 1960,
+      "streetCode": 310108,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14274,
+      "row_id": 123
+    },
+    {
+      "assetId": 50226978.0,
+      "addressId": 53464962,
+      "polygonId": "53001140",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 5",
+      "dealDate": "2019-12-31",
+      "dealAmount": 1200000,
+      "parcelNum": "39557-27-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 170.0,
+      "yearBuilt": 1982,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-09",
+          "dealAmount": 1200000
+        },
+        {
+          "dealDate": "2010-01-21",
+          "dealAmount": 558000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 7059,
+      "row_id": 124
+    },
+    {
+      "assetId": 50224418.0,
+      "addressId": 53462140,
+      "polygonId": "52935601",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 39",
+      "dealDate": "2019-09-04",
+      "dealAmount": 1250000,
+      "parcelNum": "39552-2-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 128.0,
+      "yearBuilt": 1960,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-10-01",
+          "dealAmount": 715000
+        },
+        {
+          "dealDate": "2012-07-13",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2008-02-03",
+          "dealAmount": 215000
+        }
+      ],
+      "trend": {
+        "rate": 74.8,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 9766,
+      "row_id": 125
+    },
+    {
+      "assetId": 50224484.0,
+      "addressId": 53464196,
+      "polygonId": "52957341",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב קוק 3",
+      "dealDate": "2019-08-14",
+      "dealAmount": 400000,
+      "parcelNum": "39552-29-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 63.0,
+      "yearBuilt": 1980,
+      "streetCode": 310114,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6349,
+      "row_id": 126
+    },
+    {
+      "assetId": 50227621.0,
+      "addressId": 53845740,
+      "polygonId": "52829381",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 23",
+      "dealDate": "2019-08-11",
+      "dealAmount": 360000,
+      "parcelNum": "39561-8-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 43.0,
+      "yearBuilt": 1960,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8372,
+      "row_id": 127
+    },
+    {
+      "assetId": 50225170.0,
+      "addressId": 53464616,
+      "polygonId": "52835153",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 50",
+      "dealDate": "2019-08-05",
+      "dealAmount": 1150000,
+      "parcelNum": "39554-61-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 125.0,
+      "yearBuilt": 1960,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9200,
+      "row_id": 128
+    },
+    {
+      "assetId": 50224642.0,
+      "addressId": 53465659,
+      "polygonId": "53378133",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 6",
+      "dealDate": "2019-07-02",
+      "dealAmount": 370000,
+      "parcelNum": "39552-105-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-09-09",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2009-09-18",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 23.3,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 5968,
+      "row_id": 129
+    },
+    {
+      "assetId": 50225137.0,
+      "addressId": 53463469,
+      "polygonId": "53087091",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 139",
+      "dealDate": "2019-06-03",
+      "dealAmount": 550000,
+      "parcelNum": "39554-49-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 36.4,
+      "yearBuilt": 1980,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-12-24",
+          "dealAmount": 237000
+        },
+        {
+          "dealDate": "2001-08-08",
+          "dealAmount": 110000
+        }
+      ],
+      "trend": {
+        "rate": 132.1,
+        "years": 16.5
+      },
+      "ownership": [],
+      "priceSM": 15278,
+      "row_id": 130
+    },
+    {
+      "assetId": 50224709.0,
+      "addressId": 53844521,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 3",
+      "dealDate": "2019-05-28",
+      "dealAmount": 117000,
+      "parcelNum": "39552-106-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2017,
+      "row_id": 131
+    },
+    {
+      "assetId": 50224422.0,
+      "addressId": 53462139,
+      "polygonId": "53015947",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 37",
+      "dealDate": "2019-03-10",
+      "dealAmount": 1150000,
+      "parcelNum": "39552-3-2",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 100.0,
+      "yearBuilt": 1996,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11500,
+      "row_id": 132
+    },
+    {
+      "assetId": 50224725.0,
+      "addressId": 53468598,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 5",
+      "dealDate": "2019-03-04",
+      "dealAmount": 450000,
+      "parcelNum": "39552-106-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 80.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-11-07",
+          "dealAmount": 307000
+        },
+        {
+          "dealDate": "2011-04-13",
+          "dealAmount": 290000
+        }
+      ],
+      "trend": {
+        "rate": 46.6,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 5625,
+      "row_id": 133
+    },
+    {
+      "assetId": 50225104.0,
+      "addressId": 53466708,
+      "polygonId": "53443007",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 111",
+      "dealDate": "2019-02-26",
+      "dealAmount": 740000,
+      "parcelNum": "39554-38-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.4,
+      "yearBuilt": 1970,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20330,
+      "row_id": 134
+    },
+    {
+      "assetId": 4478729.0,
+      "addressId": 53466216,
+      "polygonId": "53450249",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 44",
+      "dealDate": "2018-12-25",
+      "dealAmount": 143000,
+      "parcelNum": "39552-21-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 138.0,
+      "yearBuilt": 1981,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1036,
+      "row_id": 135
+    },
+    {
+      "assetId": 50224927.0,
+      "addressId": 72364477,
+      "polygonId": "52825844",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב אבוחצירא 19",
+      "dealDate": "2018-11-06",
+      "dealAmount": 700000,
+      "parcelNum": "39553-74-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 100.6,
+      "yearBuilt": 1970,
+      "streetCode": 310155,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6958,
+      "row_id": 136
+    },
+    {
+      "assetId": 50224723.0,
+      "addressId": 53468598,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 5",
+      "dealDate": "2018-09-20",
+      "dealAmount": 430000,
+      "parcelNum": "39552-106-70",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7414,
+      "row_id": 137
+    },
+    {
+      "assetId": 50226700.0,
+      "addressId": 53460688,
+      "polygonId": "53393994",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הפלמ\"ח 11",
+      "dealDate": "2018-09-07",
+      "dealAmount": 900000,
+      "parcelNum": "39556-23-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 320.0,
+      "yearBuilt": 1960,
+      "streetCode": 310115,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2812,
+      "row_id": 138
+    },
+    {
+      "assetId": 50224615.0,
+      "addressId": 53844606,
+      "polygonId": "53378133",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 4",
+      "dealDate": "2018-08-20",
+      "dealAmount": 410000,
+      "parcelNum": "39552-105-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6613,
+      "row_id": 139
+    },
+    {
+      "assetId": 50224875.0,
+      "addressId": 53463013,
+      "polygonId": "53062653",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "גולומב 26",
+      "dealDate": "2018-08-12",
+      "dealAmount": 494000,
+      "parcelNum": "39553-54-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע",
+      "assetArea": 129.0,
+      "yearBuilt": 1950,
+      "streetCode": 310121,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3829,
+      "row_id": 140
+    },
+    {
+      "assetId": 50224669.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2018-08-01",
+      "dealAmount": 480000,
+      "parcelNum": "39552-106-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-12-21",
+          "dealAmount": 52000
+        }
+      ],
+      "trend": {
+        "rate": 823.1,
+        "years": 11.6
+      },
+      "ownership": [],
+      "priceSM": 8276,
+      "row_id": 141
+    },
+    {
+      "assetId": 50224788.0,
+      "addressId": 53463002,
+      "polygonId": "53434218",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 134",
+      "dealDate": "2018-07-26",
+      "dealAmount": 350000,
+      "parcelNum": "39553-21-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 94.1,
+      "yearBuilt": 2000,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-05-27",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2017-07-18",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2011-12-26",
+          "dealAmount": 1150000
+        }
+      ],
+      "trend": {
+        "rate": -30.0,
+        "years": 0.2
+      },
+      "ownership": [],
+      "priceSM": 3723,
+      "row_id": 142
+    },
+    {
+      "assetId": 50225121.0,
+      "addressId": 53463468,
+      "polygonId": "53008236",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 131",
+      "dealDate": "2018-05-25",
+      "dealAmount": 750000,
+      "parcelNum": "39554-44-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 36.4,
+      "yearBuilt": 1960,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-09-17",
+          "dealAmount": 670000
+        }
+      ],
+      "trend": {
+        "rate": 11.9,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 20833,
+      "row_id": 143
+    },
+    {
+      "assetId": 50224436.0,
+      "addressId": 53465575,
+      "polygonId": "53411557",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 27",
+      "dealDate": "2018-05-10",
+      "dealAmount": 875000,
+      "parcelNum": "39552-8-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 63.3,
+      "yearBuilt": 1970,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13823,
+      "row_id": 144
+    },
+    {
+      "assetId": 50224755.0,
+      "addressId": 53461903,
+      "polygonId": "52828197",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הגפן 114",
+      "dealDate": "2018-04-22",
+      "dealAmount": 1050000,
+      "parcelNum": "39553-10-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 118.0,
+      "yearBuilt": 1940,
+      "streetCode": 310108,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-01-22",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 110.0,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 8898,
+      "row_id": 146
+    },
+    {
+      "assetId": 50224936.0,
+      "addressId": 53468589,
+      "polygonId": "52932608",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב אבוחצירא 15",
+      "dealDate": "2018-03-08",
+      "dealAmount": 620000,
+      "parcelNum": "39553-77-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 48.0,
+      "yearBuilt": 1960,
+      "streetCode": 310155,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-07-18",
+          "dealAmount": 470000
+        }
+      ],
+      "trend": {
+        "rate": 31.9,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 12917,
+      "row_id": 148
+    },
+    {
+      "assetId": 50224687.0,
+      "addressId": 53844521,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 3",
+      "dealDate": "2018-02-22",
+      "dealAmount": 246000,
+      "parcelNum": "39552-106-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4241,
+      "row_id": 149
+    },
+    {
+      "assetId": 50227019.0,
+      "addressId": 53464169,
+      "polygonId": "53378113",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב קוק 8",
+      "dealDate": "2018-02-21",
+      "dealAmount": 890000,
+      "parcelNum": "39557-41-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 47.0,
+      "yearBuilt": 1956,
+      "streetCode": 310114,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-30",
+          "dealAmount": 65000
+        }
+      ],
+      "trend": {
+        "rate": 1269.2,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 18936,
+      "row_id": 150
+    },
+    {
+      "assetId": 50227633.0,
+      "addressId": 53845740,
+      "polygonId": "52829381",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 23",
+      "dealDate": "2018-02-13",
+      "dealAmount": 360000,
+      "parcelNum": "39561-8-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 43.0,
+      "yearBuilt": 1960,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-09-27",
+          "dealAmount": 240000
+        },
+        {
+          "dealDate": "2003-02-06",
+          "dealAmount": 122000
+        }
+      ],
+      "trend": {
+        "rate": 50.0,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 8372,
+      "row_id": 151
+    },
+    {
+      "assetId": 50224735.0,
+      "addressId": 53459711,
+      "polygonId": "52994441",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הגפן 100",
+      "dealDate": "2018-01-02",
+      "dealAmount": 67000,
+      "parcelNum": "39553-3-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 70.0,
+      "yearBuilt": 1950,
+      "streetCode": 310108,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 957,
+      "row_id": 152
+    },
+    {
+      "assetId": 50224930.0,
+      "addressId": 53462827,
+      "polygonId": "52838370",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב אבוחצירא 17",
+      "dealDate": "2018-01-02",
+      "dealAmount": 970000,
+      "parcelNum": "39553-75-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 212.0,
+      "yearBuilt": 1970,
+      "streetCode": 310155,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-05-05",
+          "dealAmount": 332000
+        }
+      ],
+      "trend": {
+        "rate": 192.2,
+        "years": 19.7
+      },
+      "ownership": [],
+      "priceSM": 4575,
+      "row_id": 153
+    },
+    {
+      "assetId": 50224734.0,
+      "addressId": 53459711,
+      "polygonId": "52994441",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הגפן 100",
+      "dealDate": "2018-01-01",
+      "dealAmount": 850000,
+      "parcelNum": "39553-3-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 149.0,
+      "yearBuilt": 1950,
+      "streetCode": 310108,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-04-14",
+          "dealAmount": 820000
+        }
+      ],
+      "trend": {
+        "rate": 3.7,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 5705,
+      "row_id": 154
+    },
+    {
+      "assetId": 50226705.0,
+      "addressId": 53462325,
+      "polygonId": "52829653",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הפלמ\"ח 7",
+      "dealDate": "2018-01-01",
+      "dealAmount": 585000,
+      "parcelNum": "39556-25-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 57.1,
+      "yearBuilt": 1960,
+      "streetCode": 310115,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10245,
+      "row_id": 155
+    },
+    {
+      "assetId": 50224464.0,
+      "addressId": 53459337,
+      "polygonId": "52804666",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב קוק 9",
+      "dealDate": "2017-12-26",
+      "dealAmount": 1360000,
+      "parcelNum": "39552-17-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 163.0,
+      "yearBuilt": 1950,
+      "streetCode": 310114,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8344,
+      "row_id": 156
+    },
+    {
+      "assetId": 50224618.0,
+      "addressId": 53844606,
+      "polygonId": "53378133",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 4",
+      "dealDate": "2017-12-06",
+      "dealAmount": 390000,
+      "parcelNum": "39552-105-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-09",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2014-10-29",
+          "dealAmount": 280000
+        },
+        {
+          "dealDate": "2012-01-05",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 11.4,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 6290,
+      "row_id": 158
+    },
+    {
+      "assetId": 50224720.0,
+      "addressId": 53468598,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 5",
+      "dealDate": "2017-11-12",
+      "dealAmount": 495000,
+      "parcelNum": "39552-106-67",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-08-17",
+          "dealAmount": 425000
+        }
+      ],
+      "trend": {
+        "rate": 16.5,
+        "years": 1.2
+      },
+      "ownership": [],
+      "priceSM": 6188,
+      "row_id": 159
+    },
+    {
+      "assetId": 50224452.0,
+      "addressId": 53463799,
+      "polygonId": "52785191",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 17",
+      "dealDate": "2017-09-01",
+      "dealAmount": 900000,
+      "parcelNum": "39552-13-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 160
+    },
+    {
+      "assetId": 50224662.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2017-08-28",
+      "dealAmount": 450000,
+      "parcelNum": "39552-106-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-29",
+          "dealAmount": 407000
+        },
+        {
+          "dealDate": "2012-11-04",
+          "dealAmount": 229000
+        }
+      ],
+      "trend": {
+        "rate": 10.6,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 7759,
+      "row_id": 161
+    },
+    {
+      "assetId": 50226982.0,
+      "addressId": 53460382,
+      "polygonId": "65390039",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב עוזיאל 21",
+      "dealDate": "2017-07-23",
+      "dealAmount": 880000,
+      "parcelNum": "39557-28-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.0,
+      "yearBuilt": 1960,
+      "streetCode": 310113,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9778,
+      "row_id": 162
+    },
+    {
+      "assetId": 50224637.0,
+      "addressId": 53465659,
+      "polygonId": "53378133",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 6",
+      "dealDate": "2017-06-07",
+      "dealAmount": 455000,
+      "parcelNum": "39552-105-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-16",
+          "dealAmount": 370000
+        },
+        {
+          "dealDate": "2012-02-19",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2005-05-31",
+          "dealAmount": 102000
+        }
+      ],
+      "trend": {
+        "rate": 23.0,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 7339,
+      "row_id": 163
+    },
+    {
+      "assetId": 50225775.0,
+      "addressId": 53464661,
+      "polygonId": "52822253",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 42",
+      "dealDate": "2017-05-15",
+      "dealAmount": 540000,
+      "parcelNum": "39554-156-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 80.1,
+      "yearBuilt": 1987,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-01-27",
+          "dealAmount": 140000
+        },
+        {
+          "dealDate": "2001-11-26",
+          "dealAmount": 301000
+        }
+      ],
+      "trend": {
+        "rate": 285.7,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 6750,
+      "row_id": 164
+    },
+    {
+      "assetId": 50225027.0,
+      "addressId": 53462201,
+      "polygonId": "52808890",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 176",
+      "dealDate": "2017-04-04",
+      "dealAmount": 999000,
+      "parcelNum": "39554-12-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 200.0,
+      "yearBuilt": 1950,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4995,
+      "row_id": 166
+    },
+    {
+      "assetId": 50225857.0,
+      "addressId": 53845076,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 25",
+      "dealDate": "2017-03-07",
+      "dealAmount": 579000,
+      "parcelNum": "39554-168-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-10-27",
+          "dealAmount": 419000
+        }
+      ],
+      "trend": {
+        "rate": 38.2,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 8515,
+      "row_id": 167
+    },
+    {
+      "assetId": 50224521.0,
+      "addressId": 53466259,
+      "polygonId": "52748677",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 11",
+      "dealDate": "2017-02-15",
+      "dealAmount": 479000,
+      "parcelNum": "39552-42-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 66.2,
+      "yearBuilt": 1950,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7236,
+      "row_id": 168
+    },
+    {
+      "assetId": 50224486.0,
+      "addressId": 53466220,
+      "polygonId": "52804675",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 16",
+      "dealDate": "2016-12-18",
+      "dealAmount": 780000,
+      "parcelNum": "39552-30-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 63.3,
+      "yearBuilt": 1950,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12322,
+      "row_id": 169
+    },
+    {
+      "assetId": 50226721.0,
+      "addressId": 53844705,
+      "polygonId": "53389068",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "יהודה הלוי 14",
+      "dealDate": "2016-11-30",
+      "dealAmount": 1199000,
+      "parcelNum": "39556-33-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 240.0,
+      "yearBuilt": 1800,
+      "streetCode": 310116,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4996,
+      "row_id": 170
+    },
+    {
+      "assetId": 4478731.0,
+      "addressId": 53837152,
+      "polygonId": "52826062",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 32",
+      "dealDate": "2016-11-13",
+      "dealAmount": 730000,
+      "parcelNum": "39552-21-2",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 138.0,
+      "yearBuilt": 1981,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5290,
+      "row_id": 171
+    },
+    {
+      "assetId": 50224959.0,
+      "addressId": 53462824,
+      "polygonId": "52840340",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 73",
+      "dealDate": "2016-10-25",
+      "dealAmount": 899000,
+      "parcelNum": "39553-84-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 104.0,
+      "yearBuilt": 1970,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-05-17",
+          "dealAmount": 620000
+        }
+      ],
+      "trend": {
+        "rate": 45.0,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 8644,
+      "row_id": 172
+    },
+    {
+      "assetId": 50224954.0,
+      "addressId": 53468007,
+      "polygonId": "53063160",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 75",
+      "dealDate": "2016-08-15",
+      "dealAmount": 750000,
+      "parcelNum": "39553-83-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 153.0,
+      "yearBuilt": 1980,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4902,
+      "row_id": 173
+    },
+    {
+      "assetId": 50224590.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2016-07-06",
+      "dealAmount": 300000,
+      "parcelNum": "39552-105-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-01-15",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 4839,
+      "row_id": 175
+    },
+    {
+      "assetId": 50225869.0,
+      "addressId": 53464736,
+      "polygonId": "52793130",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 40",
+      "dealDate": "2016-06-13",
+      "dealAmount": 180000,
+      "parcelNum": "39554-171-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 38.0,
+      "yearBuilt": 1970,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4737,
+      "row_id": 176
+    },
+    {
+      "assetId": 50224805.0,
+      "addressId": 53844344,
+      "polygonId": "52975450",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "יהודה הלוי 13",
+      "dealDate": "2016-06-07",
+      "dealAmount": 1200000,
+      "parcelNum": "39553-29-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע",
+      "assetArea": 165.0,
+      "yearBuilt": 1970,
+      "streetCode": 310116,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7273,
+      "row_id": 177
+    },
+    {
+      "assetId": 50224684.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2016-05-30",
+      "dealAmount": 380000,
+      "parcelNum": "39552-106-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-11-10",
+          "dealAmount": 265000
+        }
+      ],
+      "trend": {
+        "rate": 43.4,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 6552,
+      "row_id": 178
+    },
+    {
+      "assetId": 50224869.0,
+      "addressId": 53459481,
+      "polygonId": "53014481",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "גולומב 22",
+      "dealDate": "2016-04-18",
+      "dealAmount": 250000,
+      "parcelNum": "39553-52-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 100.0,
+      "yearBuilt": 1960,
+      "streetCode": 310121,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2500,
+      "row_id": 179
+    },
+    {
+      "assetId": 50224680.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2016-03-30",
+      "dealAmount": 427000,
+      "parcelNum": "39552-106-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-07-22",
+          "dealAmount": 105000
+        }
+      ],
+      "trend": {
+        "rate": 306.7,
+        "years": 7.7
+      },
+      "ownership": [],
+      "priceSM": 7362,
+      "row_id": 180
+    },
+    {
+      "assetId": 50224580.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2015-12-27",
+      "dealAmount": 450000,
+      "parcelNum": "39552-105-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-06-11",
+          "dealAmount": 162000
+        }
+      ],
+      "trend": {
+        "rate": 177.8,
+        "years": 16.6
+      },
+      "ownership": [
+        {
+          "proportion": "20",
+          "price": 90000
+        },
+        {
+          "proportion": "20",
+          "price": 90000
+        },
+        {
+          "proportion": "20",
+          "price": 90000
+        },
+        {
+          "proportion": "20",
+          "price": 90000
+        },
+        {
+          "proportion": "20",
+          "price": 90000
+        }
+      ],
+      "priceSM": 7258,
+      "row_id": 181
+    },
+    {
+      "assetId": 50224660.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2015-11-24",
+      "dealAmount": 312000,
+      "parcelNum": "39552-106-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-21",
+          "dealAmount": 190000
+        },
+        {
+          "dealDate": "2009-05-17",
+          "dealAmount": 140000
+        },
+        {
+          "dealDate": "2009-03-19",
+          "dealAmount": 110000
+        }
+      ],
+      "trend": {
+        "rate": 64.2,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 5379,
+      "row_id": 182
+    },
+    {
+      "assetId": 50225082.0,
+      "addressId": 53466955,
+      "polygonId": "53451860",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 109",
+      "dealDate": "2015-10-08",
+      "dealAmount": 780000,
+      "parcelNum": "39554-30-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 80.0,
+      "yearBuilt": 1980,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9750,
+      "row_id": 183
+    },
+    {
+      "assetId": 50227586.0,
+      "addressId": 53463748,
+      "polygonId": "52825622",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 21",
+      "dealDate": "2015-07-28",
+      "dealAmount": 364000,
+      "parcelNum": "39561-7-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-23",
+          "dealAmount": 269000
+        },
+        {
+          "dealDate": "1998-08-10",
+          "dealAmount": 217000
+        }
+      ],
+      "trend": {
+        "rate": 35.3,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 5056,
+      "row_id": 184
+    },
+    {
+      "assetId": 50224880.0,
+      "addressId": 53844558,
+      "polygonId": "53388975",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "גולומב 28",
+      "dealDate": "2015-06-24",
+      "dealAmount": 820000,
+      "parcelNum": "39553-56-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 140.0,
+      "yearBuilt": 1989,
+      "streetCode": 310121,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-02",
+          "dealAmount": 775000
+        }
+      ],
+      "trend": {
+        "rate": 5.8,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 5857,
+      "row_id": 185
+    },
+    {
+      "assetId": 50227582.0,
+      "addressId": 53463748,
+      "polygonId": "52825622",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 21",
+      "dealDate": "2015-06-23",
+      "dealAmount": 385000,
+      "parcelNum": "39561-7-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5347,
+      "row_id": 186
+    },
+    {
+      "assetId": 50224947.0,
+      "addressId": 53466949,
+      "polygonId": "53414061",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 83",
+      "dealDate": "2015-04-26",
+      "dealAmount": 545000,
+      "parcelNum": "39553-81-1",
+      "dealNature": "דירת גן",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 60.3,
+      "yearBuilt": 1974,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-02-15",
+          "dealAmount": 167000
+        }
+      ],
+      "trend": {
+        "rate": 226.3,
+        "years": 11.2
+      },
+      "ownership": [],
+      "priceSM": 9083,
+      "row_id": 187
+    },
+    {
+      "assetId": 50224463.0,
+      "addressId": 53459337,
+      "polygonId": "52804666",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב קוק 9",
+      "dealDate": "2015-04-02",
+      "dealAmount": 950000,
+      "parcelNum": "39552-17-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע",
+      "assetArea": 130.0,
+      "yearBuilt": 1950,
+      "streetCode": 310114,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-04-30",
+          "dealAmount": 1050000
+        }
+      ],
+      "trend": {
+        "rate": -9.5,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 7308,
+      "row_id": 188
+    },
+    {
+      "assetId": 50224674.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2015-03-15",
+      "dealAmount": 360000,
+      "parcelNum": "39552-106-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-01",
+          "dealAmount": 130000
+        }
+      ],
+      "trend": {
+        "rate": 176.9,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 6207,
+      "row_id": 189
+    },
+    {
+      "assetId": 50224566.0,
+      "addressId": 53463263,
+      "polygonId": "52932698",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 88",
+      "dealDate": "2015-02-02",
+      "dealAmount": 800000,
+      "parcelNum": "39552-83-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 86.6,
+      "yearBuilt": 1900,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9238,
+      "row_id": 190
+    },
+    {
+      "assetId": 50224518.0,
+      "addressId": 53466225,
+      "polygonId": "53389456",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 13",
+      "dealDate": "2014-11-25",
+      "dealAmount": 650000,
+      "parcelNum": "39552-41-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 31.7,
+      "yearBuilt": 1970,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20505,
+      "row_id": 191
+    },
+    {
+      "assetId": 50225181.0,
+      "addressId": 53464939,
+      "polygonId": "52796640",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 44",
+      "dealDate": "2014-10-07",
+      "dealAmount": 750000,
+      "parcelNum": "39554-65-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 107.0,
+      "yearBuilt": 1979,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-03-23",
+          "dealAmount": 590000
+        }
+      ],
+      "trend": {
+        "rate": 27.1,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 7009,
+      "row_id": 192
+    },
+    {
+      "assetId": 50225744.0,
+      "addressId": 53464540,
+      "polygonId": "52976823",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 13",
+      "dealDate": "2014-07-22",
+      "dealAmount": 404000,
+      "parcelNum": "39554-154-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 85.0,
+      "yearBuilt": 1980,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4753,
+      "row_id": 193
+    },
+    {
+      "assetId": 50224557.0,
+      "addressId": 53462984,
+      "polygonId": "52843057",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 58",
+      "dealDate": "2014-04-01",
+      "dealAmount": 600000,
+      "parcelNum": "39552-79-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 65.8,
+      "yearBuilt": 1980,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9119,
+      "row_id": 194
+    },
+    {
+      "assetId": 50226703.0,
+      "addressId": 53466328,
+      "polygonId": "52812515",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הפלמ\"ח 9",
+      "dealDate": "2014-02-09",
+      "dealAmount": 860000,
+      "parcelNum": "39556-24-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 169.0,
+      "yearBuilt": 1900,
+      "streetCode": 310115,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5089,
+      "row_id": 196
+    },
+    {
+      "assetId": 50225836.0,
+      "addressId": 53845076,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 25",
+      "dealDate": "2014-01-30",
+      "dealAmount": 270000,
+      "parcelNum": "39554-168-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 45.0,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-07-03",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2010-09-06",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2001-02-19",
+          "dealAmount": 82000
+        }
+      ],
+      "trend": {
+        "rate": 35.0,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 6000,
+      "row_id": 197
+    },
+    {
+      "assetId": 50224597.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2013-10-22",
+      "dealAmount": 300000,
+      "parcelNum": "39552-105-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-23",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": -14.3,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 4839,
+      "row_id": 198
+    },
+    {
+      "assetId": 50226693.0,
+      "addressId": 53464842,
+      "polygonId": "52748645",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הפלמ\"ח 4",
+      "dealDate": "2013-08-07",
+      "dealAmount": 509000,
+      "parcelNum": "39556-21-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 47.1,
+      "yearBuilt": 1990,
+      "streetCode": 310115,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-09-25",
+          "dealAmount": 283000
+        }
+      ],
+      "trend": {
+        "rate": 79.9,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 10830,
+      "row_id": 199
+    },
+    {
+      "assetId": 50224484.0,
+      "addressId": 53464196,
+      "polygonId": "52957341",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב קוק 3",
+      "dealDate": "2013-06-23",
+      "dealAmount": 710000,
+      "parcelNum": "39552-29-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 56.0,
+      "yearBuilt": 1980,
+      "streetCode": 310114,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12679,
+      "row_id": 200
+    },
+    {
+      "assetId": 50224422.0,
+      "addressId": 53462139,
+      "polygonId": "53015947",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 37",
+      "dealDate": "2013-06-17",
+      "dealAmount": 359000,
+      "parcelNum": "39552-3-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 68.0,
+      "yearBuilt": 1996,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5279,
+      "row_id": 201
+    },
+    {
+      "assetId": 50225863.0,
+      "addressId": 53464736,
+      "polygonId": "52793130",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 40",
+      "dealDate": "2013-06-11",
+      "dealAmount": 99000,
+      "parcelNum": "39554-171-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 25.0,
+      "yearBuilt": 1970,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-11",
+          "dealAmount": 260000
+        }
+      ],
+      "trend": {
+        "rate": -61.9,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 3960,
+      "row_id": 202
+    },
+    {
+      "assetId": 50225013.0,
+      "addressId": 53845258,
+      "polygonId": "52996834",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הגפן 170",
+      "dealDate": "2013-06-09",
+      "dealAmount": 570000,
+      "parcelNum": "39554-7-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 383.0,
+      "yearBuilt": 1970,
+      "streetCode": 310108,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1488,
+      "row_id": 203
+    },
+    {
+      "assetId": 50224499.0,
+      "addressId": 53465232,
+      "polygonId": "53155449",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 24",
+      "dealDate": "2013-05-19",
+      "dealAmount": 290000,
+      "parcelNum": "39552-34-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4028,
+      "row_id": 204
+    },
+    {
+      "assetId": 50224458.0,
+      "addressId": 53843799,
+      "polygonId": "52946837",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הנשיא 13",
+      "dealDate": "2013-05-02",
+      "dealAmount": 330000,
+      "parcelNum": "39552-15-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 57.0,
+      "yearBuilt": 1980,
+      "streetCode": 310110,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5789,
+      "row_id": 205
+    },
+    {
+      "assetId": 50224809.0,
+      "addressId": 53462273,
+      "polygonId": "53141554",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "יהודה הלוי 11",
+      "dealDate": "2013-04-30",
+      "dealAmount": 600000,
+      "parcelNum": "39553-30-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 120.0,
+      "yearBuilt": 1960,
+      "streetCode": 310116,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 206
+    },
+    {
+      "assetId": 50224502.0,
+      "addressId": 53845174,
+      "polygonId": "53157464",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 26",
+      "dealDate": "2012-06-24",
+      "dealAmount": 630000,
+      "parcelNum": "39552-35-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 63.3,
+      "yearBuilt": 1980,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9953,
+      "row_id": 207
+    },
+    {
+      "assetId": 50224602.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2012-06-21",
+      "dealAmount": 208000,
+      "parcelNum": "39552-105-23",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3355,
+      "row_id": 208
+    },
+    {
+      "assetId": 50224591.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2012-06-13",
+      "dealAmount": 280000,
+      "parcelNum": "39552-105-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-11-28",
+          "dealAmount": 116000
+        }
+      ],
+      "trend": {
+        "rate": 141.4,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 4516,
+      "row_id": 209
+    },
+    {
+      "assetId": 50224520.0,
+      "addressId": 53466259,
+      "polygonId": "52748677",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 11",
+      "dealDate": "2012-04-29",
+      "dealAmount": 530000,
+      "parcelNum": "39552-42-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 48.7,
+      "yearBuilt": 1950,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10883,
+      "row_id": 210
+    },
+    {
+      "assetId": 50227087.0,
+      "addressId": 53465211,
+      "polygonId": "53387608",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרצל 26",
+      "dealDate": "2012-04-10",
+      "dealAmount": 750000,
+      "parcelNum": "39557-61-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 55.5,
+      "yearBuilt": 1960,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13514,
+      "row_id": 211
+    },
+    {
+      "assetId": 50224666.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2012-03-23",
+      "dealAmount": 266000,
+      "parcelNum": "39552-106-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-07",
+          "dealAmount": 220000
+        }
+      ],
+      "trend": {
+        "rate": 20.9,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 4586,
+      "row_id": 212
+    },
+    {
+      "assetId": 50227063.0,
+      "addressId": 53466227,
+      "polygonId": "52813259",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 4",
+      "dealDate": "2012-02-24",
+      "dealAmount": 373000,
+      "parcelNum": "39557-53-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.1,
+      "yearBuilt": 1956,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8271,
+      "row_id": 213
+    },
+    {
+      "assetId": 50227068.0,
+      "addressId": 53461149,
+      "polygonId": "52799893",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרצל 30",
+      "dealDate": "2012-02-12",
+      "dealAmount": 240000,
+      "parcelNum": "39557-55-0",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 65.0,
+      "yearBuilt": 1975,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3692,
+      "row_id": 214
+    },
+    {
+      "assetId": 50224587.0,
+      "addressId": 53463862,
+      "polygonId": "53057714",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 2",
+      "dealDate": "2011-09-18",
+      "dealAmount": 272000,
+      "parcelNum": "39552-105-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4387,
+      "row_id": 215
+    },
+    {
+      "assetId": 50224706.0,
+      "addressId": 53844521,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 3",
+      "dealDate": "2011-09-12",
+      "dealAmount": 180000,
+      "parcelNum": "39552-106-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-12-30",
+          "dealAmount": 139000
+        }
+      ],
+      "trend": {
+        "rate": 29.5,
+        "years": 7.7
+      },
+      "ownership": [],
+      "priceSM": 3103,
+      "row_id": 216
+    },
+    {
+      "assetId": 50227097.0,
+      "addressId": 72956841,
+      "polygonId": "52748744",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "רבי דוד דהן 9",
+      "dealDate": "2011-08-28",
+      "dealAmount": 91000,
+      "parcelNum": "39557-65-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1950,
+      "streetCode": 310131,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1468,
+      "row_id": 217
+    },
+    {
+      "assetId": 50224670.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2011-08-07",
+      "dealAmount": 250000,
+      "parcelNum": "39552-106-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-07-26",
+          "dealAmount": 167000
+        }
+      ],
+      "trend": {
+        "rate": 49.7,
+        "years": 10.0
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 82500
+        },
+        {
+          "proportion": "66",
+          "price": 165000
+        }
+      ],
+      "priceSM": 4310,
+      "row_id": 218
+    },
+    {
+      "assetId": 50224718.0,
+      "addressId": 53468598,
+      "polygonId": "52940220",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 5",
+      "dealDate": "2011-08-07",
+      "dealAmount": 350000,
+      "parcelNum": "39552-106-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4375,
+      "row_id": 219
+    },
+    {
+      "assetId": 50225075.0,
+      "addressId": 53834851,
+      "polygonId": "52890007",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 97",
+      "dealDate": "2011-07-10",
+      "dealAmount": 172000,
+      "parcelNum": "39554-28-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 85.0,
+      "yearBuilt": 1800,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2024,
+      "row_id": 220
+    },
+    {
+      "assetId": 50224529.0,
+      "addressId": 53460689,
+      "polygonId": "53157501",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הפלמ\"ח 12",
+      "dealDate": "2011-07-06",
+      "dealAmount": 590000,
+      "parcelNum": "39552-45-1",
+      "dealNature": "בית בודד",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 106.0,
+      "yearBuilt": 1800,
+      "streetCode": 310115,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5566,
+      "row_id": 221
+    },
+    {
+      "assetId": 50225865.0,
+      "addressId": 53464736,
+      "polygonId": "52793130",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 40",
+      "dealDate": "2011-03-27",
+      "dealAmount": 350000,
+      "parcelNum": "39554-171-3",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 66.0,
+      "yearBuilt": 1970,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-05",
+          "dealAmount": 260000
+        }
+      ],
+      "trend": {
+        "rate": 34.6,
+        "years": 0.7
+      },
+      "ownership": [],
+      "priceSM": 5303,
+      "row_id": 222
+    },
+    {
+      "assetId": 50225779.0,
+      "addressId": 53464661,
+      "polygonId": "52822253",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "שרת 42",
+      "dealDate": "2011-03-27",
+      "dealAmount": 315000,
+      "parcelNum": "39554-156-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 80.1,
+      "yearBuilt": 1987,
+      "streetCode": 310130,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-01-28",
+          "dealAmount": 160000
+        }
+      ],
+      "trend": {
+        "rate": 96.9,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 3938,
+      "row_id": 223
+    },
+    {
+      "assetId": 50224815.0,
+      "addressId": 53464778,
+      "polygonId": "52930880",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "יהודה הלוי 7",
+      "dealDate": "2011-02-02",
+      "dealAmount": 521900,
+      "parcelNum": "39553-32-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 1988,
+      "streetCode": 310116,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4349,
+      "row_id": 224
+    },
+    {
+      "assetId": 50224771.0,
+      "addressId": 53463660,
+      "polygonId": "52948610",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 120",
+      "dealDate": "2010-11-24",
+      "dealAmount": 130000,
+      "parcelNum": "39553-15-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2167,
+      "row_id": 225
+    },
+    {
+      "assetId": 50224995.0,
+      "addressId": 53463365,
+      "polygonId": "52808856",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הגפן 146",
+      "dealDate": "2010-09-20",
+      "dealAmount": 565000,
+      "parcelNum": "39554-1-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 150.0,
+      "yearBuilt": 1800,
+      "streetCode": 310108,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3767,
+      "row_id": 226
+    },
+    {
+      "assetId": 50224676.0,
+      "addressId": 53467276,
+      "polygonId": "52882845",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב חורי 1",
+      "dealDate": "2010-09-15",
+      "dealAmount": 130000,
+      "parcelNum": "39552-106-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 310147,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2241,
+      "row_id": 227
+    },
+    {
+      "assetId": 50224808.0,
+      "addressId": 53462273,
+      "polygonId": "53141554",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "יהודה הלוי 11",
+      "dealDate": "2010-08-30",
+      "dealAmount": 440000,
+      "parcelNum": "39553-30-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 110.0,
+      "yearBuilt": 1960,
+      "streetCode": 310116,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4000,
+      "row_id": 228
+    },
+    {
+      "assetId": 50226715.0,
+      "addressId": 53462323,
+      "polygonId": "53155925",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הפלמ\"ח 1",
+      "dealDate": "2010-07-07",
+      "dealAmount": 214000,
+      "parcelNum": "39556-28-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 137.0,
+      "yearBuilt": 1800,
+      "streetCode": 310115,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1562,
+      "row_id": 229
+    },
+    {
+      "assetId": 50225858.0,
+      "addressId": 53464321,
+      "polygonId": "52815174",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב הרצוג 31",
+      "dealDate": "2010-06-28",
+      "dealAmount": 220000,
+      "parcelNum": "39554-168-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 45.5,
+      "yearBuilt": 1970,
+      "streetCode": 310127,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4835,
+      "row_id": 230
+    },
+    {
+      "assetId": 50225045.0,
+      "addressId": 53462494,
+      "polygonId": "64909797",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 152",
+      "dealDate": "2010-05-25",
+      "dealAmount": 200000,
+      "parcelNum": "39554-18-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 36.4,
+      "yearBuilt": 1800,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5495,
+      "row_id": 231
+    },
+    {
+      "assetId": 50225088.0,
+      "addressId": 53466956,
+      "polygonId": "52996505",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 105",
+      "dealDate": "2010-04-22",
+      "dealAmount": 270000,
+      "parcelNum": "39554-32-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.4,
+      "yearBuilt": 1970,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-10-31",
+          "dealAmount": 238000
+        }
+      ],
+      "trend": {
+        "rate": 13.4,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 7500,
+      "row_id": 232
+    },
+    {
+      "assetId": 50224916.0,
+      "addressId": 53464785,
+      "polygonId": "52799910",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב אבוחצירא 23",
+      "dealDate": "2009-06-23",
+      "dealAmount": 165000,
+      "parcelNum": "39553-71-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 57.2,
+      "yearBuilt": 1992,
+      "streetCode": 310155,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2885,
+      "row_id": 234
+    },
+    {
+      "assetId": 50226697.0,
+      "addressId": 53468026,
+      "polygonId": "52799519",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הפלמ\"ח 6",
+      "dealDate": "2009-05-31",
+      "dealAmount": 900000,
+      "parcelNum": "39556-22-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 120.0,
+      "yearBuilt": 1990,
+      "streetCode": 310115,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7500,
+      "row_id": 235
+    },
+    {
+      "assetId": 50224753.0,
+      "addressId": 53463311,
+      "polygonId": "52813311",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הגפן 110",
+      "dealDate": "2009-03-23",
+      "dealAmount": 470000,
+      "parcelNum": "39553-9-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 50.8,
+      "yearBuilt": 1957,
+      "streetCode": 310108,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-11-24",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 291.7,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 9400,
+      "row_id": 236
+    },
+    {
+      "assetId": 50226981.0,
+      "addressId": 53460382,
+      "polygonId": "65390039",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הרב עוזיאל 21",
+      "dealDate": "2008-09-24",
+      "dealAmount": 405000,
+      "parcelNum": "39557-28-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 240.0,
+      "yearBuilt": 1960,
+      "streetCode": 310113,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1688,
+      "row_id": 237
+    },
+    {
+      "assetId": 50224782.0,
+      "addressId": 53462691,
+      "polygonId": "52790421",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "הגפן 132",
+      "dealDate": "2008-01-28",
+      "dealAmount": 220000,
+      "parcelNum": "39553-19-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 47.4,
+      "yearBuilt": 1970,
+      "streetCode": 310108,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-04-18",
+          "dealAmount": 207000
+        }
+      ],
+      "trend": {
+        "rate": 6.3,
+        "years": 0.8
+      },
+      "ownership": [],
+      "priceSM": 4681,
+      "row_id": 238
+    },
+    {
+      "assetId": 50227040.0,
+      "addressId": 53466219,
+      "polygonId": "52802388",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 10",
+      "dealDate": "2006-10-19",
+      "dealAmount": 277000,
+      "parcelNum": "39557-49-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 47.0,
+      "yearBuilt": 1980,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5894,
+      "row_id": 240
+    },
+    {
+      "assetId": 50227049.0,
+      "addressId": 53467676,
+      "polygonId": "52831115",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קדש 8",
+      "dealDate": "2006-05-10",
+      "dealAmount": 221000,
+      "parcelNum": "39557-51-4",
+      "dealNature": "קוטג' טורי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1960,
+      "streetCode": 310112,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2210,
+      "row_id": 241
+    },
+    {
+      "assetId": 50225089.0,
+      "addressId": 53466956,
+      "polygonId": "52996505",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "קיבוץ גלויות 105",
+      "dealDate": "2005-11-02",
+      "dealAmount": 93000,
+      "parcelNum": "39554-32-2",
+      "dealNature": "בית בודד",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.4,
+      "yearBuilt": 1970,
+      "streetCode": 310109,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2555,
+      "row_id": 243
+    },
+    {
+      "assetId": 50227525.0,
+      "addressId": 0,
+      "polygonId": "39561-15",
+      "neighborhoodName": "יעקב מסיקה",
+      "neighborhoodId": 65209845,
+      "address": "0",
+      "dealDate": "2004-10-31",
+      "dealAmount": 81000,
+      "parcelNum": "39561-15-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 69.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1174,
+      "row_id": 244
+    }
+  ]
+}

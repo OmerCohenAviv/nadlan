@@ -1,0 +1,4298 @@
+{
+  "neighborhood_name": "גאולים(שיכון א",
+  "city_name": "טבריה",
+  "transaction_count": 135,
+  "transactions": [
+    {
+      "assetId": 60099353.0,
+      "addressId": 53517012,
+      "polygonId": "51913639",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 2",
+      "dealDate": "2025-04-04",
+      "dealAmount": 570000,
+      "parcelNum": "15030-89-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 63.9,
+      "yearBuilt": 1970,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-04-04",
+          "dealAmount": 57000
+        }
+      ],
+      "trend": {
+        "rate": 900.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 9048,
+      "row_id": 1
+    },
+    {
+      "assetId": 60099403.0,
+      "addressId": 53805698,
+      "polygonId": "51952532",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 9",
+      "dealDate": "2025-03-17",
+      "dealAmount": 700000,
+      "parcelNum": "15030-101-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-07-02",
+          "dealAmount": 410000
+        },
+        {
+          "dealDate": "2013-04-04",
+          "dealAmount": 285000
+        }
+      ],
+      "trend": {
+        "rate": 70.7,
+        "years": 10.7
+      },
+      "ownership": [],
+      "priceSM": 23333,
+      "row_id": 2
+    },
+    {
+      "assetId": 60099313.0,
+      "addressId": 72622050,
+      "polygonId": "53149974",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 19",
+      "dealDate": "2025-03-06",
+      "dealAmount": 1100000,
+      "parcelNum": "15030-76-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 92.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-01-14",
+          "dealAmount": 260000
+        }
+      ],
+      "trend": {
+        "rate": 323.1,
+        "years": 16.2
+      },
+      "ownership": [],
+      "priceSM": 11957,
+      "row_id": 3
+    },
+    {
+      "assetId": 60099652.0,
+      "addressId": 65229771,
+      "polygonId": "51939113",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 13",
+      "dealDate": "2025-03-04",
+      "dealAmount": 880000,
+      "parcelNum": "15030-168-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 51.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-03-05",
+          "dealAmount": 800000
+        },
+        {
+          "dealDate": "2022-11-10",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2017-05-15",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 10.0,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 17255,
+      "row_id": 4
+    },
+    {
+      "assetId": 60099405.0,
+      "addressId": 53510430,
+      "polygonId": "51939489",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 5",
+      "dealDate": "2025-02-24",
+      "dealAmount": 72000,
+      "parcelNum": "15030-102-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.8,
+      "yearBuilt": 1950,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-11-21",
+          "dealAmount": 625000
+        }
+      ],
+      "trend": {
+        "rate": -88.5,
+        "years": 0.3
+      },
+      "ownership": [],
+      "priceSM": 1220,
+      "row_id": 5
+    },
+    {
+      "assetId": 60099530.0,
+      "addressId": 65229789,
+      "polygonId": "51934445",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 62",
+      "dealDate": "2024-11-10",
+      "dealAmount": 850000,
+      "parcelNum": "15030-127-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 1940,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10625,
+      "row_id": 6
+    },
+    {
+      "assetId": 60099447.0,
+      "addressId": 65229780,
+      "polygonId": "51911969",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 44",
+      "dealDate": "2024-11-10",
+      "dealAmount": 1000000,
+      "parcelNum": "15030-110-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 101.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9901,
+      "row_id": 7
+    },
+    {
+      "assetId": 60099584.0,
+      "addressId": 65229974,
+      "polygonId": "51919159",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 57",
+      "dealDate": "2024-10-21",
+      "dealAmount": 690000,
+      "parcelNum": "15030-138-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 45.1,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-08-06",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 109.1,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 15333,
+      "row_id": 8
+    },
+    {
+      "assetId": 60099540.0,
+      "addressId": 65229791,
+      "polygonId": "53232546",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 66",
+      "dealDate": "2024-08-28",
+      "dealAmount": 600000,
+      "parcelNum": "15030-129-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-03-19",
+          "dealAmount": 53000
+        }
+      ],
+      "trend": {
+        "rate": 1032.1,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 13333,
+      "row_id": 9
+    },
+    {
+      "assetId": 60099499.0,
+      "addressId": 65229788,
+      "polygonId": "53227883",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 60",
+      "dealDate": "2024-08-21",
+      "dealAmount": 250000,
+      "parcelNum": "15030-120-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 45.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-03-09",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2011-03-03",
+          "dealAmount": 375000
+        }
+      ],
+      "trend": {
+        "rate": -44.4,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 5556,
+      "row_id": 10
+    },
+    {
+      "assetId": 60099655.0,
+      "addressId": 65229592,
+      "polygonId": "51939909",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 15",
+      "dealDate": "2024-08-19",
+      "dealAmount": 1074000,
+      "parcelNum": "15030-169-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 99.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-01-03",
+          "dealAmount": 550000
+        }
+      ],
+      "trend": {
+        "rate": 95.3,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 10848,
+      "row_id": 11
+    },
+    {
+      "assetId": 60099396.0,
+      "addressId": 53517515,
+      "polygonId": "51942115",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 13",
+      "dealDate": "2024-08-06",
+      "dealAmount": 1570000,
+      "parcelNum": "15030-100-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 162.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-07-24",
+          "dealAmount": 1225000
+        },
+        {
+          "dealDate": "2014-06-11",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": 28.2,
+        "years": 2.0
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 392500
+        },
+        {
+          "proportion": "75",
+          "price": 1177500
+        }
+      ],
+      "priceSM": 9691,
+      "row_id": 12
+    },
+    {
+      "assetId": 60099257.0,
+      "addressId": 65229392,
+      "polygonId": "51915923",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "השילוח 25",
+      "dealDate": "2024-05-12",
+      "dealAmount": 850000,
+      "parcelNum": "15030-64-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 119.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000217,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-03-14",
+          "dealAmount": 280500
+        }
+      ],
+      "trend": {
+        "rate": 203.0,
+        "years": 17.2
+      },
+      "ownership": [],
+      "priceSM": 7143,
+      "row_id": 13
+    },
+    {
+      "assetId": 60099437.0,
+      "addressId": 65229778,
+      "polygonId": "51934452",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 40",
+      "dealDate": "2024-03-27",
+      "dealAmount": 660000,
+      "parcelNum": "15030-108-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 25.5,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25882,
+      "row_id": 14
+    },
+    {
+      "assetId": 60099470.0,
+      "addressId": 53520564,
+      "polygonId": "51919846",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 7",
+      "dealDate": "2024-01-28",
+      "dealAmount": 300000,
+      "parcelNum": "15030-114-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.5,
+      "floor": "שניה",
+      "assetArea": 25.4,
+      "yearBuilt": 1950,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-25",
+          "dealAmount": 130000
+        },
+        {
+          "dealDate": "2010-01-05",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 130.8,
+        "years": 13.7
+      },
+      "ownership": [],
+      "priceSM": 12000,
+      "row_id": 16
+    },
+    {
+      "assetId": 60099595.0,
+      "addressId": 65229972,
+      "polygonId": "51910080",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 61",
+      "dealDate": "2023-08-28",
+      "dealAmount": 550000,
+      "parcelNum": "15030-140-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.4,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-12",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2002-01-16",
+          "dealAmount": 90000
+        },
+        {
+          "dealDate": "2002-01-16",
+          "dealAmount": 181000
+        }
+      ],
+      "trend": {
+        "rate": 175.0,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 22000,
+      "row_id": 17
+    },
+    {
+      "assetId": 60099702.0,
+      "addressId": 65229584,
+      "polygonId": "51916543",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 35",
+      "dealDate": "2023-08-08",
+      "dealAmount": 304000,
+      "parcelNum": "15030-182-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 69.02,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4405,
+      "row_id": 18
+    },
+    {
+      "assetId": 60099467.0,
+      "addressId": 53520564,
+      "polygonId": "51919846",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 7",
+      "dealDate": "2023-07-12",
+      "dealAmount": 515000,
+      "parcelNum": "15030-114-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 25.5,
+      "yearBuilt": 1950,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-01-02",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2016-09-22",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "1998-02-02",
+          "dealAmount": 287000
+        }
+      ],
+      "trend": {
+        "rate": 3.0,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 20600,
+      "row_id": 19
+    },
+    {
+      "assetId": 60099318.0,
+      "addressId": 65229586,
+      "polygonId": "51912787",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 29",
+      "dealDate": "2023-06-04",
+      "dealAmount": 1000000,
+      "parcelNum": "15030-82-2",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 108.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-07-14",
+          "dealAmount": 1100000
+        },
+        {
+          "dealDate": "2016-01-31",
+          "dealAmount": 495000
+        }
+      ],
+      "trend": {
+        "rate": -9.1,
+        "years": 0.9
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 330000
+        },
+        {
+          "proportion": "66",
+          "price": 660000
+        }
+      ],
+      "priceSM": 9259,
+      "row_id": 20
+    },
+    {
+      "assetId": 60099473.0,
+      "addressId": 53836088,
+      "polygonId": "51915661",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 11",
+      "dealDate": "2023-01-09",
+      "dealAmount": 540000,
+      "parcelNum": "15030-115-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.5,
+      "floor": "ראשונה",
+      "assetArea": 25.5,
+      "yearBuilt": 1960,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-01-20",
+          "dealAmount": 327000
+        },
+        {
+          "dealDate": "2013-04-24",
+          "dealAmount": 284000
+        },
+        {
+          "dealDate": "2007-02-04",
+          "dealAmount": 106000
+        }
+      ],
+      "trend": {
+        "rate": 65.1,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 21600,
+      "row_id": 22
+    },
+    {
+      "assetId": 60099454.0,
+      "addressId": 65229781,
+      "polygonId": "51907907",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 46",
+      "dealDate": "2022-12-25",
+      "dealAmount": 233333,
+      "parcelNum": "15030-111-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5185,
+      "row_id": 23
+    },
+    {
+      "assetId": 60099666.0,
+      "addressId": 65229765,
+      "polygonId": "51928484",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 9",
+      "dealDate": "2022-12-07",
+      "dealAmount": 750000,
+      "parcelNum": "15030-171-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 87.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-17",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2016-06-23",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2012-05-03",
+          "dealAmount": 430000
+        },
+        {
+          "dealDate": "2001-10-29",
+          "dealAmount": 279000
+        }
+      ],
+      "trend": {
+        "rate": 15.4,
+        "years": 1.1
+      },
+      "ownership": [],
+      "priceSM": 8621,
+      "row_id": 24
+    },
+    {
+      "assetId": 60099539.0,
+      "addressId": 65229791,
+      "polygonId": "53232546",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 66",
+      "dealDate": "2022-09-28",
+      "dealAmount": 830000,
+      "parcelNum": "15030-129-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 90.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9222,
+      "row_id": 25
+    },
+    {
+      "assetId": 60099459.0,
+      "addressId": 65229774,
+      "polygonId": "51939116",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 32",
+      "dealDate": "2022-05-19",
+      "dealAmount": 1570000,
+      "parcelNum": "15030-112-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "שניה",
+      "assetArea": 175.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8971,
+      "row_id": 26
+    },
+    {
+      "assetId": 60099477.0,
+      "addressId": 53518390,
+      "polygonId": "51916167",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 15",
+      "dealDate": "2022-03-28",
+      "dealAmount": 870000,
+      "parcelNum": "15030-116-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 85.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10235,
+      "row_id": 27
+    },
+    {
+      "assetId": 60099320.0,
+      "addressId": 65229586,
+      "polygonId": "51912787",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 29",
+      "dealDate": "2022-02-14",
+      "dealAmount": 950000,
+      "parcelNum": "15030-82-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 120.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-09-13",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": 251.9,
+        "years": 11.4
+      },
+      "ownership": [],
+      "priceSM": 7917,
+      "row_id": 28
+    },
+    {
+      "assetId": 60099358.0,
+      "addressId": 65230770,
+      "polygonId": "51913914",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 4",
+      "dealDate": "2022-01-23",
+      "dealAmount": 1000000,
+      "parcelNum": "15030-90-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 169.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5917,
+      "row_id": 29
+    },
+    {
+      "assetId": 60099534.0,
+      "addressId": 65229790,
+      "polygonId": "51937158",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 64",
+      "dealDate": "2021-12-28",
+      "dealAmount": 655000,
+      "parcelNum": "15030-128-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 63.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10397,
+      "row_id": 30
+    },
+    {
+      "assetId": 60099402.0,
+      "addressId": 53805698,
+      "polygonId": "51952532",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 9",
+      "dealDate": "2021-12-13",
+      "dealAmount": 710000,
+      "parcelNum": "15030-101-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 51.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-06-15",
+          "dealAmount": 724000
+        },
+        {
+          "dealDate": "2013-05-02",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": -1.9,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 13922,
+      "row_id": 31
+    },
+    {
+      "assetId": 60099393.0,
+      "addressId": 53856111,
+      "polygonId": "51913811",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 17",
+      "dealDate": "2021-10-18",
+      "dealAmount": 505000,
+      "parcelNum": "15030-99-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-10-24",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "2013-01-20",
+          "dealAmount": 250000
+        },
+        {
+          "dealDate": "2011-01-30",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 32.9,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 16833,
+      "row_id": 32
+    },
+    {
+      "assetId": 60099661.0,
+      "addressId": 65229770,
+      "polygonId": "53231432",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 11",
+      "dealDate": "2021-10-13",
+      "dealAmount": 550000,
+      "parcelNum": "15030-170-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6962,
+      "row_id": 33
+    },
+    {
+      "assetId": 60099448.0,
+      "addressId": 65229780,
+      "polygonId": "51911969",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 44",
+      "dealDate": "2021-08-29",
+      "dealAmount": 400000,
+      "parcelNum": "15030-110-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 45.1,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8869,
+      "row_id": 34
+    },
+    {
+      "assetId": 60099510.0,
+      "addressId": 65229786,
+      "polygonId": "51936776",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 56",
+      "dealDate": "2021-07-26",
+      "dealAmount": 550000,
+      "parcelNum": "15030-122-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 96.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5729,
+      "row_id": 35
+    },
+    {
+      "assetId": 60099347.0,
+      "addressId": 65229579,
+      "polygonId": "53232333",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 28",
+      "dealDate": "2021-07-01",
+      "dealAmount": 890000,
+      "parcelNum": "15030-88-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 113.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-04-04",
+          "dealAmount": 670000
+        },
+        {
+          "dealDate": "2013-04-30",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 32.8,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 7876,
+      "row_id": 36
+    },
+    {
+      "assetId": 60099298.0,
+      "addressId": 65229573,
+      "polygonId": "51914565",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 10",
+      "dealDate": "2021-06-15",
+      "dealAmount": 700000,
+      "parcelNum": "15030-72-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9333,
+      "row_id": 37
+    },
+    {
+      "assetId": 60099310.0,
+      "addressId": 72622050,
+      "polygonId": "53149974",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 19",
+      "dealDate": "2021-06-01",
+      "dealAmount": 675000,
+      "parcelNum": "15030-76-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 49.1,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13747,
+      "row_id": 38
+    },
+    {
+      "assetId": 60099332.0,
+      "addressId": 65229576,
+      "polygonId": "53229338",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 22",
+      "dealDate": "2021-04-06",
+      "dealAmount": 895000,
+      "parcelNum": "15030-85-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 160.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5594,
+      "row_id": 39
+    },
+    {
+      "assetId": 60099677.0,
+      "addressId": 65229766,
+      "polygonId": "51935373",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 5",
+      "dealDate": "2021-03-26",
+      "dealAmount": 300000,
+      "parcelNum": "15030-173-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 47.8,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-03-31",
+          "dealAmount": 105000
+        }
+      ],
+      "trend": {
+        "rate": 185.7,
+        "years": 17.0
+      },
+      "ownership": [],
+      "priceSM": 6383,
+      "row_id": 40
+    },
+    {
+      "assetId": 60099274.0,
+      "addressId": 65229389,
+      "polygonId": "51942191",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "השילוח 31",
+      "dealDate": "2021-03-02",
+      "dealAmount": 620000,
+      "parcelNum": "15030-67-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 99.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000217,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6263,
+      "row_id": 41
+    },
+    {
+      "assetId": 60099324.0,
+      "addressId": 65229587,
+      "polygonId": "51952486",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 27",
+      "dealDate": "2021-01-31",
+      "dealAmount": 825000,
+      "parcelNum": "15030-83-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 30.2,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-10-18",
+          "dealAmount": 825000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 27500,
+      "row_id": 42
+    },
+    {
+      "assetId": 60099601.0,
+      "addressId": 65229971,
+      "polygonId": "51935694",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 63",
+      "dealDate": "2021-01-06",
+      "dealAmount": 680000,
+      "parcelNum": "15030-141-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 110.0,
+      "yearBuilt": 1985,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-10-22",
+          "dealAmount": 615000
+        },
+        {
+          "dealDate": "2012-06-20",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2011-06-20",
+          "dealAmount": 365000
+        }
+      ],
+      "trend": {
+        "rate": 10.6,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 6182,
+      "row_id": 43
+    },
+    {
+      "assetId": 60099342.0,
+      "addressId": 65229578,
+      "polygonId": "51937507",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 26",
+      "dealDate": "2021-01-06",
+      "dealAmount": 700000,
+      "parcelNum": "15030-87-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 64.4,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-06-06",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2009-03-11",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 55.6,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 10938,
+      "row_id": 44
+    },
+    {
+      "assetId": 60099379.0,
+      "addressId": 65229984,
+      "polygonId": "53428673",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 18",
+      "dealDate": "2020-11-26",
+      "dealAmount": 1200000,
+      "parcelNum": "15030-94-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 130.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-12",
+          "dealAmount": 670000
+        },
+        {
+          "dealDate": "2007-10-09",
+          "dealAmount": 370000
+        }
+      ],
+      "trend": {
+        "rate": 79.1,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 9231,
+      "row_id": 45
+    },
+    {
+      "assetId": 60099299.0,
+      "addressId": 65229573,
+      "polygonId": "51914565",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 10",
+      "dealDate": "2020-09-16",
+      "dealAmount": 225000,
+      "parcelNum": "15030-72-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2647,
+      "row_id": 46
+    },
+    {
+      "assetId": 60099611.0,
+      "addressId": 65229583,
+      "polygonId": "51919664",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 37",
+      "dealDate": "2020-09-03",
+      "dealAmount": 400000,
+      "parcelNum": "15030-144-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.5,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13245,
+      "row_id": 47
+    },
+    {
+      "assetId": 60099357.0,
+      "addressId": 65230770,
+      "polygonId": "51913914",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 4",
+      "dealDate": "2020-08-05",
+      "dealAmount": 850000,
+      "parcelNum": "15030-90-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 110.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7727,
+      "row_id": 48
+    },
+    {
+      "assetId": 60099294.0,
+      "addressId": 65229572,
+      "polygonId": "51935737",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 8",
+      "dealDate": "2020-07-13",
+      "dealAmount": 300000,
+      "parcelNum": "15030-71-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 67.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4478,
+      "row_id": 49
+    },
+    {
+      "assetId": 60099423.0,
+      "addressId": 65229775,
+      "polygonId": "53232534",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 34",
+      "dealDate": "2020-01-29",
+      "dealAmount": 750000,
+      "parcelNum": "15030-105-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 110.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6818,
+      "row_id": 50
+    },
+    {
+      "assetId": 60099364.0,
+      "addressId": 65229979,
+      "polygonId": "51916401",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 8",
+      "dealDate": "2019-12-24",
+      "dealAmount": 345000,
+      "parcelNum": "15030-91-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 48.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7099,
+      "row_id": 51
+    },
+    {
+      "assetId": 60099428.0,
+      "addressId": 65229776,
+      "polygonId": "51940924",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 36",
+      "dealDate": "2019-11-25",
+      "dealAmount": 380000,
+      "parcelNum": "15030-106-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 28.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-05-30",
+          "dealAmount": 320000
+        },
+        {
+          "dealDate": "2019-04-04",
+          "dealAmount": 190000
+        }
+      ],
+      "trend": {
+        "rate": 18.8,
+        "years": 0.5
+      },
+      "ownership": [],
+      "priceSM": 13571,
+      "row_id": 52
+    },
+    {
+      "assetId": 60099408.0,
+      "addressId": 53510430,
+      "polygonId": "51939489",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 5",
+      "dealDate": "2019-09-25",
+      "dealAmount": 380000,
+      "parcelNum": "15030-102-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1950,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-25",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2010-08-14",
+          "dealAmount": 160000
+        },
+        {
+          "dealDate": "2009-10-08",
+          "dealAmount": 120000
+        },
+        {
+          "dealDate": "2007-09-05",
+          "dealAmount": 95000
+        }
+      ],
+      "trend": {
+        "rate": 26.7,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 12667,
+      "row_id": 53
+    },
+    {
+      "assetId": 60099433.0,
+      "addressId": 65229777,
+      "polygonId": "51938540",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 38",
+      "dealDate": "2019-09-15",
+      "dealAmount": 800000,
+      "parcelNum": "15030-107-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 132.0,
+      "yearBuilt": 1940,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-09-20",
+          "dealAmount": 550000
+        }
+      ],
+      "trend": {
+        "rate": 45.5,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 6061,
+      "row_id": 54
+    },
+    {
+      "assetId": 60099449.0,
+      "addressId": 65229780,
+      "polygonId": "51911969",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 44",
+      "dealDate": "2019-07-30",
+      "dealAmount": 630000,
+      "parcelNum": "15030-110-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 55
+    },
+    {
+      "assetId": 60099319.0,
+      "addressId": 65229586,
+      "polygonId": "51912787",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 29",
+      "dealDate": "2019-05-26",
+      "dealAmount": 880000,
+      "parcelNum": "15030-82-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שניה",
+      "assetArea": 175.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-12-01",
+          "dealAmount": 155000
+        }
+      ],
+      "trend": {
+        "rate": 467.7,
+        "years": 15.5
+      },
+      "ownership": [],
+      "priceSM": 5029,
+      "row_id": 56
+    },
+    {
+      "assetId": 60099680.0,
+      "addressId": 65229768,
+      "polygonId": "53232672",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 3",
+      "dealDate": "2019-01-01",
+      "dealAmount": 630000,
+      "parcelNum": "15030-174-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 70.9,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8886,
+      "row_id": 57
+    },
+    {
+      "assetId": 60099339.0,
+      "addressId": 65229577,
+      "polygonId": "53031860",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 24",
+      "dealDate": "2018-12-11",
+      "dealAmount": 638000,
+      "parcelNum": "15030-86-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 51.8,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-30",
+          "dealAmount": 520000
+        }
+      ],
+      "trend": {
+        "rate": 22.7,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 12510,
+      "row_id": 58
+    },
+    {
+      "assetId": 60099378.0,
+      "addressId": 65229984,
+      "polygonId": "53428673",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 18",
+      "dealDate": "2018-12-09",
+      "dealAmount": 400000,
+      "parcelNum": "15030-94-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 53.4,
+      "yearBuilt": 1950,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-29",
+          "dealAmount": 335000
+        }
+      ],
+      "trend": {
+        "rate": 19.4,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 7547,
+      "row_id": 59
+    },
+    {
+      "assetId": 60099598.0,
+      "addressId": 65229971,
+      "polygonId": "51935694",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 63",
+      "dealDate": "2018-08-27",
+      "dealAmount": 170000,
+      "parcelNum": "15030-141-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 87.0,
+      "yearBuilt": 1985,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1954,
+      "row_id": 60
+    },
+    {
+      "assetId": 60099317.0,
+      "addressId": 65229586,
+      "polygonId": "51912787",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 29",
+      "dealDate": "2018-05-14",
+      "dealAmount": 660000,
+      "parcelNum": "15030-82-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "ראשונה",
+      "assetArea": 46.3,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14255,
+      "row_id": 61
+    },
+    {
+      "assetId": 60099282.0,
+      "addressId": 65229570,
+      "polygonId": "51916409",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 4",
+      "dealDate": "2018-05-02",
+      "dealAmount": 550000,
+      "parcelNum": "15030-69-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 99.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-08-01",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 129.2,
+        "years": 9.8
+      },
+      "ownership": [],
+      "priceSM": 5556,
+      "row_id": 62
+    },
+    {
+      "assetId": 60099593.0,
+      "addressId": 65229972,
+      "polygonId": "51910080",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 61",
+      "dealDate": "2017-09-17",
+      "dealAmount": 1500000,
+      "parcelNum": "15030-140-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 112.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-11-07",
+          "dealAmount": 517000
+        }
+      ],
+      "trend": {
+        "rate": 190.1,
+        "years": 10.9
+      },
+      "ownership": [],
+      "priceSM": 13393,
+      "row_id": 63
+    },
+    {
+      "assetId": 60099583.0,
+      "addressId": 65229974,
+      "polygonId": "51919159",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 57",
+      "dealDate": "2017-08-24",
+      "dealAmount": 200000,
+      "parcelNum": "15030-138-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 25.5,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-11-22",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": -50.0,
+        "years": 0.8
+      },
+      "ownership": [],
+      "priceSM": 8000,
+      "row_id": 64
+    },
+    {
+      "assetId": 60099581.0,
+      "addressId": 65229975,
+      "polygonId": "51929431",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 55",
+      "dealDate": "2017-08-07",
+      "dealAmount": 305000,
+      "parcelNum": "15030-137-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "שניה",
+      "assetArea": 25.4,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-01",
+          "dealAmount": 185000
+        }
+      ],
+      "trend": {
+        "rate": 64.9,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 12200,
+      "row_id": 65
+    },
+    {
+      "assetId": 60099662.0,
+      "addressId": 65229770,
+      "polygonId": "53231432",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 11",
+      "dealDate": "2017-06-07",
+      "dealAmount": 299000,
+      "parcelNum": "15030-170-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 31.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-06-01",
+          "dealAmount": 116000
+        },
+        {
+          "dealDate": "2004-01-06",
+          "dealAmount": 218000
+        }
+      ],
+      "trend": {
+        "rate": 157.8,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 9645,
+      "row_id": 66
+    },
+    {
+      "assetId": 60099422.0,
+      "addressId": 65229775,
+      "polygonId": "53232534",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 34",
+      "dealDate": "2017-06-02",
+      "dealAmount": 950000,
+      "parcelNum": "15030-105-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 86.9,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-06-01",
+          "dealAmount": 660000
+        }
+      ],
+      "trend": {
+        "rate": 43.9,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 11047,
+      "row_id": 67
+    },
+    {
+      "assetId": 60099258.0,
+      "addressId": 65229392,
+      "polygonId": "51915923",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "השילוח 25",
+      "dealDate": "2017-04-01",
+      "dealAmount": 230000,
+      "parcelNum": "15030-64-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 49.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000217,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4637,
+      "row_id": 68
+    },
+    {
+      "assetId": 60099616.0,
+      "addressId": 65229581,
+      "polygonId": "51937533",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 43",
+      "dealDate": "2017-01-16",
+      "dealAmount": 749000,
+      "parcelNum": "15030-145-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24801,
+      "row_id": 69
+    },
+    {
+      "assetId": 60099262.0,
+      "addressId": 65229391,
+      "polygonId": "51937599",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "השילוח 27",
+      "dealDate": "2016-12-14",
+      "dealAmount": 589000,
+      "parcelNum": "15030-65-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 47.8,
+      "yearBuilt": 1950,
+      "streetCode": 67000217,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-07-01",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2010-03-24",
+          "dealAmount": 345000
+        },
+        {
+          "dealDate": "2003-10-28",
+          "dealAmount": 268000
+        }
+      ],
+      "trend": {
+        "rate": 68.3,
+        "years": 4.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 294500
+        },
+        {
+          "proportion": "50",
+          "price": 294500
+        }
+      ],
+      "priceSM": 12532,
+      "row_id": 70
+    },
+    {
+      "assetId": 60099538.0,
+      "addressId": 65229791,
+      "polygonId": "53232546",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 66",
+      "dealDate": "2016-09-21",
+      "dealAmount": 580000,
+      "parcelNum": "15030-129-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 45.1,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12860,
+      "row_id": 71
+    },
+    {
+      "assetId": 60099533.0,
+      "addressId": 65229790,
+      "polygonId": "51937158",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 64",
+      "dealDate": "2016-02-17",
+      "dealAmount": 525000,
+      "parcelNum": "15030-128-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 45.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-11-07",
+          "dealAmount": 260000
+        }
+      ],
+      "trend": {
+        "rate": 101.9,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 11667,
+      "row_id": 72
+    },
+    {
+      "assetId": 60099579.0,
+      "addressId": 65229975,
+      "polygonId": "51929431",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 55",
+      "dealDate": "2016-02-15",
+      "dealAmount": 360000,
+      "parcelNum": "15030-137-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 25.5,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14118,
+      "row_id": 73
+    },
+    {
+      "assetId": 60099480.0,
+      "addressId": 53518390,
+      "polygonId": "51916167",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 15",
+      "dealDate": "2016-02-01",
+      "dealAmount": 400000,
+      "parcelNum": "15030-116-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 71.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5634,
+      "row_id": 74
+    },
+    {
+      "assetId": 60099297.0,
+      "addressId": 65229573,
+      "polygonId": "51914565",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 10",
+      "dealDate": "2016-01-10",
+      "dealAmount": 450000,
+      "parcelNum": "15030-72-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 30.7,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14658,
+      "row_id": 75
+    },
+    {
+      "assetId": 60099545.0,
+      "addressId": 65229964,
+      "polygonId": "51916489",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 68",
+      "dealDate": "2015-12-02",
+      "dealAmount": 600000,
+      "parcelNum": "15030-130-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 90.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6667,
+      "row_id": 76
+    },
+    {
+      "assetId": 60099620.0,
+      "addressId": 65229582,
+      "polygonId": "51935705",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 39",
+      "dealDate": "2015-10-19",
+      "dealAmount": 750000,
+      "parcelNum": "15030-146-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 77
+    },
+    {
+      "assetId": 60099650.0,
+      "addressId": 65229771,
+      "polygonId": "51939113",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 13",
+      "dealDate": "2015-09-09",
+      "dealAmount": 270000,
+      "parcelNum": "15030-168-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.9,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6013,
+      "row_id": 78
+    },
+    {
+      "assetId": 60099288.0,
+      "addressId": 65229571,
+      "polygonId": "51915851",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 6",
+      "dealDate": "2015-07-30",
+      "dealAmount": 200000,
+      "parcelNum": "15030-70-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 46.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4292,
+      "row_id": 79
+    },
+    {
+      "assetId": 60099695.0,
+      "addressId": 65229785,
+      "polygonId": "51935843",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 54",
+      "dealDate": "2015-05-28",
+      "dealAmount": 379000,
+      "parcelNum": "15030-179-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 25.9,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-01-29",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2010-05-03",
+          "dealAmount": 190000
+        },
+        {
+          "dealDate": "2009-09-08",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 26.3,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 15160,
+      "row_id": 80
+    },
+    {
+      "assetId": 60099265.0,
+      "addressId": 65229391,
+      "polygonId": "51937599",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "השילוח 27",
+      "dealDate": "2014-12-29",
+      "dealAmount": 720000,
+      "parcelNum": "15030-65-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 100.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000217,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7200,
+      "row_id": 81
+    },
+    {
+      "assetId": 60099452.0,
+      "addressId": 65229781,
+      "polygonId": "51907907",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 46",
+      "dealDate": "2014-09-17",
+      "dealAmount": 500000,
+      "parcelNum": "15030-111-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.1,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11086,
+      "row_id": 82
+    },
+    {
+      "assetId": 60099664.0,
+      "addressId": 65229765,
+      "polygonId": "51928484",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 9",
+      "dealDate": "2014-09-16",
+      "dealAmount": 600000,
+      "parcelNum": "15030-171-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.1,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-07-12",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 87.5,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 9836,
+      "row_id": 83
+    },
+    {
+      "assetId": 60099566.0,
+      "addressId": 65229968,
+      "polygonId": "51934435",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 76",
+      "dealDate": "2014-08-24",
+      "dealAmount": 380000,
+      "parcelNum": "15030-134-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4691,
+      "row_id": 84
+    },
+    {
+      "assetId": 60099585.0,
+      "addressId": 65229974,
+      "polygonId": "51919159",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 57",
+      "dealDate": "2014-08-20",
+      "dealAmount": 266000,
+      "parcelNum": "15030-138-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.4,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-11-19",
+          "dealAmount": 220000
+        },
+        {
+          "dealDate": "2013-08-12",
+          "dealAmount": 219000
+        },
+        {
+          "dealDate": "2011-05-15",
+          "dealAmount": 360000
+        },
+        {
+          "dealDate": "2009-08-23",
+          "dealAmount": 205000
+        }
+      ],
+      "trend": {
+        "rate": 20.9,
+        "years": 0.8
+      },
+      "ownership": [],
+      "priceSM": 10640,
+      "row_id": 85
+    },
+    {
+      "assetId": 60099484.0,
+      "addressId": 53516465,
+      "polygonId": "51953414",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 19",
+      "dealDate": "2014-06-25",
+      "dealAmount": 305000,
+      "parcelNum": "15030-117-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.4,
+      "yearBuilt": 1960,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-02-14",
+          "dealAmount": 235000
+        },
+        {
+          "dealDate": "1998-02-25",
+          "dealAmount": 125000
+        }
+      ],
+      "trend": {
+        "rate": 29.8,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 12200,
+      "row_id": 86
+    },
+    {
+      "assetId": 60099586.0,
+      "addressId": 65229974,
+      "polygonId": "51919159",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 57",
+      "dealDate": "2014-02-25",
+      "dealAmount": 220000,
+      "parcelNum": "15030-138-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 35.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6286,
+      "row_id": 87
+    },
+    {
+      "assetId": 60099615.0,
+      "addressId": 65229581,
+      "polygonId": "51937533",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 43",
+      "dealDate": "2014-02-24",
+      "dealAmount": 495000,
+      "parcelNum": "15030-145-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5500,
+      "row_id": 88
+    },
+    {
+      "assetId": 60099682.0,
+      "addressId": 65229768,
+      "polygonId": "53232672",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 3",
+      "dealDate": "2014-01-20",
+      "dealAmount": 265000,
+      "parcelNum": "15030-174-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 31.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8494,
+      "row_id": 89
+    },
+    {
+      "assetId": 60099671.0,
+      "addressId": 65229769,
+      "polygonId": "51912786",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 7",
+      "dealDate": "2014-01-01",
+      "dealAmount": 500000,
+      "parcelNum": "15030-172-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 58.3,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-28",
+          "dealAmount": 207000
+        }
+      ],
+      "trend": {
+        "rate": 141.5,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 8621,
+      "row_id": 90
+    },
+    {
+      "assetId": 60099642.0,
+      "addressId": 0,
+      "polygonId": "15030-162",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "0",
+      "dealDate": "2013-08-21",
+      "dealAmount": 339000,
+      "parcelNum": "15030-162-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 46.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7370,
+      "row_id": 91
+    },
+    {
+      "assetId": 60099549.0,
+      "addressId": 65229965,
+      "polygonId": "51918773",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 70",
+      "dealDate": "2013-07-07",
+      "dealAmount": 654000,
+      "parcelNum": "15030-131-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-08-23",
+          "dealAmount": 338000
+        }
+      ],
+      "trend": {
+        "rate": 93.5,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 7267,
+      "row_id": 92
+    },
+    {
+      "assetId": 60099669.0,
+      "addressId": 65229769,
+      "polygonId": "51912786",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 7",
+      "dealDate": "2013-03-21",
+      "dealAmount": 800000,
+      "parcelNum": "15030-172-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 109.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-18",
+          "dealAmount": 410000
+        },
+        {
+          "dealDate": "2007-06-05",
+          "dealAmount": 155000
+        }
+      ],
+      "trend": {
+        "rate": 95.1,
+        "years": 0.4
+      },
+      "ownership": [],
+      "priceSM": 7339,
+      "row_id": 93
+    },
+    {
+      "assetId": 60099475.0,
+      "addressId": 53836088,
+      "polygonId": "51915661",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 11",
+      "dealDate": "2013-02-17",
+      "dealAmount": 200000,
+      "parcelNum": "15030-115-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 25.5,
+      "yearBuilt": 1960,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7843,
+      "row_id": 94
+    },
+    {
+      "assetId": 60099287.0,
+      "addressId": 65229571,
+      "polygonId": "51915851",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 6",
+      "dealDate": "2013-01-14",
+      "dealAmount": 380000,
+      "parcelNum": "15030-70-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 46.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8155,
+      "row_id": 95
+    },
+    {
+      "assetId": 60099589.0,
+      "addressId": 65229973,
+      "polygonId": "51935309",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 59",
+      "dealDate": "2012-10-15",
+      "dealAmount": 600000,
+      "parcelNum": "15030-139-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 158.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-07-01",
+          "dealAmount": 232000
+        }
+      ],
+      "trend": {
+        "rate": 158.6,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 3797,
+      "row_id": 96
+    },
+    {
+      "assetId": 60099412.0,
+      "addressId": 53856695,
+      "polygonId": "53031910",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 1",
+      "dealDate": "2012-06-26",
+      "dealAmount": 275000,
+      "parcelNum": "15030-103-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1950,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-15",
+          "dealAmount": 150000
+        },
+        {
+          "dealDate": "2006-01-18",
+          "dealAmount": 104000
+        }
+      ],
+      "trend": {
+        "rate": 83.3,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 9167,
+      "row_id": 97
+    },
+    {
+      "assetId": 60099679.0,
+      "addressId": 65229768,
+      "polygonId": "53232672",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 3",
+      "dealDate": "2012-06-12",
+      "dealAmount": 450000,
+      "parcelNum": "15030-174-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 58.7,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-09-18",
+          "dealAmount": 150000
+        }
+      ],
+      "trend": {
+        "rate": 200.0,
+        "years": 3.7
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 225000
+        },
+        {
+          "proportion": "50",
+          "price": 225000
+        }
+      ],
+      "priceSM": 7759,
+      "row_id": 98
+    },
+    {
+      "assetId": 60099377.0,
+      "addressId": 65229984,
+      "polygonId": "53428673",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 18",
+      "dealDate": "2012-05-31",
+      "dealAmount": 300000,
+      "parcelNum": "15030-94-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.7,
+      "yearBuilt": 1950,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-07",
+          "dealAmount": 210000
+        }
+      ],
+      "trend": {
+        "rate": 42.9,
+        "years": 0.5
+      },
+      "ownership": [],
+      "priceSM": 6667,
+      "row_id": 99
+    },
+    {
+      "assetId": 60099275.0,
+      "addressId": 65229389,
+      "polygonId": "51942191",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "השילוח 31",
+      "dealDate": "2012-04-29",
+      "dealAmount": 280000,
+      "parcelNum": "15030-67-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 29.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000217,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-11-07",
+          "dealAmount": 215000
+        },
+        {
+          "dealDate": "2003-11-20",
+          "dealAmount": 179000
+        },
+        {
+          "dealDate": "1998-01-14",
+          "dealAmount": 197000
+        }
+      ],
+      "trend": {
+        "rate": 30.2,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 9655,
+      "row_id": 100
+    },
+    {
+      "assetId": 60099610.0,
+      "addressId": 65229583,
+      "polygonId": "51919664",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 37",
+      "dealDate": "2012-03-25",
+      "dealAmount": 480000,
+      "parcelNum": "15030-144-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 97.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-12-10",
+          "dealAmount": 276000
+        }
+      ],
+      "trend": {
+        "rate": 73.9,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 4948,
+      "row_id": 101
+    },
+    {
+      "assetId": 60099578.0,
+      "addressId": 65229975,
+      "polygonId": "51929431",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 55",
+      "dealDate": "2012-02-26",
+      "dealAmount": 235000,
+      "parcelNum": "15030-137-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 25.5,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9216,
+      "row_id": 102
+    },
+    {
+      "assetId": 60099621.0,
+      "addressId": 65229582,
+      "polygonId": "51935705",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 39",
+      "dealDate": "2011-11-20",
+      "dealAmount": 550000,
+      "parcelNum": "15030-146-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 120.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4583,
+      "row_id": 103
+    },
+    {
+      "assetId": 60099479.0,
+      "addressId": 53518390,
+      "polygonId": "51916167",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 15",
+      "dealDate": "2011-05-16",
+      "dealAmount": 680000,
+      "parcelNum": "15030-116-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5667,
+      "row_id": 104
+    },
+    {
+      "assetId": 60099684.0,
+      "addressId": 65229767,
+      "polygonId": "51918470",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 1",
+      "dealDate": "2010-12-30",
+      "dealAmount": 150000,
+      "parcelNum": "15030-175-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 29.3,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5119,
+      "row_id": 105
+    },
+    {
+      "assetId": 60099509.0,
+      "addressId": 65229786,
+      "polygonId": "51936776",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 56",
+      "dealDate": "2010-12-29",
+      "dealAmount": 312000,
+      "parcelNum": "15030-122-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.5,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5244,
+      "row_id": 106
+    },
+    {
+      "assetId": 60099252.0,
+      "addressId": 65229566,
+      "polygonId": "51960583",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "השילוח 21",
+      "dealDate": "2010-11-15",
+      "dealAmount": 250000,
+      "parcelNum": "15030-63-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 30.7,
+      "yearBuilt": 1960,
+      "streetCode": 67000217,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8143,
+      "row_id": 107
+    },
+    {
+      "assetId": 60099260.0,
+      "addressId": 65229392,
+      "polygonId": "51915923",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "השילוח 25",
+      "dealDate": "2010-11-03",
+      "dealAmount": 200000,
+      "parcelNum": "15030-64-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 29.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000217,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-02-01",
+          "dealAmount": 153000
+        }
+      ],
+      "trend": {
+        "rate": 30.7,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 6897,
+      "row_id": 108
+    },
+    {
+      "assetId": 60099272.0,
+      "addressId": 65229389,
+      "polygonId": "51942191",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "השילוח 31",
+      "dealDate": "2010-09-14",
+      "dealAmount": 209000,
+      "parcelNum": "15030-67-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 30.7,
+      "yearBuilt": 1960,
+      "streetCode": 67000217,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6808,
+      "row_id": 109
+    },
+    {
+      "assetId": 60099273.0,
+      "addressId": 65229389,
+      "polygonId": "51942191",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "השילוח 31",
+      "dealDate": "2010-09-14",
+      "dealAmount": 150000,
+      "parcelNum": "15030-67-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 70.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000217,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2143,
+      "row_id": 110
+    },
+    {
+      "assetId": 60099526.0,
+      "addressId": 65229782,
+      "polygonId": "51912822",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 48",
+      "dealDate": "2010-09-01",
+      "dealAmount": 155000,
+      "parcelNum": "15030-126-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.4,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6102,
+      "row_id": 111
+    },
+    {
+      "assetId": 60099429.0,
+      "addressId": 65229776,
+      "polygonId": "51940924",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 36",
+      "dealDate": "2010-07-11",
+      "dealAmount": 100000,
+      "parcelNum": "15030-106-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3311,
+      "row_id": 112
+    },
+    {
+      "assetId": 60099427.0,
+      "addressId": 65229776,
+      "polygonId": "51940924",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 36",
+      "dealDate": "2010-07-11",
+      "dealAmount": 445000,
+      "parcelNum": "15030-106-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 39.1,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11381,
+      "row_id": 113
+    },
+    {
+      "assetId": 60099617.0,
+      "addressId": 65229581,
+      "polygonId": "51937533",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 43",
+      "dealDate": "2010-06-29",
+      "dealAmount": 250000,
+      "parcelNum": "15030-145-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-11-18",
+          "dealAmount": 233000
+        }
+      ],
+      "trend": {
+        "rate": 7.3,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 114
+    },
+    {
+      "assetId": 60099328.0,
+      "addressId": 65229588,
+      "polygonId": "53448786",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 25",
+      "dealDate": "2010-06-27",
+      "dealAmount": 490000,
+      "parcelNum": "15030-84-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 170.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2882,
+      "row_id": 115
+    },
+    {
+      "assetId": 60099596.0,
+      "addressId": 65229972,
+      "polygonId": "51910080",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 61",
+      "dealDate": "2010-05-25",
+      "dealAmount": 150000,
+      "parcelNum": "15030-140-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.4,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-01-13",
+          "dealAmount": 144000
+        }
+      ],
+      "trend": {
+        "rate": 4.2,
+        "years": 10.4
+      },
+      "ownership": [
+        {
+          "proportion": "20",
+          "price": 30000
+        },
+        {
+          "proportion": "20",
+          "price": 30000
+        },
+        {
+          "proportion": "20",
+          "price": 30000
+        },
+        {
+          "proportion": "20",
+          "price": 30000
+        },
+        {
+          "proportion": "20",
+          "price": 30000
+        }
+      ],
+      "priceSM": 6000,
+      "row_id": 116
+    },
+    {
+      "assetId": 60099674.0,
+      "addressId": 65229766,
+      "polygonId": "51935373",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 5",
+      "dealDate": "2010-02-08",
+      "dealAmount": 270000,
+      "parcelNum": "15030-173-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.8,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5895,
+      "row_id": 117
+    },
+    {
+      "assetId": 60099365.0,
+      "addressId": 65229979,
+      "polygonId": "51916401",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 8",
+      "dealDate": "2009-12-09",
+      "dealAmount": 250000,
+      "parcelNum": "15030-91-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 48.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5144,
+      "row_id": 118
+    },
+    {
+      "assetId": 60099482.0,
+      "addressId": 53516465,
+      "polygonId": "51953414",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 19",
+      "dealDate": "2009-06-25",
+      "dealAmount": 79000,
+      "parcelNum": "15030-117-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 25.5,
+      "yearBuilt": 1960,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-16",
+          "dealAmount": 155000
+        }
+      ],
+      "trend": {
+        "rate": -49.0,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 3160,
+      "row_id": 119
+    },
+    {
+      "assetId": 60099464.0,
+      "addressId": 53857997,
+      "polygonId": "51910151",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 3",
+      "dealDate": "2009-03-22",
+      "dealAmount": 430000,
+      "parcelNum": "15030-113-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 140.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3071,
+      "row_id": 120
+    },
+    {
+      "assetId": 60099295.0,
+      "addressId": 65229572,
+      "polygonId": "51935737",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 8",
+      "dealDate": "2009-02-25",
+      "dealAmount": 200000,
+      "parcelNum": "15030-71-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 109.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1835,
+      "row_id": 121
+    },
+    {
+      "assetId": 60099524.0,
+      "addressId": 65229782,
+      "polygonId": "51912822",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 48",
+      "dealDate": "2009-02-12",
+      "dealAmount": 132000,
+      "parcelNum": "15030-126-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.1,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2927,
+      "row_id": 122
+    },
+    {
+      "assetId": 60099622.0,
+      "addressId": 65229582,
+      "polygonId": "51935705",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 39",
+      "dealDate": "2008-07-22",
+      "dealAmount": 80000,
+      "parcelNum": "15030-146-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2649,
+      "row_id": 123
+    },
+    {
+      "assetId": 60099392.0,
+      "addressId": 53856111,
+      "polygonId": "51913811",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 17",
+      "dealDate": "2008-07-16",
+      "dealAmount": 231000,
+      "parcelNum": "15030-99-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7649,
+      "row_id": 124
+    },
+    {
+      "assetId": 60099515.0,
+      "addressId": 65229784,
+      "polygonId": "53033244",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 52",
+      "dealDate": "2008-02-24",
+      "dealAmount": 155000,
+      "parcelNum": "15030-124-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.5,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6078,
+      "row_id": 125
+    },
+    {
+      "assetId": 60099516.0,
+      "addressId": 65229784,
+      "polygonId": "53033244",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 52",
+      "dealDate": "2007-07-08",
+      "dealAmount": 250000,
+      "parcelNum": "15030-124-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.5,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9804,
+      "row_id": 126
+    },
+    {
+      "assetId": 60099311.0,
+      "addressId": 72622050,
+      "polygonId": "53149974",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 19",
+      "dealDate": "2007-05-10",
+      "dealAmount": 158000,
+      "parcelNum": "15030-76-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 28.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5524,
+      "row_id": 127
+    },
+    {
+      "assetId": 60099667.0,
+      "addressId": 65229765,
+      "polygonId": "51928484",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 9",
+      "dealDate": "2006-11-26",
+      "dealAmount": 165000,
+      "parcelNum": "15030-171-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 46.4,
+      "yearBuilt": 1970,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3556,
+      "row_id": 128
+    },
+    {
+      "assetId": 60099293.0,
+      "addressId": 65229572,
+      "polygonId": "51935737",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 8",
+      "dealDate": "2006-10-08",
+      "dealAmount": 137000,
+      "parcelNum": "15030-71-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 52.9,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2590,
+      "row_id": 129
+    },
+    {
+      "assetId": 60099417.0,
+      "addressId": 65229773,
+      "polygonId": "53228261",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 30",
+      "dealDate": "2006-09-20",
+      "dealAmount": 95000,
+      "parcelNum": "15030-104-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3146,
+      "row_id": 130
+    },
+    {
+      "assetId": 60099280.0,
+      "addressId": 65229569,
+      "polygonId": "51915716",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 2",
+      "dealDate": "2006-09-07",
+      "dealAmount": 220000,
+      "parcelNum": "15030-68-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 30.0,
+      "yearBuilt": 1974,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7333,
+      "row_id": 131
+    },
+    {
+      "assetId": 60099444.0,
+      "addressId": 65229779,
+      "polygonId": "53176835",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 42",
+      "dealDate": "2006-06-09",
+      "dealAmount": 210000,
+      "parcelNum": "15030-109-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.4,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8268,
+      "row_id": 132
+    },
+    {
+      "assetId": 60099570.0,
+      "addressId": 65229978,
+      "polygonId": "51915924",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 49",
+      "dealDate": "2006-03-26",
+      "dealAmount": 161000,
+      "parcelNum": "15030-135-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.4,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6339,
+      "row_id": 133
+    },
+    {
+      "assetId": 60099335.0,
+      "addressId": 65229576,
+      "polygonId": "53229338",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 22",
+      "dealDate": "2004-10-08",
+      "dealAmount": 134000,
+      "parcelNum": "15030-85-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1950,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-07-18",
+          "dealAmount": 97000
+        }
+      ],
+      "trend": {
+        "rate": 38.1,
+        "years": 1.2
+      },
+      "ownership": [],
+      "priceSM": 4467,
+      "row_id": 134
+    },
+    {
+      "assetId": 60099576.0,
+      "addressId": 65229977,
+      "polygonId": "65282830",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "טולדאנו 51",
+      "dealDate": "2004-08-04",
+      "dealAmount": 135000,
+      "parcelNum": "15030-136-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.4,
+      "yearBuilt": 1960,
+      "streetCode": 67000244,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5315,
+      "row_id": 135
+    },
+    {
+      "assetId": 60099370.0,
+      "addressId": 65229981,
+      "polygonId": "51916843",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 12",
+      "dealDate": "2003-11-24",
+      "dealAmount": 321000,
+      "parcelNum": "15030-92-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 46.4,
+      "yearBuilt": 1965,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6918,
+      "row_id": 136
+    },
+    {
+      "assetId": 60099375.0,
+      "addressId": 65229983,
+      "polygonId": "51937190",
+      "neighborhoodName": "גאולים(שיכון א",
+      "neighborhoodId": 65210947,
+      "address": "הרב משה כהן 16",
+      "dealDate": "2003-06-16",
+      "dealAmount": 380000,
+      "parcelNum": "15030-93-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 30.2,
+      "yearBuilt": 1970,
+      "streetCode": 67000245,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12583,
+      "row_id": 137
+    }
+  ]
+}

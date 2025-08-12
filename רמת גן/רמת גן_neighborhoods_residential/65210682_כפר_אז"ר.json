@@ -1,0 +1,1605 @@
+{
+  "neighborhood_name": "כפר אז\"ר",
+  "city_name": "רמת גן",
+  "transaction_count": 49,
+  "transactions": [
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-07-08",
+      "dealAmount": 4380000,
+      "parcelNum": "6178-27-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשרים וארבע",
+      "assetArea": 113.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 38761,
+      "row_id": 1
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-06-29",
+      "dealAmount": 4079000,
+      "parcelNum": "6178-27-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-29",
+          "dealAmount": 4379000
+        }
+      ],
+      "trend": {
+        "rate": -6.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 34568,
+      "row_id": 2
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-06-11",
+      "dealAmount": 4058000,
+      "parcelNum": "6178-27-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמש עשרה",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-11",
+          "dealAmount": 4051000
+        }
+      ],
+      "trend": {
+        "rate": 0.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 34390,
+      "row_id": 3
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-06-10",
+      "dealAmount": 4339000,
+      "parcelNum": "6178-27-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שתים עשרה",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-10",
+          "dealAmount": 4146000
+        },
+        {
+          "dealDate": "2025-06-10",
+          "dealAmount": 4134000
+        }
+      ],
+      "trend": {
+        "rate": 4.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 36771,
+      "row_id": 4
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-06-08",
+      "dealAmount": 3592000,
+      "parcelNum": "6178-27-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-08",
+          "dealAmount": 4304000
+        }
+      ],
+      "trend": {
+        "rate": -16.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 30441,
+      "row_id": 5
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-06-05",
+      "dealAmount": 4284000,
+      "parcelNum": "6178-27-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שש עשרה",
+      "assetArea": 152.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-05",
+          "dealAmount": 6254000
+        },
+        {
+          "dealDate": "2025-06-05",
+          "dealAmount": 4041000
+        },
+        {
+          "dealDate": "2025-06-05",
+          "dealAmount": 4148000
+        }
+      ],
+      "trend": {
+        "rate": -31.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 28184,
+      "row_id": 6
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-06-04",
+      "dealAmount": 7905000,
+      "parcelNum": "6178-27-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 195.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-04",
+          "dealAmount": 4128000
+        },
+        {
+          "dealDate": "2025-06-04",
+          "dealAmount": 3783000
+        }
+      ],
+      "trend": {
+        "rate": 91.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 40538,
+      "row_id": 7
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-06-03",
+      "dealAmount": 4156000,
+      "parcelNum": "6178-27-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שתים עשרה",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-03",
+          "dealAmount": 4058000
+        }
+      ],
+      "trend": {
+        "rate": 2.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 35220,
+      "row_id": 8
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-30",
+      "dealAmount": 8655000,
+      "parcelNum": "6178-27-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שלושים ושלוש",
+      "assetArea": 205.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-30",
+          "dealAmount": 4258000
+        },
+        {
+          "dealDate": "2025-05-30",
+          "dealAmount": 4252000
+        }
+      ],
+      "trend": {
+        "rate": 103.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 42220,
+      "row_id": 9
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-29",
+      "dealAmount": 6769000,
+      "parcelNum": "6178-27-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשרים ושלוש",
+      "assetArea": 150.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-29",
+          "dealAmount": 4288000
+        },
+        {
+          "dealDate": "2025-05-29",
+          "dealAmount": 4279000
+        }
+      ],
+      "trend": {
+        "rate": 57.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 45127,
+      "row_id": 10
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-28",
+      "dealAmount": 4023000,
+      "parcelNum": "6178-27-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשירית",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-28",
+          "dealAmount": 4369000
+        }
+      ],
+      "trend": {
+        "rate": -7.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 34093,
+      "row_id": 11
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-27",
+      "dealAmount": 4111000,
+      "parcelNum": "6178-27-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 113.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-27",
+          "dealAmount": 4077000
+        }
+      ],
+      "trend": {
+        "rate": 0.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 36381,
+      "row_id": 12
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-26",
+      "dealAmount": 4234000,
+      "parcelNum": "6178-27-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשע עשרה",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-26",
+          "dealAmount": 4149000
+        }
+      ],
+      "trend": {
+        "rate": 2.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 35881,
+      "row_id": 13
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-25",
+      "dealAmount": 3951000,
+      "parcelNum": "6178-27-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשרים",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-25",
+          "dealAmount": 4504000
+        },
+        {
+          "dealDate": "2025-05-25",
+          "dealAmount": 3788000
+        },
+        {
+          "dealDate": "2025-05-25",
+          "dealAmount": 4539000
+        },
+        {
+          "dealDate": "2025-05-25",
+          "dealAmount": 4188000
+        }
+      ],
+      "trend": {
+        "rate": -12.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 33483,
+      "row_id": 14
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-21",
+      "dealAmount": 4151000,
+      "parcelNum": "6178-27-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שתים עשרה",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-21",
+          "dealAmount": 4079000
+        },
+        {
+          "dealDate": "2025-05-21",
+          "dealAmount": 4454000
+        }
+      ],
+      "trend": {
+        "rate": 1.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 35178,
+      "row_id": 15
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-20",
+      "dealAmount": 4028000,
+      "parcelNum": "6178-27-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 113.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-20",
+          "dealAmount": 3905000
+        },
+        {
+          "dealDate": "2025-05-20",
+          "dealAmount": 3893000
+        },
+        {
+          "dealDate": "2025-05-20",
+          "dealAmount": 7960000
+        },
+        {
+          "dealDate": "2025-05-20",
+          "dealAmount": 4269000
+        }
+      ],
+      "trend": {
+        "rate": 3.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 35646,
+      "row_id": 16
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-18",
+      "dealAmount": 4188000,
+      "parcelNum": "6178-27-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשרים ושתיים",
+      "assetArea": 113.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-18",
+          "dealAmount": 3928000
+        },
+        {
+          "dealDate": "2025-05-18",
+          "dealAmount": 3908000
+        }
+      ],
+      "trend": {
+        "rate": 6.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 37062,
+      "row_id": 17
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-16",
+      "dealAmount": 4339000,
+      "parcelNum": "6178-27-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-16",
+          "dealAmount": 4399000
+        }
+      ],
+      "trend": {
+        "rate": -1.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 36771,
+      "row_id": 18
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-15",
+      "dealAmount": 3813000,
+      "parcelNum": "6178-27-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשירית",
+      "assetArea": 113.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-15",
+          "dealAmount": 3968000
+        },
+        {
+          "dealDate": "2025-05-15",
+          "dealAmount": 4053000
+        },
+        {
+          "dealDate": "2025-05-15",
+          "dealAmount": 4038000
+        },
+        {
+          "dealDate": "2025-05-15",
+          "dealAmount": 3978000
+        },
+        {
+          "dealDate": "2025-05-15",
+          "dealAmount": 3848000
+        }
+      ],
+      "trend": {
+        "rate": -3.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 33743,
+      "row_id": 19
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-14",
+      "dealAmount": 4274000,
+      "parcelNum": "6178-27-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-14",
+          "dealAmount": 4013000
+        }
+      ],
+      "trend": {
+        "rate": 6.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 36220,
+      "row_id": 20
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-13",
+      "dealAmount": 4028000,
+      "parcelNum": "6178-27-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-13",
+          "dealAmount": 4404000
+        },
+        {
+          "dealDate": "2025-05-13",
+          "dealAmount": 4018000
+        }
+      ],
+      "trend": {
+        "rate": -8.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 34136,
+      "row_id": 21
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-11",
+      "dealAmount": 4078000,
+      "parcelNum": "6178-27-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשרים ואחת",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-11",
+          "dealAmount": 3646000
+        },
+        {
+          "dealDate": "2025-05-11",
+          "dealAmount": 4429000
+        },
+        {
+          "dealDate": "2025-05-11",
+          "dealAmount": 3761000
+        },
+        {
+          "dealDate": "2025-05-11",
+          "dealAmount": 3586000
+        }
+      ],
+      "trend": {
+        "rate": 11.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 34559,
+      "row_id": 22
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-09",
+      "dealAmount": 4429000,
+      "parcelNum": "6178-27-70",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שבע עשרה",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 37534,
+      "row_id": 23
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-08",
+      "dealAmount": 3937000,
+      "parcelNum": "6178-27-71",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-08",
+          "dealAmount": 3848000
+        },
+        {
+          "dealDate": "2025-05-08",
+          "dealAmount": 3819000
+        },
+        {
+          "dealDate": "2025-05-08",
+          "dealAmount": 4402000
+        }
+      ],
+      "trend": {
+        "rate": 2.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 33364,
+      "row_id": 24
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-07",
+      "dealAmount": 4399000,
+      "parcelNum": "6178-27-75",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-07",
+          "dealAmount": 4624000
+        }
+      ],
+      "trend": {
+        "rate": -4.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 37280,
+      "row_id": 25
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-05",
+      "dealAmount": 3801000,
+      "parcelNum": "6178-27-77",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שש עשרה",
+      "assetArea": 113.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-05",
+          "dealAmount": 3645000
+        }
+      ],
+      "trend": {
+        "rate": 4.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 33637,
+      "row_id": 26
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-05-04",
+      "dealAmount": 9015000,
+      "parcelNum": "6178-27-79",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שלושים ושלוש",
+      "assetArea": 205.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-05-04",
+          "dealAmount": 3404000
+        }
+      ],
+      "trend": {
+        "rate": 164.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 43976,
+      "row_id": 27
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-04-29",
+      "dealAmount": 3883000,
+      "parcelNum": "6178-27-81",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 113.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-04-29",
+          "dealAmount": 3889000
+        }
+      ],
+      "trend": {
+        "rate": -0.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 34363,
+      "row_id": 28
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-04-28",
+      "dealAmount": 3677000,
+      "parcelNum": "6178-27-83",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 83.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 44301,
+      "row_id": 29
+    },
+    {
+      "assetId": 4021534.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2025-04-25",
+      "dealAmount": 4341000,
+      "parcelNum": "6178-27-84",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 118.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 36788,
+      "row_id": 30
+    },
+    {
+      "assetId": 4412926.0,
+      "addressId": 72883220,
+      "polygonId": "52201738",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "ההגנה 17",
+      "dealDate": "2024-11-05",
+      "dealAmount": 6362000,
+      "parcelNum": "6178-143-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 3994.0,
+      "yearBuilt": 0,
+      "streetCode": 86003302,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1593,
+      "row_id": 38
+    },
+    {
+      "assetId": 4441821.0,
+      "addressId": 72883832,
+      "polygonId": "52356674",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "השומר 15",
+      "dealDate": "2024-03-19",
+      "dealAmount": 2313000,
+      "parcelNum": "6177-30-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 86003307,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 54
+    },
+    {
+      "assetId": 4444774.0,
+      "addressId": 72883702,
+      "polygonId": "52368978",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "הבנים 23",
+      "dealDate": "2024-01-10",
+      "dealAmount": 1151000,
+      "parcelNum": "6177-277-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": "ראשונה",
+      "assetArea": 150.0,
+      "yearBuilt": 1960,
+      "streetCode": 86003309,
+      "settlmentID": 8600,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7673,
+      "row_id": 57
+    },
+    {
+      "assetId": 4021499.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2023-08-28",
+      "dealAmount": 195581000,
+      "parcelNum": "6178-27-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 4748.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 41192,
+      "row_id": 60
+    },
+    {
+      "assetId": 4021556.0,
+      "addressId": 0,
+      "polygonId": "6177-259",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2023-08-28",
+      "dealAmount": 110469000,
+      "parcelNum": "6177-259-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 2626.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 42067,
+      "row_id": 61
+    },
+    {
+      "assetId": 4021498.0,
+      "addressId": 0,
+      "polygonId": "6178-27",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2023-08-28",
+      "dealAmount": 225021000,
+      "parcelNum": "6178-27-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 4891.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 46007,
+      "row_id": 62
+    },
+    {
+      "assetId": 4021539.0,
+      "addressId": 0,
+      "polygonId": "6177-239",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2023-08-28",
+      "dealAmount": 189072000,
+      "parcelNum": "6177-239-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 4156.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 45494,
+      "row_id": 63
+    },
+    {
+      "assetId": 4021597.0,
+      "addressId": 0,
+      "polygonId": "6177-115",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2023-08-02",
+      "dealAmount": 586000,
+      "parcelNum": "6177-115-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 517.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1133,
+      "row_id": 64
+    },
+    {
+      "assetId": 4021555.0,
+      "addressId": 0,
+      "polygonId": "6177-219",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2022-12-26",
+      "dealAmount": 1161000,
+      "parcelNum": "6177-219-8",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 200.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5805,
+      "row_id": 74
+    },
+    {
+      "assetId": 4491138.0,
+      "addressId": 72883214,
+      "polygonId": "53075973",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "בן גוריון 8",
+      "dealDate": "2022-12-14",
+      "dealAmount": 187000,
+      "parcelNum": "6178-128-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 4200.0,
+      "yearBuilt": 0,
+      "streetCode": 86003308,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 45,
+      "row_id": 75
+    },
+    {
+      "assetId": 4447963.0,
+      "addressId": 72882966,
+      "polygonId": "52382705",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "ה' באייר 907",
+      "dealDate": "2022-11-29",
+      "dealAmount": 581000,
+      "parcelNum": "6178-80-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 501.0,
+      "yearBuilt": 0,
+      "streetCode": 86003310,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1160,
+      "row_id": 79
+    },
+    {
+      "assetId": 4534091.0,
+      "addressId": 72883709,
+      "polygonId": "64905166",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "הבנים 6",
+      "dealDate": "2022-03-14",
+      "dealAmount": 4603000,
+      "parcelNum": "6177-266-3",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 260.0,
+      "yearBuilt": 2009,
+      "streetCode": 86003309,
+      "settlmentID": 8600,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17704,
+      "row_id": 94
+    },
+    {
+      "assetId": 4534092.0,
+      "addressId": 72883709,
+      "polygonId": "64905166",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "הבנים 6",
+      "dealDate": "2022-03-13",
+      "dealAmount": 8897000,
+      "parcelNum": "6177-266-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 260.0,
+      "yearBuilt": 2009,
+      "streetCode": 86003309,
+      "settlmentID": 8600,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 34219,
+      "row_id": 95
+    },
+    {
+      "assetId": 4021591.0,
+      "addressId": 0,
+      "polygonId": "6177-123",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2021-02-17",
+      "dealAmount": 4300000,
+      "parcelNum": "6177-123-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 558.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7706,
+      "row_id": 97
+    },
+    {
+      "assetId": 80046667.0,
+      "addressId": 0,
+      "polygonId": "6177-121",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2019-09-15",
+      "dealAmount": 4879000,
+      "parcelNum": "6177-121-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שתים עשרה",
+      "assetArea": 171.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28532,
+      "row_id": 99
+    },
+    {
+      "assetId": 4021506.0,
+      "addressId": 0,
+      "polygonId": "6178-92",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "0",
+      "dealDate": "2019-08-22",
+      "dealAmount": 750000,
+      "parcelNum": "6178-92-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 501.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1497,
+      "row_id": 100
+    },
+    {
+      "assetId": 4441821.0,
+      "addressId": 72883832,
+      "polygonId": "52356674",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "השומר 15",
+      "dealDate": "2019-08-04",
+      "dealAmount": 3831000,
+      "parcelNum": "6177-30-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 145.0,
+      "yearBuilt": 2021,
+      "streetCode": 86003307,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26421,
+      "row_id": 101
+    },
+    {
+      "assetId": 4435846.0,
+      "addressId": 72879616,
+      "polygonId": "52325339",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "מנדס 5",
+      "dealDate": "2010-09-15",
+      "dealAmount": 2312000,
+      "parcelNum": "6235-548-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 200.0,
+      "yearBuilt": 1950,
+      "streetCode": 86001732,
+      "settlmentID": 8600,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11560,
+      "row_id": 103
+    },
+    {
+      "assetId": 4534093.0,
+      "addressId": 72883709,
+      "polygonId": "64905166",
+      "neighborhoodName": "כפר אז\"ר",
+      "neighborhoodId": 65210682,
+      "address": "הבנים 6",
+      "dealDate": "2006-05-16",
+      "dealAmount": 3263000,
+      "parcelNum": "6177-266-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 1028.0,
+      "yearBuilt": 2009,
+      "streetCode": 86003309,
+      "settlmentID": 8600,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3174,
+      "row_id": 105
+    }
+  ]
+}

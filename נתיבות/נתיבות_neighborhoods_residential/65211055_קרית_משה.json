@@ -1,0 +1,7681 @@
+{
+  "neighborhood_name": "קרית משה",
+  "city_name": "נתיבות",
+  "transaction_count": 229,
+  "transactions": [
+    {
+      "assetId": 50234241.0,
+      "addressId": 72952799,
+      "polygonId": "53388887",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 65",
+      "dealDate": "2025-07-24",
+      "dealAmount": 970000,
+      "parcelNum": "39580-41-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.55,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15508,
+      "row_id": 1
+    },
+    {
+      "assetId": 50235159.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2025-07-17",
+      "dealAmount": 1150000,
+      "parcelNum": "39586-52-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 85.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-07-08",
+          "dealAmount": 770000
+        }
+      ],
+      "trend": {
+        "rate": 49.4,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 13529,
+      "row_id": 2
+    },
+    {
+      "assetId": 50235019.0,
+      "addressId": 53747179,
+      "polygonId": "52802705",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 165",
+      "dealDate": "2025-07-16",
+      "dealAmount": 1312000,
+      "parcelNum": "39586-11-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 86.15,
+      "yearBuilt": 1980,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15229,
+      "row_id": 3
+    },
+    {
+      "assetId": 50234365.0,
+      "addressId": 53757107,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 24",
+      "dealDate": "2025-06-26",
+      "dealAmount": 980000,
+      "parcelNum": "39580-47-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-03-09",
+          "dealAmount": 865000
+        }
+      ],
+      "trend": {
+        "rate": 13.3,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 15077,
+      "row_id": 4
+    },
+    {
+      "assetId": 50234914.0,
+      "addressId": 53749650,
+      "polygonId": "52898092",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 87",
+      "dealDate": "2025-05-18",
+      "dealAmount": 850000,
+      "parcelNum": "39586-5-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 50.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-07-19",
+          "dealAmount": 510000
+        },
+        {
+          "dealDate": "2014-12-14",
+          "dealAmount": 370000
+        },
+        {
+          "dealDate": "2010-02-18",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2007-03-22",
+          "dealAmount": 155000
+        }
+      ],
+      "trend": {
+        "rate": 66.7,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 17000,
+      "row_id": 5
+    },
+    {
+      "assetId": 50234385.0,
+      "addressId": 53912725,
+      "polygonId": "53147838",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 12",
+      "dealDate": "2025-05-14",
+      "dealAmount": 960000,
+      "parcelNum": "39580-48-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-06-08",
+          "dealAmount": 697000
+        },
+        {
+          "dealDate": "2009-08-06",
+          "dealAmount": 260000
+        },
+        {
+          "dealDate": "2001-05-22",
+          "dealAmount": 202000
+        }
+      ],
+      "trend": {
+        "rate": 37.7,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 14328,
+      "row_id": 6
+    },
+    {
+      "assetId": 50235026.0,
+      "addressId": 53831698,
+      "polygonId": "52905016",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 160",
+      "dealDate": "2025-04-27",
+      "dealAmount": 2800000,
+      "parcelNum": "39586-12-5",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 159.2,
+      "yearBuilt": 1991,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17588,
+      "row_id": 7
+    },
+    {
+      "assetId": 50234382.0,
+      "addressId": 53912725,
+      "polygonId": "53147838",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 12",
+      "dealDate": "2025-04-24",
+      "dealAmount": 1000000,
+      "parcelNum": "39580-48-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-05-06",
+          "dealAmount": 700000
+        },
+        {
+          "dealDate": "2013-12-30",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 42.9,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 14925,
+      "row_id": 8
+    },
+    {
+      "assetId": 50234906.0,
+      "addressId": 53752888,
+      "polygonId": "53429430",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "הארי 86",
+      "dealDate": "2025-04-02",
+      "dealAmount": 1040000,
+      "parcelNum": "39586-3-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-07-14",
+          "dealAmount": 690000
+        },
+        {
+          "dealDate": "2016-11-23",
+          "dealAmount": 645000
+        },
+        {
+          "dealDate": "2012-10-24",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2001-10-18",
+          "dealAmount": 288000
+        }
+      ],
+      "trend": {
+        "rate": 50.7,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 15522,
+      "row_id": 9
+    },
+    {
+      "assetId": 50234422.0,
+      "addressId": 53746378,
+      "polygonId": "52999611",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 18",
+      "dealDate": "2025-03-20",
+      "dealAmount": 850000,
+      "parcelNum": "39580-48-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 52.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16346,
+      "row_id": 10
+    },
+    {
+      "assetId": 50235094.0,
+      "addressId": 53915078,
+      "polygonId": "52904478",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 184",
+      "dealDate": "2025-03-18",
+      "dealAmount": 1210000,
+      "parcelNum": "39586-50-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-08-26",
+          "dealAmount": 675000
+        }
+      ],
+      "trend": {
+        "rate": 79.3,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 14938,
+      "row_id": 11
+    },
+    {
+      "assetId": 50234278.0,
+      "addressId": 53829937,
+      "polygonId": "52810612",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 130",
+      "dealDate": "2025-02-23",
+      "dealAmount": 1700000,
+      "parcelNum": "39580-43-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 169.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-03-21",
+          "dealAmount": 1200000
+        }
+      ],
+      "trend": {
+        "rate": 41.7,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 10059,
+      "row_id": 12
+    },
+    {
+      "assetId": 50235017.0,
+      "addressId": 53747179,
+      "polygonId": "52802705",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 165",
+      "dealDate": "2025-01-02",
+      "dealAmount": 1570000,
+      "parcelNum": "39586-11-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 86.15,
+      "yearBuilt": 1980,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-02",
+          "dealAmount": 1100000
+        }
+      ],
+      "trend": {
+        "rate": 42.7,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 18256,
+      "row_id": 13
+    },
+    {
+      "assetId": 50235196.0,
+      "addressId": 53831087,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 30",
+      "dealDate": "2024-12-22",
+      "dealAmount": 1010000,
+      "parcelNum": "39586-52-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-01-26",
+          "dealAmount": 745000
+        },
+        {
+          "dealDate": "2016-05-03",
+          "dealAmount": 572000
+        }
+      ],
+      "trend": {
+        "rate": 35.6,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 12469,
+      "row_id": 14
+    },
+    {
+      "assetId": 50234394.0,
+      "addressId": 53831757,
+      "polygonId": "53043869",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 14",
+      "dealDate": "2024-12-15",
+      "dealAmount": 970000,
+      "parcelNum": "39580-48-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-07-20",
+          "dealAmount": 825000
+        },
+        {
+          "dealDate": "2017-06-20",
+          "dealAmount": 661000
+        },
+        {
+          "dealDate": "2015-11-05",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 17.6,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 14265,
+      "row_id": 15
+    },
+    {
+      "assetId": 50234285.0,
+      "addressId": 53748230,
+      "polygonId": "52792213",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 118",
+      "dealDate": "2024-12-04",
+      "dealAmount": 1700000,
+      "parcelNum": "39580-44-5",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 108.2,
+      "yearBuilt": 1985,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15712,
+      "row_id": 16
+    },
+    {
+      "assetId": 50234903.0,
+      "addressId": 53752888,
+      "polygonId": "53429430",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "הארי 86",
+      "dealDate": "2024-11-17",
+      "dealAmount": 1080000,
+      "parcelNum": "39586-3-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 62.3,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17335,
+      "row_id": 17
+    },
+    {
+      "assetId": 50234902.0,
+      "addressId": 53752888,
+      "polygonId": "53429430",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "הארי 86",
+      "dealDate": "2024-11-03",
+      "dealAmount": 830000,
+      "parcelNum": "39586-3-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 68.9,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-08",
+          "dealAmount": 750000
+        },
+        {
+          "dealDate": "2001-12-30",
+          "dealAmount": 335000
+        }
+      ],
+      "trend": {
+        "rate": 10.7,
+        "years": 7.7
+      },
+      "ownership": [],
+      "priceSM": 12206,
+      "row_id": 18
+    },
+    {
+      "assetId": 50234268.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2024-10-06",
+      "dealAmount": 890000,
+      "parcelNum": "39580-42-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.43,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-03-25",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2017-06-19",
+          "dealAmount": 564000
+        },
+        {
+          "dealDate": "2003-03-16",
+          "dealAmount": 170000
+        }
+      ],
+      "trend": {
+        "rate": 36.9,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 13692,
+      "row_id": 19
+    },
+    {
+      "assetId": 50234255.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2024-09-18",
+      "dealAmount": 950000,
+      "parcelNum": "39580-42-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 75.22,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-12-06",
+          "dealAmount": 640000
+        },
+        {
+          "dealDate": "2013-05-12",
+          "dealAmount": 470000
+        },
+        {
+          "dealDate": "2003-11-03",
+          "dealAmount": 242000
+        }
+      ],
+      "trend": {
+        "rate": 48.4,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 12667,
+      "row_id": 20
+    },
+    {
+      "assetId": 50234398.0,
+      "addressId": 53831757,
+      "polygonId": "53043869",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 14",
+      "dealDate": "2024-09-09",
+      "dealAmount": 870000,
+      "parcelNum": "39580-48-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-08-31",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2016-07-05",
+          "dealAmount": 610000
+        },
+        {
+          "dealDate": "2010-05-24",
+          "dealAmount": 290000
+        }
+      ],
+      "trend": {
+        "rate": 33.8,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 12985,
+      "row_id": 21
+    },
+    {
+      "assetId": 50234433.0,
+      "addressId": 53746378,
+      "polygonId": "52999611",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 18",
+      "dealDate": "2024-09-07",
+      "dealAmount": 805000,
+      "parcelNum": "39580-48-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-10-03",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2014-05-15",
+          "dealAmount": 422000
+        }
+      ],
+      "trend": {
+        "rate": 41.2,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 12015,
+      "row_id": 22
+    },
+    {
+      "assetId": 50235113.0,
+      "addressId": 53754824,
+      "polygonId": "52904478",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 185",
+      "dealDate": "2024-08-04",
+      "dealAmount": 1080000,
+      "parcelNum": "39586-50-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13252,
+      "row_id": 24
+    },
+    {
+      "assetId": 50234429.0,
+      "addressId": 53746378,
+      "polygonId": "52999611",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 18",
+      "dealDate": "2024-07-24",
+      "dealAmount": 845000,
+      "parcelNum": "39580-48-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-03",
+          "dealAmount": 673000
+        },
+        {
+          "dealDate": "2021-08-23",
+          "dealAmount": 614000
+        }
+      ],
+      "trend": {
+        "rate": 25.6,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 12612,
+      "row_id": 25
+    },
+    {
+      "assetId": 50234361.0,
+      "addressId": 53757107,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 24",
+      "dealDate": "2024-07-18",
+      "dealAmount": 890000,
+      "parcelNum": "39580-47-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 67.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-12-18",
+          "dealAmount": 650000
+        }
+      ],
+      "trend": {
+        "rate": 36.9,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 13284,
+      "row_id": 26
+    },
+    {
+      "assetId": 50234895.0,
+      "addressId": 53749805,
+      "polygonId": "53429430",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "הארי 86",
+      "dealDate": "2024-06-27",
+      "dealAmount": 975000,
+      "parcelNum": "39586-3-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.5,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-01-31",
+          "dealAmount": 660000
+        },
+        {
+          "dealDate": "2011-09-05",
+          "dealAmount": 610000
+        },
+        {
+          "dealDate": "2008-02-28",
+          "dealAmount": 280000
+        }
+      ],
+      "trend": {
+        "rate": 47.7,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 12342,
+      "row_id": 27
+    },
+    {
+      "assetId": 50234965.0,
+      "addressId": 53749802,
+      "polygonId": "52916399",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 193",
+      "dealDate": "2024-05-29",
+      "dealAmount": 1112000,
+      "parcelNum": "39586-6-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 78.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-04-15",
+          "dealAmount": 785000
+        },
+        {
+          "dealDate": "2012-04-22",
+          "dealAmount": 567000
+        },
+        {
+          "dealDate": "2002-07-23",
+          "dealAmount": 326000
+        }
+      ],
+      "trend": {
+        "rate": 41.7,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 14256,
+      "row_id": 28
+    },
+    {
+      "assetId": 50235103.0,
+      "addressId": 53915078,
+      "polygonId": "52904478",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 184",
+      "dealDate": "2024-05-26",
+      "dealAmount": 895000,
+      "parcelNum": "39586-50-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 69.2,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-10",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2006-01-23",
+          "dealAmount": 235000
+        }
+      ],
+      "trend": {
+        "rate": 57.0,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 12971,
+      "row_id": 29
+    },
+    {
+      "assetId": 50234917.0,
+      "addressId": 53749650,
+      "polygonId": "52898092",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 87",
+      "dealDate": "2024-05-23",
+      "dealAmount": 750000,
+      "parcelNum": "39586-5-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 50.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-11-23",
+          "dealAmount": 700000
+        }
+      ],
+      "trend": {
+        "rate": 7.1,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 30
+    },
+    {
+      "assetId": 50234964.0,
+      "addressId": 53749802,
+      "polygonId": "52916399",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 193",
+      "dealDate": "2024-05-09",
+      "dealAmount": 1160000,
+      "parcelNum": "39586-6-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 78.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-04-30",
+          "dealAmount": 277000
+        }
+      ],
+      "trend": {
+        "rate": 318.8,
+        "years": 17.0
+      },
+      "ownership": [],
+      "priceSM": 14872,
+      "row_id": 31
+    },
+    {
+      "assetId": 50234963.0,
+      "addressId": 53749802,
+      "polygonId": "52916399",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 193",
+      "dealDate": "2024-05-08",
+      "dealAmount": 1130000,
+      "parcelNum": "39586-6-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 91.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-04-06",
+          "dealAmount": 849000
+        },
+        {
+          "dealDate": "2012-07-30",
+          "dealAmount": 830000
+        }
+      ],
+      "trend": {
+        "rate": 33.1,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 12418,
+      "row_id": 32
+    },
+    {
+      "assetId": 50234329.0,
+      "addressId": 53747550,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 22",
+      "dealDate": "2024-04-16",
+      "dealAmount": 540000,
+      "parcelNum": "39580-47-17",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-08-02",
+          "dealAmount": 635000
+        }
+      ],
+      "trend": {
+        "rate": -15.0,
+        "years": 10.7
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 270000
+        },
+        {
+          "proportion": "50",
+          "price": 270000
+        }
+      ],
+      "priceSM": 6667,
+      "row_id": 33
+    },
+    {
+      "assetId": 50234396.0,
+      "addressId": 53831757,
+      "polygonId": "53043869",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 14",
+      "dealDate": "2024-04-02",
+      "dealAmount": 855000,
+      "parcelNum": "39580-48-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-04-09",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2013-10-15",
+          "dealAmount": 440000
+        }
+      ],
+      "trend": {
+        "rate": 35.7,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 12574,
+      "row_id": 34
+    },
+    {
+      "assetId": 50234232.0,
+      "addressId": 72952799,
+      "polygonId": "53388887",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 65",
+      "dealDate": "2024-03-31",
+      "dealAmount": 800000,
+      "parcelNum": "39580-41-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 75.22,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10635,
+      "row_id": 35
+    },
+    {
+      "assetId": 50235199.0,
+      "addressId": 53831087,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 30",
+      "dealDate": "2024-03-28",
+      "dealAmount": 910000,
+      "parcelNum": "39586-52-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-05-08",
+          "dealAmount": 448000
+        }
+      ],
+      "trend": {
+        "rate": 103.1,
+        "years": 9.9
+      },
+      "ownership": [],
+      "priceSM": 14918,
+      "row_id": 36
+    },
+    {
+      "assetId": 50234403.0,
+      "addressId": 53831757,
+      "polygonId": "53043869",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 14",
+      "dealDate": "2024-03-17",
+      "dealAmount": 880000,
+      "parcelNum": "39580-48-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-03-22",
+          "dealAmount": 572000
+        },
+        {
+          "dealDate": "2016-04-06",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2001-12-30",
+          "dealAmount": 236000
+        }
+      ],
+      "trend": {
+        "rate": 53.8,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 13134,
+      "row_id": 37
+    },
+    {
+      "assetId": 50234357.0,
+      "addressId": 53757107,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 24",
+      "dealDate": "2024-03-17",
+      "dealAmount": 920000,
+      "parcelNum": "39580-47-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-18",
+          "dealAmount": 570000
+        }
+      ],
+      "trend": {
+        "rate": 61.4,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 15082,
+      "row_id": 38
+    },
+    {
+      "assetId": 50234364.0,
+      "addressId": 53757107,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 24",
+      "dealDate": "2024-03-07",
+      "dealAmount": 1090000,
+      "parcelNum": "39580-47-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 87.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-02-20",
+          "dealAmount": 700000
+        },
+        {
+          "dealDate": "2011-12-11",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2011-05-30",
+          "dealAmount": 780000
+        }
+      ],
+      "trend": {
+        "rate": 55.7,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 12529,
+      "row_id": 39
+    },
+    {
+      "assetId": 50235148.0,
+      "addressId": 53749978,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 183",
+      "dealDate": "2024-02-23",
+      "dealAmount": 960000,
+      "parcelNum": "39586-51-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 66.2,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-03-23",
+          "dealAmount": 800000
+        },
+        {
+          "dealDate": "1998-06-08",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": 20.0,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 14545,
+      "row_id": 40
+    },
+    {
+      "assetId": 50235144.0,
+      "addressId": 53749978,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 183",
+      "dealDate": "2024-02-22",
+      "dealAmount": 930000,
+      "parcelNum": "39586-51-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 66.2,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-05-05",
+          "dealAmount": 740000
+        },
+        {
+          "dealDate": "2016-03-15",
+          "dealAmount": 630000
+        }
+      ],
+      "trend": {
+        "rate": 25.7,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 14091,
+      "row_id": 41
+    },
+    {
+      "assetId": 50235137.0,
+      "addressId": 53914653,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 182",
+      "dealDate": "2024-01-30",
+      "dealAmount": 950000,
+      "parcelNum": "39586-51-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 69.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-21",
+          "dealAmount": 745000
+        },
+        {
+          "dealDate": "2017-06-19",
+          "dealAmount": 540000
+        }
+      ],
+      "trend": {
+        "rate": 27.5,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 13768,
+      "row_id": 42
+    },
+    {
+      "assetId": 50234295.0,
+      "addressId": 53749803,
+      "polygonId": "53152510",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 106",
+      "dealDate": "2024-01-30",
+      "dealAmount": 1960000,
+      "parcelNum": "39580-45-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 121.1,
+      "yearBuilt": 1984,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-07-06",
+          "dealAmount": 1300000
+        }
+      ],
+      "trend": {
+        "rate": 50.8,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 16198,
+      "row_id": 43
+    },
+    {
+      "assetId": 50235192.0,
+      "addressId": 53831087,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 30",
+      "dealDate": "2024-01-01",
+      "dealAmount": 1045000,
+      "parcelNum": "39586-52-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12294,
+      "row_id": 44
+    },
+    {
+      "assetId": 50234995.0,
+      "addressId": 53752941,
+      "polygonId": "53449241",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 191",
+      "dealDate": "2023-12-28",
+      "dealAmount": 1150000,
+      "parcelNum": "39586-7-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 78.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-04-08",
+          "dealAmount": 835000
+        },
+        {
+          "dealDate": "2015-03-10",
+          "dealAmount": 670000
+        },
+        {
+          "dealDate": "2004-01-26",
+          "dealAmount": 335000
+        }
+      ],
+      "trend": {
+        "rate": 37.7,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 14744,
+      "row_id": 45
+    },
+    {
+      "assetId": 50234320.0,
+      "addressId": 53757718,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 20",
+      "dealDate": "2023-09-28",
+      "dealAmount": 983000,
+      "parcelNum": "39580-47-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-04-20",
+          "dealAmount": 585000
+        },
+        {
+          "dealDate": "2000-04-06",
+          "dealAmount": 296000
+        }
+      ],
+      "trend": {
+        "rate": 68.0,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 11565,
+      "row_id": 46
+    },
+    {
+      "assetId": 4478011.0,
+      "addressId": 72952720,
+      "polygonId": "52808013",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "חי טייב 109",
+      "dealDate": "2023-08-15",
+      "dealAmount": 2375000,
+      "parcelNum": "39580-31-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 8.0,
+      "floor": "ראשונה",
+      "assetArea": 273.0,
+      "yearBuilt": 1983,
+      "streetCode": 2460156,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8700,
+      "row_id": 47
+    },
+    {
+      "assetId": 50234425.0,
+      "addressId": 53746378,
+      "polygonId": "52999611",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 18",
+      "dealDate": "2023-07-13",
+      "dealAmount": 750000,
+      "parcelNum": "39580-48-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11029,
+      "row_id": 48
+    },
+    {
+      "assetId": 50235101.0,
+      "addressId": 53915078,
+      "polygonId": "52904478",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 184",
+      "dealDate": "2023-07-09",
+      "dealAmount": 920000,
+      "parcelNum": "39586-50-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 66.2,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13897,
+      "row_id": 49
+    },
+    {
+      "assetId": 50235117.0,
+      "addressId": 53754824,
+      "polygonId": "52904478",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 185",
+      "dealDate": "2023-06-04",
+      "dealAmount": 75000,
+      "parcelNum": "39586-50-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 84.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 888,
+      "row_id": 50
+    },
+    {
+      "assetId": 50235133.0,
+      "addressId": 53914653,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 182",
+      "dealDate": "2023-05-07",
+      "dealAmount": 1000000,
+      "parcelNum": "39586-51-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 66.2,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-08-05",
+          "dealAmount": 730000
+        },
+        {
+          "dealDate": "2012-03-01",
+          "dealAmount": 465000
+        }
+      ],
+      "trend": {
+        "rate": 37.0,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 15152,
+      "row_id": 51
+    },
+    {
+      "assetId": 50235095.0,
+      "addressId": 53915078,
+      "polygonId": "52904478",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 184",
+      "dealDate": "2023-03-13",
+      "dealAmount": 950000,
+      "parcelNum": "39586-50-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 66.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-09",
+          "dealAmount": 569000
+        },
+        {
+          "dealDate": "2013-12-23",
+          "dealAmount": 480000
+        },
+        {
+          "dealDate": "2009-11-29",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 67.0,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 14394,
+      "row_id": 52
+    },
+    {
+      "assetId": 50235180.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2023-03-09",
+      "dealAmount": 77000,
+      "parcelNum": "39586-52-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 906,
+      "row_id": 53
+    },
+    {
+      "assetId": 50235023.0,
+      "addressId": 53831698,
+      "polygonId": "52905016",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 160",
+      "dealDate": "2023-02-15",
+      "dealAmount": 1700000,
+      "parcelNum": "39586-12-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.5,
+      "floor": "קרקע",
+      "assetArea": 86.15,
+      "yearBuilt": 1991,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19733,
+      "row_id": 54
+    },
+    {
+      "assetId": 50235167.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2023-02-09",
+      "dealAmount": 104000,
+      "parcelNum": "39586-52-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1316,
+      "row_id": 55
+    },
+    {
+      "assetId": 50235169.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2023-02-07",
+      "dealAmount": 239000,
+      "parcelNum": "39586-52-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3918,
+      "row_id": 56
+    },
+    {
+      "assetId": 4482278.0,
+      "addressId": 53747180,
+      "polygonId": "52945706",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 24",
+      "dealDate": "2023-01-30",
+      "dealAmount": 2700000,
+      "parcelNum": "39586-15-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 170.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15882,
+      "row_id": 57
+    },
+    {
+      "assetId": 50234892.0,
+      "addressId": 53749805,
+      "polygonId": "53429430",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "הארי 86",
+      "dealDate": "2023-01-29",
+      "dealAmount": 1000000,
+      "parcelNum": "39586-3-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.5,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-11-02",
+          "dealAmount": 299000
+        },
+        {
+          "dealDate": "2002-08-06",
+          "dealAmount": 390000
+        }
+      ],
+      "trend": {
+        "rate": 234.4,
+        "years": 16.3
+      },
+      "ownership": [],
+      "priceSM": 12658,
+      "row_id": 58
+    },
+    {
+      "assetId": 50234367.0,
+      "addressId": 53757107,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 24",
+      "dealDate": "2023-01-22",
+      "dealAmount": 545000,
+      "parcelNum": "39580-47-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6412,
+      "row_id": 59
+    },
+    {
+      "assetId": 50234897.0,
+      "addressId": 53913875,
+      "polygonId": "53429430",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "הארי 86",
+      "dealDate": "2023-01-15",
+      "dealAmount": 1200000,
+      "parcelNum": "39586-3-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 79.5,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-16",
+          "dealAmount": 436000
+        },
+        {
+          "dealDate": "2001-08-13",
+          "dealAmount": 376000
+        }
+      ],
+      "trend": {
+        "rate": 175.2,
+        "years": 13.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 600000
+        },
+        {
+          "proportion": "50",
+          "price": 600000
+        }
+      ],
+      "priceSM": 15190,
+      "row_id": 60
+    },
+    {
+      "assetId": 50234994.0,
+      "addressId": 53752941,
+      "polygonId": "53449241",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 191",
+      "dealDate": "2022-12-25",
+      "dealAmount": 1065000,
+      "parcelNum": "39586-7-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 78.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-03-04",
+          "dealAmount": 850000
+        },
+        {
+          "dealDate": "2011-01-18",
+          "dealAmount": 545000
+        },
+        {
+          "dealDate": "2003-04-13",
+          "dealAmount": 347000
+        }
+      ],
+      "trend": {
+        "rate": 25.3,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 13654,
+      "row_id": 61
+    },
+    {
+      "assetId": 50234324.0,
+      "addressId": 53757718,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 20",
+      "dealDate": "2022-12-20",
+      "dealAmount": 74000,
+      "parcelNum": "39580-47-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 914,
+      "row_id": 62
+    },
+    {
+      "assetId": 50234996.0,
+      "addressId": 53752941,
+      "polygonId": "53449241",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 191",
+      "dealDate": "2022-11-22",
+      "dealAmount": 1250000,
+      "parcelNum": "39586-7-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "ראשונה",
+      "assetArea": 93.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-01-03",
+          "dealAmount": 875000
+        },
+        {
+          "dealDate": "2009-05-11",
+          "dealAmount": 445000
+        },
+        {
+          "dealDate": "2002-02-06",
+          "dealAmount": 435000
+        }
+      ],
+      "trend": {
+        "rate": 42.9,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 13441,
+      "row_id": 63
+    },
+    {
+      "assetId": 50235197.0,
+      "addressId": 53831087,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 30",
+      "dealDate": "2022-08-23",
+      "dealAmount": 203000,
+      "parcelNum": "39586-52-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2506,
+      "row_id": 64
+    },
+    {
+      "assetId": 50235119.0,
+      "addressId": 53754824,
+      "polygonId": "52904478",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 185",
+      "dealDate": "2022-08-23",
+      "dealAmount": 109000,
+      "parcelNum": "39586-50-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 84.2,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1295,
+      "row_id": 65
+    },
+    {
+      "assetId": 50235179.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2022-08-16",
+      "dealAmount": 940000,
+      "parcelNum": "39586-52-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-15",
+          "dealAmount": 725000
+        },
+        {
+          "dealDate": "2013-11-28",
+          "dealAmount": 570000
+        }
+      ],
+      "trend": {
+        "rate": 29.7,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 11059,
+      "row_id": 66
+    },
+    {
+      "assetId": 50235149.0,
+      "addressId": 53749978,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 183",
+      "dealDate": "2022-08-11",
+      "dealAmount": 935000,
+      "parcelNum": "39586-51-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 84.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11065,
+      "row_id": 67
+    },
+    {
+      "assetId": 50235194.0,
+      "addressId": 53831087,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 30",
+      "dealDate": "2022-07-25",
+      "dealAmount": 745000,
+      "parcelNum": "39586-52-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-02-14",
+          "dealAmount": 695000
+        },
+        {
+          "dealDate": "2014-05-01",
+          "dealAmount": 539000
+        }
+      ],
+      "trend": {
+        "rate": 7.2,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 11462,
+      "row_id": 68
+    },
+    {
+      "assetId": 50234336.0,
+      "addressId": 53747550,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 22",
+      "dealDate": "2022-07-25",
+      "dealAmount": 770000,
+      "parcelNum": "39580-47-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-24",
+          "dealAmount": 620000
+        }
+      ],
+      "trend": {
+        "rate": 24.2,
+        "years": 7.1
+      },
+      "ownership": [],
+      "priceSM": 11846,
+      "row_id": 69
+    },
+    {
+      "assetId": 50235126.0,
+      "addressId": 53914653,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 182",
+      "dealDate": "2022-06-22",
+      "dealAmount": 1050000,
+      "parcelNum": "39586-51-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-08-09",
+          "dealAmount": 840000
+        },
+        {
+          "dealDate": "2001-04-03",
+          "dealAmount": 308000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 12963,
+      "row_id": 70
+    },
+    {
+      "assetId": 50234252.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2022-06-08",
+      "dealAmount": 650000,
+      "parcelNum": "39580-42-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.43,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-07-16",
+          "dealAmount": 235000
+        }
+      ],
+      "trend": {
+        "rate": 176.6,
+        "years": 20.9
+      },
+      "ownership": [
+        {
+          "proportion": "20",
+          "price": 130000
+        },
+        {
+          "proportion": "20",
+          "price": 130000
+        },
+        {
+          "proportion": "20",
+          "price": 130000
+        },
+        {
+          "proportion": "20",
+          "price": 130000
+        },
+        {
+          "proportion": "20",
+          "price": 130000
+        }
+      ],
+      "priceSM": 10000,
+      "row_id": 71
+    },
+    {
+      "assetId": 50235151.0,
+      "addressId": 53749978,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 183",
+      "dealDate": "2022-05-15",
+      "dealAmount": 810000,
+      "parcelNum": "39586-51-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 84.2,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9620,
+      "row_id": 72
+    },
+    {
+      "assetId": 50234923.0,
+      "addressId": 53749650,
+      "polygonId": "52898092",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 87",
+      "dealDate": "2022-05-12",
+      "dealAmount": 618000,
+      "parcelNum": "39586-5-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 47.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-10-23",
+          "dealAmount": 127000
+        }
+      ],
+      "trend": {
+        "rate": 386.6,
+        "years": 15.6
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 203940
+        },
+        {
+          "proportion": "33",
+          "price": 203940
+        },
+        {
+          "proportion": "33",
+          "price": 203940
+        }
+      ],
+      "priceSM": 13149,
+      "row_id": 73
+    },
+    {
+      "assetId": 50234416.0,
+      "addressId": 53914881,
+      "polygonId": "53087037",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 16",
+      "dealDate": "2022-04-27",
+      "dealAmount": 600000,
+      "parcelNum": "39580-48-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8955,
+      "row_id": 74
+    },
+    {
+      "assetId": 50234335.0,
+      "addressId": 53747550,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 22",
+      "dealDate": "2022-04-05",
+      "dealAmount": 680000,
+      "parcelNum": "39580-47-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10462,
+      "row_id": 75
+    },
+    {
+      "assetId": 50234417.0,
+      "addressId": 53914881,
+      "polygonId": "53087037",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 16",
+      "dealDate": "2022-03-29",
+      "dealAmount": 650000,
+      "parcelNum": "39580-48-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-17",
+          "dealAmount": 560000
+        },
+        {
+          "dealDate": "2013-11-25",
+          "dealAmount": 420000
+        },
+        {
+          "dealDate": "2012-12-10",
+          "dealAmount": 370000
+        },
+        {
+          "dealDate": "2011-04-04",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "1998-10-29",
+          "dealAmount": 214000
+        }
+      ],
+      "trend": {
+        "rate": 16.1,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 9701,
+      "row_id": 76
+    },
+    {
+      "assetId": 50234253.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2022-03-24",
+      "dealAmount": 661000,
+      "parcelNum": "39580-42-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 78.1,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-10-30",
+          "dealAmount": 649000
+        },
+        {
+          "dealDate": "2015-04-12",
+          "dealAmount": 550000
+        }
+      ],
+      "trend": {
+        "rate": 1.8,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 8474,
+      "row_id": 77
+    },
+    {
+      "assetId": 50234288.0,
+      "addressId": 53912755,
+      "polygonId": "53118721",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 133",
+      "dealDate": "2022-03-02",
+      "dealAmount": 1250000,
+      "parcelNum": "39580-44-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 108.2,
+      "yearBuilt": 1980,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-02-16",
+          "dealAmount": 1200000
+        },
+        {
+          "dealDate": "2012-11-29",
+          "dealAmount": 645000
+        },
+        {
+          "dealDate": "2010-06-27",
+          "dealAmount": 610000
+        }
+      ],
+      "trend": {
+        "rate": 4.2,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 11574,
+      "row_id": 78
+    },
+    {
+      "assetId": 50235129.0,
+      "addressId": 53914653,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 182",
+      "dealDate": "2022-02-28",
+      "dealAmount": 745000,
+      "parcelNum": "39586-51-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 66.2,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-09-16",
+          "dealAmount": 261000
+        }
+      ],
+      "trend": {
+        "rate": 185.4,
+        "years": 20.5
+      },
+      "ownership": [],
+      "priceSM": 11288,
+      "row_id": 79
+    },
+    {
+      "assetId": 50234254.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2022-02-23",
+      "dealAmount": 615000,
+      "parcelNum": "39580-42-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.55,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-09-07",
+          "dealAmount": 545000
+        },
+        {
+          "dealDate": "2015-07-07",
+          "dealAmount": 485000
+        },
+        {
+          "dealDate": "2015-02-24",
+          "dealAmount": 320000
+        },
+        {
+          "dealDate": "2001-09-10",
+          "dealAmount": 226000
+        }
+      ],
+      "trend": {
+        "rate": 12.8,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 9919,
+      "row_id": 80
+    },
+    {
+      "assetId": 50234363.0,
+      "addressId": 53757107,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 24",
+      "dealDate": "2022-02-15",
+      "dealAmount": 750000,
+      "parcelNum": "39580-47-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 87.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8621,
+      "row_id": 81
+    },
+    {
+      "assetId": 50235136.0,
+      "addressId": 53914653,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 182",
+      "dealDate": "2022-02-14",
+      "dealAmount": 795000,
+      "parcelNum": "39586-51-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 84.2,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-10-19",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2003-05-04",
+          "dealAmount": 260000
+        }
+      ],
+      "trend": {
+        "rate": 22.3,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 9464,
+      "row_id": 82
+    },
+    {
+      "assetId": 50235127.0,
+      "addressId": 53914653,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 182",
+      "dealDate": "2022-02-06",
+      "dealAmount": 750000,
+      "parcelNum": "39586-51-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 66.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-08-14",
+          "dealAmount": 770000
+        },
+        {
+          "dealDate": "2012-12-16",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2003-04-13",
+          "dealAmount": 298000
+        }
+      ],
+      "trend": {
+        "rate": -2.6,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 11364,
+      "row_id": 83
+    },
+    {
+      "assetId": 50234980.0,
+      "addressId": 53752940,
+      "polygonId": "52881819",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 190",
+      "dealDate": "2022-02-03",
+      "dealAmount": 1050000,
+      "parcelNum": "39586-7-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 93.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-12-01",
+          "dealAmount": 800000
+        }
+      ],
+      "trend": {
+        "rate": 31.2,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 11290,
+      "row_id": 84
+    },
+    {
+      "assetId": 50235085.0,
+      "addressId": 53932281,
+      "polygonId": "52855286",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 136",
+      "dealDate": "2022-01-06",
+      "dealAmount": 1700000,
+      "parcelNum": "39586-48-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 155.6,
+      "yearBuilt": 2000,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-01-04",
+          "dealAmount": 1145000
+        },
+        {
+          "dealDate": "2001-08-15",
+          "dealAmount": 665000
+        }
+      ],
+      "trend": {
+        "rate": 48.5,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 10968,
+      "row_id": 85
+    },
+    {
+      "assetId": 50234401.0,
+      "addressId": 53831757,
+      "polygonId": "53043869",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 14",
+      "dealDate": "2021-12-26",
+      "dealAmount": 630000,
+      "parcelNum": "39580-48-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-07-26",
+          "dealAmount": 553000
+        },
+        {
+          "dealDate": "2014-08-18",
+          "dealAmount": 430000
+        },
+        {
+          "dealDate": "2011-11-17",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2002-06-20",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 13.9,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 9403,
+      "row_id": 86
+    },
+    {
+      "assetId": 50235134.0,
+      "addressId": 53914653,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 182",
+      "dealDate": "2021-12-20",
+      "dealAmount": 770000,
+      "parcelNum": "39586-51-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 84.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-30",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2009-11-22",
+          "dealAmount": 370000
+        }
+      ],
+      "trend": {
+        "rate": 40.0,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 9167,
+      "row_id": 87
+    },
+    {
+      "assetId": 50234977.0,
+      "addressId": 53752940,
+      "polygonId": "52881819",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 190",
+      "dealDate": "2021-12-14",
+      "dealAmount": 990000,
+      "parcelNum": "39586-7-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10879,
+      "row_id": 88
+    },
+    {
+      "assetId": 50234907.0,
+      "addressId": 53752888,
+      "polygonId": "53429430",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "הארי 86",
+      "dealDate": "2021-11-22",
+      "dealAmount": 700000,
+      "parcelNum": "39586-3-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.3,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-04-27",
+          "dealAmount": 650000
+        }
+      ],
+      "trend": {
+        "rate": 7.7,
+        "years": 0.6
+      },
+      "ownership": [],
+      "priceSM": 11290,
+      "row_id": 89
+    },
+    {
+      "assetId": 50234239.0,
+      "addressId": 72952799,
+      "polygonId": "53388887",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 65",
+      "dealDate": "2021-11-20",
+      "dealAmount": 565000,
+      "parcelNum": "39580-41-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.43,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-01-30",
+          "dealAmount": 480000
+        },
+        {
+          "dealDate": "2012-09-13",
+          "dealAmount": 373000
+        },
+        {
+          "dealDate": "2007-03-12",
+          "dealAmount": 168000
+        },
+        {
+          "dealDate": "2006-06-11",
+          "dealAmount": 151000
+        },
+        {
+          "dealDate": "2001-07-27",
+          "dealAmount": 210000
+        }
+      ],
+      "trend": {
+        "rate": 17.7,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 8692,
+      "row_id": 90
+    },
+    {
+      "assetId": 50235190.0,
+      "addressId": 53831087,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 30",
+      "dealDate": "2021-11-16",
+      "dealAmount": 605000,
+      "parcelNum": "39586-52-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 67.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9030,
+      "row_id": 91
+    },
+    {
+      "assetId": 50235193.0,
+      "addressId": 53831087,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 30",
+      "dealDate": "2021-11-08",
+      "dealAmount": 750000,
+      "parcelNum": "39586-52-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-20",
+          "dealAmount": 579000
+        },
+        {
+          "dealDate": "2011-08-17",
+          "dealAmount": 470000
+        },
+        {
+          "dealDate": "2005-02-17",
+          "dealAmount": 274000
+        }
+      ],
+      "trend": {
+        "rate": 29.5,
+        "years": 7.8
+      },
+      "ownership": [],
+      "priceSM": 8824,
+      "row_id": 92
+    },
+    {
+      "assetId": 50234957.0,
+      "addressId": 53749802,
+      "polygonId": "52916399",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 193",
+      "dealDate": "2021-10-27",
+      "dealAmount": 1253000,
+      "parcelNum": "39586-6-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 78.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-24",
+          "dealAmount": 650000
+        }
+      ],
+      "trend": {
+        "rate": 92.8,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 16064,
+      "row_id": 93
+    },
+    {
+      "assetId": 50234428.0,
+      "addressId": 53746378,
+      "polygonId": "52999611",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 18",
+      "dealDate": "2021-10-25",
+      "dealAmount": 685000,
+      "parcelNum": "39580-48-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10224,
+      "row_id": 94
+    },
+    {
+      "assetId": 50234411.0,
+      "addressId": 53914881,
+      "polygonId": "53087037",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 16",
+      "dealDate": "2021-08-11",
+      "dealAmount": 665000,
+      "parcelNum": "39580-48-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9779,
+      "row_id": 95
+    },
+    {
+      "assetId": 50235143.0,
+      "addressId": 53749978,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 183",
+      "dealDate": "2021-08-02",
+      "dealAmount": 825000,
+      "parcelNum": "39586-51-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.3,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10148,
+      "row_id": 96
+    },
+    {
+      "assetId": 50234413.0,
+      "addressId": 53914881,
+      "polygonId": "53087037",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 16",
+      "dealDate": "2021-08-01",
+      "dealAmount": 605000,
+      "parcelNum": "39580-48-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-06-24",
+          "dealAmount": 480000
+        }
+      ],
+      "trend": {
+        "rate": 26.0,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 9030,
+      "row_id": 97
+    },
+    {
+      "assetId": 4487664.0,
+      "addressId": 72952722,
+      "polygonId": "53023653",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "חי טייב 106",
+      "dealDate": "2021-07-30",
+      "dealAmount": 2000000,
+      "parcelNum": "39580-38-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 200.0,
+      "yearBuilt": 1950,
+      "streetCode": 2460156,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 98
+    },
+    {
+      "assetId": 50234349.0,
+      "addressId": 53757107,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 24",
+      "dealDate": "2021-07-26",
+      "dealAmount": 655000,
+      "parcelNum": "39580-47-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 67.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-06-19",
+          "dealAmount": 602000
+        },
+        {
+          "dealDate": "2001-10-31",
+          "dealAmount": 239000
+        }
+      ],
+      "trend": {
+        "rate": 8.8,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 9776,
+      "row_id": 99
+    },
+    {
+      "assetId": 50234368.0,
+      "addressId": 53757107,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 24",
+      "dealDate": "2021-06-17",
+      "dealAmount": 690000,
+      "parcelNum": "39580-47-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8118,
+      "row_id": 100
+    },
+    {
+      "assetId": 50235186.0,
+      "addressId": 53831087,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 30",
+      "dealDate": "2021-06-03",
+      "dealAmount": 920000,
+      "parcelNum": "39586-52-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 81.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-16",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2004-05-31",
+          "dealAmount": 318000
+        }
+      ],
+      "trend": {
+        "rate": 53.3,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 11358,
+      "row_id": 101
+    },
+    {
+      "assetId": 50234341.0,
+      "addressId": 53747550,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 22",
+      "dealDate": "2021-05-24",
+      "dealAmount": 615000,
+      "parcelNum": "39580-47-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-03-07",
+          "dealAmount": 700000
+        },
+        {
+          "dealDate": "2014-10-23",
+          "dealAmount": 520000
+        },
+        {
+          "dealDate": "2009-04-26",
+          "dealAmount": 210000
+        }
+      ],
+      "trend": {
+        "rate": -12.1,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 7593,
+      "row_id": 102
+    },
+    {
+      "assetId": 50234400.0,
+      "addressId": 53831757,
+      "polygonId": "53043869",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 14",
+      "dealDate": "2021-05-24",
+      "dealAmount": 600000,
+      "parcelNum": "39580-48-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8955,
+      "row_id": 103
+    },
+    {
+      "assetId": 50234328.0,
+      "addressId": 53747550,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 22",
+      "dealDate": "2021-05-11",
+      "dealAmount": 815000,
+      "parcelNum": "39580-47-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 62.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-10-12",
+          "dealAmount": 750000
+        },
+        {
+          "dealDate": "2014-07-07",
+          "dealAmount": 580000
+        },
+        {
+          "dealDate": "2012-12-27",
+          "dealAmount": 479000
+        },
+        {
+          "dealDate": "2007-02-14",
+          "dealAmount": 253000
+        }
+      ],
+      "trend": {
+        "rate": 8.7,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 13145,
+      "row_id": 104
+    },
+    {
+      "assetId": 4347659.0,
+      "addressId": 0,
+      "polygonId": "39586-74",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "0",
+      "dealDate": "2021-04-27",
+      "dealAmount": 975000,
+      "parcelNum": "39586-74-1",
+      "dealNature": "דירה",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 110.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8864,
+      "row_id": 105
+    },
+    {
+      "assetId": 4347658.0,
+      "addressId": 0,
+      "polygonId": "39586-74",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "0",
+      "dealDate": "2021-04-27",
+      "dealAmount": 1040000,
+      "parcelNum": "39586-74-2",
+      "dealNature": "דירה",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 110.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9455,
+      "row_id": 106
+    },
+    {
+      "assetId": 50234956.0,
+      "addressId": 53749802,
+      "polygonId": "52916399",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 193",
+      "dealDate": "2021-04-27",
+      "dealAmount": 497000,
+      "parcelNum": "39586-6-18",
+      "dealNature": "דירת גן",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 78.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-06-07",
+          "dealAmount": 375000
+        }
+      ],
+      "trend": {
+        "rate": 32.5,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 6372,
+      "row_id": 107
+    },
+    {
+      "assetId": 50234230.0,
+      "addressId": 72952799,
+      "polygonId": "53388887",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 65",
+      "dealDate": "2021-04-25",
+      "dealAmount": 650000,
+      "parcelNum": "39580-41-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 78.1,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-03-17",
+          "dealAmount": 620000
+        }
+      ],
+      "trend": {
+        "rate": 4.8,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 108
+    },
+    {
+      "assetId": 50235099.0,
+      "addressId": 53915078,
+      "polygonId": "52904478",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 184",
+      "dealDate": "2021-04-25",
+      "dealAmount": 735000,
+      "parcelNum": "39586-50-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 66.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-02-10",
+          "dealAmount": 679000
+        },
+        {
+          "dealDate": "2010-10-27",
+          "dealAmount": 425000
+        }
+      ],
+      "trend": {
+        "rate": 8.2,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 11136,
+      "row_id": 109
+    },
+    {
+      "assetId": 50235098.0,
+      "addressId": 53915078,
+      "polygonId": "52904478",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 184",
+      "dealDate": "2021-03-03",
+      "dealAmount": 800000,
+      "parcelNum": "39586-50-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-12-27",
+          "dealAmount": 323000
+        }
+      ],
+      "trend": {
+        "rate": 147.7,
+        "years": 19.2
+      },
+      "ownership": [],
+      "priceSM": 9877,
+      "row_id": 110
+    },
+    {
+      "assetId": 50234918.0,
+      "addressId": 53749650,
+      "polygonId": "52898092",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 87",
+      "dealDate": "2021-01-28",
+      "dealAmount": 740000,
+      "parcelNum": "39586-5-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-22",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 138.7,
+        "years": 10.8
+      },
+      "ownership": [],
+      "priceSM": 9250,
+      "row_id": 111
+    },
+    {
+      "assetId": 50235147.0,
+      "addressId": 53749978,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 183",
+      "dealDate": "2021-01-05",
+      "dealAmount": 800000,
+      "parcelNum": "39586-51-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.3,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-12-05",
+          "dealAmount": 800000
+        },
+        {
+          "dealDate": "2013-08-14",
+          "dealAmount": 585000
+        },
+        {
+          "dealDate": "2007-09-09",
+          "dealAmount": 289000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 9877,
+      "row_id": 112
+    },
+    {
+      "assetId": 50235172.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2020-12-30",
+      "dealAmount": 400000,
+      "parcelNum": "39586-52-18",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 81.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4938,
+      "row_id": 113
+    },
+    {
+      "assetId": 50234958.0,
+      "addressId": 53749802,
+      "polygonId": "52916399",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 193",
+      "dealDate": "2020-12-17",
+      "dealAmount": 1090000,
+      "parcelNum": "39586-6-20",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 93.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-07-15",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 159.5,
+        "years": 19.4
+      },
+      "ownership": [],
+      "priceSM": 11720,
+      "row_id": 114
+    },
+    {
+      "assetId": 50234985.0,
+      "addressId": 53752940,
+      "polygonId": "52881819",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 190",
+      "dealDate": "2020-11-19",
+      "dealAmount": 1150000,
+      "parcelNum": "39586-7-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.5,
+      "floor": "שלישית רביעית",
+      "assetArea": 134.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8582,
+      "row_id": 115
+    },
+    {
+      "assetId": 50234946.0,
+      "addressId": 53747521,
+      "polygonId": "52923519",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 192",
+      "dealDate": "2020-11-12",
+      "dealAmount": 940000,
+      "parcelNum": "39586-6-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "ראשונה",
+      "assetArea": 93.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-05-07",
+          "dealAmount": 390000
+        }
+      ],
+      "trend": {
+        "rate": 141.0,
+        "years": 14.5
+      },
+      "ownership": [],
+      "priceSM": 10108,
+      "row_id": 116
+    },
+    {
+      "assetId": 50235142.0,
+      "addressId": 53749978,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 183",
+      "dealDate": "2020-10-29",
+      "dealAmount": 758000,
+      "parcelNum": "39586-51-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 66.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-24",
+          "dealAmount": 715000
+        },
+        {
+          "dealDate": "2014-02-18",
+          "dealAmount": 530000
+        },
+        {
+          "dealDate": "2010-01-05",
+          "dealAmount": 333000
+        },
+        {
+          "dealDate": "2003-08-27",
+          "dealAmount": 211000
+        },
+        {
+          "dealDate": "2001-09-03",
+          "dealAmount": 276000
+        }
+      ],
+      "trend": {
+        "rate": 6.0,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 11485,
+      "row_id": 117
+    },
+    {
+      "assetId": 50234390.0,
+      "addressId": 53831757,
+      "polygonId": "53043869",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 14",
+      "dealDate": "2020-09-01",
+      "dealAmount": 163000,
+      "parcelNum": "39580-48-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 52.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3135,
+      "row_id": 118
+    },
+    {
+      "assetId": 4483444.0,
+      "addressId": 53749804,
+      "polygonId": "52963338",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 20",
+      "dealDate": "2020-08-23",
+      "dealAmount": 2200000,
+      "parcelNum": "39586-20-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 180.0,
+      "yearBuilt": 1995,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12222,
+      "row_id": 119
+    },
+    {
+      "assetId": 50234426.0,
+      "addressId": 53746378,
+      "polygonId": "52999611",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 18",
+      "dealDate": "2020-08-05",
+      "dealAmount": 745000,
+      "parcelNum": "39580-48-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 86.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-09-22",
+          "dealAmount": 662000
+        }
+      ],
+      "trend": {
+        "rate": 12.5,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 8663,
+      "row_id": 120
+    },
+    {
+      "assetId": 50234418.0,
+      "addressId": 53914881,
+      "polygonId": "53087037",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 16",
+      "dealDate": "2020-08-04",
+      "dealAmount": 590000,
+      "parcelNum": "39580-48-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-04-26",
+          "dealAmount": 559000
+        },
+        {
+          "dealDate": "2014-11-12",
+          "dealAmount": 415000
+        }
+      ],
+      "trend": {
+        "rate": 5.5,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 8806,
+      "row_id": 121
+    },
+    {
+      "assetId": 50234432.0,
+      "addressId": 53746378,
+      "polygonId": "52999611",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 18",
+      "dealDate": "2020-07-19",
+      "dealAmount": 570000,
+      "parcelNum": "39580-48-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-09-13",
+          "dealAmount": 310000
+        },
+        {
+          "dealDate": "2004-05-23",
+          "dealAmount": 137000
+        }
+      ],
+      "trend": {
+        "rate": 83.9,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 8507,
+      "row_id": 122
+    },
+    {
+      "assetId": 50234933.0,
+      "addressId": 53749650,
+      "polygonId": "52898092",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 87",
+      "dealDate": "2020-06-24",
+      "dealAmount": 840000,
+      "parcelNum": "39586-5-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 84.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-09",
+          "dealAmount": 650000
+        }
+      ],
+      "trend": {
+        "rate": 29.2,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 123
+    },
+    {
+      "assetId": 50234978.0,
+      "addressId": 53752940,
+      "polygonId": "52881819",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 190",
+      "dealDate": "2020-06-23",
+      "dealAmount": 800000,
+      "parcelNum": "39586-7-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 78.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-05-17",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 158.1,
+        "years": 13.1
+      },
+      "ownership": [],
+      "priceSM": 10256,
+      "row_id": 124
+    },
+    {
+      "assetId": 50235033.0,
+      "addressId": 53756257,
+      "polygonId": "52804069",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 155",
+      "dealDate": "2020-06-22",
+      "dealAmount": 1249000,
+      "parcelNum": "39586-13-5",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 138.8,
+      "yearBuilt": 1980,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8999,
+      "row_id": 125
+    },
+    {
+      "assetId": 50234339.0,
+      "addressId": 53747550,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 22",
+      "dealDate": "2020-06-08",
+      "dealAmount": 580000,
+      "parcelNum": "39580-47-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9508,
+      "row_id": 126
+    },
+    {
+      "assetId": 50234251.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2020-03-25",
+      "dealAmount": 770000,
+      "parcelNum": "39580-42-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 75.22,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-09",
+          "dealAmount": 590000
+        },
+        {
+          "dealDate": "2010-04-15",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2010-01-13",
+          "dealAmount": 265000
+        }
+      ],
+      "trend": {
+        "rate": 30.5,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 10267,
+      "row_id": 127
+    },
+    {
+      "assetId": 50235131.0,
+      "addressId": 53914653,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 182",
+      "dealDate": "2020-02-20",
+      "dealAmount": 720000,
+      "parcelNum": "39586-51-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 66.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-03",
+          "dealAmount": 530000
+        },
+        {
+          "dealDate": "2010-06-23",
+          "dealAmount": 390000
+        }
+      ],
+      "trend": {
+        "rate": 35.8,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 10909,
+      "row_id": 128
+    },
+    {
+      "assetId": 50235024.0,
+      "addressId": 53831698,
+      "polygonId": "52905016",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 160",
+      "dealDate": "2020-01-12",
+      "dealAmount": 1120000,
+      "parcelNum": "39586-12-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "קרקע",
+      "assetArea": 86.15,
+      "yearBuilt": 1991,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13001,
+      "row_id": 129
+    },
+    {
+      "assetId": 50234988.0,
+      "addressId": 53752940,
+      "polygonId": "52881819",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 190",
+      "dealDate": "2020-01-01",
+      "dealAmount": 1250000,
+      "parcelNum": "39586-7-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "שלישית רביעית",
+      "assetArea": 144.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-05-10",
+          "dealAmount": 508000
+        }
+      ],
+      "trend": {
+        "rate": 146.1,
+        "years": 14.7
+      },
+      "ownership": [],
+      "priceSM": 8681,
+      "row_id": 130
+    },
+    {
+      "assetId": 50235139.0,
+      "addressId": 53749978,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 183",
+      "dealDate": "2019-12-09",
+      "dealAmount": 950000,
+      "parcelNum": "39586-51-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 81.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-01-02",
+          "dealAmount": 649000
+        },
+        {
+          "dealDate": "2008-07-15",
+          "dealAmount": 380000
+        }
+      ],
+      "trend": {
+        "rate": 46.4,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 11728,
+      "row_id": 131
+    },
+    {
+      "assetId": 50234350.0,
+      "addressId": 53757107,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 24",
+      "dealDate": "2019-09-17",
+      "dealAmount": 720000,
+      "parcelNum": "39580-47-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-07-19",
+          "dealAmount": 195000
+        }
+      ],
+      "trend": {
+        "rate": 269.2,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 8471,
+      "row_id": 133
+    },
+    {
+      "assetId": 50234356.0,
+      "addressId": 53757107,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 24",
+      "dealDate": "2019-08-22",
+      "dealAmount": 79000,
+      "parcelNum": "39580-47-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1295,
+      "row_id": 134
+    },
+    {
+      "assetId": 50234415.0,
+      "addressId": 53914881,
+      "polygonId": "53087037",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 16",
+      "dealDate": "2019-08-13",
+      "dealAmount": 500000,
+      "parcelNum": "39580-48-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7463,
+      "row_id": 135
+    },
+    {
+      "assetId": 50234386.0,
+      "addressId": 53912725,
+      "polygonId": "53147838",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 12",
+      "dealDate": "2019-06-04",
+      "dealAmount": 580000,
+      "parcelNum": "39580-48-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-09-16",
+          "dealAmount": 268000
+        },
+        {
+          "dealDate": "1999-09-16",
+          "dealAmount": 275000
+        }
+      ],
+      "trend": {
+        "rate": 116.4,
+        "years": 8.7
+      },
+      "ownership": [],
+      "priceSM": 8657,
+      "row_id": 136
+    },
+    {
+      "assetId": 50235191.0,
+      "addressId": 53831087,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 30",
+      "dealDate": "2019-05-23",
+      "dealAmount": 710000,
+      "parcelNum": "39586-52-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 67.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-03",
+          "dealAmount": 340000
+        }
+      ],
+      "trend": {
+        "rate": 108.8,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 10597,
+      "row_id": 137
+    },
+    {
+      "assetId": 4485467.0,
+      "addressId": 53756258,
+      "polygonId": "52997639",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 33",
+      "dealDate": "2019-03-03",
+      "dealAmount": 1360000,
+      "parcelNum": "39580-32-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 145.0,
+      "yearBuilt": 1989,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9379,
+      "row_id": 138
+    },
+    {
+      "assetId": 4480090.0,
+      "addressId": 53753961,
+      "polygonId": "52867548",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 25",
+      "dealDate": "2019-02-26",
+      "dealAmount": 1724000,
+      "parcelNum": "39586-17-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 213.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8094,
+      "row_id": 139
+    },
+    {
+      "assetId": 50234967.0,
+      "addressId": 53749802,
+      "polygonId": "52916399",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 193",
+      "dealDate": "2019-02-20",
+      "dealAmount": 990000,
+      "parcelNum": "39586-6-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.5,
+      "floor": "שלישית רביעית",
+      "assetArea": 134.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7388,
+      "row_id": 140
+    },
+    {
+      "assetId": 50235182.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2019-01-22",
+      "dealAmount": 425000,
+      "parcelNum": "39586-52-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6967,
+      "row_id": 141
+    },
+    {
+      "assetId": 50234298.0,
+      "addressId": 53749607,
+      "polygonId": "52997357",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 113",
+      "dealDate": "2019-01-22",
+      "dealAmount": 825000,
+      "parcelNum": "39580-45-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 145.45,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5672,
+      "row_id": 142
+    },
+    {
+      "assetId": 50234248.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2018-12-16",
+      "dealAmount": 550000,
+      "parcelNum": "39580-42-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.43,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-04-29",
+          "dealAmount": 254000
+        }
+      ],
+      "trend": {
+        "rate": 116.5,
+        "years": 17.6
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 181500
+        },
+        {
+          "proportion": "33",
+          "price": 181500
+        },
+        {
+          "proportion": "33",
+          "price": 181500
+        }
+      ],
+      "priceSM": 8462,
+      "row_id": 143
+    },
+    {
+      "assetId": 50234307.0,
+      "addressId": 53747515,
+      "polygonId": "53088138",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 109",
+      "dealDate": "2018-12-12",
+      "dealAmount": 1140000,
+      "parcelNum": "39580-46-6",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 121.1,
+      "yearBuilt": 1980,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-16",
+          "dealAmount": 770000
+        },
+        {
+          "dealDate": "2002-05-20",
+          "dealAmount": 436000
+        }
+      ],
+      "trend": {
+        "rate": 48.1,
+        "years": 7.8
+      },
+      "ownership": [],
+      "priceSM": 9421,
+      "row_id": 144
+    },
+    {
+      "assetId": 50234299.0,
+      "addressId": 53748228,
+      "polygonId": "52997357",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 112",
+      "dealDate": "2018-11-13",
+      "dealAmount": 1120000,
+      "parcelNum": "39580-45-8",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 110.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-01-03",
+          "dealAmount": 365000
+        }
+      ],
+      "trend": {
+        "rate": 206.8,
+        "years": 10.9
+      },
+      "ownership": [],
+      "priceSM": 10182,
+      "row_id": 145
+    },
+    {
+      "assetId": 50235161.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2018-08-29",
+      "dealAmount": 665000,
+      "parcelNum": "39586-52-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 67.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-02-10",
+          "dealAmount": 150000
+        }
+      ],
+      "trend": {
+        "rate": 343.3,
+        "years": 13.6
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 219450
+        },
+        {
+          "proportion": "33",
+          "price": 219450
+        },
+        {
+          "proportion": "33",
+          "price": 219450
+        }
+      ],
+      "priceSM": 9925,
+      "row_id": 146
+    },
+    {
+      "assetId": 50234381.0,
+      "addressId": 53912725,
+      "polygonId": "53147838",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 12",
+      "dealDate": "2018-07-04",
+      "dealAmount": 660000,
+      "parcelNum": "39580-48-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-06-11",
+          "dealAmount": 238000
+        },
+        {
+          "dealDate": "2000-05-21",
+          "dealAmount": 270000
+        },
+        {
+          "dealDate": "2000-03-23",
+          "dealAmount": 194000
+        },
+        {
+          "dealDate": "1999-10-29",
+          "dealAmount": 242000
+        }
+      ],
+      "trend": {
+        "rate": 177.3,
+        "years": 15.1
+      },
+      "ownership": [],
+      "priceSM": 9706,
+      "row_id": 147
+    },
+    {
+      "assetId": 50235203.0,
+      "addressId": 53829936,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 32",
+      "dealDate": "2018-05-21",
+      "dealAmount": 650000,
+      "parcelNum": "39586-52-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 67.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-12-09",
+          "dealAmount": 232000
+        }
+      ],
+      "trend": {
+        "rate": 180.2,
+        "years": 14.5
+      },
+      "ownership": [],
+      "priceSM": 9701,
+      "row_id": 148
+    },
+    {
+      "assetId": 50234257.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2018-05-08",
+      "dealAmount": 730000,
+      "parcelNum": "39580-42-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 78.1,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-02",
+          "dealAmount": 535000
+        }
+      ],
+      "trend": {
+        "rate": 36.4,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 9359,
+      "row_id": 149
+    },
+    {
+      "assetId": 50234911.0,
+      "addressId": 53749650,
+      "polygonId": "52898092",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 87",
+      "dealDate": "2018-04-10",
+      "dealAmount": 106000,
+      "parcelNum": "39586-5-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 81.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1309,
+      "row_id": 150
+    },
+    {
+      "assetId": 50234228.0,
+      "addressId": 72952799,
+      "polygonId": "53388887",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 65",
+      "dealDate": "2018-03-26",
+      "dealAmount": 650000,
+      "parcelNum": "39580-41-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 75.22,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-09-17",
+          "dealAmount": 201000
+        }
+      ],
+      "trend": {
+        "rate": 223.4,
+        "years": 17.5
+      },
+      "ownership": [],
+      "priceSM": 8667,
+      "row_id": 151
+    },
+    {
+      "assetId": 50234262.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2018-03-25",
+      "dealAmount": 600000,
+      "parcelNum": "39580-42-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.55,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9592,
+      "row_id": 152
+    },
+    {
+      "assetId": 50235123.0,
+      "addressId": 53914653,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 182",
+      "dealDate": "2018-02-20",
+      "dealAmount": 925000,
+      "parcelNum": "39586-51-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 80.9,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-03-27",
+          "dealAmount": 366000
+        }
+      ],
+      "trend": {
+        "rate": 152.7,
+        "years": 14.9
+      },
+      "ownership": [],
+      "priceSM": 11562,
+      "row_id": 153
+    },
+    {
+      "assetId": 50234261.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2018-02-15",
+      "dealAmount": 740000,
+      "parcelNum": "39580-42-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 78.1,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-30",
+          "dealAmount": 519000
+        }
+      ],
+      "trend": {
+        "rate": 42.6,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 9487,
+      "row_id": 154
+    },
+    {
+      "assetId": 4517915.0,
+      "addressId": 53747653,
+      "polygonId": "53390822",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 35",
+      "dealDate": "2018-01-18",
+      "dealAmount": 1370000,
+      "parcelNum": "39580-39-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": null,
+      "assetArea": 200.0,
+      "yearBuilt": 1989,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6850,
+      "row_id": 155
+    },
+    {
+      "assetId": 50235112.0,
+      "addressId": 53754824,
+      "polygonId": "52904478",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 185",
+      "dealDate": "2018-01-11",
+      "dealAmount": 650000,
+      "parcelNum": "39586-50-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 66.2,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9819,
+      "row_id": 156
+    },
+    {
+      "assetId": 50234399.0,
+      "addressId": 53831757,
+      "polygonId": "53043869",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 14",
+      "dealDate": "2017-08-21",
+      "dealAmount": 580000,
+      "parcelNum": "39580-48-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8657,
+      "row_id": 157
+    },
+    {
+      "assetId": 50234250.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2017-08-06",
+      "dealAmount": 570000,
+      "parcelNum": "39580-42-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.55,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-07-08",
+          "dealAmount": 480000
+        },
+        {
+          "dealDate": "2010-07-12",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 18.8,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 9194,
+      "row_id": 158
+    },
+    {
+      "assetId": 50234322.0,
+      "addressId": 53757718,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 20",
+      "dealDate": "2017-06-28",
+      "dealAmount": 590000,
+      "parcelNum": "39580-47-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-23",
+          "dealAmount": 555000
+        },
+        {
+          "dealDate": "2001-08-27",
+          "dealAmount": 245000
+        }
+      ],
+      "trend": {
+        "rate": 6.3,
+        "years": 0.3
+      },
+      "ownership": [],
+      "priceSM": 9077,
+      "row_id": 159
+    },
+    {
+      "assetId": 50234296.0,
+      "addressId": 53749803,
+      "polygonId": "53152510",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 106",
+      "dealDate": "2017-04-26",
+      "dealAmount": 1100000,
+      "parcelNum": "39580-45-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 119.7,
+      "yearBuilt": 1984,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9190,
+      "row_id": 160
+    },
+    {
+      "assetId": 50234380.0,
+      "addressId": 53912725,
+      "polygonId": "53147838",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 12",
+      "dealDate": "2017-02-04",
+      "dealAmount": 710000,
+      "parcelNum": "39580-48-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 86.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-03",
+          "dealAmount": 570000
+        }
+      ],
+      "trend": {
+        "rate": 24.6,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 8256,
+      "row_id": 161
+    },
+    {
+      "assetId": 50235160.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2017-01-30",
+      "dealAmount": 643000,
+      "parcelNum": "39586-52-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 67.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9597,
+      "row_id": 162
+    },
+    {
+      "assetId": 50234423.0,
+      "addressId": 53746378,
+      "polygonId": "52999611",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 18",
+      "dealDate": "2017-01-25",
+      "dealAmount": 650000,
+      "parcelNum": "39580-48-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 86.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-07",
+          "dealAmount": 284000
+        }
+      ],
+      "trend": {
+        "rate": 128.9,
+        "years": 13.8
+      },
+      "ownership": [],
+      "priceSM": 7558,
+      "row_id": 163
+    },
+    {
+      "assetId": 50234974.0,
+      "addressId": 53752940,
+      "polygonId": "52881819",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 190",
+      "dealDate": "2017-01-19",
+      "dealAmount": 659000,
+      "parcelNum": "39586-7-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 78.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8449,
+      "row_id": 164
+    },
+    {
+      "assetId": 50235188.0,
+      "addressId": 53831087,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 30",
+      "dealDate": "2016-12-13",
+      "dealAmount": 685000,
+      "parcelNum": "39586-52-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 87.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-10-31",
+          "dealAmount": 285000
+        }
+      ],
+      "trend": {
+        "rate": 140.4,
+        "years": 14.1
+      },
+      "ownership": [],
+      "priceSM": 7874,
+      "row_id": 166
+    },
+    {
+      "assetId": 50234976.0,
+      "addressId": 53752940,
+      "polygonId": "52881819",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 190",
+      "dealDate": "2016-12-05",
+      "dealAmount": 870000,
+      "parcelNum": "39586-7-4",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 93.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9355,
+      "row_id": 167
+    },
+    {
+      "assetId": 50234266.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2016-11-30",
+      "dealAmount": 555000,
+      "parcelNum": "39580-42-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.55,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8873,
+      "row_id": 168
+    },
+    {
+      "assetId": 50234271.0,
+      "addressId": 53912756,
+      "polygonId": "53435454",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 120",
+      "dealDate": "2016-11-15",
+      "dealAmount": 960000,
+      "parcelNum": "39580-43-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 145.45,
+      "yearBuilt": 1983,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-03-27",
+          "dealAmount": 564000
+        }
+      ],
+      "trend": {
+        "rate": 70.2,
+        "years": 15.6
+      },
+      "ownership": [],
+      "priceSM": 6621,
+      "row_id": 169
+    },
+    {
+      "assetId": 50235018.0,
+      "addressId": 53747179,
+      "polygonId": "52802705",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 165",
+      "dealDate": "2016-11-06",
+      "dealAmount": 915000,
+      "parcelNum": "39586-11-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 86.15,
+      "yearBuilt": 1980,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-22",
+          "dealAmount": 638000
+        },
+        {
+          "dealDate": "2008-08-24",
+          "dealAmount": 425000
+        }
+      ],
+      "trend": {
+        "rate": 43.4,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 10640,
+      "row_id": 170
+    },
+    {
+      "assetId": 50234302.0,
+      "addressId": 53758822,
+      "polygonId": "53088138",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 108",
+      "dealDate": "2016-10-30",
+      "dealAmount": 1000000,
+      "parcelNum": "39580-46-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 145.45,
+      "yearBuilt": 1980,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6875,
+      "row_id": 171
+    },
+    {
+      "assetId": 50234983.0,
+      "addressId": 53752940,
+      "polygonId": "52881819",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 190",
+      "dealDate": "2016-08-04",
+      "dealAmount": 730000,
+      "parcelNum": "39586-7-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 78.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9359,
+      "row_id": 173
+    },
+    {
+      "assetId": 50234407.0,
+      "addressId": 53914881,
+      "polygonId": "53087037",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 16",
+      "dealDate": "2016-08-03",
+      "dealAmount": 555000,
+      "parcelNum": "39580-48-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 51.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10882,
+      "row_id": 174
+    },
+    {
+      "assetId": 50234940.0,
+      "addressId": 53747521,
+      "polygonId": "52923519",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 192",
+      "dealDate": "2016-07-05",
+      "dealAmount": 795000,
+      "parcelNum": "39586-6-2",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 78.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-07-02",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2001-05-07",
+          "dealAmount": 336000
+        }
+      ],
+      "trend": {
+        "rate": 26.2,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 10192,
+      "row_id": 175
+    },
+    {
+      "assetId": 50234316.0,
+      "addressId": 53757718,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 20",
+      "dealDate": "2016-06-29",
+      "dealAmount": 630000,
+      "parcelNum": "39580-47-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 87.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-23",
+          "dealAmount": 501000
+        },
+        {
+          "dealDate": "2011-02-23",
+          "dealAmount": 167000
+        },
+        {
+          "dealDate": "2000-11-20",
+          "dealAmount": 331000
+        }
+      ],
+      "trend": {
+        "rate": 25.7,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 7241,
+      "row_id": 176
+    },
+    {
+      "assetId": 50235118.0,
+      "addressId": 53754824,
+      "polygonId": "52904478",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 185",
+      "dealDate": "2016-05-24",
+      "dealAmount": 629000,
+      "parcelNum": "39586-50-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 69.2,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-11-29",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2012-07-04",
+          "dealAmount": 429000
+        }
+      ],
+      "trend": {
+        "rate": 4.8,
+        "years": 0.5
+      },
+      "ownership": [],
+      "priceSM": 9116,
+      "row_id": 177
+    },
+    {
+      "assetId": 50235178.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2016-05-23",
+      "dealAmount": 600000,
+      "parcelNum": "39586-52-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9231,
+      "row_id": 178
+    },
+    {
+      "assetId": 50234427.0,
+      "addressId": 53746378,
+      "polygonId": "52999611",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 18",
+      "dealDate": "2016-02-18",
+      "dealAmount": 614000,
+      "parcelNum": "39580-48-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 84.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-22",
+          "dealAmount": 516000
+        }
+      ],
+      "trend": {
+        "rate": 19.0,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 7310,
+      "row_id": 180
+    },
+    {
+      "assetId": 50235124.0,
+      "addressId": 53914653,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 182",
+      "dealDate": "2016-02-10",
+      "dealAmount": 775000,
+      "parcelNum": "39586-51-2",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 81.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9509,
+      "row_id": 181
+    },
+    {
+      "assetId": 4483444.0,
+      "addressId": 53749804,
+      "polygonId": "52963338",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 20",
+      "dealDate": "2016-01-12",
+      "dealAmount": 730000,
+      "parcelNum": "39586-20-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1995,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9865,
+      "row_id": 182
+    },
+    {
+      "assetId": 50235001.0,
+      "addressId": 53752941,
+      "polygonId": "53449241",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 191",
+      "dealDate": "2015-12-31",
+      "dealAmount": 940000,
+      "parcelNum": "39586-7-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שלישית רביעית",
+      "assetArea": 134.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-09",
+          "dealAmount": 690000
+        },
+        {
+          "dealDate": "2007-11-21",
+          "dealAmount": 440000
+        },
+        {
+          "dealDate": "2002-05-15",
+          "dealAmount": 427000
+        }
+      ],
+      "trend": {
+        "rate": 36.2,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 7015,
+      "row_id": 183
+    },
+    {
+      "assetId": 50234408.0,
+      "addressId": 53914881,
+      "polygonId": "53087037",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 16",
+      "dealDate": "2015-12-31",
+      "dealAmount": 500000,
+      "parcelNum": "39580-48-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-18",
+          "dealAmount": 460000
+        },
+        {
+          "dealDate": "2009-06-15",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": 8.7,
+        "years": 1.9
+      },
+      "ownership": [],
+      "priceSM": 7353,
+      "row_id": 184
+    },
+    {
+      "assetId": 50234310.0,
+      "addressId": 53747515,
+      "polygonId": "53088138",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 109",
+      "dealDate": "2015-12-17",
+      "dealAmount": 999000,
+      "parcelNum": "39580-46-9",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 145.45,
+      "yearBuilt": 1980,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6868,
+      "row_id": 185
+    },
+    {
+      "assetId": 50235072.0,
+      "addressId": 53748231,
+      "polygonId": "52918273",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 142",
+      "dealDate": "2015-12-07",
+      "dealAmount": 850000,
+      "parcelNum": "39586-46-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 86.15,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-11-28",
+          "dealAmount": 451000
+        }
+      ],
+      "trend": {
+        "rate": 88.5,
+        "years": 15.0
+      },
+      "ownership": [],
+      "priceSM": 9884,
+      "row_id": 186
+    },
+    {
+      "assetId": 50234274.0,
+      "addressId": 53912756,
+      "polygonId": "53435454",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 120",
+      "dealDate": "2015-10-29",
+      "dealAmount": 955000,
+      "parcelNum": "39580-43-4",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 145.45,
+      "yearBuilt": 1983,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6566,
+      "row_id": 187
+    },
+    {
+      "assetId": 4480089.0,
+      "addressId": 53752519,
+      "polygonId": "52867548",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 25",
+      "dealDate": "2015-09-20",
+      "dealAmount": 1180000,
+      "parcelNum": "39586-16-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 116.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10172,
+      "row_id": 188
+    },
+    {
+      "assetId": 50234942.0,
+      "addressId": 53747521,
+      "polygonId": "52923519",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 192",
+      "dealDate": "2015-09-09",
+      "dealAmount": 850000,
+      "parcelNum": "39586-6-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 93.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9140,
+      "row_id": 189
+    },
+    {
+      "assetId": 50234893.0,
+      "addressId": 53749805,
+      "polygonId": "53429430",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "הארי 86",
+      "dealDate": "2015-07-27",
+      "dealAmount": 650000,
+      "parcelNum": "39586-3-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.5,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-08-08",
+          "dealAmount": 296000
+        }
+      ],
+      "trend": {
+        "rate": 119.6,
+        "years": 14.0
+      },
+      "ownership": [],
+      "priceSM": 8228,
+      "row_id": 190
+    },
+    {
+      "assetId": 50234318.0,
+      "addressId": 53757718,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 20",
+      "dealDate": "2015-04-19",
+      "dealAmount": 510000,
+      "parcelNum": "39580-47-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 67.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-11-01",
+          "dealAmount": 243000
+        }
+      ],
+      "trend": {
+        "rate": 109.9,
+        "years": 13.5
+      },
+      "ownership": [],
+      "priceSM": 7612,
+      "row_id": 191
+    },
+    {
+      "assetId": 50234315.0,
+      "addressId": 53757718,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 20",
+      "dealDate": "2015-03-12",
+      "dealAmount": 681000,
+      "parcelNum": "39580-47-3",
+      "dealNature": "דירת גן",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 62.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-24",
+          "dealAmount": 539000
+        },
+        {
+          "dealDate": "2004-01-14",
+          "dealAmount": 167000
+        },
+        {
+          "dealDate": "1998-11-12",
+          "dealAmount": 327000
+        }
+      ],
+      "trend": {
+        "rate": 26.3,
+        "years": 1.9
+      },
+      "ownership": [],
+      "priceSM": 10984,
+      "row_id": 192
+    },
+    {
+      "assetId": 50234259.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2014-09-16",
+      "dealAmount": 564000,
+      "parcelNum": "39580-42-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 75.22,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7498,
+      "row_id": 193
+    },
+    {
+      "assetId": 50234991.0,
+      "addressId": 53752941,
+      "polygonId": "53449241",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 191",
+      "dealDate": "2014-08-24",
+      "dealAmount": 790000,
+      "parcelNum": "39586-7-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "קרקע",
+      "assetArea": 78.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-03",
+          "dealAmount": 527000
+        },
+        {
+          "dealDate": "2001-06-14",
+          "dealAmount": 349000
+        }
+      ],
+      "trend": {
+        "rate": 49.9,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 10128,
+      "row_id": 194
+    },
+    {
+      "assetId": 50235141.0,
+      "addressId": 53749978,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 183",
+      "dealDate": "2014-06-01",
+      "dealAmount": 610000,
+      "parcelNum": "39586-51-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-09-23",
+          "dealAmount": 370000
+        }
+      ],
+      "trend": {
+        "rate": 64.9,
+        "years": 12.7
+      },
+      "ownership": [],
+      "priceSM": 7531,
+      "row_id": 195
+    },
+    {
+      "assetId": 50235031.0,
+      "addressId": 53756257,
+      "polygonId": "52804069",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 155",
+      "dealDate": "2014-05-22",
+      "dealAmount": 800000,
+      "parcelNum": "39586-13-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 86.15,
+      "yearBuilt": 1980,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9286,
+      "row_id": 196
+    },
+    {
+      "assetId": 50235010.0,
+      "addressId": 53914659,
+      "polygonId": "52902776",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 150",
+      "dealDate": "2014-04-24",
+      "dealAmount": 1060000,
+      "parcelNum": "39586-10-2",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 86.15,
+      "yearBuilt": 2002,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12304,
+      "row_id": 197
+    },
+    {
+      "assetId": 50234391.0,
+      "addressId": 53831757,
+      "polygonId": "53043869",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 14",
+      "dealDate": "2014-03-24",
+      "dealAmount": 330000,
+      "parcelNum": "39580-48-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "קרקע",
+      "assetArea": 52.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6346,
+      "row_id": 198
+    },
+    {
+      "assetId": 50234890.0,
+      "addressId": 53749805,
+      "polygonId": "53429430",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "הארי 86",
+      "dealDate": "2014-02-27",
+      "dealAmount": 765000,
+      "parcelNum": "39586-3-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 79.5,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9623,
+      "row_id": 199
+    },
+    {
+      "assetId": 50234404.0,
+      "addressId": 53831757,
+      "polygonId": "53043869",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 14",
+      "dealDate": "2014-01-22",
+      "dealAmount": 405000,
+      "parcelNum": "39580-48-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6045,
+      "row_id": 200
+    },
+    {
+      "assetId": 50235075.0,
+      "addressId": 53748231,
+      "polygonId": "52918273",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 142",
+      "dealDate": "2013-12-31",
+      "dealAmount": 1150000,
+      "parcelNum": "39586-46-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 163.75,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7023,
+      "row_id": 201
+    },
+    {
+      "assetId": 50234424.0,
+      "addressId": 53746378,
+      "polygonId": "52999611",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 18",
+      "dealDate": "2013-12-01",
+      "dealAmount": 450000,
+      "parcelNum": "39580-48-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-25",
+          "dealAmount": 383000
+        },
+        {
+          "dealDate": "2009-11-25",
+          "dealAmount": 259000
+        },
+        {
+          "dealDate": "2009-08-18",
+          "dealAmount": 240000
+        },
+        {
+          "dealDate": "2009-02-08",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2006-05-28",
+          "dealAmount": 203000
+        }
+      ],
+      "trend": {
+        "rate": 17.5,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 6618,
+      "row_id": 202
+    },
+    {
+      "assetId": 50234981.0,
+      "addressId": 53752940,
+      "polygonId": "52881819",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 190",
+      "dealDate": "2013-11-17",
+      "dealAmount": 672000,
+      "parcelNum": "39586-7-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 91.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-05-18",
+          "dealAmount": 614000
+        },
+        {
+          "dealDate": "2011-04-12",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2010-04-26",
+          "dealAmount": 460000
+        },
+        {
+          "dealDate": "2008-11-03",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2001-09-02",
+          "dealAmount": 426000
+        }
+      ],
+      "trend": {
+        "rate": 9.4,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 7385,
+      "row_id": 203
+    },
+    {
+      "assetId": 50234309.0,
+      "addressId": 53747515,
+      "polygonId": "53088138",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 109",
+      "dealDate": "2013-10-29",
+      "dealAmount": 850000,
+      "parcelNum": "39580-46-8",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 121.1,
+      "yearBuilt": 1980,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7019,
+      "row_id": 204
+    },
+    {
+      "assetId": 50235211.0,
+      "addressId": 53829936,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 32",
+      "dealDate": "2013-08-11",
+      "dealAmount": 419000,
+      "parcelNum": "39586-52-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6869,
+      "row_id": 205
+    },
+    {
+      "assetId": 50234333.0,
+      "addressId": 53747550,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 22",
+      "dealDate": "2013-05-05",
+      "dealAmount": 520000,
+      "parcelNum": "39580-47-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 87.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5977,
+      "row_id": 206
+    },
+    {
+      "assetId": 50234941.0,
+      "addressId": 53747521,
+      "polygonId": "52923519",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 192",
+      "dealDate": "2013-01-30",
+      "dealAmount": 655000,
+      "parcelNum": "39586-6-3",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 78.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-05-17",
+          "dealAmount": 336000
+        }
+      ],
+      "trend": {
+        "rate": 94.9,
+        "years": 11.7
+      },
+      "ownership": [],
+      "priceSM": 8397,
+      "row_id": 207
+    },
+    {
+      "assetId": 50235025.0,
+      "addressId": 53831698,
+      "polygonId": "52905016",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החיד\"א 160",
+      "dealDate": "2013-01-29",
+      "dealAmount": 749000,
+      "parcelNum": "39586-12-4",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 86.15,
+      "yearBuilt": 1991,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-08-09",
+          "dealAmount": 381000
+        }
+      ],
+      "trend": {
+        "rate": 96.6,
+        "years": 11.5
+      },
+      "ownership": [],
+      "priceSM": 8709,
+      "row_id": 208
+    },
+    {
+      "assetId": 50234939.0,
+      "addressId": 53747521,
+      "polygonId": "52923519",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 192",
+      "dealDate": "2013-01-08",
+      "dealAmount": 620000,
+      "parcelNum": "39586-6-1",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 75.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-07-25",
+          "dealAmount": 326000
+        }
+      ],
+      "trend": {
+        "rate": 90.2,
+        "years": 11.5
+      },
+      "ownership": [],
+      "priceSM": 8267,
+      "row_id": 209
+    },
+    {
+      "assetId": 50234900.0,
+      "addressId": 53913875,
+      "polygonId": "53429430",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "הארי 86",
+      "dealDate": "2012-10-17",
+      "dealAmount": 530000,
+      "parcelNum": "39586-3-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שניה",
+      "assetArea": 84.3,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-18",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2005-12-05",
+          "dealAmount": 344000
+        }
+      ],
+      "trend": {
+        "rate": 55.9,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 6310,
+      "row_id": 210
+    },
+    {
+      "assetId": 50235198.0,
+      "addressId": 53831087,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 30",
+      "dealDate": "2012-05-10",
+      "dealAmount": 410000,
+      "parcelNum": "39586-52-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6721,
+      "row_id": 211
+    },
+    {
+      "assetId": 50235166.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2012-01-31",
+      "dealAmount": 480000,
+      "parcelNum": "39586-52-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-11-20",
+          "dealAmount": 263000
+        }
+      ],
+      "trend": {
+        "rate": 82.5,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 5926,
+      "row_id": 213
+    },
+    {
+      "assetId": 50235174.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2011-12-22",
+      "dealAmount": 400000,
+      "parcelNum": "39586-52-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 67.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-07",
+          "dealAmount": 256000
+        },
+        {
+          "dealDate": "2000-04-09",
+          "dealAmount": 79000
+        }
+      ],
+      "trend": {
+        "rate": 56.2,
+        "years": 8.7
+      },
+      "ownership": [],
+      "priceSM": 5970,
+      "row_id": 215
+    },
+    {
+      "assetId": 50234961.0,
+      "addressId": 53749802,
+      "polygonId": "52916399",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 193",
+      "dealDate": "2011-11-13",
+      "dealAmount": 535000,
+      "parcelNum": "39586-6-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 78.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-11-06",
+          "dealAmount": 337000
+        }
+      ],
+      "trend": {
+        "rate": 58.8,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 6859,
+      "row_id": 216
+    },
+    {
+      "assetId": 50235145.0,
+      "addressId": 53749978,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 183",
+      "dealDate": "2011-10-25",
+      "dealAmount": 580000,
+      "parcelNum": "39586-51-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.5,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-08-30",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 81.2,
+        "years": 11.2
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 191400
+        },
+        {
+          "proportion": "66",
+          "price": 382800
+        }
+      ],
+      "priceSM": 7160,
+      "row_id": 217
+    },
+    {
+      "assetId": 50234360.0,
+      "addressId": 53757107,
+      "polygonId": "53120679",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 24",
+      "dealDate": "2011-08-29",
+      "dealAmount": 570000,
+      "parcelNum": "39580-47-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-14",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2006-12-21",
+          "dealAmount": 355000
+        }
+      ],
+      "trend": {
+        "rate": 26.7,
+        "years": 0.7
+      },
+      "ownership": [],
+      "priceSM": 7037,
+      "row_id": 218
+    },
+    {
+      "assetId": 50234975.0,
+      "addressId": 53752940,
+      "polygonId": "52881819",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 190",
+      "dealDate": "2011-06-12",
+      "dealAmount": 610000,
+      "parcelNum": "39586-7-3",
+      "dealNature": "דירת גן",
+      "roomNum": 3.5,
+      "floor": "קרקע",
+      "assetArea": 78.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-01-04",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 52.5,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 7821,
+      "row_id": 219
+    },
+    {
+      "assetId": 50235132.0,
+      "addressId": 53914653,
+      "polygonId": "52931005",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 182",
+      "dealDate": "2011-05-25",
+      "dealAmount": 560000,
+      "parcelNum": "39586-51-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.3,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6888,
+      "row_id": 220
+    },
+    {
+      "assetId": 50234947.0,
+      "addressId": 53747521,
+      "polygonId": "52923519",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 192",
+      "dealDate": "2011-02-13",
+      "dealAmount": 620000,
+      "parcelNum": "39586-6-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 91.0,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-10-25",
+          "dealAmount": 301000
+        }
+      ],
+      "trend": {
+        "rate": 106.0,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 6813,
+      "row_id": 221
+    },
+    {
+      "assetId": 50234992.0,
+      "addressId": 53752941,
+      "polygonId": "53449241",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 191",
+      "dealDate": "2011-01-30",
+      "dealAmount": 700000,
+      "parcelNum": "39586-7-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 93.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-03-15",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 66.7,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 7527,
+      "row_id": 222
+    },
+    {
+      "assetId": 50234932.0,
+      "addressId": 53749650,
+      "polygonId": "52898092",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 87",
+      "dealDate": "2011-01-18",
+      "dealAmount": 350000,
+      "parcelNum": "39586-5-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 47.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7447,
+      "row_id": 223
+    },
+    {
+      "assetId": 50235156.0,
+      "addressId": 53755972,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 28",
+      "dealDate": "2011-01-17",
+      "dealAmount": 560000,
+      "parcelNum": "39586-52-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 79.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7089,
+      "row_id": 224
+    },
+    {
+      "assetId": 50234402.0,
+      "addressId": 53831757,
+      "polygonId": "53043869",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 14",
+      "dealDate": "2011-01-09",
+      "dealAmount": 360000,
+      "parcelNum": "39580-48-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5373,
+      "row_id": 225
+    },
+    {
+      "assetId": 50234896.0,
+      "addressId": 53913875,
+      "polygonId": "53429430",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "הארי 86",
+      "dealDate": "2010-12-30",
+      "dealAmount": 599000,
+      "parcelNum": "39586-3-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 79.5,
+      "yearBuilt": 1993,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7535,
+      "row_id": 226
+    },
+    {
+      "assetId": 50234229.0,
+      "addressId": 72952799,
+      "polygonId": "53388887",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 65",
+      "dealDate": "2010-12-15",
+      "dealAmount": 380000,
+      "parcelNum": "39580-41-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.55,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-08-21",
+          "dealAmount": 241000
+        }
+      ],
+      "trend": {
+        "rate": 57.7,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 6129,
+      "row_id": 227
+    },
+    {
+      "assetId": 50235004.0,
+      "addressId": 53752941,
+      "polygonId": "53449241",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 191",
+      "dealDate": "2010-12-13",
+      "dealAmount": 700000,
+      "parcelNum": "39586-7-32",
+      "dealNature": "דירת גג",
+      "roomNum": 6.5,
+      "floor": "שלישית רביעית",
+      "assetArea": 144.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4861,
+      "row_id": 228
+    },
+    {
+      "assetId": 50234962.0,
+      "addressId": 53749802,
+      "polygonId": "52916399",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "האר\"י 193",
+      "dealDate": "2010-11-28",
+      "dealAmount": 650000,
+      "parcelNum": "39586-6-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 93.0,
+      "yearBuilt": 1994,
+      "streetCode": 2460172,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-10-16",
+          "dealAmount": 343000
+        }
+      ],
+      "trend": {
+        "rate": 89.5,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 6989,
+      "row_id": 229
+    },
+    {
+      "assetId": 50235097.0,
+      "addressId": 53915078,
+      "polygonId": "52904478",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "החידא 184",
+      "dealDate": "2010-09-05",
+      "dealAmount": 390000,
+      "parcelNum": "39586-50-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 66.2,
+      "yearBuilt": 1990,
+      "streetCode": 2460171,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5891,
+      "row_id": 230
+    },
+    {
+      "assetId": 50234397.0,
+      "addressId": 53831757,
+      "polygonId": "53043869",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 14",
+      "dealDate": "2009-06-08",
+      "dealAmount": 275000,
+      "parcelNum": "39580-48-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4104,
+      "row_id": 231
+    },
+    {
+      "assetId": 4517916.0,
+      "addressId": 53747653,
+      "polygonId": "53390822",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 35",
+      "dealDate": "2009-05-04",
+      "dealAmount": 790000,
+      "parcelNum": "39580-39-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 212.0,
+      "yearBuilt": 1989,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3726,
+      "row_id": 232
+    },
+    {
+      "assetId": 50234258.0,
+      "addressId": 72952800,
+      "polygonId": "53040028",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 67",
+      "dealDate": "2009-03-06",
+      "dealAmount": 190000,
+      "parcelNum": "39580-42-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.55,
+      "yearBuilt": 1970,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3038,
+      "row_id": 233
+    },
+    {
+      "assetId": 50234383.0,
+      "addressId": 53912725,
+      "polygonId": "53147838",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 12",
+      "dealDate": "2008-01-21",
+      "dealAmount": 266000,
+      "parcelNum": "39580-48-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 84.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-06-03",
+          "dealAmount": 195000
+        },
+        {
+          "dealDate": "2002-12-16",
+          "dealAmount": 352000
+        },
+        {
+          "dealDate": "2000-04-11",
+          "dealAmount": 282000
+        }
+      ],
+      "trend": {
+        "rate": 36.4,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 3167,
+      "row_id": 234
+    },
+    {
+      "assetId": 4485466.0,
+      "addressId": 53756258,
+      "polygonId": "52997639",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "מבצע קדש 33",
+      "dealDate": "2006-11-22",
+      "dealAmount": 669000,
+      "parcelNum": "39580-32-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 144.0,
+      "yearBuilt": 1989,
+      "streetCode": 2460157,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4646,
+      "row_id": 235
+    },
+    {
+      "assetId": 50235187.0,
+      "addressId": 53831087,
+      "polygonId": "52904827",
+      "neighborhoodName": "קרית משה",
+      "neighborhoodId": 65211055,
+      "address": "ויצמן 30",
+      "dealDate": "2003-05-20",
+      "dealAmount": 267000,
+      "parcelNum": "39586-52-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 62.0,
+      "yearBuilt": 1990,
+      "streetCode": 2460155,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4306,
+      "row_id": 236
+    }
+  ]
+}

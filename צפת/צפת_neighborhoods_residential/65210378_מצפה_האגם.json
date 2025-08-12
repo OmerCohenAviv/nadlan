@@ -1,0 +1,3588 @@
+{
+  "neighborhood_name": "מצפה האגם",
+  "city_name": "צפת",
+  "transaction_count": 112,
+  "transactions": [
+    {
+      "assetId": 60078027.0,
+      "addressId": 53516821,
+      "polygonId": "53197834",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 10",
+      "dealDate": "2025-06-18",
+      "dealAmount": 2100000,
+      "parcelNum": "13978-15-6",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "ראשונה וקרקע",
+      "assetArea": 105.51,
+      "yearBuilt": 1997,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-03-26",
+          "dealAmount": 1000000
+        },
+        {
+          "dealDate": "2016-09-11",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 110.0,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 20000,
+      "row_id": 1
+    },
+    {
+      "assetId": 60077927.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2025-03-09",
+      "dealAmount": 1100000,
+      "parcelNum": "13978-10-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית וקרקע",
+      "assetArea": 91.04,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12083,
+      "row_id": 2
+    },
+    {
+      "assetId": 60077970.0,
+      "addressId": 53856846,
+      "polygonId": "51745911",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 4",
+      "dealDate": "2024-09-18",
+      "dealAmount": 1500000,
+      "parcelNum": "13978-12-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.6,
+      "yearBuilt": 1996,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18844,
+      "row_id": 4
+    },
+    {
+      "assetId": 60077847.0,
+      "addressId": 53806418,
+      "polygonId": "51747252",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 1",
+      "dealDate": "2024-09-15",
+      "dealAmount": 1300000,
+      "parcelNum": "13978-7-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-11-25",
+          "dealAmount": 694000
+        }
+      ],
+      "trend": {
+        "rate": 87.3,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 14773,
+      "row_id": 5
+    },
+    {
+      "assetId": 60077891.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2024-09-09",
+      "dealAmount": 1430000,
+      "parcelNum": "13978-9-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 104.0,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-04-12",
+          "dealAmount": 1000000
+        },
+        {
+          "dealDate": "2010-10-13",
+          "dealAmount": 590000
+        }
+      ],
+      "trend": {
+        "rate": 43.0,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 13750,
+      "row_id": 6
+    },
+    {
+      "assetId": 60077991.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2024-08-26",
+      "dealAmount": 1050000,
+      "parcelNum": "13978-13-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.2,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15396,
+      "row_id": 7
+    },
+    {
+      "assetId": 60077963.0,
+      "addressId": 53856846,
+      "polygonId": "51745911",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 4",
+      "dealDate": "2024-03-27",
+      "dealAmount": 1450000,
+      "parcelNum": "13978-12-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 84.8,
+      "yearBuilt": 1996,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17099,
+      "row_id": 8
+    },
+    {
+      "assetId": 60077985.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2024-03-06",
+      "dealAmount": 1200000,
+      "parcelNum": "13978-13-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 84.8,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14151,
+      "row_id": 9
+    },
+    {
+      "assetId": 60078012.0,
+      "addressId": 53510617,
+      "polygonId": "51747926",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 8",
+      "dealDate": "2024-02-08",
+      "dealAmount": 1310000,
+      "parcelNum": "13978-14-13",
+      "dealNature": "דירת גן",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 66.6,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19670,
+      "row_id": 10
+    },
+    {
+      "assetId": 60078023.0,
+      "addressId": 53516821,
+      "polygonId": "53197834",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 10",
+      "dealDate": "2024-01-24",
+      "dealAmount": 1700000,
+      "parcelNum": "13978-15-2",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 130.26,
+      "yearBuilt": 1997,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-01-19",
+          "dealAmount": 870000
+        },
+        {
+          "dealDate": "2006-05-29",
+          "dealAmount": 575000
+        }
+      ],
+      "trend": {
+        "rate": 95.4,
+        "years": 12.0
+      },
+      "ownership": [],
+      "priceSM": 13077,
+      "row_id": 11
+    },
+    {
+      "assetId": 60077872.0,
+      "addressId": 53510993,
+      "polygonId": "51742971",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 7",
+      "dealDate": "2024-01-09",
+      "dealAmount": 1200000,
+      "parcelNum": "13978-8-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.0,
+      "yearBuilt": 1990,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13636,
+      "row_id": 12
+    },
+    {
+      "assetId": 60077971.0,
+      "addressId": 53856846,
+      "polygonId": "51745911",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 4",
+      "dealDate": "2023-12-17",
+      "dealAmount": 1030000,
+      "parcelNum": "13978-12-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.2,
+      "yearBuilt": 1996,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-18",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 194.3,
+        "years": 14.1
+      },
+      "ownership": [],
+      "priceSM": 15147,
+      "row_id": 13
+    },
+    {
+      "assetId": 60077864.0,
+      "addressId": 53510993,
+      "polygonId": "51742971",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 7",
+      "dealDate": "2023-11-28",
+      "dealAmount": 1195000,
+      "parcelNum": "13978-8-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 83.3,
+      "yearBuilt": 1990,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-08-27",
+          "dealAmount": 740000
+        },
+        {
+          "dealDate": "2015-07-13",
+          "dealAmount": 716000
+        },
+        {
+          "dealDate": "2009-03-08",
+          "dealAmount": 340000
+        }
+      ],
+      "trend": {
+        "rate": 61.5,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 14398,
+      "row_id": 14
+    },
+    {
+      "assetId": 60077865.0,
+      "addressId": 53510993,
+      "polygonId": "51742971",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 7",
+      "dealDate": "2023-06-29",
+      "dealAmount": 1244000,
+      "parcelNum": "13978-8-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 83.3,
+      "yearBuilt": 1990,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14934,
+      "row_id": 15
+    },
+    {
+      "assetId": 60077924.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2023-05-16",
+      "dealAmount": 1150000,
+      "parcelNum": "13978-10-17",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "רביעית וקרקע",
+      "assetArea": 91.8,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12527,
+      "row_id": 16
+    },
+    {
+      "assetId": 60078034.0,
+      "addressId": 53516821,
+      "polygonId": "53197834",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 10",
+      "dealDate": "2023-03-26",
+      "dealAmount": 1200000,
+      "parcelNum": "13978-15-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית וקרקע",
+      "assetArea": 90.23,
+      "yearBuilt": 1997,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-06-08",
+          "dealAmount": 785000
+        }
+      ],
+      "trend": {
+        "rate": 52.9,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 13333,
+      "row_id": 17
+    },
+    {
+      "assetId": 60077896.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2023-03-23",
+      "dealAmount": 1370000,
+      "parcelNum": "13978-9-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.0,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-03-14",
+          "dealAmount": 1000000
+        }
+      ],
+      "trend": {
+        "rate": 37.0,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 15568,
+      "row_id": 18
+    },
+    {
+      "assetId": 60077962.0,
+      "addressId": 53856846,
+      "polygonId": "51745911",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 4",
+      "dealDate": "2023-03-20",
+      "dealAmount": 1215000,
+      "parcelNum": "13978-12-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 84.8,
+      "yearBuilt": 1996,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14328,
+      "row_id": 19
+    },
+    {
+      "assetId": 60077838.0,
+      "addressId": 53806418,
+      "polygonId": "51747252",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 1",
+      "dealDate": "2023-01-10",
+      "dealAmount": 950000,
+      "parcelNum": "13978-7-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 82.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11585,
+      "row_id": 20
+    },
+    {
+      "assetId": 60077953.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2023-01-08",
+      "dealAmount": 970000,
+      "parcelNum": "13978-11-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית וקרקע",
+      "assetArea": 82.53,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-30",
+          "dealAmount": 328000
+        }
+      ],
+      "trend": {
+        "rate": 195.7,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 11829,
+      "row_id": 21
+    },
+    {
+      "assetId": 60077877.0,
+      "addressId": 53510993,
+      "polygonId": "51742971",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 7",
+      "dealDate": "2022-12-29",
+      "dealAmount": 1180000,
+      "parcelNum": "13978-8-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 83.3,
+      "yearBuilt": 1990,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14166,
+      "row_id": 22
+    },
+    {
+      "assetId": 60077904.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2022-11-03",
+      "dealAmount": 1500000,
+      "parcelNum": "13978-9-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שלישית",
+      "assetArea": 104.0,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-11-15",
+          "dealAmount": 950000
+        }
+      ],
+      "trend": {
+        "rate": 57.9,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 14423,
+      "row_id": 23
+    },
+    {
+      "assetId": 60077885.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2022-09-13",
+      "dealAmount": 1490000,
+      "parcelNum": "13978-9-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 92.2,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-07-31",
+          "dealAmount": 750000
+        }
+      ],
+      "trend": {
+        "rate": 98.7,
+        "years": 11.1
+      },
+      "ownership": [],
+      "priceSM": 16196,
+      "row_id": 24
+    },
+    {
+      "assetId": 60077942.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2022-06-06",
+      "dealAmount": 990000,
+      "parcelNum": "13978-11-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית וקרקע",
+      "assetArea": 96.62,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-16",
+          "dealAmount": 529000
+        },
+        {
+          "dealDate": "2007-05-21",
+          "dealAmount": 287000
+        },
+        {
+          "dealDate": "2006-05-09",
+          "dealAmount": 337000
+        }
+      ],
+      "trend": {
+        "rate": 87.1,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 10312,
+      "row_id": 25
+    },
+    {
+      "assetId": 60077950.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2022-05-31",
+      "dealAmount": 1000000,
+      "parcelNum": "13978-11-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית וקרקע",
+      "assetArea": 97.3,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10277,
+      "row_id": 26
+    },
+    {
+      "assetId": 60077844.0,
+      "addressId": 53806418,
+      "polygonId": "51747252",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 1",
+      "dealDate": "2022-05-08",
+      "dealAmount": 1100000,
+      "parcelNum": "13978-7-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 88.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 27
+    },
+    {
+      "assetId": 60077860.0,
+      "addressId": 53510993,
+      "polygonId": "51742971",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 7",
+      "dealDate": "2022-04-12",
+      "dealAmount": 940000,
+      "parcelNum": "13978-8-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.0,
+      "yearBuilt": 1990,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-04-20",
+          "dealAmount": 492000
+        }
+      ],
+      "trend": {
+        "rate": 91.1,
+        "years": 13.0
+      },
+      "ownership": [],
+      "priceSM": 10682,
+      "row_id": 28
+    },
+    {
+      "assetId": 60077917.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2022-03-20",
+      "dealAmount": 770000,
+      "parcelNum": "13978-10-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה וקרקע",
+      "assetArea": 83.6,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-04-03",
+          "dealAmount": 348000
+        }
+      ],
+      "trend": {
+        "rate": 121.3,
+        "years": 17.0
+      },
+      "ownership": [],
+      "priceSM": 9277,
+      "row_id": 29
+    },
+    {
+      "assetId": 60077867.0,
+      "addressId": 53510993,
+      "polygonId": "51742971",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 7",
+      "dealDate": "2022-03-01",
+      "dealAmount": 1500000,
+      "parcelNum": "13978-8-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 104.0,
+      "yearBuilt": 1990,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14423,
+      "row_id": 30
+    },
+    {
+      "assetId": 60077919.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2022-02-07",
+      "dealAmount": 1080000,
+      "parcelNum": "13978-10-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית וקרקע",
+      "assetArea": 90.91,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-16",
+          "dealAmount": 590000
+        }
+      ],
+      "trend": {
+        "rate": 83.1,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 12000,
+      "row_id": 31
+    },
+    {
+      "assetId": 60077920.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2021-12-06",
+      "dealAmount": 250000,
+      "parcelNum": "13978-10-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית וקרקע",
+      "assetArea": 90.75,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-04-26",
+          "dealAmount": 740000
+        }
+      ],
+      "trend": {
+        "rate": -66.2,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 2778,
+      "row_id": 32
+    },
+    {
+      "assetId": 60078032.0,
+      "addressId": 53516821,
+      "polygonId": "53197834",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 10",
+      "dealDate": "2021-11-11",
+      "dealAmount": 860000,
+      "parcelNum": "13978-15-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית וקרקע",
+      "assetArea": 98.75,
+      "yearBuilt": 1997,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8709,
+      "row_id": 33
+    },
+    {
+      "assetId": 60077945.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2021-09-01",
+      "dealAmount": 750000,
+      "parcelNum": "13978-11-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית וקרקע",
+      "assetArea": 82.31,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-29",
+          "dealAmount": 280000
+        }
+      ],
+      "trend": {
+        "rate": 167.9,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 9146,
+      "row_id": 34
+    },
+    {
+      "assetId": 60077842.0,
+      "addressId": 53806418,
+      "polygonId": "51747252",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 1",
+      "dealDate": "2021-07-19",
+      "dealAmount": 1150000,
+      "parcelNum": "13978-7-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 104.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-17",
+          "dealAmount": 755000
+        }
+      ],
+      "trend": {
+        "rate": 52.3,
+        "years": 10.4
+      },
+      "ownership": [],
+      "priceSM": 11058,
+      "row_id": 35
+    },
+    {
+      "assetId": 60078000.0,
+      "addressId": 53510617,
+      "polygonId": "51747926",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 8",
+      "dealDate": "2021-02-09",
+      "dealAmount": 780000,
+      "parcelNum": "13978-14-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 66.6,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-04-12",
+          "dealAmount": 585000
+        },
+        {
+          "dealDate": "2012-01-03",
+          "dealAmount": 550000
+        }
+      ],
+      "trend": {
+        "rate": 33.3,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 11818,
+      "row_id": 36
+    },
+    {
+      "assetId": 60077852.0,
+      "addressId": 53806418,
+      "polygonId": "51747252",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 1",
+      "dealDate": "2021-01-25",
+      "dealAmount": 735000,
+      "parcelNum": "13978-7-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9188,
+      "row_id": 37
+    },
+    {
+      "assetId": 60077898.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2021-01-20",
+      "dealAmount": 1000000,
+      "parcelNum": "13978-9-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 92.2,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10846,
+      "row_id": 38
+    },
+    {
+      "assetId": 60077869.0,
+      "addressId": 53510993,
+      "polygonId": "51742971",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 7",
+      "dealDate": "2021-01-07",
+      "dealAmount": 1050000,
+      "parcelNum": "13978-8-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 88.0,
+      "yearBuilt": 1990,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-12",
+          "dealAmount": 900000
+        }
+      ],
+      "trend": {
+        "rate": 16.7,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 11932,
+      "row_id": 39
+    },
+    {
+      "assetId": 60078010.0,
+      "addressId": 53510617,
+      "polygonId": "51747926",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 8",
+      "dealDate": "2020-12-23",
+      "dealAmount": 650000,
+      "parcelNum": "13978-14-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 66.6,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9760,
+      "row_id": 40
+    },
+    {
+      "assetId": 60077886.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2020-11-17",
+      "dealAmount": 1170000,
+      "parcelNum": "13978-9-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 92.2,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12690,
+      "row_id": 41
+    },
+    {
+      "assetId": 60077932.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2020-11-11",
+      "dealAmount": 1340000,
+      "parcelNum": "13978-11-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 129.74,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-25",
+          "dealAmount": 605000
+        },
+        {
+          "dealDate": "1998-12-22",
+          "dealAmount": 542000
+        }
+      ],
+      "trend": {
+        "rate": 121.5,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 10388,
+      "row_id": 42
+    },
+    {
+      "assetId": 60077914.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2020-10-27",
+      "dealAmount": 850000,
+      "parcelNum": "13978-10-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה וקרקע",
+      "assetArea": 99.73,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-11-12",
+          "dealAmount": 332000
+        }
+      ],
+      "trend": {
+        "rate": 156.0,
+        "years": 13.0
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 425000
+        },
+        {
+          "proportion": "50",
+          "price": 425000
+        }
+      ],
+      "priceSM": 8586,
+      "row_id": 43
+    },
+    {
+      "assetId": 60077997.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2020-08-16",
+      "dealAmount": 850000,
+      "parcelNum": "13978-13-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 68.7,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12373,
+      "row_id": 44
+    },
+    {
+      "assetId": 60077833.0,
+      "addressId": 53806418,
+      "polygonId": "51747252",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 1",
+      "dealDate": "2020-08-11",
+      "dealAmount": 1150000,
+      "parcelNum": "13978-7-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 138.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-11-01",
+          "dealAmount": 1155000
+        }
+      ],
+      "trend": {
+        "rate": -0.4,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 45
+    },
+    {
+      "assetId": 60078028.0,
+      "addressId": 53516821,
+      "polygonId": "53197834",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 10",
+      "dealDate": "2020-07-27",
+      "dealAmount": 880000,
+      "parcelNum": "13978-15-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה וקרקע",
+      "assetArea": 99.5,
+      "yearBuilt": 1997,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8844,
+      "row_id": 46
+    },
+    {
+      "assetId": 60077946.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2020-07-09",
+      "dealAmount": 807000,
+      "parcelNum": "13978-11-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית וקרקע",
+      "assetArea": 97.18,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-04-04",
+          "dealAmount": 785000
+        },
+        {
+          "dealDate": "2008-08-11",
+          "dealAmount": 348000
+        },
+        {
+          "dealDate": "2002-10-29",
+          "dealAmount": 430000
+        },
+        {
+          "dealDate": "1998-01-13",
+          "dealAmount": 405000
+        }
+      ],
+      "trend": {
+        "rate": 2.8,
+        "years": 3.3
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 403500
+        },
+        {
+          "proportion": "50",
+          "price": 403500
+        }
+      ],
+      "priceSM": 8320,
+      "row_id": 47
+    },
+    {
+      "assetId": 60077843.0,
+      "addressId": 53806418,
+      "polygonId": "51747252",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 1",
+      "dealDate": "2020-02-05",
+      "dealAmount": 1100000,
+      "parcelNum": "13978-7-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 88.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 48
+    },
+    {
+      "assetId": 60078004.0,
+      "addressId": 53510617,
+      "polygonId": "51747926",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 8",
+      "dealDate": "2019-10-28",
+      "dealAmount": 830000,
+      "parcelNum": "13978-14-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.6,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10427,
+      "row_id": 49
+    },
+    {
+      "assetId": 60077982.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2019-08-29",
+      "dealAmount": 395000,
+      "parcelNum": "13978-13-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 79.6,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4962,
+      "row_id": 50
+    },
+    {
+      "assetId": 60077944.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2019-02-24",
+      "dealAmount": 810000,
+      "parcelNum": "13978-11-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית וקרקע",
+      "assetArea": 90.75,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-04-09",
+          "dealAmount": 377000
+        }
+      ],
+      "trend": {
+        "rate": 114.9,
+        "years": 18.9
+      },
+      "ownership": [],
+      "priceSM": 9000,
+      "row_id": 51
+    },
+    {
+      "assetId": 60078015.0,
+      "addressId": 53510617,
+      "polygonId": "51747926",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 8",
+      "dealDate": "2018-12-10",
+      "dealAmount": 790000,
+      "parcelNum": "13978-14-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.2,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-17",
+          "dealAmount": 519000
+        }
+      ],
+      "trend": {
+        "rate": 52.2,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 11618,
+      "row_id": 52
+    },
+    {
+      "assetId": 60078001.0,
+      "addressId": 53510617,
+      "polygonId": "51747926",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 8",
+      "dealDate": "2018-12-02",
+      "dealAmount": 850000,
+      "parcelNum": "13978-14-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 79.6,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-02-20",
+          "dealAmount": 599000
+        },
+        {
+          "dealDate": "2010-04-21",
+          "dealAmount": 380000
+        }
+      ],
+      "trend": {
+        "rate": 41.9,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 10759,
+      "row_id": 53
+    },
+    {
+      "assetId": 60077993.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2018-11-01",
+      "dealAmount": 649000,
+      "parcelNum": "13978-13-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.2,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-08-21",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": 140.4,
+        "years": 10.2
+      },
+      "ownership": [],
+      "priceSM": 9544,
+      "row_id": 54
+    },
+    {
+      "assetId": 60077943.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2018-09-21",
+      "dealAmount": 700000,
+      "parcelNum": "13978-11-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית וקרקע",
+      "assetArea": 90.91,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7700,
+      "row_id": 55
+    },
+    {
+      "assetId": 60077913.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2018-08-12",
+      "dealAmount": 870000,
+      "parcelNum": "13978-10-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה וקרקע",
+      "assetArea": 96.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-28",
+          "dealAmount": 468000
+        }
+      ],
+      "trend": {
+        "rate": 85.9,
+        "years": 18.8
+      },
+      "ownership": [],
+      "priceSM": 9062,
+      "row_id": 56
+    },
+    {
+      "assetId": 60077923.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2018-06-21",
+      "dealAmount": 845000,
+      "parcelNum": "13978-10-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית וקרקע",
+      "assetArea": 91.85,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-09",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 101.2,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 9286,
+      "row_id": 57
+    },
+    {
+      "assetId": 60077933.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2018-05-25",
+      "dealAmount": 1200000,
+      "parcelNum": "13978-11-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 130.04,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-20",
+          "dealAmount": 580000
+        },
+        {
+          "dealDate": "1998-12-30",
+          "dealAmount": 522000
+        }
+      ],
+      "trend": {
+        "rate": 106.9,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 9231,
+      "row_id": 58
+    },
+    {
+      "assetId": 60077840.0,
+      "addressId": 53806418,
+      "polygonId": "51747252",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 1",
+      "dealDate": "2018-05-15",
+      "dealAmount": 670000,
+      "parcelNum": "13978-7-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8375,
+      "row_id": 59
+    },
+    {
+      "assetId": 60077901.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2018-02-20",
+      "dealAmount": 600000,
+      "parcelNum": "13978-9-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 83.3,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-28",
+          "dealAmount": 410000
+        },
+        {
+          "dealDate": "2001-02-21",
+          "dealAmount": 331000
+        }
+      ],
+      "trend": {
+        "rate": 46.3,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 7229,
+      "row_id": 60
+    },
+    {
+      "assetId": 60077992.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2017-09-18",
+      "dealAmount": 750000,
+      "parcelNum": "13978-13-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.6,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9422,
+      "row_id": 61
+    },
+    {
+      "assetId": 60078025.0,
+      "addressId": 53516821,
+      "polygonId": "53197834",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 10",
+      "dealDate": "2017-09-13",
+      "dealAmount": 870000,
+      "parcelNum": "13978-15-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה וקרקע",
+      "assetArea": 108.91,
+      "yearBuilt": 1997,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7988,
+      "row_id": 62
+    },
+    {
+      "assetId": 60077951.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2017-07-16",
+      "dealAmount": 800000,
+      "parcelNum": "13978-11-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית וקרקע",
+      "assetArea": 91.04,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-14",
+          "dealAmount": 670000
+        },
+        {
+          "dealDate": "1999-01-26",
+          "dealAmount": 455000
+        }
+      ],
+      "trend": {
+        "rate": 19.4,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 8791,
+      "row_id": 63
+    },
+    {
+      "assetId": 60077941.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2017-07-09",
+      "dealAmount": 665000,
+      "parcelNum": "13978-11-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה וקרקע",
+      "assetArea": 83.6,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7955,
+      "row_id": 64
+    },
+    {
+      "assetId": 60077972.0,
+      "addressId": 53856846,
+      "polygonId": "51745911",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 4",
+      "dealDate": "2017-04-02",
+      "dealAmount": 600000,
+      "parcelNum": "13978-12-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 84.8,
+      "yearBuilt": 1996,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-14",
+          "dealAmount": 521000
+        }
+      ],
+      "trend": {
+        "rate": 15.2,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 7143,
+      "row_id": 65
+    },
+    {
+      "assetId": 60077839.0,
+      "addressId": 53806418,
+      "polygonId": "51747252",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 1",
+      "dealDate": "2016-09-25",
+      "dealAmount": 690000,
+      "parcelNum": "13978-7-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 82.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-17",
+          "dealAmount": 540000
+        },
+        {
+          "dealDate": "2001-03-19",
+          "dealAmount": 367000
+        }
+      ],
+      "trend": {
+        "rate": 27.8,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 8415,
+      "row_id": 66
+    },
+    {
+      "assetId": 60077948.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2016-08-10",
+      "dealAmount": 720000,
+      "parcelNum": "13978-11-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית וקרקע",
+      "assetArea": 91.8,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-08-15",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 60.0,
+        "years": 17.0
+      },
+      "ownership": [],
+      "priceSM": 7912,
+      "row_id": 67
+    },
+    {
+      "assetId": 60077960.0,
+      "addressId": 53856846,
+      "polygonId": "51745911",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 4",
+      "dealDate": "2016-07-26",
+      "dealAmount": 749000,
+      "parcelNum": "13978-12-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.6,
+      "yearBuilt": 1996,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-07-21",
+          "dealAmount": 373000
+        }
+      ],
+      "trend": {
+        "rate": 100.8,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 9481,
+      "row_id": 68
+    },
+    {
+      "assetId": 60077911.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2016-07-11",
+      "dealAmount": 651000,
+      "parcelNum": "13978-10-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה וקרקע",
+      "assetArea": 108.66,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5991,
+      "row_id": 69
+    },
+    {
+      "assetId": 60077984.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2016-05-22",
+      "dealAmount": 780000,
+      "parcelNum": "13978-13-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 84.8,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-07-28",
+          "dealAmount": 705000
+        }
+      ],
+      "trend": {
+        "rate": 10.6,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 9286,
+      "row_id": 70
+    },
+    {
+      "assetId": 60077895.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2016-03-08",
+      "dealAmount": 910000,
+      "parcelNum": "13978-9-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 92.2,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9870,
+      "row_id": 71
+    },
+    {
+      "assetId": 60077983.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2015-12-01",
+      "dealAmount": 429000,
+      "parcelNum": "13978-13-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.2,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-29",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2008-03-23",
+          "dealAmount": 360000
+        },
+        {
+          "dealDate": "2007-06-04",
+          "dealAmount": 306000
+        }
+      ],
+      "trend": {
+        "rate": 43.0,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 6309,
+      "row_id": 72
+    },
+    {
+      "assetId": 60077835.0,
+      "addressId": 53806418,
+      "polygonId": "51747252",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 1",
+      "dealDate": "2015-06-24",
+      "dealAmount": 739000,
+      "parcelNum": "13978-7-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-08-24",
+          "dealAmount": 367000
+        }
+      ],
+      "trend": {
+        "rate": 101.4,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 8398,
+      "row_id": 73
+    },
+    {
+      "assetId": 60077916.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2015-05-27",
+      "dealAmount": 745000,
+      "parcelNum": "13978-10-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה וקרקע",
+      "assetArea": 91.71,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8123,
+      "row_id": 74
+    },
+    {
+      "assetId": 60077863.0,
+      "addressId": 53510993,
+      "polygonId": "51742971",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 7",
+      "dealDate": "2015-05-21",
+      "dealAmount": 500000,
+      "parcelNum": "13978-8-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.2,
+      "yearBuilt": 1990,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-09",
+          "dealAmount": 590000
+        },
+        {
+          "dealDate": "2010-09-05",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2003-03-03",
+          "dealAmount": 370000
+        }
+      ],
+      "trend": {
+        "rate": -15.3,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 6250,
+      "row_id": 75
+    },
+    {
+      "assetId": 60077988.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2015-04-19",
+      "dealAmount": 717000,
+      "parcelNum": "13978-13-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 66.6,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-03-13",
+          "dealAmount": 285000
+        }
+      ],
+      "trend": {
+        "rate": 151.6,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 10864,
+      "row_id": 76
+    },
+    {
+      "assetId": 60077966.0,
+      "addressId": 53856846,
+      "polygonId": "51745911",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 4",
+      "dealDate": "2014-12-01",
+      "dealAmount": 650000,
+      "parcelNum": "13978-12-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 66.6,
+      "yearBuilt": 1996,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9760,
+      "row_id": 77
+    },
+    {
+      "assetId": 60077995.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2014-10-01",
+      "dealAmount": 815000,
+      "parcelNum": "13978-13-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 84.8,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-06-02",
+          "dealAmount": 620000
+        }
+      ],
+      "trend": {
+        "rate": 31.5,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 9702,
+      "row_id": 78
+    },
+    {
+      "assetId": 60077937.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2014-08-12",
+      "dealAmount": 800000,
+      "parcelNum": "13978-11-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה וקרקע",
+      "assetArea": 97.75,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-12-30",
+          "dealAmount": 489000
+        }
+      ],
+      "trend": {
+        "rate": 63.6,
+        "years": 15.6
+      },
+      "ownership": [],
+      "priceSM": 8247,
+      "row_id": 79
+    },
+    {
+      "assetId": 60077875.0,
+      "addressId": 53510993,
+      "polygonId": "51742971",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 7",
+      "dealDate": "2014-07-28",
+      "dealAmount": 559000,
+      "parcelNum": "13978-8-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.2,
+      "yearBuilt": 1990,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6970,
+      "row_id": 80
+    },
+    {
+      "assetId": 60078022.0,
+      "addressId": 53516821,
+      "polygonId": "53197834",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 10",
+      "dealDate": "2013-12-10",
+      "dealAmount": 850000,
+      "parcelNum": "13978-15-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 118.66,
+      "yearBuilt": 1997,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-06-08",
+          "dealAmount": 466000
+        },
+        {
+          "dealDate": "1998-10-30",
+          "dealAmount": 546000
+        }
+      ],
+      "trend": {
+        "rate": 82.4,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 7203,
+      "row_id": 81
+    },
+    {
+      "assetId": 60078005.0,
+      "addressId": 53510617,
+      "polygonId": "51747926",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 8",
+      "dealDate": "2012-07-20",
+      "dealAmount": 447000,
+      "parcelNum": "13978-14-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.2,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6554,
+      "row_id": 82
+    },
+    {
+      "assetId": 60077986.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2012-02-02",
+      "dealAmount": 600000,
+      "parcelNum": "13978-13-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 68.7,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-01-02",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 93.5,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 8824,
+      "row_id": 83
+    },
+    {
+      "assetId": 60077897.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2011-11-06",
+      "dealAmount": 590000,
+      "parcelNum": "13978-9-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 80.2,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-05-28",
+          "dealAmount": 338000
+        }
+      ],
+      "trend": {
+        "rate": 74.6,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 7375,
+      "row_id": 84
+    },
+    {
+      "assetId": 60078036.0,
+      "addressId": 53516821,
+      "polygonId": "53197834",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 10",
+      "dealDate": "2011-09-25",
+      "dealAmount": 920000,
+      "parcelNum": "13978-15-15",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "רביעית וקרקע",
+      "assetArea": 154.23,
+      "yearBuilt": 1997,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5965,
+      "row_id": 85
+    },
+    {
+      "assetId": 60077890.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2011-09-11",
+      "dealAmount": 290000,
+      "parcelNum": "13978-9-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.2,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3616,
+      "row_id": 86
+    },
+    {
+      "assetId": 60077996.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2011-04-03",
+      "dealAmount": 580000,
+      "parcelNum": "13978-13-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 68.7,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-07-19",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 81.2,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 8529,
+      "row_id": 87
+    },
+    {
+      "assetId": 60077854.0,
+      "addressId": 53806418,
+      "polygonId": "51747252",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 1",
+      "dealDate": "2010-10-13",
+      "dealAmount": 710000,
+      "parcelNum": "13978-7-23",
+      "dealNature": "בית בודד",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 104.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6827,
+      "row_id": 88
+    },
+    {
+      "assetId": 60077836.0,
+      "addressId": 53806418,
+      "polygonId": "51747252",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 1",
+      "dealDate": "2010-08-26",
+      "dealAmount": 680000,
+      "parcelNum": "13978-7-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 111.0,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6126,
+      "row_id": 89
+    },
+    {
+      "assetId": 60077883.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2010-05-13",
+      "dealAmount": 1400000,
+      "parcelNum": "13978-9-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 156.4,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-11-20",
+          "dealAmount": 740000
+        }
+      ],
+      "trend": {
+        "rate": 89.2,
+        "years": 11.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 700000
+        },
+        {
+          "proportion": "50",
+          "price": 700000
+        }
+      ],
+      "priceSM": 8974,
+      "row_id": 90
+    },
+    {
+      "assetId": 60077959.0,
+      "addressId": 53856846,
+      "polygonId": "51745911",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 4",
+      "dealDate": "2010-04-15",
+      "dealAmount": 300000,
+      "parcelNum": "13978-12-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.2,
+      "yearBuilt": 1996,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-02",
+          "dealAmount": 280000
+        }
+      ],
+      "trend": {
+        "rate": 7.1,
+        "years": 0.7
+      },
+      "ownership": [],
+      "priceSM": 4412,
+      "row_id": 91
+    },
+    {
+      "assetId": 60078026.0,
+      "addressId": 53516821,
+      "polygonId": "53197834",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 10",
+      "dealDate": "2010-03-03",
+      "dealAmount": 575000,
+      "parcelNum": "13978-15-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה וקרקע",
+      "assetArea": 119.61,
+      "yearBuilt": 1997,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-08-09",
+          "dealAmount": 448000
+        }
+      ],
+      "trend": {
+        "rate": 28.3,
+        "years": 11.6
+      },
+      "ownership": [],
+      "priceSM": 4832,
+      "row_id": 92
+    },
+    {
+      "assetId": 60077934.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2010-02-21",
+      "dealAmount": 615000,
+      "parcelNum": "13978-11-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "ראשונה וקרקע",
+      "assetArea": 113.02,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-11-30",
+          "dealAmount": 529000
+        }
+      ],
+      "trend": {
+        "rate": 16.3,
+        "years": 11.2
+      },
+      "ownership": [],
+      "priceSM": 5442,
+      "row_id": 93
+    },
+    {
+      "assetId": 60077935.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2010-02-04",
+      "dealAmount": 590000,
+      "parcelNum": "13978-11-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה וקרקע",
+      "assetArea": 108.91,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-01-26",
+          "dealAmount": 469000
+        }
+      ],
+      "trend": {
+        "rate": 25.8,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 5463,
+      "row_id": 94
+    },
+    {
+      "assetId": 60077866.0,
+      "addressId": 53510993,
+      "polygonId": "51742971",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 7",
+      "dealDate": "2010-02-01",
+      "dealAmount": 410000,
+      "parcelNum": "13978-8-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.2,
+      "yearBuilt": 1990,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-12-07",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 17.1,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 5125,
+      "row_id": 95
+    },
+    {
+      "assetId": 60077884.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2009-12-13",
+      "dealAmount": 600000,
+      "parcelNum": "13978-9-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 156.4,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-31",
+          "dealAmount": 538000
+        }
+      ],
+      "trend": {
+        "rate": 11.5,
+        "years": 10.0
+      },
+      "ownership": [],
+      "priceSM": 3846,
+      "row_id": 96
+    },
+    {
+      "assetId": 60077949.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2009-11-18",
+      "dealAmount": 375000,
+      "parcelNum": "13978-11-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית וקרקע",
+      "assetArea": 82.18,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4563,
+      "row_id": 97
+    },
+    {
+      "assetId": 60077888.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2009-09-27",
+      "dealAmount": 350000,
+      "parcelNum": "13978-9-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 83.2,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-02-21",
+          "dealAmount": 354000
+        }
+      ],
+      "trend": {
+        "rate": -1.1,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 4217,
+      "row_id": 98
+    },
+    {
+      "assetId": 60078003.0,
+      "addressId": 53510617,
+      "polygonId": "51747926",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 8",
+      "dealDate": "2009-08-28",
+      "dealAmount": 320000,
+      "parcelNum": "13978-14-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.2,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-13",
+          "dealAmount": 302000
+        }
+      ],
+      "trend": {
+        "rate": 6.0,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 4706,
+      "row_id": 99
+    },
+    {
+      "assetId": 60077925.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2009-07-01",
+      "dealAmount": 290000,
+      "parcelNum": "13978-10-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית וקרקע",
+      "assetArea": 82.18,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3529,
+      "row_id": 100
+    },
+    {
+      "assetId": 60077938.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2009-06-18",
+      "dealAmount": 355000,
+      "parcelNum": "13978-11-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה וקרקע",
+      "assetArea": 99.83,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-07-15",
+          "dealAmount": 409000
+        }
+      ],
+      "trend": {
+        "rate": -13.2,
+        "years": 9.9
+      },
+      "ownership": [],
+      "priceSM": 3586,
+      "row_id": 101
+    },
+    {
+      "assetId": 60077958.0,
+      "addressId": 53856846,
+      "polygonId": "51745911",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 4",
+      "dealDate": "2009-06-17",
+      "dealAmount": 350000,
+      "parcelNum": "13978-12-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 66.6,
+      "yearBuilt": 1996,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5255,
+      "row_id": 102
+    },
+    {
+      "assetId": 60078033.0,
+      "addressId": 53516821,
+      "polygonId": "53197834",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 10",
+      "dealDate": "2009-03-30",
+      "dealAmount": 410000,
+      "parcelNum": "13978-15-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית וקרקע",
+      "assetArea": 90.39,
+      "yearBuilt": 1997,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4536,
+      "row_id": 103
+    },
+    {
+      "assetId": 60077965.0,
+      "addressId": 53856846,
+      "polygonId": "51745911",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 4",
+      "dealDate": "2009-03-23",
+      "dealAmount": 517000,
+      "parcelNum": "13978-12-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 125.0,
+      "yearBuilt": 1996,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-12-30",
+          "dealAmount": 438000
+        }
+      ],
+      "trend": {
+        "rate": 18.0,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 4136,
+      "row_id": 104
+    },
+    {
+      "assetId": 60078030.0,
+      "addressId": 53516821,
+      "polygonId": "53197834",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 10",
+      "dealDate": "2009-02-11",
+      "dealAmount": 415000,
+      "parcelNum": "13978-15-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה וקרקע",
+      "assetArea": 108.36,
+      "yearBuilt": 1997,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-05-16",
+          "dealAmount": 399000
+        }
+      ],
+      "trend": {
+        "rate": 4.0,
+        "years": 9.8
+      },
+      "ownership": [],
+      "priceSM": 3843,
+      "row_id": 105
+    },
+    {
+      "assetId": 60077926.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2008-12-15",
+      "dealAmount": 350000,
+      "parcelNum": "13978-10-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית וקרקע",
+      "assetArea": 97.63,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-04-24",
+          "dealAmount": 437000
+        }
+      ],
+      "trend": {
+        "rate": -19.9,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 3608,
+      "row_id": 106
+    },
+    {
+      "assetId": 60078007.0,
+      "addressId": 53510617,
+      "polygonId": "51747926",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 8",
+      "dealDate": "2008-11-23",
+      "dealAmount": 300000,
+      "parcelNum": "13978-14-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 84.8,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-06-22",
+          "dealAmount": 251000
+        }
+      ],
+      "trend": {
+        "rate": 19.5,
+        "years": 0.4
+      },
+      "ownership": [],
+      "priceSM": 3571,
+      "row_id": 107
+    },
+    {
+      "assetId": 60077940.0,
+      "addressId": 53518775,
+      "polygonId": "51751138",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 15",
+      "dealDate": "2008-06-18",
+      "dealAmount": 360000,
+      "parcelNum": "13978-11-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה וקרקע",
+      "assetArea": 91.71,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-06-16",
+          "dealAmount": 403000
+        }
+      ],
+      "trend": {
+        "rate": -10.7,
+        "years": 9.0
+      },
+      "ownership": [],
+      "priceSM": 3956,
+      "row_id": 108
+    },
+    {
+      "assetId": 60077887.0,
+      "addressId": 53510992,
+      "polygonId": "51743988",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 9",
+      "dealDate": "2008-05-18",
+      "dealAmount": 290000,
+      "parcelNum": "13978-9-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.2,
+      "yearBuilt": 2000,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3616,
+      "row_id": 109
+    },
+    {
+      "assetId": 60077922.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2007-11-20",
+      "dealAmount": 300000,
+      "parcelNum": "13978-10-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית וקרקע",
+      "assetArea": 97.18,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-02-09",
+          "dealAmount": 409000
+        }
+      ],
+      "trend": {
+        "rate": -26.7,
+        "years": 9.8
+      },
+      "ownership": [],
+      "priceSM": 3093,
+      "row_id": 110
+    },
+    {
+      "assetId": 60077980.0,
+      "addressId": 53512431,
+      "polygonId": "51747071",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 6",
+      "dealDate": "2007-07-01",
+      "dealAmount": 367000,
+      "parcelNum": "13978-13-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 66.6,
+      "yearBuilt": 1980,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-10",
+          "dealAmount": 347000
+        }
+      ],
+      "trend": {
+        "rate": 5.8,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 5561,
+      "row_id": 111
+    },
+    {
+      "assetId": 60077909.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2004-08-10",
+      "dealAmount": 407000,
+      "parcelNum": "13978-10-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 120.53,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-04-16",
+          "dealAmount": 435000
+        }
+      ],
+      "trend": {
+        "rate": -6.4,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 3392,
+      "row_id": 112
+    },
+    {
+      "assetId": 60077929.0,
+      "addressId": 53855935,
+      "polygonId": "53197915",
+      "neighborhoodName": "מצפה האגם",
+      "neighborhoodId": 65210378,
+      "address": "מצפה האגם 13",
+      "dealDate": "2003-09-19",
+      "dealAmount": 336000,
+      "parcelNum": "13978-10-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית וקרקע",
+      "assetArea": 82.53,
+      "yearBuilt": 1998,
+      "streetCode": 80000550,
+      "settlmentID": 8000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4071,
+      "row_id": 113
+    }
+  ]
+}

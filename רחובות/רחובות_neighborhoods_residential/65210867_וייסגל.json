@@ -1,0 +1,5642 @@
+{
+  "neighborhood_name": "וייסגל",
+  "city_name": "רחובות",
+  "transaction_count": 181,
+  "transactions": [
+    {
+      "assetId": 50317395.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2025-07-10",
+      "dealAmount": 2475000,
+      "parcelNum": "3679-82-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 111.2,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-11",
+          "dealAmount": 1415000
+        },
+        {
+          "dealDate": "2011-12-11",
+          "dealAmount": 1120000
+        }
+      ],
+      "trend": {
+        "rate": 74.9,
+        "years": 10.1
+      },
+      "ownership": [],
+      "priceSM": 22297,
+      "row_id": 1
+    },
+    {
+      "assetId": 80453081.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2025-04-01",
+      "dealAmount": 2850000,
+      "parcelNum": "3679-122-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 127.8,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-10-06",
+          "dealAmount": 2670000
+        },
+        {
+          "dealDate": "2013-10-24",
+          "dealAmount": 1280000
+        }
+      ],
+      "trend": {
+        "rate": 6.7,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 22441,
+      "row_id": 2
+    },
+    {
+      "assetId": 80360895.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2025-02-02",
+      "dealAmount": 2515000,
+      "parcelNum": "3679-81-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 113.05,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-08-20",
+          "dealAmount": 1810000
+        },
+        {
+          "dealDate": "2010-02-22",
+          "dealAmount": 1050000
+        }
+      ],
+      "trend": {
+        "rate": 39.0,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 22257,
+      "row_id": 3
+    },
+    {
+      "assetId": 80453090.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2025-01-16",
+      "dealAmount": 2500000,
+      "parcelNum": "3679-122-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 118.95,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-08-01",
+          "dealAmount": 1250000
+        }
+      ],
+      "trend": {
+        "rate": 100.0,
+        "years": 11.5
+      },
+      "ownership": [],
+      "priceSM": 21186,
+      "row_id": 4
+    },
+    {
+      "assetId": 50317384.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2024-11-26",
+      "dealAmount": 2760000,
+      "parcelNum": "3679-82-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 129.0,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21395,
+      "row_id": 5
+    },
+    {
+      "assetId": 80453069.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2024-11-24",
+      "dealAmount": 2815000,
+      "parcelNum": "3679-122-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 127.8,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-10-19",
+          "dealAmount": 2040000
+        },
+        {
+          "dealDate": "2013-01-17",
+          "dealAmount": 1200000
+        }
+      ],
+      "trend": {
+        "rate": 38.0,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 22165,
+      "row_id": 6
+    },
+    {
+      "assetId": 80360926.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2024-08-28",
+      "dealAmount": 2640000,
+      "parcelNum": "3679-81-60",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 115.0,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-09-12",
+          "dealAmount": 1770000
+        },
+        {
+          "dealDate": "2010-05-10",
+          "dealAmount": 1150000
+        }
+      ],
+      "trend": {
+        "rate": 49.2,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 22957,
+      "row_id": 7
+    },
+    {
+      "assetId": 40423052.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2024-08-19",
+      "dealAmount": 2377000,
+      "parcelNum": "3679-83-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-02-21",
+          "dealAmount": 2040000
+        },
+        {
+          "dealDate": "2011-03-16",
+          "dealAmount": 1140000
+        }
+      ],
+      "trend": {
+        "rate": 16.5,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 21609,
+      "row_id": 8
+    },
+    {
+      "assetId": 80360871.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2024-08-19",
+      "dealAmount": 2400000,
+      "parcelNum": "3679-81-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-18",
+          "dealAmount": 909000
+        }
+      ],
+      "trend": {
+        "rate": 164.0,
+        "years": 14.5
+      },
+      "ownership": [],
+      "priceSM": 20339,
+      "row_id": 9
+    },
+    {
+      "assetId": 80453072.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2024-04-08",
+      "dealAmount": 2490000,
+      "parcelNum": "3679-122-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-28",
+          "dealAmount": 1695000
+        },
+        {
+          "dealDate": "2012-10-21",
+          "dealAmount": 1160000
+        }
+      ],
+      "trend": {
+        "rate": 46.9,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 22636,
+      "row_id": 10
+    },
+    {
+      "assetId": 40423044.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2024-03-09",
+      "dealAmount": 2355000,
+      "parcelNum": "3679-83-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-03-12",
+          "dealAmount": 1700000
+        }
+      ],
+      "trend": {
+        "rate": 38.5,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 21409,
+      "row_id": 11
+    },
+    {
+      "assetId": 80453086.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2024-01-21",
+      "dealAmount": 2475000,
+      "parcelNum": "3679-122-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-09-21",
+          "dealAmount": 1319000
+        },
+        {
+          "dealDate": "2012-11-29",
+          "dealAmount": 1180000
+        }
+      ],
+      "trend": {
+        "rate": 87.6,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 20975,
+      "row_id": 12
+    },
+    {
+      "assetId": 80360917.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2023-12-28",
+      "dealAmount": 2310000,
+      "parcelNum": "3679-81-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-09",
+          "dealAmount": 1040000
+        }
+      ],
+      "trend": {
+        "rate": 122.1,
+        "years": 13.6
+      },
+      "ownership": [],
+      "priceSM": 21000,
+      "row_id": 13
+    },
+    {
+      "assetId": 40422992.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2023-12-19",
+      "dealAmount": 2400000,
+      "parcelNum": "3679-83-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-11",
+          "dealAmount": 1560000
+        },
+        {
+          "dealDate": "2010-10-05",
+          "dealAmount": 1010000
+        }
+      ],
+      "trend": {
+        "rate": 53.8,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 21818,
+      "row_id": 14
+    },
+    {
+      "assetId": 80360909.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2023-12-12",
+      "dealAmount": 2215000,
+      "parcelNum": "3679-81-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-01-23",
+          "dealAmount": 1195000
+        }
+      ],
+      "trend": {
+        "rate": 85.4,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 20136,
+      "row_id": 15
+    },
+    {
+      "assetId": 80360891.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2023-11-20",
+      "dealAmount": 2305000,
+      "parcelNum": "3679-81-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-12-20",
+          "dealAmount": 1810000
+        },
+        {
+          "dealDate": "2010-03-24",
+          "dealAmount": 950000
+        }
+      ],
+      "trend": {
+        "rate": 27.3,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 19534,
+      "row_id": 16
+    },
+    {
+      "assetId": 80360867.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2023-08-31",
+      "dealAmount": 3050000,
+      "parcelNum": "3679-81-1",
+      "dealNature": "דירת גן",
+      "roomNum": 4.5,
+      "floor": "קרקע",
+      "assetArea": 101.8,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-28",
+          "dealAmount": 1150000
+        }
+      ],
+      "trend": {
+        "rate": 165.2,
+        "years": 13.4
+      },
+      "ownership": [],
+      "priceSM": 30198,
+      "row_id": 17
+    },
+    {
+      "assetId": 40423011.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2023-08-18",
+      "dealAmount": 2550000,
+      "parcelNum": "3679-83-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-10",
+          "dealAmount": 1190000
+        }
+      ],
+      "trend": {
+        "rate": 114.3,
+        "years": 12.9
+      },
+      "ownership": [],
+      "priceSM": 19466,
+      "row_id": 18
+    },
+    {
+      "assetId": 80453107.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2023-06-29",
+      "dealAmount": 2710000,
+      "parcelNum": "3679-122-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 133.55,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-03-11",
+          "dealAmount": 1439000
+        }
+      ],
+      "trend": {
+        "rate": 88.3,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 20376,
+      "row_id": 19
+    },
+    {
+      "assetId": 80360930.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2023-05-25",
+      "dealAmount": 3520000,
+      "parcelNum": "3679-81-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 148.35,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-17",
+          "dealAmount": 1576000
+        }
+      ],
+      "trend": {
+        "rate": 123.4,
+        "years": 12.3
+      },
+      "ownership": [],
+      "priceSM": 23784,
+      "row_id": 20
+    },
+    {
+      "assetId": 80360889.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2023-02-01",
+      "dealAmount": 2480000,
+      "parcelNum": "3679-81-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-26",
+          "dealAmount": 1380000
+        },
+        {
+          "dealDate": "2010-02-28",
+          "dealAmount": 975000
+        }
+      ],
+      "trend": {
+        "rate": 79.7,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 22545,
+      "row_id": 21
+    },
+    {
+      "assetId": 40423035.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2022-10-11",
+      "dealAmount": 2590000,
+      "parcelNum": "3679-83-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-20",
+          "dealAmount": 1230000
+        }
+      ],
+      "trend": {
+        "rate": 110.6,
+        "years": 11.6
+      },
+      "ownership": [],
+      "priceSM": 19771,
+      "row_id": 22
+    },
+    {
+      "assetId": 50317401.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2022-09-12",
+      "dealAmount": 2520000,
+      "parcelNum": "3679-82-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 121.5,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-07-30",
+          "dealAmount": 1755000
+        },
+        {
+          "dealDate": "2016-04-18",
+          "dealAmount": 1500000
+        },
+        {
+          "dealDate": "2012-04-30",
+          "dealAmount": 1155000
+        }
+      ],
+      "trend": {
+        "rate": 43.6,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 20826,
+      "row_id": 23
+    },
+    {
+      "assetId": 50317386.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2022-09-08",
+      "dealAmount": 78000,
+      "parcelNum": "3679-82-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 133.7,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-21",
+          "dealAmount": 1485000
+        },
+        {
+          "dealDate": "2012-08-13",
+          "dealAmount": 1220000
+        }
+      ],
+      "trend": {
+        "rate": -94.7,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 586,
+      "row_id": 24
+    },
+    {
+      "assetId": 40423045.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2022-08-18",
+      "dealAmount": 2674000,
+      "parcelNum": "3679-83-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-01",
+          "dealAmount": 1430000
+        },
+        {
+          "dealDate": "2012-04-04",
+          "dealAmount": 1210000
+        }
+      ],
+      "trend": {
+        "rate": 87.0,
+        "years": 7.7
+      },
+      "ownership": [],
+      "priceSM": 21055,
+      "row_id": 25
+    },
+    {
+      "assetId": 80360899.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2022-03-30",
+      "dealAmount": 2630000,
+      "parcelNum": "3679-81-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 101.8,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-09-18",
+          "dealAmount": 2000000
+        },
+        {
+          "dealDate": "2014-10-05",
+          "dealAmount": 1590000
+        },
+        {
+          "dealDate": "2011-01-26",
+          "dealAmount": 1350000
+        }
+      ],
+      "trend": {
+        "rate": 31.5,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 26040,
+      "row_id": 26
+    },
+    {
+      "assetId": 40423002.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2022-03-10",
+      "dealAmount": 2365000,
+      "parcelNum": "3679-83-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-21",
+          "dealAmount": 1100000
+        }
+      ],
+      "trend": {
+        "rate": 115.0,
+        "years": 11.6
+      },
+      "ownership": [],
+      "priceSM": 20042,
+      "row_id": 27
+    },
+    {
+      "assetId": 80453123.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2022-03-02",
+      "dealAmount": 2550000,
+      "parcelNum": "3679-122-62",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 133.55,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-01-19",
+          "dealAmount": 1495000
+        }
+      ],
+      "trend": {
+        "rate": 70.6,
+        "years": 7.1
+      },
+      "ownership": [],
+      "priceSM": 19173,
+      "row_id": 28
+    },
+    {
+      "assetId": 40423059.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2022-02-11",
+      "dealAmount": 2430000,
+      "parcelNum": "3679-83-70",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 125.3,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-10-05",
+          "dealAmount": 1310000
+        }
+      ],
+      "trend": {
+        "rate": 85.5,
+        "years": 10.4
+      },
+      "ownership": [],
+      "priceSM": 19440,
+      "row_id": 29
+    },
+    {
+      "assetId": 50317397.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2022-02-06",
+      "dealAmount": 2230000,
+      "parcelNum": "3679-82-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 119.4,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18677,
+      "row_id": 30
+    },
+    {
+      "assetId": 40422997.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2021-11-28",
+      "dealAmount": 2200000,
+      "parcelNum": "3679-83-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-11-15",
+          "dealAmount": 1099000
+        }
+      ],
+      "trend": {
+        "rate": 100.2,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 17323,
+      "row_id": 31
+    },
+    {
+      "assetId": 40422993.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2021-11-18",
+      "dealAmount": 2000000,
+      "parcelNum": "3679-83-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15686,
+      "row_id": 32
+    },
+    {
+      "assetId": 80360898.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2021-09-30",
+      "dealAmount": 3000000,
+      "parcelNum": "3679-81-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 148.35,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-09",
+          "dealAmount": 1650000
+        },
+        {
+          "dealDate": "2011-01-18",
+          "dealAmount": 1600000
+        }
+      ],
+      "trend": {
+        "rate": 81.8,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 20270,
+      "row_id": 33
+    },
+    {
+      "assetId": 40423029.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2021-08-24",
+      "dealAmount": 2055000,
+      "parcelNum": "3679-83-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-27",
+          "dealAmount": 1190000
+        }
+      ],
+      "trend": {
+        "rate": 72.7,
+        "years": 10.4
+      },
+      "ownership": [],
+      "priceSM": 16181,
+      "row_id": 34
+    },
+    {
+      "assetId": 40423032.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2021-07-22",
+      "dealAmount": 1870000,
+      "parcelNum": "3679-83-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-19",
+          "dealAmount": 1080000
+        }
+      ],
+      "trend": {
+        "rate": 73.1,
+        "years": 10.5
+      },
+      "ownership": [],
+      "priceSM": 17000,
+      "row_id": 35
+    },
+    {
+      "assetId": 80360897.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2021-06-28",
+      "dealAmount": 2850000,
+      "parcelNum": "3679-81-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 148.35,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-07",
+          "dealAmount": 1850000
+        },
+        {
+          "dealDate": "2013-07-08",
+          "dealAmount": 1650000
+        },
+        {
+          "dealDate": "2011-02-02",
+          "dealAmount": 1600000
+        }
+      ],
+      "trend": {
+        "rate": 54.1,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 19257,
+      "row_id": 36
+    },
+    {
+      "assetId": 40422999.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2021-06-27",
+      "dealAmount": 2130000,
+      "parcelNum": "3679-83-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-09",
+          "dealAmount": 1140000
+        }
+      ],
+      "trend": {
+        "rate": 86.8,
+        "years": 10.6
+      },
+      "ownership": [],
+      "priceSM": 16260,
+      "row_id": 37
+    },
+    {
+      "assetId": 80453131.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2021-05-04",
+      "dealAmount": 2150000,
+      "parcelNum": "3679-122-70",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 118.9,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-11-17",
+          "dealAmount": 1750000
+        },
+        {
+          "dealDate": "2015-01-25",
+          "dealAmount": 1500000
+        }
+      ],
+      "trend": {
+        "rate": 22.9,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 18220,
+      "row_id": 38
+    },
+    {
+      "assetId": 50317377.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2021-03-16",
+      "dealAmount": 2325000,
+      "parcelNum": "3679-82-1",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 106.1,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-08-22",
+          "dealAmount": 2090000
+        },
+        {
+          "dealDate": "2013-01-31",
+          "dealAmount": 1280000
+        }
+      ],
+      "trend": {
+        "rate": 11.2,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 21934,
+      "row_id": 39
+    },
+    {
+      "assetId": 50317391.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2021-03-12",
+      "dealAmount": 1860000,
+      "parcelNum": "3679-82-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 112.7,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-02-07",
+          "dealAmount": 1510000
+        },
+        {
+          "dealDate": "2012-03-28",
+          "dealAmount": 1095000
+        }
+      ],
+      "trend": {
+        "rate": 23.2,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 16607,
+      "row_id": 40
+    },
+    {
+      "assetId": 80453104.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2021-03-04",
+      "dealAmount": 1825000,
+      "parcelNum": "3679-122-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 112.2,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-30",
+          "dealAmount": 1380000
+        }
+      ],
+      "trend": {
+        "rate": 32.2,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 16295,
+      "row_id": 41
+    },
+    {
+      "assetId": 40423026.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2020-11-18",
+      "dealAmount": 2450000,
+      "parcelNum": "3679-83-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 106.3,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-08-21",
+          "dealAmount": 2170000
+        },
+        {
+          "dealDate": "2013-03-18",
+          "dealAmount": 1550000
+        },
+        {
+          "dealDate": "2012-04-04",
+          "dealAmount": 1290000
+        }
+      ],
+      "trend": {
+        "rate": 12.9,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 23113,
+      "row_id": 42
+    },
+    {
+      "assetId": 40423021.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2020-10-22",
+      "dealAmount": 1970000,
+      "parcelNum": "3679-83-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 115.0,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17130,
+      "row_id": 43
+    },
+    {
+      "assetId": 80360879.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2020-09-25",
+      "dealAmount": 1820000,
+      "parcelNum": "3679-81-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-11-10",
+          "dealAmount": 1330000
+        },
+        {
+          "dealDate": "2010-03-03",
+          "dealAmount": 960000
+        }
+      ],
+      "trend": {
+        "rate": 36.8,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 15424,
+      "row_id": 44
+    },
+    {
+      "assetId": 40423061.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2020-09-17",
+      "dealAmount": 3070000,
+      "parcelNum": "3679-83-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 148.35,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-08-01",
+          "dealAmount": 2300000
+        },
+        {
+          "dealDate": "2012-06-17",
+          "dealAmount": 1680000
+        }
+      ],
+      "trend": {
+        "rate": 33.5,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 20743,
+      "row_id": 45
+    },
+    {
+      "assetId": 40423056.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2020-09-14",
+      "dealAmount": 1700000,
+      "parcelNum": "3679-83-67",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 98.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-04-01",
+          "dealAmount": 1100000
+        }
+      ],
+      "trend": {
+        "rate": 54.5,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 17347,
+      "row_id": 46
+    },
+    {
+      "assetId": 80360885.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2020-07-14",
+      "dealAmount": 1764000,
+      "parcelNum": "3679-81-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-04-28",
+          "dealAmount": 1349000
+        },
+        {
+          "dealDate": "2014-02-06",
+          "dealAmount": 1320000
+        },
+        {
+          "dealDate": "2010-02-25",
+          "dealAmount": 990000
+        }
+      ],
+      "trend": {
+        "rate": 30.8,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 16036,
+      "row_id": 47
+    },
+    {
+      "assetId": 50317382.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2020-07-13",
+      "dealAmount": 1700000,
+      "parcelNum": "3679-82-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-08-30",
+          "dealAmount": 1225000
+        }
+      ],
+      "trend": {
+        "rate": 38.8,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 14167,
+      "row_id": 48
+    },
+    {
+      "assetId": 80360887.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2020-06-17",
+      "dealAmount": 1815000,
+      "parcelNum": "3679-81-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-28",
+          "dealAmount": 1020000
+        }
+      ],
+      "trend": {
+        "rate": 77.9,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 15381,
+      "row_id": 49
+    },
+    {
+      "assetId": 80360910.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2019-11-18",
+      "dealAmount": 1950000,
+      "parcelNum": "3679-81-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-30",
+          "dealAmount": 1500000
+        },
+        {
+          "dealDate": "2010-05-04",
+          "dealAmount": 1110000
+        }
+      ],
+      "trend": {
+        "rate": 30.0,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 15354,
+      "row_id": 50
+    },
+    {
+      "assetId": 50317406.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2019-09-24",
+      "dealAmount": 1850000,
+      "parcelNum": "3679-82-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 138.5,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-22",
+          "dealAmount": 1500000
+        }
+      ],
+      "trend": {
+        "rate": 23.3,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 13406,
+      "row_id": 51
+    },
+    {
+      "assetId": 80360911.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2019-09-05",
+      "dealAmount": 1740000,
+      "parcelNum": "3679-81-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-25",
+          "dealAmount": 1070000
+        }
+      ],
+      "trend": {
+        "rate": 62.6,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 14746,
+      "row_id": 52
+    },
+    {
+      "assetId": 40423006.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2019-07-29",
+      "dealAmount": 1785000,
+      "parcelNum": "3679-83-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-15",
+          "dealAmount": 1075000
+        }
+      ],
+      "trend": {
+        "rate": 66.0,
+        "years": 9.0
+      },
+      "ownership": [],
+      "priceSM": 15127,
+      "row_id": 53
+    },
+    {
+      "assetId": 40423034.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2019-06-27",
+      "dealAmount": 1694000,
+      "parcelNum": "3679-83-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14241,
+      "row_id": 54
+    },
+    {
+      "assetId": 80360880.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2019-03-28",
+      "dealAmount": 1950000,
+      "parcelNum": "3679-81-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-17",
+          "dealAmount": 1100000
+        }
+      ],
+      "trend": {
+        "rate": 77.3,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 14885,
+      "row_id": 55
+    },
+    {
+      "assetId": 40423060.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2018-11-29",
+      "dealAmount": 2000000,
+      "parcelNum": "3679-83-71",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 148.35,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13482,
+      "row_id": 56
+    },
+    {
+      "assetId": 80360922.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2018-10-17",
+      "dealAmount": 1795000,
+      "parcelNum": "3679-81-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 110.7,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-24",
+          "dealAmount": 1320000
+        },
+        {
+          "dealDate": "2010-04-25",
+          "dealAmount": 1020000
+        }
+      ],
+      "trend": {
+        "rate": 36.0,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 16318,
+      "row_id": 57
+    },
+    {
+      "assetId": 80360907.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2018-06-03",
+      "dealAmount": 1750000,
+      "parcelNum": "3679-81-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-09-08",
+          "dealAmount": 1350000
+        },
+        {
+          "dealDate": "2010-03-25",
+          "dealAmount": 1010000
+        }
+      ],
+      "trend": {
+        "rate": 29.6,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 14831,
+      "row_id": 58
+    },
+    {
+      "assetId": 80453113.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2018-03-21",
+      "dealAmount": 1885000,
+      "parcelNum": "3679-122-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 129.25,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-14",
+          "dealAmount": 1400000
+        }
+      ],
+      "trend": {
+        "rate": 34.6,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 14612,
+      "row_id": 59
+    },
+    {
+      "assetId": 50317389.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2018-01-30",
+      "dealAmount": 1719000,
+      "parcelNum": "3679-82-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 119.4,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-04-01",
+          "dealAmount": 1145000
+        }
+      ],
+      "trend": {
+        "rate": 50.1,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 14445,
+      "row_id": 60
+    },
+    {
+      "assetId": 80453096.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2017-09-18",
+      "dealAmount": 2450000,
+      "parcelNum": "3679-122-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 148.35,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-09",
+          "dealAmount": 1730000
+        }
+      ],
+      "trend": {
+        "rate": 41.6,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 16554,
+      "row_id": 61
+    },
+    {
+      "assetId": 40423046.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2017-08-30",
+      "dealAmount": 1740000,
+      "parcelNum": "3679-83-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-17",
+          "dealAmount": 1185000
+        }
+      ],
+      "trend": {
+        "rate": 46.8,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 14746,
+      "row_id": 62
+    },
+    {
+      "assetId": 80360921.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2017-06-29",
+      "dealAmount": 1710000,
+      "parcelNum": "3679-81-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-18",
+          "dealAmount": 1030000
+        }
+      ],
+      "trend": {
+        "rate": 66.0,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 15545,
+      "row_id": 63
+    },
+    {
+      "assetId": 80360912.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2017-05-23",
+      "dealAmount": 1800000,
+      "parcelNum": "3679-81-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-14",
+          "dealAmount": 1190000
+        }
+      ],
+      "trend": {
+        "rate": 51.3,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 13740,
+      "row_id": 64
+    },
+    {
+      "assetId": 50317380.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2017-04-25",
+      "dealAmount": 1820000,
+      "parcelNum": "3679-82-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 127.5,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-13",
+          "dealAmount": 1180000
+        }
+      ],
+      "trend": {
+        "rate": 54.2,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 14331,
+      "row_id": 65
+    },
+    {
+      "assetId": 80360923.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2017-02-10",
+      "dealAmount": 1735000,
+      "parcelNum": "3679-81-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-21",
+          "dealAmount": 1070000
+        }
+      ],
+      "trend": {
+        "rate": 62.1,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 14703,
+      "row_id": 66
+    },
+    {
+      "assetId": 40423030.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2017-01-01",
+      "dealAmount": 1595000,
+      "parcelNum": "3679-83-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-09",
+          "dealAmount": 1135000
+        }
+      ],
+      "trend": {
+        "rate": 40.5,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 13517,
+      "row_id": 67
+    },
+    {
+      "assetId": 50317412.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2016-07-24",
+      "dealAmount": 2160000,
+      "parcelNum": "3679-82-36",
+      "dealNature": "דירת גג",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 148.3,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-01-24",
+          "dealAmount": 1650000
+        }
+      ],
+      "trend": {
+        "rate": 30.9,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 14595,
+      "row_id": 68
+    },
+    {
+      "assetId": 80360878.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2016-06-09",
+      "dealAmount": 1695000,
+      "parcelNum": "3679-81-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-08",
+          "dealAmount": 1100000
+        }
+      ],
+      "trend": {
+        "rate": 54.1,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 13346,
+      "row_id": 69
+    },
+    {
+      "assetId": 50317404.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2016-04-18",
+      "dealAmount": 1680000,
+      "parcelNum": "3679-82-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 127.5,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-07",
+          "dealAmount": 1200000
+        }
+      ],
+      "trend": {
+        "rate": 40.0,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 13228,
+      "row_id": 70
+    },
+    {
+      "assetId": 40423025.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2016-03-07",
+      "dealAmount": 2158000,
+      "parcelNum": "3679-83-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 148.35,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-01-07",
+          "dealAmount": 1680000
+        }
+      ],
+      "trend": {
+        "rate": 28.5,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 14581,
+      "row_id": 71
+    },
+    {
+      "assetId": 80453095.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2015-12-03",
+      "dealAmount": 1590000,
+      "parcelNum": "3679-122-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 118.9,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-06-24",
+          "dealAmount": 1085000
+        }
+      ],
+      "trend": {
+        "rate": 46.5,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 13475,
+      "row_id": 72
+    },
+    {
+      "assetId": 80453064.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2015-08-18",
+      "dealAmount": 1400000,
+      "parcelNum": "3679-122-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 110.75,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12641,
+      "row_id": 73
+    },
+    {
+      "assetId": 40423004.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2015-07-19",
+      "dealAmount": 1430000,
+      "parcelNum": "3679-83-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-21",
+          "dealAmount": 1010000
+        }
+      ],
+      "trend": {
+        "rate": 41.6,
+        "years": 5.0
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 715000
+        },
+        {
+          "proportion": "50",
+          "price": 715000
+        }
+      ],
+      "priceSM": 13000,
+      "row_id": 74
+    },
+    {
+      "assetId": 50317410.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2015-07-08",
+      "dealAmount": 1500000,
+      "parcelNum": "3679-82-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 125.5,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11952,
+      "row_id": 75
+    },
+    {
+      "assetId": 80453101.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2015-06-03",
+      "dealAmount": 1430000,
+      "parcelNum": "3679-122-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 127.8,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11189,
+      "row_id": 76
+    },
+    {
+      "assetId": 40423040.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2015-05-18",
+      "dealAmount": 1350000,
+      "parcelNum": "3679-83-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-14",
+          "dealAmount": 1090000
+        }
+      ],
+      "trend": {
+        "rate": 23.9,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 12273,
+      "row_id": 77
+    },
+    {
+      "assetId": 80453103.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2015-05-13",
+      "dealAmount": 1435000,
+      "parcelNum": "3679-122-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 131.45,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10917,
+      "row_id": 78
+    },
+    {
+      "assetId": 80360918.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2015-03-26",
+      "dealAmount": 1400000,
+      "parcelNum": "3679-81-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 110.7,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-17",
+          "dealAmount": 1060000
+        }
+      ],
+      "trend": {
+        "rate": 32.1,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 12727,
+      "row_id": 79
+    },
+    {
+      "assetId": 80453130.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2015-03-04",
+      "dealAmount": 1420000,
+      "parcelNum": "3679-122-69",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 113.05,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12561,
+      "row_id": 80
+    },
+    {
+      "assetId": 80453119.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2015-02-19",
+      "dealAmount": 1470000,
+      "parcelNum": "3679-122-58",
+      "dealNature": "דירה",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 131.45,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11183,
+      "row_id": 81
+    },
+    {
+      "assetId": 40423020.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2015-02-18",
+      "dealAmount": 1400000,
+      "parcelNum": "3679-83-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 98.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-09-12",
+          "dealAmount": 1080000
+        }
+      ],
+      "trend": {
+        "rate": 29.6,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 14286,
+      "row_id": 82
+    },
+    {
+      "assetId": 80453109.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2015-02-03",
+      "dealAmount": 1430000,
+      "parcelNum": "3679-122-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 127.75,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11194,
+      "row_id": 83
+    },
+    {
+      "assetId": 80453105.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2015-01-26",
+      "dealAmount": 1384000,
+      "parcelNum": "3679-122-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 129.25,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10708,
+      "row_id": 84
+    },
+    {
+      "assetId": 80453127.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2015-01-22",
+      "dealAmount": 1499000,
+      "parcelNum": "3679-122-66",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 131.45,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11404,
+      "row_id": 85
+    },
+    {
+      "assetId": 80453099.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-12-29",
+      "dealAmount": 1690000,
+      "parcelNum": "3679-122-38",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 119.1,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14190,
+      "row_id": 86
+    },
+    {
+      "assetId": 80453102.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-12-23",
+      "dealAmount": 1350000,
+      "parcelNum": "3679-122-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 118.95,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11349,
+      "row_id": 87
+    },
+    {
+      "assetId": 80453114.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-12-17",
+      "dealAmount": 1350000,
+      "parcelNum": "3679-122-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 121.05,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11152,
+      "row_id": 88
+    },
+    {
+      "assetId": 80453125.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-12-14",
+      "dealAmount": 1450000,
+      "parcelNum": "3679-122-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 127.75,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11350,
+      "row_id": 89
+    },
+    {
+      "assetId": 80453128.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-12-09",
+      "dealAmount": 1340000,
+      "parcelNum": "3679-122-67",
+      "dealNature": "דירה",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 98.25,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13639,
+      "row_id": 90
+    },
+    {
+      "assetId": 80453121.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-12-09",
+      "dealAmount": 1425000,
+      "parcelNum": "3679-122-60",
+      "dealNature": "דירה",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 129.25,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11025,
+      "row_id": 91
+    },
+    {
+      "assetId": 80453117.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-12-09",
+      "dealAmount": 1430000,
+      "parcelNum": "3679-122-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 127.75,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11194,
+      "row_id": 92
+    },
+    {
+      "assetId": 80360883.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2014-12-03",
+      "dealAmount": 1330000,
+      "parcelNum": "3679-81-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-25",
+          "dealAmount": 990000
+        }
+      ],
+      "trend": {
+        "rate": 34.3,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 11271,
+      "row_id": 93
+    },
+    {
+      "assetId": 80453120.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-12-01",
+      "dealAmount": 1320000,
+      "parcelNum": "3679-122-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 112.2,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11765,
+      "row_id": 94
+    },
+    {
+      "assetId": 80453108.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-11-23",
+      "dealAmount": 1310000,
+      "parcelNum": "3679-122-47",
+      "dealNature": "דירה",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11828,
+      "row_id": 95
+    },
+    {
+      "assetId": 50317385.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2014-11-12",
+      "dealAmount": 1270000,
+      "parcelNum": "3679-82-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 121.5,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-02-21",
+          "dealAmount": 1140000
+        }
+      ],
+      "trend": {
+        "rate": 11.4,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 10496,
+      "row_id": 96
+    },
+    {
+      "assetId": 80360876.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2014-11-04",
+      "dealAmount": 1400000,
+      "parcelNum": "3679-81-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-18",
+          "dealAmount": 1080000
+        }
+      ],
+      "trend": {
+        "rate": 29.6,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 10687,
+      "row_id": 97
+    },
+    {
+      "assetId": 80453116.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-10-22",
+      "dealAmount": 1310000,
+      "parcelNum": "3679-122-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11828,
+      "row_id": 98
+    },
+    {
+      "assetId": 80453112.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-10-05",
+      "dealAmount": 1310000,
+      "parcelNum": "3679-122-51",
+      "dealNature": "דירה",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 112.2,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11676,
+      "row_id": 99
+    },
+    {
+      "assetId": 80453082.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2014-09-30",
+      "dealAmount": 1410000,
+      "parcelNum": "3679-122-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-18",
+          "dealAmount": 1225000
+        }
+      ],
+      "trend": {
+        "rate": 15.1,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 11949,
+      "row_id": 100
+    },
+    {
+      "assetId": 80453132.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-09-29",
+      "dealAmount": 1884000,
+      "parcelNum": "3679-122-71",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 148.35,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12700,
+      "row_id": 101
+    },
+    {
+      "assetId": 80453098.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-09-17",
+      "dealAmount": 1590000,
+      "parcelNum": "3679-122-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 106.3,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14958,
+      "row_id": 102
+    },
+    {
+      "assetId": 40423005.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2014-09-15",
+      "dealAmount": 1360000,
+      "parcelNum": "3679-83-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-11-08",
+          "dealAmount": 1110000
+        }
+      ],
+      "trend": {
+        "rate": 22.5,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 10709,
+      "row_id": 103
+    },
+    {
+      "assetId": 80360881.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2014-09-11",
+      "dealAmount": 1310000,
+      "parcelNum": "3679-81-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-11",
+          "dealAmount": 965000
+        }
+      ],
+      "trend": {
+        "rate": 35.8,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 11909,
+      "row_id": 104
+    },
+    {
+      "assetId": 80360929.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2014-08-27",
+      "dealAmount": 1820000,
+      "parcelNum": "3679-81-63",
+      "dealNature": "דירת גג",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 148.35,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-07-06",
+          "dealAmount": 1600000
+        }
+      ],
+      "trend": {
+        "rate": 13.8,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 12297,
+      "row_id": 105
+    },
+    {
+      "assetId": 40423009.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2014-08-04",
+      "dealAmount": 1420000,
+      "parcelNum": "3679-83-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-11-24",
+          "dealAmount": 1150000
+        }
+      ],
+      "trend": {
+        "rate": 23.5,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 11181,
+      "row_id": 106
+    },
+    {
+      "assetId": 80453106.0,
+      "addressId": 72639615,
+      "polygonId": "64946117",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 3",
+      "dealDate": "2014-08-04",
+      "dealAmount": 1320000,
+      "parcelNum": "3679-122-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 121.05,
+      "yearBuilt": 2014,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10905,
+      "row_id": 107
+    },
+    {
+      "assetId": 80360888.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2014-07-07",
+      "dealAmount": 1420000,
+      "parcelNum": "3679-81-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-17",
+          "dealAmount": 1130000
+        }
+      ],
+      "trend": {
+        "rate": 25.7,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 10840,
+      "row_id": 108
+    },
+    {
+      "assetId": 80453093.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2014-01-22",
+      "dealAmount": 1220000,
+      "parcelNum": "3679-122-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 115.28,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10583,
+      "row_id": 109
+    },
+    {
+      "assetId": 4063068.0,
+      "addressId": 0,
+      "polygonId": "3679-88",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "0",
+      "dealDate": "2013-11-06",
+      "dealAmount": 1240000,
+      "parcelNum": "3679-88-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 101.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12277,
+      "row_id": 110
+    },
+    {
+      "assetId": 80360903.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2013-11-05",
+      "dealAmount": 1200000,
+      "parcelNum": "3679-81-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-28",
+          "dealAmount": 1035000
+        }
+      ],
+      "trend": {
+        "rate": 15.9,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 10169,
+      "row_id": 111
+    },
+    {
+      "assetId": 40422998.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2013-10-16",
+      "dealAmount": 1300000,
+      "parcelNum": "3679-83-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-07",
+          "dealAmount": 1070000
+        }
+      ],
+      "trend": {
+        "rate": 21.5,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 11017,
+      "row_id": 112
+    },
+    {
+      "assetId": 80453097.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2013-10-06",
+      "dealAmount": 1790000,
+      "parcelNum": "3679-122-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 148.35,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12066,
+      "row_id": 113
+    },
+    {
+      "assetId": 80453091.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2013-09-10",
+      "dealAmount": 1365000,
+      "parcelNum": "3679-122-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 131.45,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10384,
+      "row_id": 114
+    },
+    {
+      "assetId": 80360927.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2013-08-29",
+      "dealAmount": 1105000,
+      "parcelNum": "3679-81-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 113.05,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-25",
+          "dealAmount": 1082000
+        }
+      ],
+      "trend": {
+        "rate": 2.1,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 9779,
+      "row_id": 115
+    },
+    {
+      "assetId": 80360874.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2013-07-31",
+      "dealAmount": 1355000,
+      "parcelNum": "3679-81-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 110.7,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-20",
+          "dealAmount": 1191000
+        }
+      ],
+      "trend": {
+        "rate": 13.8,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 12318,
+      "row_id": 116
+    },
+    {
+      "assetId": 80453092.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2013-07-10",
+      "dealAmount": 1200000,
+      "parcelNum": "3679-122-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 98.25,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12214,
+      "row_id": 117
+    },
+    {
+      "assetId": 80453067.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2013-07-03",
+      "dealAmount": 1274000,
+      "parcelNum": "3679-122-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 131.45,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9692,
+      "row_id": 118
+    },
+    {
+      "assetId": 80453094.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2013-06-23",
+      "dealAmount": 1270000,
+      "parcelNum": "3679-122-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 113.05,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11234,
+      "row_id": 119
+    },
+    {
+      "assetId": 80453073.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2013-06-12",
+      "dealAmount": 1270000,
+      "parcelNum": "3679-122-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 127.8,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9937,
+      "row_id": 120
+    },
+    {
+      "assetId": 80453077.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2013-05-29",
+      "dealAmount": 1250000,
+      "parcelNum": "3679-122-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 127.8,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9781,
+      "row_id": 121
+    },
+    {
+      "assetId": 80453065.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2013-03-04",
+      "dealAmount": 1235000,
+      "parcelNum": "3679-122-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 127.8,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9664,
+      "row_id": 122
+    },
+    {
+      "assetId": 80453079.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2013-01-23",
+      "dealAmount": 1270000,
+      "parcelNum": "3679-122-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 131.45,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9661,
+      "row_id": 123
+    },
+    {
+      "assetId": 80453088.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2013-01-08",
+      "dealAmount": 1194000,
+      "parcelNum": "3679-122-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 110.75,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10781,
+      "row_id": 124
+    },
+    {
+      "assetId": 80453076.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2013-01-03",
+      "dealAmount": 1179000,
+      "parcelNum": "3679-122-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 110.75,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10646,
+      "row_id": 125
+    },
+    {
+      "assetId": 80453084.0,
+      "addressId": 72639614,
+      "polygonId": "72630708",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "שמשון צור 1",
+      "dealDate": "2012-12-23",
+      "dealAmount": 1202000,
+      "parcelNum": "3679-122-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2012,
+      "streetCode": 84000566,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10853,
+      "row_id": 126
+    },
+    {
+      "assetId": 50317402.0,
+      "addressId": 68399866,
+      "polygonId": "72630707",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 6",
+      "dealDate": "2012-08-12",
+      "dealAmount": 1225000,
+      "parcelNum": "3679-82-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 133.7,
+      "yearBuilt": 2013,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9162,
+      "row_id": 127
+    },
+    {
+      "assetId": 40423049.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2012-04-01",
+      "dealAmount": 1200000,
+      "parcelNum": "3679-83-60",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9412,
+      "row_id": 128
+    },
+    {
+      "assetId": 40423023.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2012-03-29",
+      "dealAmount": 1270000,
+      "parcelNum": "3679-83-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 125.3,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10136,
+      "row_id": 129
+    },
+    {
+      "assetId": 80360886.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2012-02-27",
+      "dealAmount": 1160000,
+      "parcelNum": "3679-81-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 110.7,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-10",
+          "dealAmount": 1000000
+        }
+      ],
+      "trend": {
+        "rate": 16.0,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 10545,
+      "row_id": 130
+    },
+    {
+      "assetId": 40423027.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2012-02-19",
+      "dealAmount": 1450000,
+      "parcelNum": "3679-83-38",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 118.85,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-07",
+          "dealAmount": 1015000
+        }
+      ],
+      "trend": {
+        "rate": 42.9,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 12288,
+      "row_id": 131
+    },
+    {
+      "assetId": 40423037.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-07-13",
+      "dealAmount": 1250000,
+      "parcelNum": "3679-83-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9804,
+      "row_id": 132
+    },
+    {
+      "assetId": 40423039.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-07-03",
+      "dealAmount": 1280000,
+      "parcelNum": "3679-83-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9752,
+      "row_id": 133
+    },
+    {
+      "assetId": 40423031.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-06-02",
+      "dealAmount": 1250000,
+      "parcelNum": "3679-83-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9524,
+      "row_id": 134
+    },
+    {
+      "assetId": 40423024.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2011-06-02",
+      "dealAmount": 1800000,
+      "parcelNum": "3679-83-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 148.35,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12133,
+      "row_id": 135
+    },
+    {
+      "assetId": 40423054.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-04-17",
+      "dealAmount": 1185000,
+      "parcelNum": "3679-83-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 125.9,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9412,
+      "row_id": 136
+    },
+    {
+      "assetId": 40423036.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-03-30",
+      "dealAmount": 1100000,
+      "parcelNum": "3679-83-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9932,
+      "row_id": 137
+    },
+    {
+      "assetId": 40423038.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-03-30",
+      "dealAmount": 1167000,
+      "parcelNum": "3679-83-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9811,
+      "row_id": 138
+    },
+    {
+      "assetId": 40423042.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-03-30",
+      "dealAmount": 1136000,
+      "parcelNum": "3679-83-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9550,
+      "row_id": 139
+    },
+    {
+      "assetId": 40423047.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-03-28",
+      "dealAmount": 1309000,
+      "parcelNum": "3679-83-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9973,
+      "row_id": 140
+    },
+    {
+      "assetId": 40423050.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-03-17",
+      "dealAmount": 1150000,
+      "parcelNum": "3679-83-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9668,
+      "row_id": 141
+    },
+    {
+      "assetId": 40423048.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-02-27",
+      "dealAmount": 1090000,
+      "parcelNum": "3679-83-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9842,
+      "row_id": 142
+    },
+    {
+      "assetId": 40423051.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-02-07",
+      "dealAmount": 1220000,
+      "parcelNum": "3679-83-62",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9295,
+      "row_id": 143
+    },
+    {
+      "assetId": 40423041.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-02-02",
+      "dealAmount": 1190000,
+      "parcelNum": "3679-83-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9333,
+      "row_id": 144
+    },
+    {
+      "assetId": 40423043.0,
+      "addressId": 72639612,
+      "polygonId": "72630703",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 74",
+      "dealDate": "2011-01-31",
+      "dealAmount": 1250000,
+      "parcelNum": "3679-83-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9524,
+      "row_id": 145
+    },
+    {
+      "assetId": 40423001.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2011-01-05",
+      "dealAmount": 1160000,
+      "parcelNum": "3679-83-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9098,
+      "row_id": 146
+    },
+    {
+      "assetId": 80360900.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-12-16",
+      "dealAmount": 1390000,
+      "parcelNum": "3679-81-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 114.85,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12103,
+      "row_id": 147
+    },
+    {
+      "assetId": 40423003.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2010-12-02",
+      "dealAmount": 1225000,
+      "parcelNum": "3679-83-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9333,
+      "row_id": 148
+    },
+    {
+      "assetId": 40423017.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2010-11-25",
+      "dealAmount": 1185000,
+      "parcelNum": "3679-83-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9294,
+      "row_id": 149
+    },
+    {
+      "assetId": 40423007.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2010-11-16",
+      "dealAmount": 1190000,
+      "parcelNum": "3679-83-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9067,
+      "row_id": 150
+    },
+    {
+      "assetId": 40422996.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2010-11-11",
+      "dealAmount": 1020000,
+      "parcelNum": "3679-83-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9210,
+      "row_id": 151
+    },
+    {
+      "assetId": 80360904.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-10-14",
+      "dealAmount": 1150000,
+      "parcelNum": "3679-81-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8762,
+      "row_id": 152
+    },
+    {
+      "assetId": 40423016.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2010-10-11",
+      "dealAmount": 1090000,
+      "parcelNum": "3679-83-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9842,
+      "row_id": 153
+    },
+    {
+      "assetId": 40423014.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2010-09-06",
+      "dealAmount": 1110000,
+      "parcelNum": "3679-83-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9332,
+      "row_id": 154
+    },
+    {
+      "assetId": 40423012.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2010-09-05",
+      "dealAmount": 1050000,
+      "parcelNum": "3679-83-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9481,
+      "row_id": 155
+    },
+    {
+      "assetId": 40423000.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2010-09-05",
+      "dealAmount": 1040000,
+      "parcelNum": "3679-83-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9391,
+      "row_id": 156
+    },
+    {
+      "assetId": 80360924.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-08-29",
+      "dealAmount": 1200000,
+      "parcelNum": "3679-81-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9143,
+      "row_id": 157
+    },
+    {
+      "assetId": 40423010.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2010-08-25",
+      "dealAmount": 1110000,
+      "parcelNum": "3679-83-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9332,
+      "row_id": 158
+    },
+    {
+      "assetId": 40422994.0,
+      "addressId": 72639613,
+      "polygonId": "72630704",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "ששת הימים 72",
+      "dealDate": "2010-08-16",
+      "dealAmount": 1080000,
+      "parcelNum": "3679-83-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000375,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9079,
+      "row_id": 159
+    },
+    {
+      "assetId": 80360928.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-08-15",
+      "dealAmount": 1235000,
+      "parcelNum": "3679-81-62",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 125.3,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9856,
+      "row_id": 160
+    },
+    {
+      "assetId": 80360894.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2010-07-01",
+      "dealAmount": 1150000,
+      "parcelNum": "3679-81-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 115.0,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 161
+    },
+    {
+      "assetId": 80360902.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-06-14",
+      "dealAmount": 1005000,
+      "parcelNum": "3679-81-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 110.7,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9079,
+      "row_id": 162
+    },
+    {
+      "assetId": 80360908.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-05-31",
+      "dealAmount": 1159000,
+      "parcelNum": "3679-81-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8830,
+      "row_id": 163
+    },
+    {
+      "assetId": 80360882.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2010-05-30",
+      "dealAmount": 1100000,
+      "parcelNum": "3679-81-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 127.5,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-01",
+          "dealAmount": 1090000
+        }
+      ],
+      "trend": {
+        "rate": 0.9,
+        "years": 0.2
+      },
+      "ownership": [],
+      "priceSM": 8661,
+      "row_id": 164
+    },
+    {
+      "assetId": 80360877.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2010-05-27",
+      "dealAmount": 1020000,
+      "parcelNum": "3679-81-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 110.75,
+      "yearBuilt": 1800,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9210,
+      "row_id": 165
+    },
+    {
+      "assetId": 80360915.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-05-12",
+      "dealAmount": 1060000,
+      "parcelNum": "3679-81-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8911,
+      "row_id": 166
+    },
+    {
+      "assetId": 80360913.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-05-10",
+      "dealAmount": 1010000,
+      "parcelNum": "3679-81-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9120,
+      "row_id": 167
+    },
+    {
+      "assetId": 80360901.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-05-03",
+      "dealAmount": 1000000,
+      "parcelNum": "3679-81-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9029,
+      "row_id": 168
+    },
+    {
+      "assetId": 80360919.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-03-28",
+      "dealAmount": 1090000,
+      "parcelNum": "3679-81-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 118.95,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9164,
+      "row_id": 169
+    },
+    {
+      "assetId": 80360890.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2010-03-28",
+      "dealAmount": 960000,
+      "parcelNum": "3679-81-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 110.7,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8672,
+      "row_id": 170
+    },
+    {
+      "assetId": 80360872.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2010-03-24",
+      "dealAmount": 1090000,
+      "parcelNum": "3679-81-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8305,
+      "row_id": 171
+    },
+    {
+      "assetId": 80360925.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-03-17",
+      "dealAmount": 1040000,
+      "parcelNum": "3679-81-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 98.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10585,
+      "row_id": 172
+    },
+    {
+      "assetId": 80360906.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-03-16",
+      "dealAmount": 950000,
+      "parcelNum": "3679-81-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 110.7,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8582,
+      "row_id": 173
+    },
+    {
+      "assetId": 80360873.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2010-03-14",
+      "dealAmount": 950000,
+      "parcelNum": "3679-81-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8578,
+      "row_id": 174
+    },
+    {
+      "assetId": 80360905.0,
+      "addressId": 68399865,
+      "polygonId": "72630706",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 4",
+      "dealDate": "2010-03-10",
+      "dealAmount": 980000,
+      "parcelNum": "3679-81-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8849,
+      "row_id": 175
+    },
+    {
+      "assetId": 80360868.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2010-03-01",
+      "dealAmount": 1380000,
+      "parcelNum": "3679-81-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 114.85,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12016,
+      "row_id": 176
+    },
+    {
+      "assetId": 80360884.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2010-02-25",
+      "dealAmount": 1100000,
+      "parcelNum": "3679-81-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8381,
+      "row_id": 177
+    },
+    {
+      "assetId": 80360869.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2010-02-22",
+      "dealAmount": 950000,
+      "parcelNum": "3679-81-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 110.75,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8578,
+      "row_id": 178
+    },
+    {
+      "assetId": 80360870.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2010-02-21",
+      "dealAmount": 950000,
+      "parcelNum": "3679-81-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 110.7,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8582,
+      "row_id": 179
+    },
+    {
+      "assetId": 80360892.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2010-02-18",
+      "dealAmount": 1130000,
+      "parcelNum": "3679-81-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 131.25,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8610,
+      "row_id": 180
+    },
+    {
+      "assetId": 80360896.0,
+      "addressId": 68399864,
+      "polygonId": "72630705",
+      "neighborhoodName": "וייסגל",
+      "neighborhoodId": 65210867,
+      "address": "דובנוב 2",
+      "dealDate": "2010-02-14",
+      "dealAmount": 1065000,
+      "parcelNum": "3679-81-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 125.3,
+      "yearBuilt": 2010,
+      "streetCode": 84000314,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8500,
+      "row_id": 181
+    }
+  ]
+}

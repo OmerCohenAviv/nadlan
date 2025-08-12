@@ -1,0 +1,6570 @@
+{
+  "neighborhood_name": "נאות הדקל",
+  "city_name": "שדרות",
+  "transaction_count": 206,
+  "transactions": [
+    {
+      "assetId": 4517347.0,
+      "addressId": 53757565,
+      "polygonId": "53368067",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 2",
+      "dealDate": "2025-07-09",
+      "dealAmount": 160000,
+      "parcelNum": "1898-11-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 1970,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 1
+    },
+    {
+      "assetId": 50038614.0,
+      "addressId": 53932416,
+      "polygonId": "65272716",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 2",
+      "dealDate": "2025-07-07",
+      "dealAmount": 720000,
+      "parcelNum": "1899-9-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19200,
+      "row_id": 2
+    },
+    {
+      "assetId": 50038795.0,
+      "addressId": 53839854,
+      "polygonId": "65272553",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 10",
+      "dealDate": "2025-07-03",
+      "dealAmount": 730000,
+      "parcelNum": "1899-19-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19467,
+      "row_id": 3
+    },
+    {
+      "assetId": 50038912.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2025-06-24",
+      "dealAmount": 1120000,
+      "parcelNum": "1899-26-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-02-23",
+          "dealAmount": 730000
+        },
+        {
+          "dealDate": "2016-05-08",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2002-03-12",
+          "dealAmount": 598000
+        }
+      ],
+      "trend": {
+        "rate": 53.4,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 17231,
+      "row_id": 4
+    },
+    {
+      "assetId": 80304197.0,
+      "addressId": 53933646,
+      "polygonId": "52714660",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 2",
+      "dealDate": "2025-06-22",
+      "dealAmount": 500000,
+      "parcelNum": "2479-25-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע, ראשונה",
+      "assetArea": 105.8,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-05-26",
+          "dealAmount": 513000
+        }
+      ],
+      "trend": {
+        "rate": -2.5,
+        "years": 23.1
+      },
+      "ownership": [],
+      "priceSM": 4762,
+      "row_id": 5
+    },
+    {
+      "assetId": 50038941.0,
+      "addressId": 53821569,
+      "polygonId": "65272595",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 6",
+      "dealDate": "2025-06-12",
+      "dealAmount": 820000,
+      "parcelNum": "1899-30-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-07",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 36.7,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 21579,
+      "row_id": 6
+    },
+    {
+      "assetId": 50038579.0,
+      "addressId": 53829960,
+      "polygonId": "53366386",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 3",
+      "dealDate": "2025-05-04",
+      "dealAmount": 910000,
+      "parcelNum": "1899-8-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-03-10",
+          "dealAmount": 650000
+        }
+      ],
+      "trend": {
+        "rate": 40.0,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 24595,
+      "row_id": 7
+    },
+    {
+      "assetId": 50038732.0,
+      "addressId": 53815278,
+      "polygonId": "52641153",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 5",
+      "dealDate": "2025-04-29",
+      "dealAmount": 785000,
+      "parcelNum": "1899-17-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-09-20",
+          "dealAmount": 605000
+        },
+        {
+          "dealDate": "2017-10-01",
+          "dealAmount": 510000
+        }
+      ],
+      "trend": {
+        "rate": 29.8,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 21216,
+      "row_id": 8
+    },
+    {
+      "assetId": 50038585.0,
+      "addressId": 53829960,
+      "polygonId": "53366386",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 3",
+      "dealDate": "2025-04-18",
+      "dealAmount": 500000,
+      "parcelNum": "1899-8-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-04-18",
+          "dealAmount": 470000
+        },
+        {
+          "dealDate": "2010-07-27",
+          "dealAmount": 230000
+        },
+        {
+          "dealDate": "2001-05-23",
+          "dealAmount": 136000
+        }
+      ],
+      "trend": {
+        "rate": 6.4,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 13514,
+      "row_id": 9
+    },
+    {
+      "assetId": 50073375.0,
+      "addressId": 53840250,
+      "polygonId": "52772603",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "מבצע קדש 4",
+      "dealDate": "2025-04-09",
+      "dealAmount": 1650000,
+      "parcelNum": "2479-8-7",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 92.8,
+      "yearBuilt": 1990,
+      "streetCode": 10310234,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17780,
+      "row_id": 10
+    },
+    {
+      "assetId": 50038843.0,
+      "addressId": 53753479,
+      "polygonId": "65272619",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 5",
+      "dealDate": "2025-04-06",
+      "dealAmount": 840000,
+      "parcelNum": "1899-23-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-08-15",
+          "dealAmount": 676700
+        },
+        {
+          "dealDate": "2013-01-20",
+          "dealAmount": 362000
+        },
+        {
+          "dealDate": "2004-08-08",
+          "dealAmount": 159000
+        }
+      ],
+      "trend": {
+        "rate": 24.1,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 22703,
+      "row_id": 11
+    },
+    {
+      "assetId": 50038765.0,
+      "addressId": 53815276,
+      "polygonId": "65272699",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 7",
+      "dealDate": "2025-03-30",
+      "dealAmount": 780000,
+      "parcelNum": "1899-18-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-06-20",
+          "dealAmount": 249000
+        }
+      ],
+      "trend": {
+        "rate": 213.3,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 21081,
+      "row_id": 12
+    },
+    {
+      "assetId": 50038677.0,
+      "addressId": 53814701,
+      "polygonId": "65272648",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 2",
+      "dealDate": "2025-03-12",
+      "dealAmount": 830000,
+      "parcelNum": "1899-14-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-11-08",
+          "dealAmount": 65000
+        }
+      ],
+      "trend": {
+        "rate": 1176.9,
+        "years": 18.4
+      },
+      "ownership": [],
+      "priceSM": 20244,
+      "row_id": 13
+    },
+    {
+      "assetId": 50038664.0,
+      "addressId": 53927720,
+      "polygonId": "65272861",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 4",
+      "dealDate": "2025-03-12",
+      "dealAmount": 850000,
+      "parcelNum": "1899-13-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-10-08",
+          "dealAmount": 660000
+        },
+        {
+          "dealDate": "2020-04-21",
+          "dealAmount": 625000
+        },
+        {
+          "dealDate": "2016-12-09",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2002-10-27",
+          "dealAmount": 199000
+        }
+      ],
+      "trend": {
+        "rate": 28.8,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 14
+    },
+    {
+      "assetId": 50038756.0,
+      "addressId": 53815276,
+      "polygonId": "65272699",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 7",
+      "dealDate": "2025-03-11",
+      "dealAmount": 640000,
+      "parcelNum": "1899-18-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17204,
+      "row_id": 15
+    },
+    {
+      "assetId": 50038921.0,
+      "addressId": 53796490,
+      "polygonId": "65272875",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 8",
+      "dealDate": "2025-01-30",
+      "dealAmount": 534000,
+      "parcelNum": "1899-29-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-02",
+          "dealAmount": 620000
+        },
+        {
+          "dealDate": "1999-06-21",
+          "dealAmount": 143000
+        }
+      ],
+      "trend": {
+        "rate": -13.9,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 14053,
+      "row_id": 16
+    },
+    {
+      "assetId": 50038922.0,
+      "addressId": 53796490,
+      "polygonId": "65272875",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 8",
+      "dealDate": "2025-01-13",
+      "dealAmount": 850000,
+      "parcelNum": "1899-29-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-01-02",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2012-12-12",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2003-04-06",
+          "dealAmount": 63000
+        }
+      ],
+      "trend": {
+        "rate": 70.0,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 22368,
+      "row_id": 17
+    },
+    {
+      "assetId": 50038720.0,
+      "addressId": 53829896,
+      "polygonId": "65272721",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 4",
+      "dealDate": "2025-01-12",
+      "dealAmount": 760000,
+      "parcelNum": "1899-16-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-10-17",
+          "dealAmount": 326000
+        }
+      ],
+      "trend": {
+        "rate": 133.1,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 20541,
+      "row_id": 18
+    },
+    {
+      "assetId": 50038645.0,
+      "addressId": 53913554,
+      "polygonId": "65272551",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 2",
+      "dealDate": "2024-12-25",
+      "dealAmount": 860000,
+      "parcelNum": "1899-12-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-09-07",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2009-09-24",
+          "dealAmount": 215000
+        }
+      ],
+      "trend": {
+        "rate": 50.9,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 10118,
+      "row_id": 19
+    },
+    {
+      "assetId": 50038848.0,
+      "addressId": 53753479,
+      "polygonId": "65272619",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 5",
+      "dealDate": "2024-10-10",
+      "dealAmount": 520000,
+      "parcelNum": "1899-23-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-04-03",
+          "dealAmount": 266000
+        },
+        {
+          "dealDate": "2009-10-15",
+          "dealAmount": 68000
+        }
+      ],
+      "trend": {
+        "rate": 95.5,
+        "years": 13.5
+      },
+      "ownership": [],
+      "priceSM": 14054,
+      "row_id": 20
+    },
+    {
+      "assetId": 50038886.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2024-08-04",
+      "dealAmount": 975000,
+      "parcelNum": "1899-26-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-12-31",
+          "dealAmount": 670000
+        },
+        {
+          "dealDate": "2016-12-09",
+          "dealAmount": 539000
+        }
+      ],
+      "trend": {
+        "rate": 45.5,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 21
+    },
+    {
+      "assetId": 50038838.0,
+      "addressId": 53753479,
+      "polygonId": "65272619",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 5",
+      "dealDate": "2024-06-13",
+      "dealAmount": 760000,
+      "parcelNum": "1899-23-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20106,
+      "row_id": 22
+    },
+    {
+      "assetId": 50038842.0,
+      "addressId": 53753479,
+      "polygonId": "65272619",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 5",
+      "dealDate": "2024-06-02",
+      "dealAmount": 780000,
+      "parcelNum": "1899-23-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20635,
+      "row_id": 23
+    },
+    {
+      "assetId": 50038945.0,
+      "addressId": 53821569,
+      "polygonId": "65272595",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 6",
+      "dealDate": "2024-01-24",
+      "dealAmount": 615000,
+      "parcelNum": "1899-30-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-01-31",
+          "dealAmount": 150000
+        },
+        {
+          "dealDate": "2000-12-12",
+          "dealAmount": 148000
+        }
+      ],
+      "trend": {
+        "rate": 310.0,
+        "years": 8.0
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 307500
+        },
+        {
+          "proportion": "50",
+          "price": 307500
+        }
+      ],
+      "priceSM": 16184,
+      "row_id": 24
+    },
+    {
+      "assetId": 50038873.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2023-07-25",
+      "dealAmount": 246000,
+      "parcelNum": "1899-26-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 87.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2828,
+      "row_id": 25
+    },
+    {
+      "assetId": 50080708.0,
+      "addressId": 53746998,
+      "polygonId": "65274012",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הצאלה 14",
+      "dealDate": "2023-07-10",
+      "dealAmount": 1540000,
+      "parcelNum": "2640-38-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 91.2,
+      "yearBuilt": 1980,
+      "streetCode": 10310105,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-04-16",
+          "dealAmount": 375000
+        }
+      ],
+      "trend": {
+        "rate": 310.7,
+        "years": 22.2
+      },
+      "ownership": [],
+      "priceSM": 16923,
+      "row_id": 26
+    },
+    {
+      "assetId": 50038578.0,
+      "addressId": 53829960,
+      "polygonId": "53366386",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 3",
+      "dealDate": "2023-06-25",
+      "dealAmount": 830000,
+      "parcelNum": "1899-8-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-01-01",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2014-02-03",
+          "dealAmount": 414000
+        },
+        {
+          "dealDate": "2010-05-27",
+          "dealAmount": 190000
+        }
+      ],
+      "trend": {
+        "rate": 38.3,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 22432,
+      "row_id": 27
+    },
+    {
+      "assetId": 50038860.0,
+      "addressId": 53757542,
+      "polygonId": "65272853",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 7",
+      "dealDate": "2023-05-22",
+      "dealAmount": 560000,
+      "parcelNum": "1899-24-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-04-18",
+          "dealAmount": 470000
+        },
+        {
+          "dealDate": "2001-08-05",
+          "dealAmount": 81000
+        }
+      ],
+      "trend": {
+        "rate": 19.1,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 15135,
+      "row_id": 28
+    },
+    {
+      "assetId": 50038672.0,
+      "addressId": 53927720,
+      "polygonId": "65272861",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 4",
+      "dealDate": "2023-05-07",
+      "dealAmount": 980000,
+      "parcelNum": "1899-13-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 75.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13067,
+      "row_id": 29
+    },
+    {
+      "assetId": 50038703.0,
+      "addressId": 53829896,
+      "polygonId": "65272721",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 4",
+      "dealDate": "2023-05-07",
+      "dealAmount": 369000,
+      "parcelNum": "1899-16-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9840,
+      "row_id": 30
+    },
+    {
+      "assetId": 50038758.0,
+      "addressId": 53815276,
+      "polygonId": "65272699",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 7",
+      "dealDate": "2023-05-04",
+      "dealAmount": 170000,
+      "parcelNum": "1899-18-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-03-13",
+          "dealAmount": 561000
+        },
+        {
+          "dealDate": "2012-07-15",
+          "dealAmount": 86000
+        }
+      ],
+      "trend": {
+        "rate": -69.7,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 4595,
+      "row_id": 31
+    },
+    {
+      "assetId": 50038936.0,
+      "addressId": 53821569,
+      "polygonId": "65272595",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 6",
+      "dealDate": "2023-03-28",
+      "dealAmount": 670000,
+      "parcelNum": "1899-30-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-06-23",
+          "dealAmount": 142000
+        }
+      ],
+      "trend": {
+        "rate": 371.8,
+        "years": 23.8
+      },
+      "ownership": [],
+      "priceSM": 17632,
+      "row_id": 32
+    },
+    {
+      "assetId": 50038565.0,
+      "addressId": 53927721,
+      "polygonId": "52608428",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אלון יגאל 6",
+      "dealDate": "2023-03-26",
+      "dealAmount": 243000,
+      "parcelNum": "1899-2-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 55.45,
+      "yearBuilt": 1960,
+      "streetCode": 10310165,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4382,
+      "row_id": 33
+    },
+    {
+      "assetId": 50038950.0,
+      "addressId": 53821569,
+      "polygonId": "65272595",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 6",
+      "dealDate": "2023-03-19",
+      "dealAmount": 204000,
+      "parcelNum": "1899-30-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5312,
+      "row_id": 34
+    },
+    {
+      "assetId": 50038731.0,
+      "addressId": 53815278,
+      "polygonId": "52641153",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 5",
+      "dealDate": "2023-03-19",
+      "dealAmount": 260000,
+      "parcelNum": "1899-17-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6989,
+      "row_id": 35
+    },
+    {
+      "assetId": 50038777.0,
+      "addressId": 53839854,
+      "polygonId": "65272553",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 10",
+      "dealDate": "2023-03-12",
+      "dealAmount": 740000,
+      "parcelNum": "1899-19-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19733,
+      "row_id": 36
+    },
+    {
+      "assetId": 50038767.0,
+      "addressId": 53815276,
+      "polygonId": "65272699",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 7",
+      "dealDate": "2023-02-19",
+      "dealAmount": 410000,
+      "parcelNum": "1899-18-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11022,
+      "row_id": 37
+    },
+    {
+      "assetId": 50080696.0,
+      "addressId": 53753843,
+      "polygonId": "65272594",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "ארזים 11",
+      "dealDate": "2023-02-19",
+      "dealAmount": 1040000,
+      "parcelNum": "2640-36-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 91.2,
+      "yearBuilt": 1980,
+      "streetCode": 10310259,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-04",
+          "dealAmount": 619000
+        }
+      ],
+      "trend": {
+        "rate": 68.0,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 11429,
+      "row_id": 38
+    },
+    {
+      "assetId": 4629425.0,
+      "addressId": 53813404,
+      "polygonId": "67829335",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הצנובר 8",
+      "dealDate": "2023-02-07",
+      "dealAmount": 600000,
+      "parcelNum": "1888-105-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 200.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310149,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3000,
+      "row_id": 39
+    },
+    {
+      "assetId": 4480024.0,
+      "addressId": 53821551,
+      "polygonId": "52861080",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 36",
+      "dealDate": "2023-02-01",
+      "dealAmount": 1000000,
+      "parcelNum": "1899-100-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 140.0,
+      "yearBuilt": 1970,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7143,
+      "row_id": 40
+    },
+    {
+      "assetId": 50038778.0,
+      "addressId": 53839854,
+      "polygonId": "65272553",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 10",
+      "dealDate": "2023-01-25",
+      "dealAmount": 500000,
+      "parcelNum": "1899-19-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-09-12",
+          "dealAmount": 430000
+        },
+        {
+          "dealDate": "2017-06-04",
+          "dealAmount": 375000
+        },
+        {
+          "dealDate": "2009-12-02",
+          "dealAmount": 120000
+        },
+        {
+          "dealDate": "2005-01-18",
+          "dealAmount": 87000
+        }
+      ],
+      "trend": {
+        "rate": 16.3,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 13514,
+      "row_id": 41
+    },
+    {
+      "assetId": 50038781.0,
+      "addressId": 53839854,
+      "polygonId": "65272553",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 10",
+      "dealDate": "2023-01-22",
+      "dealAmount": 411000,
+      "parcelNum": "1899-19-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10960,
+      "row_id": 42
+    },
+    {
+      "assetId": 50073337.0,
+      "addressId": 53814042,
+      "polygonId": "52581213",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "מבצע קדש 27",
+      "dealDate": "2023-01-11",
+      "dealAmount": 1505000,
+      "parcelNum": "2479-5-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 81.65,
+      "yearBuilt": 1990,
+      "streetCode": 10310234,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-08-30",
+          "dealAmount": 542000
+        }
+      ],
+      "trend": {
+        "rate": 177.7,
+        "years": 24.4
+      },
+      "ownership": [
+        {
+          "proportion": "20",
+          "price": 301000
+        },
+        {
+          "proportion": "20",
+          "price": 301000
+        },
+        {
+          "proportion": "20",
+          "price": 301000
+        },
+        {
+          "proportion": "20",
+          "price": 301000
+        },
+        {
+          "proportion": "20",
+          "price": 301000
+        }
+      ],
+      "priceSM": 18580,
+      "row_id": 43
+    },
+    {
+      "assetId": 50038817.0,
+      "addressId": 53747421,
+      "polygonId": "65272580",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 1",
+      "dealDate": "2023-01-08",
+      "dealAmount": 458000,
+      "parcelNum": "1899-20-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12116,
+      "row_id": 44
+    },
+    {
+      "assetId": 4517348.0,
+      "addressId": 53757565,
+      "polygonId": "53368067",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 2",
+      "dealDate": "2023-01-02",
+      "dealAmount": 403200,
+      "parcelNum": "1898-11-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 40.0,
+      "yearBuilt": 1970,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10080,
+      "row_id": 45
+    },
+    {
+      "assetId": 50038784.0,
+      "addressId": 53839854,
+      "polygonId": "65272553",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 10",
+      "dealDate": "2022-12-18",
+      "dealAmount": 174000,
+      "parcelNum": "1899-19-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4640,
+      "row_id": 46
+    },
+    {
+      "assetId": 50038651.0,
+      "addressId": 53913554,
+      "polygonId": "65272551",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 2",
+      "dealDate": "2022-12-15",
+      "dealAmount": 700000,
+      "parcelNum": "1899-12-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 85.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-01-22",
+          "dealAmount": 112000
+        }
+      ],
+      "trend": {
+        "rate": 525.0,
+        "years": 14.9
+      },
+      "ownership": [],
+      "priceSM": 8235,
+      "row_id": 48
+    },
+    {
+      "assetId": 50038669.0,
+      "addressId": 53927720,
+      "polygonId": "65272861",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 4",
+      "dealDate": "2022-12-08",
+      "dealAmount": 780000,
+      "parcelNum": "1899-13-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "רביעית",
+      "assetArea": 153.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5098,
+      "row_id": 49
+    },
+    {
+      "assetId": 50038623.0,
+      "addressId": 53753022,
+      "polygonId": "65274477",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יגאל אלון 10",
+      "dealDate": "2022-11-24",
+      "dealAmount": 357000,
+      "parcelNum": "1899-11-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 41.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310165,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8561,
+      "row_id": 50
+    },
+    {
+      "assetId": 50038783.0,
+      "addressId": 53839854,
+      "polygonId": "65272553",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 10",
+      "dealDate": "2022-11-03",
+      "dealAmount": 164000,
+      "parcelNum": "1899-19-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-07-10",
+          "dealAmount": 159000
+        }
+      ],
+      "trend": {
+        "rate": 3.1,
+        "years": 0.3
+      },
+      "ownership": [],
+      "priceSM": 4432,
+      "row_id": 51
+    },
+    {
+      "assetId": 50038836.0,
+      "addressId": 53753479,
+      "polygonId": "65272619",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 5",
+      "dealDate": "2022-09-13",
+      "dealAmount": 174000,
+      "parcelNum": "1899-23-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4603,
+      "row_id": 52
+    },
+    {
+      "assetId": 50038726.0,
+      "addressId": 53815278,
+      "polygonId": "52641153",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 5",
+      "dealDate": "2022-09-11",
+      "dealAmount": 780000,
+      "parcelNum": "1899-17-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-11-27",
+          "dealAmount": 510000
+        },
+        {
+          "dealDate": "2013-04-08",
+          "dealAmount": 345000
+        },
+        {
+          "dealDate": "2012-07-03",
+          "dealAmount": 170000
+        },
+        {
+          "dealDate": "1999-12-29",
+          "dealAmount": 211000
+        }
+      ],
+      "trend": {
+        "rate": 52.9,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 21081,
+      "row_id": 53
+    },
+    {
+      "assetId": 50038709.0,
+      "addressId": 53829896,
+      "polygonId": "65272721",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 4",
+      "dealDate": "2022-08-24",
+      "dealAmount": 600000,
+      "parcelNum": "1899-16-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-01-20",
+          "dealAmount": 173000
+        }
+      ],
+      "trend": {
+        "rate": 246.8,
+        "years": 0.6
+      },
+      "ownership": [],
+      "priceSM": 16216,
+      "row_id": 54
+    },
+    {
+      "assetId": 50038713.0,
+      "addressId": 53829896,
+      "polygonId": "65272721",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 4",
+      "dealDate": "2022-08-08",
+      "dealAmount": 640000,
+      "parcelNum": "1899-16-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17067,
+      "row_id": 55
+    },
+    {
+      "assetId": 50038665.0,
+      "addressId": 53927720,
+      "polygonId": "65272861",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 4",
+      "dealDate": "2022-08-02",
+      "dealAmount": 720000,
+      "parcelNum": "1899-13-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 51.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-10-27",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "1999-02-14",
+          "dealAmount": 243000
+        }
+      ],
+      "trend": {
+        "rate": 105.7,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 14118,
+      "row_id": 56
+    },
+    {
+      "assetId": 50038605.0,
+      "addressId": 53932416,
+      "polygonId": "65272716",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 2",
+      "dealDate": "2022-06-14",
+      "dealAmount": 580000,
+      "parcelNum": "1899-9-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15467,
+      "row_id": 57
+    },
+    {
+      "assetId": 50038454.0,
+      "addressId": 53823233,
+      "polygonId": "52754276",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הרצל 17",
+      "dealDate": "2022-05-29",
+      "dealAmount": 1050000,
+      "parcelNum": "1898-36-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 93.0,
+      "yearBuilt": 1980,
+      "streetCode": 10310158,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-09",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 162.5,
+        "years": 12.0
+      },
+      "ownership": [
+        {
+          "proportion": "48",
+          "price": 504000
+        },
+        {
+          "proportion": "52",
+          "price": 546000
+        }
+      ],
+      "priceSM": 11290,
+      "row_id": 58
+    },
+    {
+      "assetId": 50038952.0,
+      "addressId": 53821569,
+      "polygonId": "65272595",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 6",
+      "dealDate": "2022-05-08",
+      "dealAmount": 171000,
+      "parcelNum": "1899-30-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4453,
+      "row_id": 60
+    },
+    {
+      "assetId": 50038680.0,
+      "addressId": 53814701,
+      "polygonId": "65272648",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 2",
+      "dealDate": "2022-05-01",
+      "dealAmount": 131000,
+      "parcelNum": "1899-14-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 78.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1679,
+      "row_id": 61
+    },
+    {
+      "assetId": 50039038.0,
+      "addressId": 53757548,
+      "polygonId": "52710121",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "דולב 6",
+      "dealDate": "2022-04-13",
+      "dealAmount": 1100000,
+      "parcelNum": "1899-66-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 61.7,
+      "yearBuilt": 1980,
+      "streetCode": 10310266,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-10-28",
+          "dealAmount": 60000
+        }
+      ],
+      "trend": {
+        "rate": 1733.3,
+        "years": 19.5
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 275000
+        },
+        {
+          "proportion": "25",
+          "price": 275000
+        },
+        {
+          "proportion": "25",
+          "price": 275000
+        },
+        {
+          "proportion": "25",
+          "price": 275000
+        }
+      ],
+      "priceSM": 18033,
+      "row_id": 62
+    },
+    {
+      "assetId": 50038754.0,
+      "addressId": 53815276,
+      "polygonId": "65272699",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 7",
+      "dealDate": "2022-04-10",
+      "dealAmount": 735000,
+      "parcelNum": "1899-18-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19758,
+      "row_id": 63
+    },
+    {
+      "assetId": 50073342.0,
+      "addressId": 53814042,
+      "polygonId": "52581213",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "מבצע קדש 27",
+      "dealDate": "2022-03-30",
+      "dealAmount": 1465000,
+      "parcelNum": "2479-5-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 81.65,
+      "yearBuilt": 1990,
+      "streetCode": 10310234,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17942,
+      "row_id": 64
+    },
+    {
+      "assetId": 50038832.0,
+      "addressId": 53747422,
+      "polygonId": "65272767",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 3",
+      "dealDate": "2022-03-27",
+      "dealAmount": 640000,
+      "parcelNum": "1899-21-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-05-15",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2013-12-29",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2010-11-12",
+          "dealAmount": 277000
+        },
+        {
+          "dealDate": "2010-10-31",
+          "dealAmount": 230000
+        }
+      ],
+      "trend": {
+        "rate": 28.0,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 17297,
+      "row_id": 65
+    },
+    {
+      "assetId": 50038698.0,
+      "addressId": 53829896,
+      "polygonId": "65272721",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 4",
+      "dealDate": "2022-03-14",
+      "dealAmount": 665000,
+      "parcelNum": "1899-16-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17733,
+      "row_id": 66
+    },
+    {
+      "assetId": 50073328.0,
+      "addressId": 53813429,
+      "polygonId": "65273021",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "מבצע קדש 52",
+      "dealDate": "2022-02-21",
+      "dealAmount": 1000000,
+      "parcelNum": "2479-3-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.9,
+      "yearBuilt": 1960,
+      "streetCode": 10310234,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12516,
+      "row_id": 67
+    },
+    {
+      "assetId": 50038667.0,
+      "addressId": 53927720,
+      "polygonId": "65272861",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 4",
+      "dealDate": "2022-02-14",
+      "dealAmount": 635000,
+      "parcelNum": "1899-13-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8819,
+      "row_id": 68
+    },
+    {
+      "assetId": 50038635.0,
+      "addressId": 53753022,
+      "polygonId": "65274477",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יגאל אלון 10",
+      "dealDate": "2022-01-31",
+      "dealAmount": 640000,
+      "parcelNum": "1899-11-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 85.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310165,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7529,
+      "row_id": 69
+    },
+    {
+      "assetId": 50038909.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2021-12-22",
+      "dealAmount": 715000,
+      "parcelNum": "1899-26-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-10-24",
+          "dealAmount": 738000
+        },
+        {
+          "dealDate": "2016-09-18",
+          "dealAmount": 470000
+        }
+      ],
+      "trend": {
+        "rate": -3.1,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 11000,
+      "row_id": 70
+    },
+    {
+      "assetId": 50038905.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2021-11-21",
+      "dealAmount": 350000,
+      "parcelNum": "1899-26-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-11-11",
+          "dealAmount": 670000
+        },
+        {
+          "dealDate": "2015-03-07",
+          "dealAmount": 525000
+        },
+        {
+          "dealDate": "2011-09-13",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": -47.8,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 5385,
+      "row_id": 72
+    },
+    {
+      "assetId": 50038904.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2021-11-21",
+      "dealAmount": 730000,
+      "parcelNum": "1899-26-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-04-14",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2012-03-01",
+          "dealAmount": 120000
+        },
+        {
+          "dealDate": "2007-01-30",
+          "dealAmount": 114000
+        },
+        {
+          "dealDate": "2002-05-24",
+          "dealAmount": 206000
+        }
+      ],
+      "trend": {
+        "rate": 32.7,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 11231,
+      "row_id": 73
+    },
+    {
+      "assetId": 50038638.0,
+      "addressId": 53753022,
+      "polygonId": "65274477",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יגאל אלון 10",
+      "dealDate": "2021-11-15",
+      "dealAmount": 600000,
+      "parcelNum": "1899-11-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 75.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310165,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-03-27",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 81.8,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 8000,
+      "row_id": 74
+    },
+    {
+      "assetId": 50038603.0,
+      "addressId": 53932416,
+      "polygonId": "65272716",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 2",
+      "dealDate": "2021-10-31",
+      "dealAmount": 209000,
+      "parcelNum": "1899-9-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5573,
+      "row_id": 75
+    },
+    {
+      "assetId": 50038764.0,
+      "addressId": 53815276,
+      "polygonId": "65272699",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 7",
+      "dealDate": "2021-10-20",
+      "dealAmount": 590000,
+      "parcelNum": "1899-18-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15860,
+      "row_id": 76
+    },
+    {
+      "assetId": 50038753.0,
+      "addressId": 53815276,
+      "polygonId": "65272699",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 7",
+      "dealDate": "2021-10-03",
+      "dealAmount": 606000,
+      "parcelNum": "1899-18-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16290,
+      "row_id": 78
+    },
+    {
+      "assetId": 50038671.0,
+      "addressId": 53927720,
+      "polygonId": "65272861",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 4",
+      "dealDate": "2021-08-23",
+      "dealAmount": 595000,
+      "parcelNum": "1899-13-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 51.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-05-26",
+          "dealAmount": 152000
+        }
+      ],
+      "trend": {
+        "rate": 291.4,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 11667,
+      "row_id": 79
+    },
+    {
+      "assetId": 80304203.0,
+      "addressId": 53930697,
+      "polygonId": "52579808",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 11",
+      "dealDate": "2021-08-17",
+      "dealAmount": 1160000,
+      "parcelNum": "2479-25-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע, ראשונה",
+      "assetArea": 105.8,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-02-23",
+          "dealAmount": 800000
+        }
+      ],
+      "trend": {
+        "rate": 45.0,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 11048,
+      "row_id": 80
+    },
+    {
+      "assetId": 50038580.0,
+      "addressId": 53829960,
+      "polygonId": "53366386",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 3",
+      "dealDate": "2021-08-15",
+      "dealAmount": 610000,
+      "parcelNum": "1899-8-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16398,
+      "row_id": 81
+    },
+    {
+      "assetId": 50038797.0,
+      "addressId": 53839854,
+      "polygonId": "65272553",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 10",
+      "dealDate": "2021-08-04",
+      "dealAmount": 630000,
+      "parcelNum": "1899-19-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-04-19",
+          "dealAmount": 226000
+        },
+        {
+          "dealDate": "1999-05-23",
+          "dealAmount": 132000
+        }
+      ],
+      "trend": {
+        "rate": 178.8,
+        "years": 4.3
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 315000
+        },
+        {
+          "proportion": "50",
+          "price": 315000
+        }
+      ],
+      "priceSM": 17027,
+      "row_id": 82
+    },
+    {
+      "assetId": 50038659.0,
+      "addressId": 53927720,
+      "polygonId": "65272861",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 4",
+      "dealDate": "2021-07-25",
+      "dealAmount": 710000,
+      "parcelNum": "1899-13-3",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 85.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8353,
+      "row_id": 83
+    },
+    {
+      "assetId": 50038925.0,
+      "addressId": 53796490,
+      "polygonId": "65272875",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 8",
+      "dealDate": "2021-07-18",
+      "dealAmount": 289000,
+      "parcelNum": "1899-29-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7526,
+      "row_id": 84
+    },
+    {
+      "assetId": 50038927.0,
+      "addressId": 53796490,
+      "polygonId": "65272875",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 8",
+      "dealDate": "2021-07-04",
+      "dealAmount": 550000,
+      "parcelNum": "1899-29-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-12-12",
+          "dealAmount": 134000
+        }
+      ],
+      "trend": {
+        "rate": 310.4,
+        "years": 15.6
+      },
+      "ownership": [],
+      "priceSM": 14474,
+      "row_id": 85
+    },
+    {
+      "assetId": 50038888.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2021-06-29",
+      "dealAmount": 780000,
+      "parcelNum": "1899-26-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 100.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7800,
+      "row_id": 86
+    },
+    {
+      "assetId": 50038737.0,
+      "addressId": 53815278,
+      "polygonId": "52641153",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 5",
+      "dealDate": "2021-06-02",
+      "dealAmount": 650000,
+      "parcelNum": "1899-17-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-02-12",
+          "dealAmount": 590000
+        },
+        {
+          "dealDate": "2015-10-15",
+          "dealAmount": 445000
+        },
+        {
+          "dealDate": "2012-07-10",
+          "dealAmount": 295000
+        }
+      ],
+      "trend": {
+        "rate": 10.2,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 17568,
+      "row_id": 87
+    },
+    {
+      "assetId": 50038627.0,
+      "addressId": 53753022,
+      "polygonId": "65274477",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יגאל אלון 10",
+      "dealDate": "2021-05-04",
+      "dealAmount": 650000,
+      "parcelNum": "1899-11-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310165,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7647,
+      "row_id": 88
+    },
+    {
+      "assetId": 50038675.0,
+      "addressId": 53814701,
+      "polygonId": "65272648",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 2",
+      "dealDate": "2021-04-28",
+      "dealAmount": 570000,
+      "parcelNum": "1899-14-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 70.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8143,
+      "row_id": 89
+    },
+    {
+      "assetId": 50038929.0,
+      "addressId": 53796490,
+      "polygonId": "65272875",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 8",
+      "dealDate": "2021-03-23",
+      "dealAmount": 550000,
+      "parcelNum": "1899-29-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14323,
+      "row_id": 91
+    },
+    {
+      "assetId": 4473649.0,
+      "addressId": 53816939,
+      "polygonId": "52684466",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "ארזים 6",
+      "dealDate": "2021-03-03",
+      "dealAmount": 1620000,
+      "parcelNum": "2640-21-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 245.0,
+      "yearBuilt": 1980,
+      "streetCode": 10310259,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6612,
+      "row_id": 93
+    },
+    {
+      "assetId": 4471386.0,
+      "addressId": 53930954,
+      "polygonId": "52637881",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "האשל 1",
+      "dealDate": "2021-01-24",
+      "dealAmount": 1250000,
+      "parcelNum": "1899-99-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שניה",
+      "assetArea": 190.0,
+      "yearBuilt": 1950,
+      "streetCode": 10310101,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6579,
+      "row_id": 95
+    },
+    {
+      "assetId": 50038796.0,
+      "addressId": 53839854,
+      "polygonId": "65272553",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 10",
+      "dealDate": "2020-10-29",
+      "dealAmount": 159000,
+      "parcelNum": "1899-19-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4240,
+      "row_id": 96
+    },
+    {
+      "assetId": 50039110.0,
+      "addressId": 53814282,
+      "polygonId": "52644576",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "האשל 19",
+      "dealDate": "2020-10-14",
+      "dealAmount": 1440000,
+      "parcelNum": "1899-91-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 95.1,
+      "yearBuilt": 1960,
+      "streetCode": 10310101,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-10",
+          "dealAmount": 799000
+        }
+      ],
+      "trend": {
+        "rate": 80.2,
+        "years": 7.8
+      },
+      "ownership": [],
+      "priceSM": 15158,
+      "row_id": 97
+    },
+    {
+      "assetId": 50038844.0,
+      "addressId": 53753479,
+      "polygonId": "65272619",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 5",
+      "dealDate": "2020-09-06",
+      "dealAmount": 570000,
+      "parcelNum": "1899-23-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-04-22",
+          "dealAmount": 440000
+        },
+        {
+          "dealDate": "2012-12-06",
+          "dealAmount": 340000
+        }
+      ],
+      "trend": {
+        "rate": 29.5,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 15405,
+      "row_id": 98
+    },
+    {
+      "assetId": 50038948.0,
+      "addressId": 53821569,
+      "polygonId": "65272595",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 6",
+      "dealDate": "2020-08-27",
+      "dealAmount": 570000,
+      "parcelNum": "1899-30-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14844,
+      "row_id": 99
+    },
+    {
+      "assetId": 50038608.0,
+      "addressId": 53932416,
+      "polygonId": "65272716",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 2",
+      "dealDate": "2020-06-17",
+      "dealAmount": 505000,
+      "parcelNum": "1899-9-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-07-28",
+          "dealAmount": 145000
+        }
+      ],
+      "trend": {
+        "rate": 248.3,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 13649,
+      "row_id": 100
+    },
+    {
+      "assetId": 4474199.0,
+      "addressId": 53926290,
+      "polygonId": "52694930",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הצאלה 3",
+      "dealDate": "2020-03-16",
+      "dealAmount": 1830000,
+      "parcelNum": "2640-28-3",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 230.0,
+      "yearBuilt": 1980,
+      "streetCode": 10310105,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7957,
+      "row_id": 101
+    },
+    {
+      "assetId": 50038759.0,
+      "addressId": 53815276,
+      "polygonId": "65272699",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 7",
+      "dealDate": "2020-03-13",
+      "dealAmount": 562500,
+      "parcelNum": "1899-18-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-06",
+          "dealAmount": 83000
+        }
+      ],
+      "trend": {
+        "rate": 577.7,
+        "years": 7.8
+      },
+      "ownership": [
+        {
+          "proportion": "5",
+          "price": 28125
+        },
+        {
+          "proportion": "5",
+          "price": 28125
+        },
+        {
+          "proportion": "38",
+          "price": 213750
+        },
+        {
+          "proportion": "50",
+          "price": 281250
+        }
+      ],
+      "priceSM": 15203,
+      "row_id": 102
+    },
+    {
+      "assetId": 50038980.0,
+      "addressId": 53795607,
+      "polygonId": "53363611",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "האלה 24",
+      "dealDate": "2019-12-22",
+      "dealAmount": 950000,
+      "parcelNum": "1899-43-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.5,
+      "floor": "ראשונה",
+      "assetArea": 144.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310145,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6597,
+      "row_id": 103
+    },
+    {
+      "assetId": 50038647.0,
+      "addressId": 53913554,
+      "polygonId": "65272551",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 2",
+      "dealDate": "2019-11-27",
+      "dealAmount": 640000,
+      "parcelNum": "1899-12-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-16",
+          "dealAmount": 449000
+        },
+        {
+          "dealDate": "2003-07-02",
+          "dealAmount": 193000
+        }
+      ],
+      "trend": {
+        "rate": 42.5,
+        "years": 7.0
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 320000
+        },
+        {
+          "proportion": "50",
+          "price": 320000
+        }
+      ],
+      "priceSM": 7529,
+      "row_id": 104
+    },
+    {
+      "assetId": 50038708.0,
+      "addressId": 53829896,
+      "polygonId": "65272721",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 4",
+      "dealDate": "2019-11-06",
+      "dealAmount": 535000,
+      "parcelNum": "1899-16-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14267,
+      "row_id": 105
+    },
+    {
+      "assetId": 50038576.0,
+      "addressId": 53829960,
+      "polygonId": "53366386",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 3",
+      "dealDate": "2019-06-20",
+      "dealAmount": 225000,
+      "parcelNum": "1899-8-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6048,
+      "row_id": 108
+    },
+    {
+      "assetId": 50038718.0,
+      "addressId": 53829896,
+      "polygonId": "65272721",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 4",
+      "dealDate": "2019-05-28",
+      "dealAmount": 119000,
+      "parcelNum": "1899-16-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3173,
+      "row_id": 109
+    },
+    {
+      "assetId": 50073322.0,
+      "addressId": 53813429,
+      "polygonId": "65273021",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "מבצע קדש 52",
+      "dealDate": "2019-05-17",
+      "dealAmount": 1199000,
+      "parcelNum": "2479-3-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 115.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310234,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10426,
+      "row_id": 110
+    },
+    {
+      "assetId": 50038581.0,
+      "addressId": 53829960,
+      "polygonId": "53366386",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 3",
+      "dealDate": "2019-04-15",
+      "dealAmount": 650000,
+      "parcelNum": "1899-8-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-11-26",
+          "dealAmount": 980000
+        }
+      ],
+      "trend": {
+        "rate": -33.7,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 17568,
+      "row_id": 111
+    },
+    {
+      "assetId": 50038811.0,
+      "addressId": 53747421,
+      "polygonId": "65272580",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 1",
+      "dealDate": "2019-03-11",
+      "dealAmount": 215000,
+      "parcelNum": "1899-20-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-08-02",
+          "dealAmount": 95000
+        }
+      ],
+      "trend": {
+        "rate": 126.3,
+        "years": 11.6
+      },
+      "ownership": [],
+      "priceSM": 5811,
+      "row_id": 113
+    },
+    {
+      "assetId": 50038816.0,
+      "addressId": 53747421,
+      "polygonId": "65272580",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 1",
+      "dealDate": "2019-03-10",
+      "dealAmount": 151000,
+      "parcelNum": "1899-20-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3995,
+      "row_id": 114
+    },
+    {
+      "assetId": 50038609.0,
+      "addressId": 53932416,
+      "polygonId": "65272716",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 2",
+      "dealDate": "2019-01-30",
+      "dealAmount": 324000,
+      "parcelNum": "1899-9-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8640,
+      "row_id": 115
+    },
+    {
+      "assetId": 50038617.0,
+      "addressId": 53932416,
+      "polygonId": "65272716",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 2",
+      "dealDate": "2018-11-27",
+      "dealAmount": 194000,
+      "parcelNum": "1899-9-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 74.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2622,
+      "row_id": 116
+    },
+    {
+      "assetId": 50038733.0,
+      "addressId": 53815278,
+      "polygonId": "52641153",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 5",
+      "dealDate": "2018-11-25",
+      "dealAmount": 171000,
+      "parcelNum": "1899-17-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2111,
+      "row_id": 117
+    },
+    {
+      "assetId": 50038628.0,
+      "addressId": 53753022,
+      "polygonId": "65274477",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יגאל אלון 10",
+      "dealDate": "2018-10-14",
+      "dealAmount": 590000,
+      "parcelNum": "1899-11-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310165,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9077,
+      "row_id": 119
+    },
+    {
+      "assetId": 50038700.0,
+      "addressId": 53829896,
+      "polygonId": "65272721",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 4",
+      "dealDate": "2018-06-21",
+      "dealAmount": 278000,
+      "parcelNum": "1899-16-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7413,
+      "row_id": 123
+    },
+    {
+      "assetId": 50038857.0,
+      "addressId": 53757542,
+      "polygonId": "65272853",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 7",
+      "dealDate": "2018-06-21",
+      "dealAmount": 201000,
+      "parcelNum": "1899-24-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5317,
+      "row_id": 124
+    },
+    {
+      "assetId": 50038942.0,
+      "addressId": 53821569,
+      "polygonId": "65272595",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 6",
+      "dealDate": "2018-05-30",
+      "dealAmount": 550000,
+      "parcelNum": "1899-30-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14323,
+      "row_id": 125
+    },
+    {
+      "assetId": 50080688.0,
+      "addressId": 53754754,
+      "polygonId": "65272594",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "ארזים 1",
+      "dealDate": "2018-05-06",
+      "dealAmount": 1050000,
+      "parcelNum": "2640-35-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע ראשונה",
+      "assetArea": 141.4,
+      "yearBuilt": 1980,
+      "streetCode": 10310259,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7426,
+      "row_id": 126
+    },
+    {
+      "assetId": 50039077.0,
+      "addressId": 53821571,
+      "polygonId": "52791409",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "האשל 26",
+      "dealDate": "2018-04-26",
+      "dealAmount": 1450000,
+      "parcelNum": "1899-81-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 177.0,
+      "yearBuilt": 1970,
+      "streetCode": 10310101,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8192,
+      "row_id": 127
+    },
+    {
+      "assetId": 50038951.0,
+      "addressId": 53821569,
+      "polygonId": "65272595",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 6",
+      "dealDate": "2018-04-12",
+      "dealAmount": 530000,
+      "parcelNum": "1899-30-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-21",
+          "dealAmount": 123000
+        },
+        {
+          "dealDate": "2001-11-15",
+          "dealAmount": 190000
+        }
+      ],
+      "trend": {
+        "rate": 330.9,
+        "years": 8.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 265000
+        },
+        {
+          "proportion": "50",
+          "price": 265000
+        }
+      ],
+      "priceSM": 13947,
+      "row_id": 128
+    },
+    {
+      "assetId": 50038554.0,
+      "addressId": 53830495,
+      "polygonId": "52608428",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אלון יגאל 6",
+      "dealDate": "2018-03-20",
+      "dealAmount": 650000,
+      "parcelNum": "1899-2-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 55.45,
+      "yearBuilt": 1960,
+      "streetCode": 10310165,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-31",
+          "dealAmount": 390000
+        }
+      ],
+      "trend": {
+        "rate": 66.7,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 11818,
+      "row_id": 129
+    },
+    {
+      "assetId": 50080702.0,
+      "addressId": 53753849,
+      "polygonId": "65272594",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "ארזים 17",
+      "dealDate": "2018-01-28",
+      "dealAmount": 890000,
+      "parcelNum": "2640-37-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 91.2,
+      "yearBuilt": 1980,
+      "streetCode": 10310259,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-02",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 178.1,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 9780,
+      "row_id": 130
+    },
+    {
+      "assetId": 50038587.0,
+      "addressId": 53829960,
+      "polygonId": "53366386",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 3",
+      "dealDate": "2017-11-27",
+      "dealAmount": 534000,
+      "parcelNum": "1899-8-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-03-09",
+          "dealAmount": 465000
+        },
+        {
+          "dealDate": "2012-07-04",
+          "dealAmount": 310000
+        },
+        {
+          "dealDate": "1999-07-21",
+          "dealAmount": 167000
+        }
+      ],
+      "trend": {
+        "rate": 14.8,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 14432,
+      "row_id": 131
+    },
+    {
+      "assetId": 50038663.0,
+      "addressId": 53927720,
+      "polygonId": "65272861",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 4",
+      "dealDate": "2017-11-20",
+      "dealAmount": 570000,
+      "parcelNum": "1899-13-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 63.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9048,
+      "row_id": 132
+    },
+    {
+      "assetId": 4472928.0,
+      "addressId": 53753254,
+      "polygonId": "52665608",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "דולב 14",
+      "dealDate": "2017-07-17",
+      "dealAmount": 300000,
+      "parcelNum": "1899-64-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 148.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310266,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2027,
+      "row_id": 134
+    },
+    {
+      "assetId": 4472929.0,
+      "addressId": 53753254,
+      "polygonId": "52665608",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "דולב 14",
+      "dealDate": "2017-07-17",
+      "dealAmount": 299000,
+      "parcelNum": "1899-64-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 81.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310266,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3691,
+      "row_id": 135
+    },
+    {
+      "assetId": 50038575.0,
+      "addressId": 53829960,
+      "polygonId": "53366386",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 3",
+      "dealDate": "2017-05-23",
+      "dealAmount": 540000,
+      "parcelNum": "1899-8-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-06-02",
+          "dealAmount": 142000
+        }
+      ],
+      "trend": {
+        "rate": 280.3,
+        "years": 15.0
+      },
+      "ownership": [],
+      "priceSM": 14595,
+      "row_id": 136
+    },
+    {
+      "assetId": 50038907.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2017-05-22",
+      "dealAmount": 550000,
+      "parcelNum": "1899-26-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-09-04",
+          "dealAmount": 415000
+        },
+        {
+          "dealDate": "2002-11-25",
+          "dealAmount": 196000
+        }
+      ],
+      "trend": {
+        "rate": 32.5,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 8462,
+      "row_id": 137
+    },
+    {
+      "assetId": 50038640.0,
+      "addressId": 53913554,
+      "polygonId": "65272551",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 2",
+      "dealDate": "2017-04-09",
+      "dealAmount": 485000,
+      "parcelNum": "1899-12-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 41.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-04",
+          "dealAmount": 427000
+        },
+        {
+          "dealDate": "1999-11-08",
+          "dealAmount": 139000
+        }
+      ],
+      "trend": {
+        "rate": 13.6,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 11829,
+      "row_id": 138
+    },
+    {
+      "assetId": 80304199.0,
+      "addressId": 53933646,
+      "polygonId": "52714660",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 2",
+      "dealDate": "2017-01-17",
+      "dealAmount": 1099000,
+      "parcelNum": "2479-25-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע, ראשונה",
+      "assetArea": 105.8,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-02",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 119.8,
+        "years": 13.8
+      },
+      "ownership": [],
+      "priceSM": 10467,
+      "row_id": 139
+    },
+    {
+      "assetId": 50038560.0,
+      "addressId": 53813555,
+      "polygonId": "52608428",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אלון יגאל 6",
+      "dealDate": "2016-12-21",
+      "dealAmount": 825000,
+      "parcelNum": "1899-2-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שניה",
+      "assetArea": 112.35,
+      "yearBuilt": 1960,
+      "streetCode": 10310165,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7343,
+      "row_id": 140
+    },
+    {
+      "assetId": 50038911.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2016-12-18",
+      "dealAmount": 470000,
+      "parcelNum": "1899-26-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-23",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 42.4,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 7231,
+      "row_id": 141
+    },
+    {
+      "assetId": 50038897.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2016-12-14",
+      "dealAmount": 588000,
+      "parcelNum": "1899-26-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-03-21",
+          "dealAmount": 197000
+        }
+      ],
+      "trend": {
+        "rate": 198.5,
+        "years": 12.7
+      },
+      "ownership": [],
+      "priceSM": 9046,
+      "row_id": 142
+    },
+    {
+      "assetId": 50038752.0,
+      "addressId": 53815276,
+      "polygonId": "65272699",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 7",
+      "dealDate": "2016-11-29",
+      "dealAmount": 400000,
+      "parcelNum": "1899-18-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10753,
+      "row_id": 143
+    },
+    {
+      "assetId": 80304200.0,
+      "addressId": 53933646,
+      "polygonId": "52714660",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 2",
+      "dealDate": "2016-10-13",
+      "dealAmount": 990000,
+      "parcelNum": "2479-25-5",
+      "dealNature": "קוטג' טורי",
+      "roomNum": 5.0,
+      "floor": "קרקע, ראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-24",
+          "dealAmount": 855000
+        },
+        {
+          "dealDate": "2009-11-19",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2008-12-24",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "2001-10-10",
+          "dealAmount": 523000
+        }
+      ],
+      "trend": {
+        "rate": 15.8,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 9340,
+      "row_id": 144
+    },
+    {
+      "assetId": 50038600.0,
+      "addressId": 53932416,
+      "polygonId": "65272716",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 2",
+      "dealDate": "2016-09-15",
+      "dealAmount": 549000,
+      "parcelNum": "1899-9-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14640,
+      "row_id": 145
+    },
+    {
+      "assetId": 50038805.0,
+      "addressId": 53747421,
+      "polygonId": "65272580",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 1",
+      "dealDate": "2016-09-09",
+      "dealAmount": 374000,
+      "parcelNum": "1899-20-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9894,
+      "row_id": 146
+    },
+    {
+      "assetId": 80304206.0,
+      "addressId": 53822612,
+      "polygonId": "52579808",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 13",
+      "dealDate": "2016-08-01",
+      "dealAmount": 810000,
+      "parcelNum": "2479-25-11",
+      "dealNature": "דירת גן",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 75.6,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-06",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2002-08-01",
+          "dealAmount": 352000
+        }
+      ],
+      "trend": {
+        "rate": 102.5,
+        "years": 6.7
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 202500
+        },
+        {
+          "proportion": "25",
+          "price": 202500
+        },
+        {
+          "proportion": "25",
+          "price": 202500
+        },
+        {
+          "proportion": "25",
+          "price": 202500
+        }
+      ],
+      "priceSM": 10800,
+      "row_id": 147
+    },
+    {
+      "assetId": 50038896.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2016-07-03",
+      "dealAmount": 480000,
+      "parcelNum": "1899-26-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-13",
+          "dealAmount": 186000
+        }
+      ],
+      "trend": {
+        "rate": 158.1,
+        "years": 13.2
+      },
+      "ownership": [],
+      "priceSM": 7385,
+      "row_id": 148
+    },
+    {
+      "assetId": 4471385.0,
+      "addressId": 53930954,
+      "polygonId": "52637881",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "האשל 1",
+      "dealDate": "2016-06-23",
+      "dealAmount": 1500000,
+      "parcelNum": "1899-99-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 198.0,
+      "yearBuilt": 1950,
+      "streetCode": 10310101,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7576,
+      "row_id": 149
+    },
+    {
+      "assetId": 50038599.0,
+      "addressId": 53932416,
+      "polygonId": "65272716",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 2",
+      "dealDate": "2016-04-20",
+      "dealAmount": 403000,
+      "parcelNum": "1899-9-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-21",
+          "dealAmount": 132000
+        }
+      ],
+      "trend": {
+        "rate": 205.3,
+        "years": 16.3
+      },
+      "ownership": [],
+      "priceSM": 10892,
+      "row_id": 150
+    },
+    {
+      "assetId": 50038728.0,
+      "addressId": 53815278,
+      "polygonId": "52641153",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 5",
+      "dealDate": "2016-04-10",
+      "dealAmount": 580000,
+      "parcelNum": "1899-17-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-09-10",
+          "dealAmount": 58000
+        },
+        {
+          "dealDate": "2008-02-03",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 900.0,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 15676,
+      "row_id": 151
+    },
+    {
+      "assetId": 50038613.0,
+      "addressId": 53932416,
+      "polygonId": "65272716",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 2",
+      "dealDate": "2016-03-30",
+      "dealAmount": 400000,
+      "parcelNum": "1899-9-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-11-22",
+          "dealAmount": 245000
+        },
+        {
+          "dealDate": "2009-01-18",
+          "dealAmount": 100000
+        },
+        {
+          "dealDate": "2007-02-04",
+          "dealAmount": 91000
+        },
+        {
+          "dealDate": "1999-09-22",
+          "dealAmount": 148000
+        },
+        {
+          "dealDate": "1999-01-14",
+          "dealAmount": 129000
+        }
+      ],
+      "trend": {
+        "rate": 63.3,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 10811,
+      "row_id": 152
+    },
+    {
+      "assetId": 50038563.0,
+      "addressId": 53927721,
+      "polygonId": "52608428",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אלון יגאל 6",
+      "dealDate": "2016-03-11",
+      "dealAmount": 880000,
+      "parcelNum": "1899-2-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 112.35,
+      "yearBuilt": 1960,
+      "streetCode": 10310165,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-10",
+          "dealAmount": 140000
+        }
+      ],
+      "trend": {
+        "rate": 528.6,
+        "years": 16.4
+      },
+      "ownership": [],
+      "priceSM": 7857,
+      "row_id": 154
+    },
+    {
+      "assetId": 50039044.0,
+      "addressId": 53757547,
+      "polygonId": "53097590",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הנחלים 7",
+      "dealDate": "2016-01-21",
+      "dealAmount": 839000,
+      "parcelNum": "1899-68-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 83.1,
+      "yearBuilt": 1958,
+      "streetCode": 10310143,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-21",
+          "dealAmount": 630000
+        }
+      ],
+      "trend": {
+        "rate": 33.2,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 10108,
+      "row_id": 155
+    },
+    {
+      "assetId": 50038887.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2015-12-14",
+      "dealAmount": 440000,
+      "parcelNum": "1899-26-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6748,
+      "row_id": 156
+    },
+    {
+      "assetId": 50038815.0,
+      "addressId": 53747421,
+      "polygonId": "65272580",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 1",
+      "dealDate": "2015-09-29",
+      "dealAmount": 321000,
+      "parcelNum": "1899-20-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-05-11",
+          "dealAmount": 130000
+        }
+      ],
+      "trend": {
+        "rate": 146.9,
+        "years": 16.4
+      },
+      "ownership": [],
+      "priceSM": 8676,
+      "row_id": 157
+    },
+    {
+      "assetId": 50039039.0,
+      "addressId": 0,
+      "polygonId": "1899-67",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "0",
+      "dealDate": "2015-09-08",
+      "dealAmount": 989000,
+      "parcelNum": "1899-67-0",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 487.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-03-13",
+          "dealAmount": 666000
+        }
+      ],
+      "trend": {
+        "rate": 48.5,
+        "years": 2.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 494500
+        },
+        {
+          "proportion": "50",
+          "price": 494500
+        }
+      ],
+      "priceSM": 2031,
+      "row_id": 158
+    },
+    {
+      "assetId": 50038824.0,
+      "addressId": 53747422,
+      "polygonId": "65272767",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 3",
+      "dealDate": "2015-09-06",
+      "dealAmount": 450000,
+      "parcelNum": "1899-21-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11905,
+      "row_id": 159
+    },
+    {
+      "assetId": 50038735.0,
+      "addressId": 53815278,
+      "polygonId": "52641153",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 5",
+      "dealDate": "2015-09-02",
+      "dealAmount": 395000,
+      "parcelNum": "1899-17-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-05-10",
+          "dealAmount": 157000
+        }
+      ],
+      "trend": {
+        "rate": 151.6,
+        "years": 14.3
+      },
+      "ownership": [],
+      "priceSM": 10676,
+      "row_id": 160
+    },
+    {
+      "assetId": 50039068.0,
+      "addressId": 53934121,
+      "polygonId": "52620729",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הנחלים 41",
+      "dealDate": "2015-08-09",
+      "dealAmount": 93000,
+      "parcelNum": "1899-77-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.0,
+      "yearBuilt": 1980,
+      "streetCode": 10310143,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2514,
+      "row_id": 161
+    },
+    {
+      "assetId": 50038953.0,
+      "addressId": 53821569,
+      "polygonId": "65272595",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 6",
+      "dealDate": "2015-06-18",
+      "dealAmount": 300000,
+      "parcelNum": "1899-30-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-13",
+          "dealAmount": 149000
+        }
+      ],
+      "trend": {
+        "rate": 101.3,
+        "years": 15.7
+      },
+      "ownership": [],
+      "priceSM": 7895,
+      "row_id": 162
+    },
+    {
+      "assetId": 50038981.0,
+      "addressId": 53813235,
+      "polygonId": "53363611",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "האלה 22",
+      "dealDate": "2015-06-04",
+      "dealAmount": 1330000,
+      "parcelNum": "1899-43-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 180.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310145,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-04-24",
+          "dealAmount": 592000
+        },
+        {
+          "dealDate": "2002-09-11",
+          "dealAmount": 308000
+        },
+        {
+          "dealDate": "2002-02-12",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 124.7,
+        "years": 9.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 665000
+        },
+        {
+          "proportion": "50",
+          "price": 665000
+        }
+      ],
+      "priceSM": 7389,
+      "row_id": 163
+    },
+    {
+      "assetId": 50038878.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2015-03-02",
+      "dealAmount": 449000,
+      "parcelNum": "1899-26-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שניה",
+      "assetArea": 83.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5410,
+      "row_id": 164
+    },
+    {
+      "assetId": 50038982.0,
+      "addressId": 53795606,
+      "polygonId": "65273621",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הנחלים 5",
+      "dealDate": "2015-02-25",
+      "dealAmount": 401000,
+      "parcelNum": "1899-44-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 1980,
+      "streetCode": 10310143,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5012,
+      "row_id": 165
+    },
+    {
+      "assetId": 4474198.0,
+      "addressId": 53926290,
+      "polygonId": "52694930",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הצאלה 3",
+      "dealDate": "2015-01-20",
+      "dealAmount": 1600000,
+      "parcelNum": "2640-28-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 205.0,
+      "yearBuilt": 1980,
+      "streetCode": 10310105,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7805,
+      "row_id": 166
+    },
+    {
+      "assetId": 50038924.0,
+      "addressId": 53796490,
+      "polygonId": "65272875",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 8",
+      "dealDate": "2015-01-13",
+      "dealAmount": 152000,
+      "parcelNum": "1899-29-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3958,
+      "row_id": 167
+    },
+    {
+      "assetId": 50038447.0,
+      "addressId": 53831076,
+      "polygonId": "52898523",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הרצל 25",
+      "dealDate": "2014-12-14",
+      "dealAmount": 1000000,
+      "parcelNum": "1898-34-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 114.0,
+      "yearBuilt": 1900,
+      "streetCode": 10310158,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8772,
+      "row_id": 168
+    },
+    {
+      "assetId": 50038762.0,
+      "addressId": 53815276,
+      "polygonId": "65272699",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 7",
+      "dealDate": "2014-09-02",
+      "dealAmount": 399000,
+      "parcelNum": "1899-18-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10726,
+      "row_id": 171
+    },
+    {
+      "assetId": 50038880.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2014-05-26",
+      "dealAmount": 415000,
+      "parcelNum": "1899-26-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6365,
+      "row_id": 172
+    },
+    {
+      "assetId": 4516914.0,
+      "addressId": 53815807,
+      "polygonId": "53360017",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אורנים 6",
+      "dealDate": "2014-03-30",
+      "dealAmount": 1270000,
+      "parcelNum": "2640-9-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 197.0,
+      "yearBuilt": 1978,
+      "streetCode": 10310147,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6447,
+      "row_id": 173
+    },
+    {
+      "assetId": 50038727.0,
+      "addressId": 53815278,
+      "polygonId": "52641153",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 5",
+      "dealDate": "2014-01-01",
+      "dealAmount": 58000,
+      "parcelNum": "1899-17-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1559,
+      "row_id": 175
+    },
+    {
+      "assetId": 50038618.0,
+      "addressId": 53932416,
+      "polygonId": "65272716",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 2",
+      "dealDate": "2013-12-29",
+      "dealAmount": 310000,
+      "parcelNum": "1899-9-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-11-15",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 24.0,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 8378,
+      "row_id": 176
+    },
+    {
+      "assetId": 50038676.0,
+      "addressId": 53814701,
+      "polygonId": "65272648",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 2",
+      "dealDate": "2013-09-09",
+      "dealAmount": 400000,
+      "parcelNum": "1899-14-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 51.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7722,
+      "row_id": 177
+    },
+    {
+      "assetId": 50038885.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2013-07-14",
+      "dealAmount": 455000,
+      "parcelNum": "1899-26-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-06-22",
+          "dealAmount": 197000
+        }
+      ],
+      "trend": {
+        "rate": 131.0,
+        "years": 10.1
+      },
+      "ownership": [],
+      "priceSM": 7000,
+      "row_id": 178
+    },
+    {
+      "assetId": 50039152.0,
+      "addressId": 53828749,
+      "polygonId": "53098265",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יגאל אלון 18",
+      "dealDate": "2013-06-24",
+      "dealAmount": 770000,
+      "parcelNum": "1899-117-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 71.6,
+      "yearBuilt": 1970,
+      "streetCode": 10310165,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10754,
+      "row_id": 179
+    },
+    {
+      "assetId": 80304211.0,
+      "addressId": 53822612,
+      "polygonId": "52579808",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 13",
+      "dealDate": "2013-05-23",
+      "dealAmount": 550000,
+      "parcelNum": "2479-25-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 76.1,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-12-06",
+          "dealAmount": 321000
+        }
+      ],
+      "trend": {
+        "rate": 71.3,
+        "years": 12.5
+      },
+      "ownership": [],
+      "priceSM": 7237,
+      "row_id": 180
+    },
+    {
+      "assetId": 50073323.0,
+      "addressId": 53813429,
+      "polygonId": "65273021",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "מבצע קדש 52",
+      "dealDate": "2013-05-02",
+      "dealAmount": 760000,
+      "parcelNum": "2479-3-2",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 114.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310234,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6667,
+      "row_id": 181
+    },
+    {
+      "assetId": 50038687.0,
+      "addressId": 53814701,
+      "polygonId": "65272648",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 2",
+      "dealDate": "2013-05-02",
+      "dealAmount": 370000,
+      "parcelNum": "1899-14-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 65.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-22",
+          "dealAmount": 154000
+        },
+        {
+          "dealDate": "1998-12-20",
+          "dealAmount": 170000
+        }
+      ],
+      "trend": {
+        "rate": 140.3,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 5692,
+      "row_id": 182
+    },
+    {
+      "assetId": 50073332.0,
+      "addressId": 53813429,
+      "polygonId": "65273021",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "מבצע קדש 52",
+      "dealDate": "2013-03-24",
+      "dealAmount": 510000,
+      "parcelNum": "2479-3-11",
+      "dealNature": "קוטג' טורי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.9,
+      "yearBuilt": 1960,
+      "streetCode": 10310234,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6383,
+      "row_id": 183
+    },
+    {
+      "assetId": 50039062.0,
+      "addressId": 53830590,
+      "polygonId": "65273764",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הנחלים 35",
+      "dealDate": "2013-02-13",
+      "dealAmount": 845000,
+      "parcelNum": "1899-75-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 110.0,
+      "yearBuilt": 1956,
+      "streetCode": 10310143,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7682,
+      "row_id": 184
+    },
+    {
+      "assetId": 50080726.0,
+      "addressId": 53747063,
+      "polygonId": "65274227",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הצאלה 30",
+      "dealDate": "2013-01-17",
+      "dealAmount": 610000,
+      "parcelNum": "2640-41-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע ראשונה",
+      "assetArea": 140.0,
+      "yearBuilt": 1900,
+      "streetCode": 10310105,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4357,
+      "row_id": 185
+    },
+    {
+      "assetId": 4474200.0,
+      "addressId": 53926290,
+      "polygonId": "52694930",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הצאלה 3",
+      "dealDate": "2012-12-13",
+      "dealAmount": 1134000,
+      "parcelNum": "2640-28-1",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 250.0,
+      "yearBuilt": 1980,
+      "streetCode": 10310105,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4536,
+      "row_id": 186
+    },
+    {
+      "assetId": 50038934.0,
+      "addressId": 53796490,
+      "polygonId": "65272875",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 8",
+      "dealDate": "2012-11-22",
+      "dealAmount": 190000,
+      "parcelNum": "1899-29-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "רביעית",
+      "assetArea": 83.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2289,
+      "row_id": 187
+    },
+    {
+      "assetId": 50073344.0,
+      "addressId": 0,
+      "polygonId": "2479-6",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "0",
+      "dealDate": "2012-10-29",
+      "dealAmount": 950000,
+      "parcelNum": "2479-6-0",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 250.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-29",
+          "dealAmount": 700000
+        }
+      ],
+      "trend": {
+        "rate": 35.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 3800,
+      "row_id": 188
+    },
+    {
+      "assetId": 50038637.0,
+      "addressId": 53753022,
+      "polygonId": "65274477",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יגאל אלון 10",
+      "dealDate": "2012-09-21",
+      "dealAmount": 300000,
+      "parcelNum": "1899-11-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 65.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310165,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4615,
+      "row_id": 189
+    },
+    {
+      "assetId": 50038586.0,
+      "addressId": 53829960,
+      "polygonId": "53366386",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 3",
+      "dealDate": "2012-09-13",
+      "dealAmount": 270000,
+      "parcelNum": "1899-8-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7258,
+      "row_id": 190
+    },
+    {
+      "assetId": 50038682.0,
+      "addressId": 53814701,
+      "polygonId": "65272648",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 2",
+      "dealDate": "2012-07-09",
+      "dealAmount": 320000,
+      "parcelNum": "1899-14-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 51.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-04-22",
+          "dealAmount": 150000
+        },
+        {
+          "dealDate": "2002-12-12",
+          "dealAmount": 196000
+        }
+      ],
+      "trend": {
+        "rate": 113.3,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 6275,
+      "row_id": 191
+    },
+    {
+      "assetId": 50038721.0,
+      "addressId": 53829896,
+      "polygonId": "65272721",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אשור 4",
+      "dealDate": "2012-07-06",
+      "dealAmount": 247000,
+      "parcelNum": "1899-16-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310260,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-02-17",
+          "dealAmount": 100000
+        }
+      ],
+      "trend": {
+        "rate": 147.0,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 6676,
+      "row_id": 192
+    },
+    {
+      "assetId": 50038724.0,
+      "addressId": 53815278,
+      "polygonId": "52641153",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 5",
+      "dealDate": "2012-06-18",
+      "dealAmount": 140000,
+      "parcelNum": "1899-17-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3763,
+      "row_id": 193
+    },
+    {
+      "assetId": 50038809.0,
+      "addressId": 53747421,
+      "polygonId": "65272580",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 1",
+      "dealDate": "2012-04-08",
+      "dealAmount": 210000,
+      "parcelNum": "1899-20-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5556,
+      "row_id": 195
+    },
+    {
+      "assetId": 50038879.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2012-03-26",
+      "dealAmount": 390000,
+      "parcelNum": "1899-26-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 100.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3900,
+      "row_id": 196
+    },
+    {
+      "assetId": 50038652.0,
+      "addressId": 53913554,
+      "polygonId": "65272551",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 2",
+      "dealDate": "2011-09-08",
+      "dealAmount": 290000,
+      "parcelNum": "1899-12-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 51.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5598,
+      "row_id": 198
+    },
+    {
+      "assetId": 50038890.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2011-08-22",
+      "dealAmount": 305000,
+      "parcelNum": "1899-26-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 180.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1694,
+      "row_id": 199
+    },
+    {
+      "assetId": 4474910.0,
+      "addressId": 53815808,
+      "polygonId": "52714693",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אורנים 4",
+      "dealDate": "2011-07-06",
+      "dealAmount": 900000,
+      "parcelNum": "2640-10-1",
+      "dealNature": "בית בודד",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 280.0,
+      "yearBuilt": 1974,
+      "streetCode": 10310147,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3214,
+      "row_id": 201
+    },
+    {
+      "assetId": 50038825.0,
+      "addressId": 53747422,
+      "polygonId": "65272767",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "השיטה 3",
+      "dealDate": "2011-06-26",
+      "dealAmount": 430000,
+      "parcelNum": "1899-21-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 80.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310102,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5375,
+      "row_id": 202
+    },
+    {
+      "assetId": 50038654.0,
+      "addressId": 53913554,
+      "polygonId": "65272551",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 2",
+      "dealDate": "2011-06-22",
+      "dealAmount": 365000,
+      "parcelNum": "1899-12-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 51.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-06",
+          "dealAmount": 127000
+        }
+      ],
+      "trend": {
+        "rate": 187.4,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 7157,
+      "row_id": 203
+    },
+    {
+      "assetId": 50038876.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2011-06-20",
+      "dealAmount": 100000,
+      "parcelNum": "1899-26-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2415,
+      "row_id": 204
+    },
+    {
+      "assetId": 50038723.0,
+      "addressId": 53815278,
+      "polygonId": "52641153",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 5",
+      "dealDate": "2011-06-16",
+      "dealAmount": 200000,
+      "parcelNum": "1899-17-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5376,
+      "row_id": 205
+    },
+    {
+      "assetId": 50038653.0,
+      "addressId": 53913554,
+      "polygonId": "65272551",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 2",
+      "dealDate": "2011-02-24",
+      "dealAmount": 350000,
+      "parcelNum": "1899-12-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 51.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6757,
+      "row_id": 206
+    },
+    {
+      "assetId": 50039037.0,
+      "addressId": 53757548,
+      "polygonId": "52710121",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "דולב 6",
+      "dealDate": "2011-02-18",
+      "dealAmount": 410000,
+      "parcelNum": "1899-66-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 89.6,
+      "yearBuilt": 1980,
+      "streetCode": 10310266,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-02-13",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 17.1,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 4607,
+      "row_id": 207
+    },
+    {
+      "assetId": 4498061.0,
+      "addressId": 53814642,
+      "polygonId": "53168186",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "אורנים 14",
+      "dealDate": "2010-12-30",
+      "dealAmount": 950000,
+      "parcelNum": "2640-5-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 530.0,
+      "yearBuilt": 1979,
+      "streetCode": 10310147,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1792,
+      "row_id": 208
+    },
+    {
+      "assetId": 50039079.0,
+      "addressId": 53821570,
+      "polygonId": "52694421",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 18",
+      "dealDate": "2010-11-24",
+      "dealAmount": 665000,
+      "parcelNum": "1899-82-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 1978,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-05-02",
+          "dealAmount": 409000
+        }
+      ],
+      "trend": {
+        "rate": 62.6,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 5542,
+      "row_id": 209
+    },
+    {
+      "assetId": 50039046.0,
+      "addressId": 53795605,
+      "polygonId": "52662519",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הנחלים 9",
+      "dealDate": "2010-10-18",
+      "dealAmount": 680000,
+      "parcelNum": "1899-69-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 154.0,
+      "yearBuilt": 1958,
+      "streetCode": 10310143,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-02-14",
+          "dealAmount": 409000
+        }
+      ],
+      "trend": {
+        "rate": 66.3,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 4416,
+      "row_id": 210
+    },
+    {
+      "assetId": 50038898.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2010-10-12",
+      "dealAmount": 310000,
+      "parcelNum": "1899-26-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4755,
+      "row_id": 211
+    },
+    {
+      "assetId": 50038955.0,
+      "addressId": 53930115,
+      "polygonId": "53353496",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "האלה 2",
+      "dealDate": "2010-07-05",
+      "dealAmount": 500000,
+      "parcelNum": "1899-31-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1800,
+      "streetCode": 10310145,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 214
+    },
+    {
+      "assetId": 50038451.0,
+      "addressId": 53754737,
+      "polygonId": "52817654",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הרצל 21",
+      "dealDate": "2010-04-15",
+      "dealAmount": 470000,
+      "parcelNum": "1898-35-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע",
+      "assetArea": 86.0,
+      "yearBuilt": 1959,
+      "streetCode": 10310158,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5465,
+      "row_id": 215
+    },
+    {
+      "assetId": 50038573.0,
+      "addressId": 53829960,
+      "polygonId": "53366386",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "בן יהודה 3",
+      "dealDate": "2009-01-29",
+      "dealAmount": 124000,
+      "parcelNum": "1899-8-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310160,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3333,
+      "row_id": 216
+    },
+    {
+      "assetId": 50039101.0,
+      "addressId": 53932280,
+      "polygonId": "52673275",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הבנים 22",
+      "dealDate": "2008-03-10",
+      "dealAmount": 400000,
+      "parcelNum": "1899-89-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 170.0,
+      "yearBuilt": 1800,
+      "streetCode": 10310142,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2353,
+      "row_id": 217
+    },
+    {
+      "assetId": 50038906.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2007-10-21",
+      "dealAmount": 63000,
+      "parcelNum": "1899-26-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-09-30",
+          "dealAmount": 60000
+        }
+      ],
+      "trend": {
+        "rate": 5.0,
+        "years": 0.1
+      },
+      "ownership": [],
+      "priceSM": 969,
+      "row_id": 218
+    },
+    {
+      "assetId": 50038982.0,
+      "addressId": 53795606,
+      "polygonId": "65273621",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "הנחלים 5",
+      "dealDate": "2007-08-02",
+      "dealAmount": 109000,
+      "parcelNum": "1899-44-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.0,
+      "yearBuilt": 1800,
+      "streetCode": 10310143,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1677,
+      "row_id": 219
+    },
+    {
+      "assetId": 50038915.0,
+      "addressId": 0,
+      "polygonId": "65272844",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "האלה 1",
+      "dealDate": "2005-11-20",
+      "dealAmount": 615000,
+      "parcelNum": "1899-28-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 120.0,
+      "yearBuilt": 1981,
+      "streetCode": 10310145,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5125,
+      "row_id": 221
+    },
+    {
+      "assetId": 50038868.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2005-09-08",
+      "dealAmount": 104000,
+      "parcelNum": "1899-26-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2512,
+      "row_id": 222
+    },
+    {
+      "assetId": 50038866.0,
+      "addressId": 53912491,
+      "polygonId": "65274287",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "יערה 1",
+      "dealDate": "2005-05-31",
+      "dealAmount": 200000,
+      "parcelNum": "1899-26-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.4,
+      "yearBuilt": 1960,
+      "streetCode": 10310141,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4831,
+      "row_id": 223
+    },
+    {
+      "assetId": 80304202.0,
+      "addressId": 53930697,
+      "polygonId": "52579808",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 11",
+      "dealDate": "2003-09-05",
+      "dealAmount": 505000,
+      "parcelNum": "2479-25-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע, ראשונה",
+      "assetArea": 105.8,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4773,
+      "row_id": 225
+    },
+    {
+      "assetId": 80304204.0,
+      "addressId": 53930697,
+      "polygonId": "52579808",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 11",
+      "dealDate": "2003-05-29",
+      "dealAmount": 487000,
+      "parcelNum": "2479-25-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע, ראשונה",
+      "assetArea": 105.8,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4603,
+      "row_id": 226
+    },
+    {
+      "assetId": 80304201.0,
+      "addressId": 53930697,
+      "polygonId": "52579808",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 11",
+      "dealDate": "2002-10-17",
+      "dealAmount": 480000,
+      "parcelNum": "2479-25-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע, ראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4507,
+      "row_id": 227
+    },
+    {
+      "assetId": 80304205.0,
+      "addressId": 53930697,
+      "polygonId": "52579808",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 11",
+      "dealDate": "2002-09-22",
+      "dealAmount": 530000,
+      "parcelNum": "2479-25-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע, ראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4977,
+      "row_id": 228
+    },
+    {
+      "assetId": 80304208.0,
+      "addressId": 53822612,
+      "polygonId": "52579808",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 13",
+      "dealDate": "2002-03-07",
+      "dealAmount": 382000,
+      "parcelNum": "2479-25-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 73.4,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5204,
+      "row_id": 231
+    },
+    {
+      "assetId": 80304198.0,
+      "addressId": 53933646,
+      "polygonId": "52714660",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 2",
+      "dealDate": "2001-12-26",
+      "dealAmount": 491000,
+      "parcelNum": "2479-25-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע, ראשונה",
+      "assetArea": 105.8,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4641,
+      "row_id": 232
+    },
+    {
+      "assetId": 80304207.0,
+      "addressId": 53822612,
+      "polygonId": "52579808",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 13",
+      "dealDate": "2001-07-16",
+      "dealAmount": 333000,
+      "parcelNum": "2479-25-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 77.05,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4322,
+      "row_id": 233
+    },
+    {
+      "assetId": 80304210.0,
+      "addressId": 53822612,
+      "polygonId": "52579808",
+      "neighborhoodName": "נאות הדקל",
+      "neighborhoodId": 65209918,
+      "address": "נוגה 13",
+      "dealDate": "2001-03-22",
+      "dealAmount": 308000,
+      "parcelNum": "2479-25-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 77.5,
+      "yearBuilt": 2002,
+      "streetCode": 10310236,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3974,
+      "row_id": 234
+    }
+  ]
+}

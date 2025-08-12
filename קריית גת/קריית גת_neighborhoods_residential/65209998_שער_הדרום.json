@@ -1,0 +1,5743 @@
+{
+  "neighborhood_name": "שער הדרום",
+  "city_name": "קריית גת",
+  "transaction_count": 184,
+  "transactions": [
+    {
+      "assetId": 50094417.0,
+      "addressId": 53852360,
+      "polygonId": "52716196",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 182",
+      "dealDate": "2025-06-19",
+      "dealAmount": 1370000,
+      "parcelNum": "3021-128-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-08-08",
+          "dealAmount": 980000
+        },
+        {
+          "dealDate": "2012-06-03",
+          "dealAmount": 735000
+        }
+      ],
+      "trend": {
+        "rate": 39.8,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 19028,
+      "row_id": 1
+    },
+    {
+      "assetId": 50094411.0,
+      "addressId": 53852360,
+      "polygonId": "52716196",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 182",
+      "dealDate": "2025-06-10",
+      "dealAmount": 1200000,
+      "parcelNum": "3021-128-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18519,
+      "row_id": 2
+    },
+    {
+      "assetId": 50094415.0,
+      "addressId": 53852360,
+      "polygonId": "52716196",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 182",
+      "dealDate": "2025-04-10",
+      "dealAmount": 1240000,
+      "parcelNum": "3021-128-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19136,
+      "row_id": 3
+    },
+    {
+      "assetId": 50094405.0,
+      "addressId": 53852360,
+      "polygonId": "52716196",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 182",
+      "dealDate": "2025-04-02",
+      "dealAmount": 1245000,
+      "parcelNum": "3021-128-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-09-20",
+          "dealAmount": 880000
+        },
+        {
+          "dealDate": "2008-07-14",
+          "dealAmount": 440000
+        }
+      ],
+      "trend": {
+        "rate": 41.5,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 17292,
+      "row_id": 4
+    },
+    {
+      "assetId": 50094123.0,
+      "addressId": 53493939,
+      "polygonId": "52627913",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין הבשור 21",
+      "dealDate": "2025-03-17",
+      "dealAmount": 2850000,
+      "parcelNum": "3021-25-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 117.4,
+      "yearBuilt": 1991,
+      "streetCode": 26300378,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24276,
+      "row_id": 5
+    },
+    {
+      "assetId": 50019918.0,
+      "addressId": 53485968,
+      "polygonId": "65694050",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "רותם 9",
+      "dealDate": "2025-03-11",
+      "dealAmount": 1070000,
+      "parcelNum": "1499-184-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.0,
+      "yearBuilt": 1995,
+      "streetCode": 26300537,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16719,
+      "row_id": 6
+    },
+    {
+      "assetId": 50094448.0,
+      "addressId": 53853820,
+      "polygonId": "52609057",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 186",
+      "dealDate": "2025-02-13",
+      "dealAmount": 1460000,
+      "parcelNum": "3021-128-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.9,
+      "yearBuilt": 1991,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-03-30",
+          "dealAmount": 1200000
+        }
+      ],
+      "trend": {
+        "rate": 21.7,
+        "years": 1.9
+      },
+      "ownership": [],
+      "priceSM": 20278,
+      "row_id": 7
+    },
+    {
+      "assetId": 50094574.0,
+      "addressId": 53496942,
+      "polygonId": "52769868",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 215",
+      "dealDate": "2024-12-23",
+      "dealAmount": 1120000,
+      "parcelNum": "3021-129-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-02-12",
+          "dealAmount": 839000
+        },
+        {
+          "dealDate": "2015-11-19",
+          "dealAmount": 674000
+        },
+        {
+          "dealDate": "2008-05-11",
+          "dealAmount": 289000
+        }
+      ],
+      "trend": {
+        "rate": 33.5,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 17500,
+      "row_id": 8
+    },
+    {
+      "assetId": 50094983.0,
+      "addressId": 53497683,
+      "polygonId": "52681472",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "צפע 7",
+      "dealDate": "2024-11-28",
+      "dealAmount": 1620000,
+      "parcelNum": "3022-94-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 58.6,
+      "yearBuilt": 1985,
+      "streetCode": 26300534,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27645,
+      "row_id": 9
+    },
+    {
+      "assetId": 50094584.0,
+      "addressId": 53500569,
+      "polygonId": "52679571",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 213",
+      "dealDate": "2024-11-26",
+      "dealAmount": 1140000,
+      "parcelNum": "3021-129-73",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-02-11",
+          "dealAmount": 770000
+        },
+        {
+          "dealDate": "2013-06-27",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 48.1,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 17812,
+      "row_id": 10
+    },
+    {
+      "assetId": 50095086.0,
+      "addressId": 53488009,
+      "polygonId": "52596312",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ממשית 9",
+      "dealDate": "2024-11-24",
+      "dealAmount": 2600000,
+      "parcelNum": "3022-122-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 129.0,
+      "yearBuilt": 1990,
+      "streetCode": 26300475,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20155,
+      "row_id": 11
+    },
+    {
+      "assetId": 50094896.0,
+      "addressId": 53497415,
+      "polygonId": "52719829",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עבדת 12",
+      "dealDate": "2024-11-18",
+      "dealAmount": 619000,
+      "parcelNum": "3022-71-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1990,
+      "streetCode": 26300526,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-07-23",
+          "dealAmount": 800000
+        }
+      ],
+      "trend": {
+        "rate": -22.6,
+        "years": 5.3
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 204270
+        },
+        {
+          "proportion": "33",
+          "price": 204270
+        },
+        {
+          "proportion": "33",
+          "price": 204270
+        }
+      ],
+      "priceSM": 10492,
+      "row_id": 12
+    },
+    {
+      "assetId": 50094611.0,
+      "addressId": 53500871,
+      "polygonId": "52741804",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 211",
+      "dealDate": "2024-08-14",
+      "dealAmount": 1090000,
+      "parcelNum": "3021-129-100",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-07-20",
+          "dealAmount": 930000
+        }
+      ],
+      "trend": {
+        "rate": 17.2,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 17031,
+      "row_id": 13
+    },
+    {
+      "assetId": 50094593.0,
+      "addressId": 53500569,
+      "polygonId": "52679571",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 213",
+      "dealDate": "2024-07-11",
+      "dealAmount": 1050000,
+      "parcelNum": "3021-129-82",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-09-15",
+          "dealAmount": 675000
+        }
+      ],
+      "trend": {
+        "rate": 55.6,
+        "years": 9.8
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 525000
+        },
+        {
+          "proportion": "50",
+          "price": 525000
+        }
+      ],
+      "priceSM": 16406,
+      "row_id": 14
+    },
+    {
+      "assetId": 50094591.0,
+      "addressId": 53500569,
+      "polygonId": "52679571",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 213",
+      "dealDate": "2024-07-09",
+      "dealAmount": 1300000,
+      "parcelNum": "3021-129-80",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-02",
+          "dealAmount": 750000
+        }
+      ],
+      "trend": {
+        "rate": 73.3,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 18056,
+      "row_id": 15
+    },
+    {
+      "assetId": 50094748.0,
+      "addressId": 53494440,
+      "polygonId": "52731882",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שיזפון 2",
+      "dealDate": "2024-06-17",
+      "dealAmount": 825000,
+      "parcelNum": "3022-34-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1990,
+      "streetCode": 26300516,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-15",
+          "dealAmount": 1400000
+        },
+        {
+          "dealDate": "2010-06-02",
+          "dealAmount": 369000
+        }
+      ],
+      "trend": {
+        "rate": -41.1,
+        "years": 2.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 412500
+        },
+        {
+          "proportion": "50",
+          "price": 412500
+        }
+      ],
+      "priceSM": 13983,
+      "row_id": 16
+    },
+    {
+      "assetId": 50095066.0,
+      "addressId": 53498050,
+      "polygonId": "52596872",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שבטה 24",
+      "dealDate": "2024-05-09",
+      "dealAmount": 410000,
+      "parcelNum": "3022-117-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 42.4,
+      "yearBuilt": 1991,
+      "streetCode": 26300179,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9670,
+      "row_id": 17
+    },
+    {
+      "assetId": 50094497.0,
+      "addressId": 53500551,
+      "polygonId": "53372873",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 190",
+      "dealDate": "2024-04-11",
+      "dealAmount": 1290000,
+      "parcelNum": "3021-128-98",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-07-05",
+          "dealAmount": 950000
+        },
+        {
+          "dealDate": "2008-07-28",
+          "dealAmount": 540000
+        }
+      ],
+      "trend": {
+        "rate": 35.8,
+        "years": 6.8
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 645000
+        },
+        {
+          "proportion": "50",
+          "price": 645000
+        }
+      ],
+      "priceSM": 17917,
+      "row_id": 18
+    },
+    {
+      "assetId": 50094426.0,
+      "addressId": 53501882,
+      "polygonId": "52755190",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 184",
+      "dealDate": "2024-02-01",
+      "dealAmount": 178000,
+      "parcelNum": "3021-128-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2442,
+      "row_id": 19
+    },
+    {
+      "assetId": 50094650.0,
+      "addressId": 53494071,
+      "polygonId": "52727228",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "צופר 13",
+      "dealDate": "2024-01-04",
+      "dealAmount": 1720000,
+      "parcelNum": "3022-8-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1990,
+      "streetCode": 26300510,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-01-13",
+          "dealAmount": 540000
+        }
+      ],
+      "trend": {
+        "rate": 218.5,
+        "years": 18.0
+      },
+      "ownership": [
+        {
+          "proportion": "20",
+          "price": 344000
+        },
+        {
+          "proportion": "20",
+          "price": 344000
+        },
+        {
+          "proportion": "20",
+          "price": 344000
+        },
+        {
+          "proportion": "20",
+          "price": 344000
+        },
+        {
+          "proportion": "20",
+          "price": 344000
+        }
+      ],
+      "priceSM": 29153,
+      "row_id": 20
+    },
+    {
+      "assetId": 50095114.0,
+      "addressId": 53496422,
+      "polygonId": "52688505",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ממשית 23",
+      "dealDate": "2024-01-03",
+      "dealAmount": 1750000,
+      "parcelNum": "3022-129-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 42.2,
+      "yearBuilt": 1992,
+      "streetCode": 26300475,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 41469,
+      "row_id": 21
+    },
+    {
+      "assetId": 50094564.0,
+      "addressId": 53496942,
+      "polygonId": "52769868",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 215",
+      "dealDate": "2023-12-26",
+      "dealAmount": 1250000,
+      "parcelNum": "3021-129-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-01-19",
+          "dealAmount": 920000
+        },
+        {
+          "dealDate": "2013-06-12",
+          "dealAmount": 700000
+        },
+        {
+          "dealDate": "2003-01-12",
+          "dealAmount": 375000
+        }
+      ],
+      "trend": {
+        "rate": 35.9,
+        "years": 1.9
+      },
+      "ownership": [],
+      "priceSM": 17361,
+      "row_id": 22
+    },
+    {
+      "assetId": 50094562.0,
+      "addressId": 53496942,
+      "polygonId": "52769868",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 215",
+      "dealDate": "2023-10-03",
+      "dealAmount": 1000000,
+      "parcelNum": "3021-129-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15432,
+      "row_id": 23
+    },
+    {
+      "assetId": 50094521.0,
+      "addressId": 53853784,
+      "polygonId": "52720348",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 219",
+      "dealDate": "2023-07-06",
+      "dealAmount": 1310000,
+      "parcelNum": "3021-129-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-08-10",
+          "dealAmount": 260000
+        }
+      ],
+      "trend": {
+        "rate": 403.8,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 18194,
+      "row_id": 24
+    },
+    {
+      "assetId": 50094498.0,
+      "addressId": 53500551,
+      "polygonId": "53372873",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 190",
+      "dealDate": "2023-06-12",
+      "dealAmount": 1120000,
+      "parcelNum": "3021-128-99",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-10-17",
+          "dealAmount": 765000
+        },
+        {
+          "dealDate": "2016-11-14",
+          "dealAmount": 780000
+        }
+      ],
+      "trend": {
+        "rate": 46.4,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 17500,
+      "row_id": 25
+    },
+    {
+      "assetId": 50094600.0,
+      "addressId": 53500871,
+      "polygonId": "52741804",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 211",
+      "dealDate": "2023-06-04",
+      "dealAmount": 870000,
+      "parcelNum": "3021-129-89",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 43.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-06-02",
+          "dealAmount": 740000
+        }
+      ],
+      "trend": {
+        "rate": 17.6,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 20233,
+      "row_id": 26
+    },
+    {
+      "assetId": 50094197.0,
+      "addressId": 53487754,
+      "polygonId": "52761642",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "פארן 8",
+      "dealDate": "2023-01-29",
+      "dealAmount": 1810000,
+      "parcelNum": "3021-45-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 41.8,
+      "yearBuilt": 1990,
+      "streetCode": 26300509,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 43301,
+      "row_id": 27
+    },
+    {
+      "assetId": 50094613.0,
+      "addressId": 53500871,
+      "polygonId": "52741804",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 211",
+      "dealDate": "2022-12-19",
+      "dealAmount": 1100000,
+      "parcelNum": "3021-129-102",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-07-21",
+          "dealAmount": 690000
+        }
+      ],
+      "trend": {
+        "rate": 59.4,
+        "years": 11.4
+      },
+      "ownership": [],
+      "priceSM": 15278,
+      "row_id": 28
+    },
+    {
+      "assetId": 50094535.0,
+      "addressId": 53501880,
+      "polygonId": "52740679",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 217",
+      "dealDate": "2022-11-27",
+      "dealAmount": 820000,
+      "parcelNum": "3021-129-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 43.9,
+      "yearBuilt": 1980,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18679,
+      "row_id": 30
+    },
+    {
+      "assetId": 50094752.0,
+      "addressId": 53493539,
+      "polygonId": "52726307",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שיזפון 4",
+      "dealDate": "2022-09-18",
+      "dealAmount": 1800000,
+      "parcelNum": "3022-35-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1990,
+      "streetCode": 26300516,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-03-11",
+          "dealAmount": 1278000
+        }
+      ],
+      "trend": {
+        "rate": 40.8,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 30508,
+      "row_id": 31
+    },
+    {
+      "assetId": 50094408.0,
+      "addressId": 53852360,
+      "polygonId": "52716196",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 182",
+      "dealDate": "2022-09-18",
+      "dealAmount": 666000,
+      "parcelNum": "3021-128-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9136,
+      "row_id": 32
+    },
+    {
+      "assetId": 50094554.0,
+      "addressId": 53501880,
+      "polygonId": "52740679",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 217",
+      "dealDate": "2022-09-16",
+      "dealAmount": 1250000,
+      "parcelNum": "3021-129-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 72.9,
+      "yearBuilt": 1980,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-06",
+          "dealAmount": 765000
+        },
+        {
+          "dealDate": "2014-06-03",
+          "dealAmount": 614000
+        },
+        {
+          "dealDate": "2010-06-03",
+          "dealAmount": 515000
+        }
+      ],
+      "trend": {
+        "rate": 63.4,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 17361,
+      "row_id": 33
+    },
+    {
+      "assetId": 50094904.0,
+      "addressId": 53852781,
+      "polygonId": "53180153",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עבדת 16",
+      "dealDate": "2022-08-24",
+      "dealAmount": 2260000,
+      "parcelNum": "3022-73-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 99.3,
+      "yearBuilt": 1991,
+      "streetCode": 26300526,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22759,
+      "row_id": 34
+    },
+    {
+      "assetId": 50094580.0,
+      "addressId": 53500569,
+      "polygonId": "52679571",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 213",
+      "dealDate": "2022-08-09",
+      "dealAmount": 950000,
+      "parcelNum": "3021-129-69",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14660,
+      "row_id": 35
+    },
+    {
+      "assetId": 50094120.0,
+      "addressId": 53495719,
+      "polygonId": "52680559",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין עברונה 5",
+      "dealDate": "2022-07-31",
+      "dealAmount": 145000,
+      "parcelNum": "3021-24-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 41.6,
+      "yearBuilt": 1991,
+      "streetCode": 26300382,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-04-23",
+          "dealAmount": 375000
+        }
+      ],
+      "trend": {
+        "rate": -61.3,
+        "years": 24.3
+      },
+      "ownership": [],
+      "priceSM": 3537,
+      "row_id": 36
+    },
+    {
+      "assetId": 50094295.0,
+      "addressId": 53499621,
+      "polygonId": "53367412",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין צוקים 14",
+      "dealDate": "2022-07-28",
+      "dealAmount": 1800000,
+      "parcelNum": "3021-71-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 41.8,
+      "yearBuilt": 1970,
+      "streetCode": 26300503,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 43062,
+      "row_id": 37
+    },
+    {
+      "assetId": 50094908.0,
+      "addressId": 53496754,
+      "polygonId": "53180153",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עבדת 19",
+      "dealDate": "2022-07-14",
+      "dealAmount": 2180000,
+      "parcelNum": "3022-74-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע + ראשונה",
+      "assetArea": 143.4,
+      "yearBuilt": 1991,
+      "streetCode": 26300526,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15202,
+      "row_id": 38
+    },
+    {
+      "assetId": 50094343.0,
+      "addressId": 53495235,
+      "polygonId": "52732273",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין צוקים 18",
+      "dealDate": "2022-03-28",
+      "dealAmount": 2310000,
+      "parcelNum": "3021-83-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 113.4,
+      "yearBuilt": 1980,
+      "streetCode": 26300503,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-03-12",
+          "dealAmount": 464000
+        },
+        {
+          "dealDate": "2001-03-21",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 397.8,
+        "years": 18.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 1155000
+        },
+        {
+          "proportion": "50",
+          "price": 1155000
+        }
+      ],
+      "priceSM": 20442,
+      "row_id": 39
+    },
+    {
+      "assetId": 50094259.0,
+      "addressId": 53488008,
+      "polygonId": "52757118",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין מור 24",
+      "dealDate": "2022-03-13",
+      "dealAmount": 2175000,
+      "parcelNum": "3021-62-1",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 116.7,
+      "yearBuilt": 1992,
+      "streetCode": 26300386,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18638,
+      "row_id": 40
+    },
+    {
+      "assetId": 50094717.0,
+      "addressId": 53804943,
+      "polygonId": "52741806",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "קטורה 8",
+      "dealDate": "2022-03-09",
+      "dealAmount": 1640000,
+      "parcelNum": "3022-26-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 101.0,
+      "yearBuilt": 1991,
+      "streetCode": 26300514,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16238,
+      "row_id": 41
+    },
+    {
+      "assetId": 50094418.0,
+      "addressId": 53852360,
+      "polygonId": "52716196",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 182",
+      "dealDate": "2022-03-09",
+      "dealAmount": 875000,
+      "parcelNum": "3021-128-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-11-01",
+          "dealAmount": 690000
+        }
+      ],
+      "trend": {
+        "rate": 26.8,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 13672,
+      "row_id": 42
+    },
+    {
+      "assetId": 50094606.0,
+      "addressId": 53500871,
+      "polygonId": "52741804",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 211",
+      "dealDate": "2022-03-03",
+      "dealAmount": 860000,
+      "parcelNum": "3021-129-95",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-11-03",
+          "dealAmount": 840000
+        },
+        {
+          "dealDate": "2011-04-28",
+          "dealAmount": 570000
+        }
+      ],
+      "trend": {
+        "rate": 2.4,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 13438,
+      "row_id": 43
+    },
+    {
+      "assetId": 50095077.0,
+      "addressId": 53497086,
+      "polygonId": "52759856",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ממשית 4",
+      "dealDate": "2022-02-15",
+      "dealAmount": 1400000,
+      "parcelNum": "3022-120-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 42.2,
+      "yearBuilt": 1991,
+      "streetCode": 26300475,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-12-02",
+          "dealAmount": 410000
+        }
+      ],
+      "trend": {
+        "rate": 241.5,
+        "years": 20.2
+      },
+      "ownership": [],
+      "priceSM": 33333,
+      "row_id": 44
+    },
+    {
+      "assetId": 50094307.0,
+      "addressId": 53486306,
+      "polygonId": "53097689",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין בוקק 12",
+      "dealDate": "2022-02-14",
+      "dealAmount": 2115000,
+      "parcelNum": "3021-74-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 114.9,
+      "yearBuilt": 1991,
+      "streetCode": 26300380,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-12-07",
+          "dealAmount": 1735000
+        }
+      ],
+      "trend": {
+        "rate": 21.9,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 18553,
+      "row_id": 45
+    },
+    {
+      "assetId": 50094609.0,
+      "addressId": 53500871,
+      "polygonId": "52741804",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 211",
+      "dealDate": "2022-02-06",
+      "dealAmount": 945000,
+      "parcelNum": "3021-129-98",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-09",
+          "dealAmount": 684000
+        }
+      ],
+      "trend": {
+        "rate": 38.2,
+        "years": 9.8
+      },
+      "ownership": [],
+      "priceSM": 13125,
+      "row_id": 46
+    },
+    {
+      "assetId": 4475140.0,
+      "addressId": 53491879,
+      "polygonId": "52722149",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ימין 28",
+      "dealDate": "2022-01-23",
+      "dealAmount": 2260000,
+      "parcelNum": "1499-166-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 148.0,
+      "yearBuilt": 1970,
+      "streetCode": 26300520,
+      "settlmentID": 2630,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15270,
+      "row_id": 47
+    },
+    {
+      "assetId": 50095190.0,
+      "addressId": 53494072,
+      "polygonId": "52679990",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "תמנע 13",
+      "dealDate": "2021-12-07",
+      "dealAmount": 2170000,
+      "parcelNum": "3022-149-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 144.1,
+      "yearBuilt": 1991,
+      "streetCode": 26300388,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-07-22",
+          "dealAmount": 1660000
+        }
+      ],
+      "trend": {
+        "rate": 30.7,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 15069,
+      "row_id": 49
+    },
+    {
+      "assetId": 50094509.0,
+      "addressId": 53852360,
+      "polygonId": "52716196",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 182",
+      "dealDate": "2021-11-22",
+      "dealAmount": 900000,
+      "parcelNum": "3021-128-111",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 97.0,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9278,
+      "row_id": 50
+    },
+    {
+      "assetId": 50095137.0,
+      "addressId": 53497362,
+      "polygonId": "52719268",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "יהל 11",
+      "dealDate": "2021-11-15",
+      "dealAmount": 1945000,
+      "parcelNum": "3022-135-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 117.0,
+      "yearBuilt": 1990,
+      "streetCode": 26300389,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-18",
+          "dealAmount": 887000
+        }
+      ],
+      "trend": {
+        "rate": 119.3,
+        "years": 8.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 972500
+        },
+        {
+          "proportion": "50",
+          "price": 972500
+        }
+      ],
+      "priceSM": 16624,
+      "row_id": 51
+    },
+    {
+      "assetId": 50094155.0,
+      "addressId": 53808927,
+      "polygonId": "52594492",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין הבשור 15",
+      "dealDate": "2021-11-08",
+      "dealAmount": 1820000,
+      "parcelNum": "3021-33-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 117.6,
+      "yearBuilt": 1990,
+      "streetCode": 26300378,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-08-11",
+          "dealAmount": 1250000
+        }
+      ],
+      "trend": {
+        "rate": 45.6,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 15556,
+      "row_id": 52
+    },
+    {
+      "assetId": 50094594.0,
+      "addressId": 53500569,
+      "polygonId": "52679571",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 213",
+      "dealDate": "2021-08-17",
+      "dealAmount": 810000,
+      "parcelNum": "3021-129-83",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11111,
+      "row_id": 53
+    },
+    {
+      "assetId": 50094419.0,
+      "addressId": 53852360,
+      "polygonId": "52716196",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 182",
+      "dealDate": "2021-07-21",
+      "dealAmount": 900000,
+      "parcelNum": "3021-128-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-11-01",
+          "dealAmount": 540000
+        }
+      ],
+      "trend": {
+        "rate": 66.7,
+        "years": 8.7
+      },
+      "ownership": [],
+      "priceSM": 14062,
+      "row_id": 54
+    },
+    {
+      "assetId": 50094576.0,
+      "addressId": 53496942,
+      "polygonId": "52769868",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 215",
+      "dealDate": "2021-07-21",
+      "dealAmount": 815000,
+      "parcelNum": "3021-129-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11180,
+      "row_id": 55
+    },
+    {
+      "assetId": 50094409.0,
+      "addressId": 53852360,
+      "polygonId": "52716196",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 182",
+      "dealDate": "2021-07-21",
+      "dealAmount": 1030000,
+      "parcelNum": "3021-128-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-01-07",
+          "dealAmount": 735000
+        }
+      ],
+      "trend": {
+        "rate": 40.1,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 14306,
+      "row_id": 56
+    },
+    {
+      "assetId": 50094721.0,
+      "addressId": 53500555,
+      "polygonId": "52734253",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "באר אורה 14",
+      "dealDate": "2021-07-08",
+      "dealAmount": 1510000,
+      "parcelNum": "3022-27-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 124.7,
+      "yearBuilt": 1990,
+      "streetCode": 26300513,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12109,
+      "row_id": 57
+    },
+    {
+      "assetId": 50094720.0,
+      "addressId": 53500555,
+      "polygonId": "52734253",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "באר אורה 14",
+      "dealDate": "2021-07-01",
+      "dealAmount": 1500000,
+      "parcelNum": "3022-27-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 124.7,
+      "yearBuilt": 1990,
+      "streetCode": 26300513,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12029,
+      "row_id": 58
+    },
+    {
+      "assetId": 50094119.0,
+      "addressId": 53495766,
+      "polygonId": "52680559",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין עברונה 4",
+      "dealDate": "2021-06-24",
+      "dealAmount": 1900000,
+      "parcelNum": "3021-24-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 118.1,
+      "yearBuilt": 1991,
+      "streetCode": 26300382,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16088,
+      "row_id": 59
+    },
+    {
+      "assetId": 50094621.0,
+      "addressId": 53500871,
+      "polygonId": "52741804",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 211",
+      "dealDate": "2021-05-12",
+      "dealAmount": 810000,
+      "parcelNum": "3021-129-110",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 72.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-29",
+          "dealAmount": 750000
+        }
+      ],
+      "trend": {
+        "rate": 8.0,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 11250,
+      "row_id": 60
+    },
+    {
+      "assetId": 50094569.0,
+      "addressId": 53496942,
+      "polygonId": "52769868",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 215",
+      "dealDate": "2021-05-12",
+      "dealAmount": 196000,
+      "parcelNum": "3021-129-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2689,
+      "row_id": 61
+    },
+    {
+      "assetId": 50094460.0,
+      "addressId": 53853820,
+      "polygonId": "52609057",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 186",
+      "dealDate": "2021-05-10",
+      "dealAmount": 930000,
+      "parcelNum": "3021-128-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.9,
+      "yearBuilt": 1991,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-28",
+          "dealAmount": 770000
+        },
+        {
+          "dealDate": "2010-12-27",
+          "dealAmount": 610000
+        }
+      ],
+      "trend": {
+        "rate": 20.8,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 12917,
+      "row_id": 62
+    },
+    {
+      "assetId": 50094658.0,
+      "addressId": 53486622,
+      "polygonId": "52679504",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "צופר 17",
+      "dealDate": "2021-04-01",
+      "dealAmount": 1680000,
+      "parcelNum": "3022-10-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 99.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300510,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16817,
+      "row_id": 63
+    },
+    {
+      "assetId": 50094949.0,
+      "addressId": 53498662,
+      "polygonId": "53099555",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ניצנה 19",
+      "dealDate": "2021-03-22",
+      "dealAmount": 1395000,
+      "parcelNum": "3022-85-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 69.4,
+      "yearBuilt": 1990,
+      "streetCode": 26300531,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-06",
+          "dealAmount": 1255000
+        }
+      ],
+      "trend": {
+        "rate": 11.2,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 20217,
+      "row_id": 64
+    },
+    {
+      "assetId": 50094713.0,
+      "addressId": 53804944,
+      "polygonId": "52722228",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "קטורה 6",
+      "dealDate": "2021-03-21",
+      "dealAmount": 1655000,
+      "parcelNum": "3022-25-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 124.7,
+      "yearBuilt": 1990,
+      "streetCode": 26300514,
+      "settlmentID": 2630,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13272,
+      "row_id": 65
+    },
+    {
+      "assetId": 50095000.0,
+      "addressId": 53499964,
+      "polygonId": "52718872",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "האלמוגים 8",
+      "dealDate": "2021-02-23",
+      "dealAmount": 1920000,
+      "parcelNum": "3022-99-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 118.9,
+      "yearBuilt": 1990,
+      "streetCode": 26300533,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16148,
+      "row_id": 66
+    },
+    {
+      "assetId": 50095049.0,
+      "addressId": 53497815,
+      "polygonId": "52733295",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שבטה 15",
+      "dealDate": "2021-02-22",
+      "dealAmount": 1800000,
+      "parcelNum": "3022-112-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 116.1,
+      "yearBuilt": 1970,
+      "streetCode": 26300179,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-10-21",
+          "dealAmount": 1525000
+        },
+        {
+          "dealDate": "2011-12-22",
+          "dealAmount": 750000
+        }
+      ],
+      "trend": {
+        "rate": 18.0,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 15517,
+      "row_id": 67
+    },
+    {
+      "assetId": 50094457.0,
+      "addressId": 53853820,
+      "polygonId": "52609057",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 186",
+      "dealDate": "2021-02-09",
+      "dealAmount": 830000,
+      "parcelNum": "3021-128-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.9,
+      "yearBuilt": 1991,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-09-09",
+          "dealAmount": 800000
+        }
+      ],
+      "trend": {
+        "rate": 3.8,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 11528,
+      "row_id": 68
+    },
+    {
+      "assetId": 50094556.0,
+      "addressId": 53496942,
+      "polygonId": "52769868",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 215",
+      "dealDate": "2021-02-03",
+      "dealAmount": 680000,
+      "parcelNum": "3021-129-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 43.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15490,
+      "row_id": 69
+    },
+    {
+      "assetId": 50095211.0,
+      "addressId": 53493106,
+      "polygonId": "52723221",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "תמנע 22",
+      "dealDate": "2020-12-17",
+      "dealAmount": 1300000,
+      "parcelNum": "3022-154-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 42.4,
+      "yearBuilt": 1991,
+      "streetCode": 26300388,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30660,
+      "row_id": 70
+    },
+    {
+      "assetId": 50094816.0,
+      "addressId": 53486676,
+      "polygonId": "52740672",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "גרופית 14",
+      "dealDate": "2020-10-24",
+      "dealAmount": 400000,
+      "parcelNum": "3022-51-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1992,
+      "streetCode": 26300536,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6780,
+      "row_id": 71
+    },
+    {
+      "assetId": 50095070.0,
+      "addressId": 53500489,
+      "polygonId": "52772239",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שבטה 26",
+      "dealDate": "2020-08-30",
+      "dealAmount": 1570000,
+      "parcelNum": "3022-118-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 136.7,
+      "yearBuilt": 1990,
+      "streetCode": 26300179,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-02-17",
+          "dealAmount": 1760000
+        }
+      ],
+      "trend": {
+        "rate": -10.8,
+        "years": 4.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 785000
+        },
+        {
+          "proportion": "50",
+          "price": 785000
+        }
+      ],
+      "priceSM": 11544,
+      "row_id": 72
+    },
+    {
+      "assetId": 50094502.0,
+      "addressId": 53500551,
+      "polygonId": "53372873",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 190",
+      "dealDate": "2020-08-12",
+      "dealAmount": 800000,
+      "parcelNum": "3021-128-103",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12346,
+      "row_id": 73
+    },
+    {
+      "assetId": 50095020.0,
+      "addressId": 53851250,
+      "polygonId": "52719312",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "האלמוגים 18",
+      "dealDate": "2020-08-06",
+      "dealAmount": 1870000,
+      "parcelNum": "3022-105-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 122.6,
+      "yearBuilt": 1990,
+      "streetCode": 26300533,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-01-14",
+          "dealAmount": 1100000
+        },
+        {
+          "dealDate": "2004-03-03",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "1998-05-13",
+          "dealAmount": 407000
+        }
+      ],
+      "trend": {
+        "rate": 70.0,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 15328,
+      "row_id": 74
+    },
+    {
+      "assetId": 50094884.0,
+      "addressId": 53496904,
+      "polygonId": "52719864",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עבדת 6",
+      "dealDate": "2020-06-23",
+      "dealAmount": 1350000,
+      "parcelNum": "3022-68-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1950,
+      "streetCode": 26300526,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-06-19",
+          "dealAmount": 1085000
+        },
+        {
+          "dealDate": "2001-06-22",
+          "dealAmount": 459000
+        }
+      ],
+      "trend": {
+        "rate": 24.4,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 22881,
+      "row_id": 75
+    },
+    {
+      "assetId": 50094550.0,
+      "addressId": 53501880,
+      "polygonId": "52740679",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 217",
+      "dealDate": "2020-06-10",
+      "dealAmount": 462000,
+      "parcelNum": "3021-129-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.9,
+      "yearBuilt": 1980,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6337,
+      "row_id": 76
+    },
+    {
+      "assetId": 50095207.0,
+      "addressId": 53493715,
+      "polygonId": "53371328",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "תמנע 24",
+      "dealDate": "2020-05-21",
+      "dealAmount": 1260000,
+      "parcelNum": "3022-153-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 42.2,
+      "yearBuilt": 1990,
+      "streetCode": 26300388,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29858,
+      "row_id": 77
+    },
+    {
+      "assetId": 50095021.0,
+      "addressId": 53851250,
+      "polygonId": "52719312",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "האלמוגים 18",
+      "dealDate": "2020-05-12",
+      "dealAmount": 1196000,
+      "parcelNum": "3022-105-2",
+      "dealNature": "בית בודד",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1990,
+      "streetCode": 26300533,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19834,
+      "row_id": 78
+    },
+    {
+      "assetId": 50094655.0,
+      "addressId": 53493035,
+      "polygonId": "52727228",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "צופר 16",
+      "dealDate": "2020-02-11",
+      "dealAmount": 1100000,
+      "parcelNum": "3022-9-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1990,
+      "streetCode": 26300510,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-03-01",
+          "dealAmount": 498000
+        },
+        {
+          "dealDate": "2004-03-08",
+          "dealAmount": 540000
+        }
+      ],
+      "trend": {
+        "rate": 120.9,
+        "years": 14.0
+      },
+      "ownership": [],
+      "priceSM": 18644,
+      "row_id": 79
+    },
+    {
+      "assetId": 50094905.0,
+      "addressId": 53852781,
+      "polygonId": "53180153",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עבדת 16",
+      "dealDate": "2020-02-05",
+      "dealAmount": 1640000,
+      "parcelNum": "3022-73-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 100.9,
+      "yearBuilt": 1991,
+      "streetCode": 26300526,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-09-30",
+          "dealAmount": 1400000
+        },
+        {
+          "dealDate": "2002-01-14",
+          "dealAmount": 493000
+        }
+      ],
+      "trend": {
+        "rate": 17.1,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 16400,
+      "row_id": 80
+    },
+    {
+      "assetId": 50095194.0,
+      "addressId": 53500532,
+      "polygonId": "52681386",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "תמנע 15",
+      "dealDate": "2020-01-26",
+      "dealAmount": 1910000,
+      "parcelNum": "3022-150-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 144.9,
+      "yearBuilt": 1990,
+      "streetCode": 26300388,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-22",
+          "dealAmount": 1350000
+        },
+        {
+          "dealDate": "2001-07-13",
+          "dealAmount": 587000
+        }
+      ],
+      "trend": {
+        "rate": 41.5,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 13264,
+      "row_id": 81
+    },
+    {
+      "assetId": 50094578.0,
+      "addressId": 53500569,
+      "polygonId": "52679571",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 213",
+      "dealDate": "2019-12-08",
+      "dealAmount": 650000,
+      "parcelNum": "3021-129-67",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 43.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14806,
+      "row_id": 82
+    },
+    {
+      "assetId": 50094469.0,
+      "addressId": 53852360,
+      "polygonId": "52716196",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 182",
+      "dealDate": "2019-10-03",
+      "dealAmount": 745000,
+      "parcelNum": "3021-128-70",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-06-12",
+          "dealAmount": 226000
+        }
+      ],
+      "trend": {
+        "rate": 229.6,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 11641,
+      "row_id": 83
+    },
+    {
+      "assetId": 50094347.0,
+      "addressId": 53850562,
+      "polygonId": "52772976",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין בוקק 14",
+      "dealDate": "2019-09-25",
+      "dealAmount": 1600000,
+      "parcelNum": "3021-84-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 95.5,
+      "yearBuilt": 1990,
+      "streetCode": 26300380,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16754,
+      "row_id": 84
+    },
+    {
+      "assetId": 50094256.0,
+      "addressId": 53852986,
+      "polygonId": "53107539",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין מור 2",
+      "dealDate": "2019-09-18",
+      "dealAmount": 1500000,
+      "parcelNum": "3021-61-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 97.3,
+      "yearBuilt": 1990,
+      "streetCode": 26300386,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15416,
+      "row_id": 85
+    },
+    {
+      "assetId": 50094530.0,
+      "addressId": 53853784,
+      "polygonId": "52720348",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 219",
+      "dealDate": "2019-09-17",
+      "dealAmount": 650000,
+      "parcelNum": "3021-129-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1991,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10031,
+      "row_id": 86
+    },
+    {
+      "assetId": 50094757.0,
+      "addressId": 53804941,
+      "polygonId": "52680839",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שיזפון 7",
+      "dealDate": "2019-08-28",
+      "dealAmount": 1210000,
+      "parcelNum": "3022-36-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1985,
+      "streetCode": 26300516,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-02",
+          "dealAmount": 930000
+        }
+      ],
+      "trend": {
+        "rate": 30.1,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 20508,
+      "row_id": 87
+    },
+    {
+      "assetId": 50094995.0,
+      "addressId": 53499614,
+      "polygonId": "52722216",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "צפע 5",
+      "dealDate": "2019-07-25",
+      "dealAmount": 1170000,
+      "parcelNum": "3022-98-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1992,
+      "streetCode": 26300534,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19403,
+      "row_id": 88
+    },
+    {
+      "assetId": 50095118.0,
+      "addressId": 53497361,
+      "polygonId": "52685189",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ממשית 24",
+      "dealDate": "2019-07-02",
+      "dealAmount": 1755000,
+      "parcelNum": "3022-130-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 118.0,
+      "yearBuilt": 1995,
+      "streetCode": 26300475,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-03-08",
+          "dealAmount": 472000
+        }
+      ],
+      "trend": {
+        "rate": 271.8,
+        "years": 12.3
+      },
+      "ownership": [],
+      "priceSM": 14873,
+      "row_id": 89
+    },
+    {
+      "assetId": 50095016.0,
+      "addressId": 53485957,
+      "polygonId": "52617653",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "האלמוגים 16",
+      "dealDate": "2019-03-10",
+      "dealAmount": 1900000,
+      "parcelNum": "3022-104-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1990,
+      "streetCode": 26300533,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-03-04",
+          "dealAmount": 520000
+        }
+      ],
+      "trend": {
+        "rate": 265.4,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 31667,
+      "row_id": 90
+    },
+    {
+      "assetId": 50094423.0,
+      "addressId": 53501882,
+      "polygonId": "52755190",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 184",
+      "dealDate": "2019-03-05",
+      "dealAmount": 333000,
+      "parcelNum": "3021-128-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 43.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7585,
+      "row_id": 91
+    },
+    {
+      "assetId": 50094954.0,
+      "addressId": 53498664,
+      "polygonId": "52739761",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ניצנה 22",
+      "dealDate": "2019-01-14",
+      "dealAmount": 1150000,
+      "parcelNum": "3022-86-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1993,
+      "streetCode": 26300531,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19071,
+      "row_id": 92
+    },
+    {
+      "assetId": 50094571.0,
+      "addressId": 53496942,
+      "polygonId": "52769868",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 215",
+      "dealDate": "2018-12-21",
+      "dealAmount": 770000,
+      "parcelNum": "3021-129-60",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11883,
+      "row_id": 93
+    },
+    {
+      "assetId": 50094478.0,
+      "addressId": 53497359,
+      "polygonId": "52674235",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 188",
+      "dealDate": "2018-12-05",
+      "dealAmount": 870000,
+      "parcelNum": "3021-128-79",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11934,
+      "row_id": 94
+    },
+    {
+      "assetId": 50094447.0,
+      "addressId": 53853820,
+      "polygonId": "52609057",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 186",
+      "dealDate": "2018-11-15",
+      "dealAmount": 411000,
+      "parcelNum": "3021-128-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1991,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6343,
+      "row_id": 95
+    },
+    {
+      "assetId": 50094477.0,
+      "addressId": 53497359,
+      "polygonId": "52674235",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 188",
+      "dealDate": "2018-11-01",
+      "dealAmount": 810000,
+      "parcelNum": "3021-128-78",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 96
+    },
+    {
+      "assetId": 50095203.0,
+      "addressId": 53477987,
+      "polygonId": "52596313",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "תמנע 20",
+      "dealDate": "2018-10-29",
+      "dealAmount": 1750000,
+      "parcelNum": "3022-152-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 140.0,
+      "yearBuilt": 2003,
+      "streetCode": 26300388,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 97
+    },
+    {
+      "assetId": 50095008.0,
+      "addressId": 53486785,
+      "polygonId": "52577079",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "האלמוגים 12",
+      "dealDate": "2018-09-13",
+      "dealAmount": 1199000,
+      "parcelNum": "3022-101-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1985,
+      "streetCode": 26300533,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19884,
+      "row_id": 98
+    },
+    {
+      "assetId": 50094234.0,
+      "addressId": 53487756,
+      "polygonId": "52597234",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין גדי 4",
+      "dealDate": "2018-08-29",
+      "dealAmount": 1310000,
+      "parcelNum": "3021-55-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 81.7,
+      "yearBuilt": 1991,
+      "streetCode": 26300384,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16034,
+      "row_id": 99
+    },
+    {
+      "assetId": 50094517.0,
+      "addressId": 53853784,
+      "polygonId": "52720348",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 219",
+      "dealDate": "2018-08-19",
+      "dealAmount": 800000,
+      "parcelNum": "3021-129-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.9,
+      "yearBuilt": 1991,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10974,
+      "row_id": 100
+    },
+    {
+      "assetId": 50094099.0,
+      "addressId": 53493210,
+      "polygonId": "52726225",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין נטפים 16",
+      "dealDate": "2018-07-09",
+      "dealAmount": 1625000,
+      "parcelNum": "3021-19-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 120.5,
+      "yearBuilt": 1980,
+      "streetCode": 26300383,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-08-11",
+          "dealAmount": 426000
+        }
+      ],
+      "trend": {
+        "rate": 281.5,
+        "years": 17.9
+      },
+      "ownership": [],
+      "priceSM": 13542,
+      "row_id": 101
+    },
+    {
+      "assetId": 50094430.0,
+      "addressId": 53501882,
+      "polygonId": "52755190",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 184",
+      "dealDate": "2018-06-24",
+      "dealAmount": 935000,
+      "parcelNum": "3021-128-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-11-18",
+          "dealAmount": 690000
+        }
+      ],
+      "trend": {
+        "rate": 35.5,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 12986,
+      "row_id": 102
+    },
+    {
+      "assetId": 50094303.0,
+      "addressId": 53493708,
+      "polygonId": "52718840",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין בוקק 10",
+      "dealDate": "2018-06-17",
+      "dealAmount": 1100000,
+      "parcelNum": "3021-73-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 41.8,
+      "yearBuilt": 1991,
+      "streetCode": 26300380,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26316,
+      "row_id": 103
+    },
+    {
+      "assetId": 50094619.0,
+      "addressId": 53500871,
+      "polygonId": "52741804",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 211",
+      "dealDate": "2018-05-22",
+      "dealAmount": 830000,
+      "parcelNum": "3021-129-108",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-02-21",
+          "dealAmount": 283000
+        }
+      ],
+      "trend": {
+        "rate": 193.3,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 12969,
+      "row_id": 104
+    },
+    {
+      "assetId": 50094709.0,
+      "addressId": 53496481,
+      "polygonId": "52736811",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "קטורה 4",
+      "dealDate": "2018-05-14",
+      "dealAmount": 1785000,
+      "parcelNum": "3022-24-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 116.4,
+      "yearBuilt": 1991,
+      "streetCode": 26300514,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-03-04",
+          "dealAmount": 554000
+        }
+      ],
+      "trend": {
+        "rate": 222.2,
+        "years": 20.2
+      },
+      "ownership": [],
+      "priceSM": 15388,
+      "row_id": 105
+    },
+    {
+      "assetId": 4482894.0,
+      "addressId": 53487810,
+      "polygonId": "52956652",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "רותם 5",
+      "dealDate": "2018-03-02",
+      "dealAmount": 1900000,
+      "parcelNum": "1499-188-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 150.0,
+      "yearBuilt": 1992,
+      "streetCode": 26300537,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12667,
+      "row_id": 106
+    },
+    {
+      "assetId": 4469524.0,
+      "addressId": 53494761,
+      "polygonId": "52575550",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ימין 8",
+      "dealDate": "2017-12-19",
+      "dealAmount": 1220000,
+      "parcelNum": "1499-209-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 48.0,
+      "yearBuilt": 1994,
+      "streetCode": 26300520,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25417,
+      "row_id": 107
+    },
+    {
+      "assetId": 50094604.0,
+      "addressId": 53500871,
+      "polygonId": "52741804",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 211",
+      "dealDate": "2017-11-30",
+      "dealAmount": 860000,
+      "parcelNum": "3021-129-93",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-26",
+          "dealAmount": 670000
+        }
+      ],
+      "trend": {
+        "rate": 28.4,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 11944,
+      "row_id": 108
+    },
+    {
+      "assetId": 50094088.0,
+      "addressId": 0,
+      "polygonId": "3021-14",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "0",
+      "dealDate": "2017-11-27",
+      "dealAmount": 1259000,
+      "parcelNum": "3021-14-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 41.8,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30120,
+      "row_id": 109
+    },
+    {
+      "assetId": 50094559.0,
+      "addressId": 53496942,
+      "polygonId": "52769868",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 215",
+      "dealDate": "2017-10-24",
+      "dealAmount": 820000,
+      "parcelNum": "3021-129-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12654,
+      "row_id": 110
+    },
+    {
+      "assetId": 50094889.0,
+      "addressId": 53493537,
+      "polygonId": "52726239",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עבדת 8",
+      "dealDate": "2017-08-30",
+      "dealAmount": 1550000,
+      "parcelNum": "3022-69-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע + ראשונה",
+      "assetArea": 116.4,
+      "yearBuilt": 1991,
+      "streetCode": 26300526,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13316,
+      "row_id": 111
+    },
+    {
+      "assetId": 50094496.0,
+      "addressId": 53500551,
+      "polygonId": "53372873",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 190",
+      "dealDate": "2017-07-14",
+      "dealAmount": 900000,
+      "parcelNum": "3021-128-97",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12346,
+      "row_id": 112
+    },
+    {
+      "assetId": 50094552.0,
+      "addressId": 53501880,
+      "polygonId": "52740679",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 217",
+      "dealDate": "2017-02-09",
+      "dealAmount": 799000,
+      "parcelNum": "3021-129-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12330,
+      "row_id": 113
+    },
+    {
+      "assetId": 50094901.0,
+      "addressId": 53852664,
+      "polygonId": "52741176",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עבדת 15",
+      "dealDate": "2016-11-18",
+      "dealAmount": 1306000,
+      "parcelNum": "3022-72-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1990,
+      "streetCode": 26300526,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-01-14",
+          "dealAmount": 1155000
+        },
+        {
+          "dealDate": "2007-06-05",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 13.1,
+        "years": 0.8
+      },
+      "ownership": [],
+      "priceSM": 21767,
+      "row_id": 114
+    },
+    {
+      "assetId": 50094246.0,
+      "addressId": 53927391,
+      "polygonId": "53358407",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין מור 7",
+      "dealDate": "2016-10-05",
+      "dealAmount": 2000000,
+      "parcelNum": "3021-58-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 118.1,
+      "yearBuilt": 1980,
+      "streetCode": 26300386,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-02-25",
+          "dealAmount": 460000
+        }
+      ],
+      "trend": {
+        "rate": 334.8,
+        "years": 17.6
+      },
+      "ownership": [],
+      "priceSM": 16949,
+      "row_id": 115
+    },
+    {
+      "assetId": 50094768.0,
+      "addressId": 53852789,
+      "polygonId": "52596764",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שיזפון 12",
+      "dealDate": "2016-09-19",
+      "dealAmount": 1140000,
+      "parcelNum": "3022-39-1",
+      "dealNature": "בית בודד",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1992,
+      "streetCode": 26300516,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19322,
+      "row_id": 116
+    },
+    {
+      "assetId": 50094513.0,
+      "addressId": 53853784,
+      "polygonId": "52720348",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 219",
+      "dealDate": "2016-09-12",
+      "dealAmount": 600000,
+      "parcelNum": "3021-129-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 43.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-02-14",
+          "dealAmount": 215000
+        }
+      ],
+      "trend": {
+        "rate": 179.1,
+        "years": 16.6
+      },
+      "ownership": [],
+      "priceSM": 13953,
+      "row_id": 117
+    },
+    {
+      "assetId": 4589752.0,
+      "addressId": 53495622,
+      "polygonId": "65694048",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "רותם 21",
+      "dealDate": "2016-09-04",
+      "dealAmount": 1385000,
+      "parcelNum": "1499-200-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 26300537,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17099,
+      "row_id": 118
+    },
+    {
+      "assetId": 50094239.0,
+      "addressId": 53807789,
+      "polygonId": "52775578",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין מור 22",
+      "dealDate": "2016-07-13",
+      "dealAmount": 1775000,
+      "parcelNum": "3021-56-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 119.5,
+      "yearBuilt": 1990,
+      "streetCode": 26300386,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-05",
+          "dealAmount": 1000000
+        },
+        {
+          "dealDate": "2005-09-26",
+          "dealAmount": 917000
+        },
+        {
+          "dealDate": "1998-11-25",
+          "dealAmount": 475000
+        }
+      ],
+      "trend": {
+        "rate": 77.5,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 14916,
+      "row_id": 119
+    },
+    {
+      "assetId": 50094222.0,
+      "addressId": 53497358,
+      "polygonId": "52684659",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין גדי 7",
+      "dealDate": "2016-07-06",
+      "dealAmount": 1149000,
+      "parcelNum": "3021-51-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 115.2,
+      "yearBuilt": 1970,
+      "streetCode": 26300384,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9974,
+      "row_id": 120
+    },
+    {
+      "assetId": 50094963.0,
+      "addressId": 53496702,
+      "polygonId": "53002272",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שונית 5",
+      "dealDate": "2016-06-28",
+      "dealAmount": 1210000,
+      "parcelNum": "3022-89-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1992,
+      "streetCode": 26300521,
+      "settlmentID": 2630,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20066,
+      "row_id": 121
+    },
+    {
+      "assetId": 50094616.0,
+      "addressId": 53500871,
+      "polygonId": "52741804",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 211",
+      "dealDate": "2016-05-03",
+      "dealAmount": 730000,
+      "parcelNum": "3021-129-105",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-06-20",
+          "dealAmount": 222000
+        }
+      ],
+      "trend": {
+        "rate": 228.8,
+        "years": 9.9
+      },
+      "ownership": [],
+      "priceSM": 10139,
+      "row_id": 122
+    },
+    {
+      "assetId": 50094765.0,
+      "addressId": 53496657,
+      "polygonId": "52771151",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שיזפון 11",
+      "dealDate": "2016-04-10",
+      "dealAmount": 1000000,
+      "parcelNum": "3022-38-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 91.1,
+      "yearBuilt": 1980,
+      "streetCode": 26300516,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10977,
+      "row_id": 123
+    },
+    {
+      "assetId": 50095122.0,
+      "addressId": 53851472,
+      "polygonId": "52729921",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "יהל 2",
+      "dealDate": "2016-02-24",
+      "dealAmount": 1715000,
+      "parcelNum": "3022-131-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 116.5,
+      "yearBuilt": 1991,
+      "streetCode": 26300389,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-04-09",
+          "dealAmount": 2409000
+        }
+      ],
+      "trend": {
+        "rate": -28.8,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 14784,
+      "row_id": 124
+    },
+    {
+      "assetId": 50094100.0,
+      "addressId": 53493836,
+      "polygonId": "52726225",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין נטפים 17",
+      "dealDate": "2016-01-20",
+      "dealAmount": 1100000,
+      "parcelNum": "3021-19-2",
+      "dealNature": "בית בודד",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 41.6,
+      "yearBuilt": 1980,
+      "streetCode": 26300383,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26442,
+      "row_id": 125
+    },
+    {
+      "assetId": 50094676.0,
+      "addressId": 53485906,
+      "polygonId": "52733287",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "באר אורה 9",
+      "dealDate": "2016-01-17",
+      "dealAmount": 1465000,
+      "parcelNum": "3022-15-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע +ראשונה",
+      "assetArea": 124.7,
+      "yearBuilt": 1993,
+      "streetCode": 26300513,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-09-11",
+          "dealAmount": 1400000
+        }
+      ],
+      "trend": {
+        "rate": 4.6,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 11815,
+      "row_id": 126
+    },
+    {
+      "assetId": 50094327.0,
+      "addressId": 53773936,
+      "polygonId": "53372525",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין בוקק 6",
+      "dealDate": "2015-12-10",
+      "dealAmount": 1370000,
+      "parcelNum": "3021-79-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 84.0,
+      "yearBuilt": 1998,
+      "streetCode": 26300380,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-10-25",
+          "dealAmount": 1030000
+        }
+      ],
+      "trend": {
+        "rate": 33.0,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 16310,
+      "row_id": 127
+    },
+    {
+      "assetId": 50094558.0,
+      "addressId": 53496942,
+      "polygonId": "52769868",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 215",
+      "dealDate": "2015-11-26",
+      "dealAmount": 705000,
+      "parcelNum": "3021-129-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10880,
+      "row_id": 128
+    },
+    {
+      "assetId": 50094642.0,
+      "addressId": 53497035,
+      "polygonId": "53365486",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "צופר 9",
+      "dealDate": "2015-11-25",
+      "dealAmount": 1445000,
+      "parcelNum": "3022-6-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע +ראשונה",
+      "assetArea": 119.8,
+      "yearBuilt": 1990,
+      "streetCode": 26300510,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12062,
+      "row_id": 129
+    },
+    {
+      "assetId": 50094506.0,
+      "addressId": 53500551,
+      "polygonId": "53372873",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 190",
+      "dealDate": "2015-11-04",
+      "dealAmount": 660000,
+      "parcelNum": "3021-128-107",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10185,
+      "row_id": 130
+    },
+    {
+      "assetId": 50019411.0,
+      "addressId": 0,
+      "polygonId": "52657362",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ימין 16",
+      "dealDate": "2015-10-28",
+      "dealAmount": 583000,
+      "parcelNum": "1499-111-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 83.0,
+      "yearBuilt": 1970,
+      "streetCode": 26300520,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7024,
+      "row_id": 131
+    },
+    {
+      "assetId": 50094538.0,
+      "addressId": 53501880,
+      "polygonId": "52740679",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 217",
+      "dealDate": "2015-10-02",
+      "dealAmount": 785000,
+      "parcelNum": "3021-129-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.9,
+      "yearBuilt": 1980,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-12-27",
+          "dealAmount": 338000
+        },
+        {
+          "dealDate": "2001-12-14",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 132.2,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 10903,
+      "row_id": 132
+    },
+    {
+      "assetId": 50094712.0,
+      "addressId": 53804944,
+      "polygonId": "52722228",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "קטורה 6",
+      "dealDate": "2015-08-03",
+      "dealAmount": 615000,
+      "parcelNum": "3022-25-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 124.7,
+      "yearBuilt": 1990,
+      "streetCode": 26300514,
+      "settlmentID": 2630,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4932,
+      "row_id": 133
+    },
+    {
+      "assetId": 4475116.0,
+      "addressId": 53492097,
+      "polygonId": "52721247",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ימין 12",
+      "dealDate": "2015-06-03",
+      "dealAmount": 800000,
+      "parcelNum": "1499-205-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.0,
+      "yearBuilt": 1980,
+      "streetCode": 26300520,
+      "settlmentID": 2630,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 134
+    },
+    {
+      "assetId": 50095113.0,
+      "addressId": 53852706,
+      "polygonId": "52688505",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ממשית 22",
+      "dealDate": "2015-03-19",
+      "dealAmount": 1360000,
+      "parcelNum": "3022-129-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 103.7,
+      "yearBuilt": 1992,
+      "streetCode": 26300475,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13115,
+      "row_id": 135
+    },
+    {
+      "assetId": 50094745.0,
+      "addressId": 53496632,
+      "polygonId": "52721711",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "קטורה 22",
+      "dealDate": "2015-03-17",
+      "dealAmount": 1450000,
+      "parcelNum": "3022-33-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 115.15,
+      "yearBuilt": 1990,
+      "streetCode": 26300514,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-03-26",
+          "dealAmount": 920000
+        },
+        {
+          "dealDate": "2000-05-23",
+          "dealAmount": 565000
+        }
+      ],
+      "trend": {
+        "rate": 57.6,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 12609,
+      "row_id": 136
+    },
+    {
+      "assetId": 50094880.0,
+      "addressId": 53852145,
+      "polygonId": "53372881",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עבדת 4",
+      "dealDate": "2015-02-13",
+      "dealAmount": 934000,
+      "parcelNum": "3022-67-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1990,
+      "streetCode": 26300526,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-07-28",
+          "dealAmount": 404000
+        }
+      ],
+      "trend": {
+        "rate": 131.2,
+        "years": 14.6
+      },
+      "ownership": [],
+      "priceSM": 15831,
+      "row_id": 137
+    },
+    {
+      "assetId": 50094308.0,
+      "addressId": 53487946,
+      "polygonId": "53097689",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין בוקק 13",
+      "dealDate": "2014-12-04",
+      "dealAmount": 890000,
+      "parcelNum": "3021-74-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 41.6,
+      "yearBuilt": 1991,
+      "streetCode": 26300380,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21394,
+      "row_id": 138
+    },
+    {
+      "assetId": 50094967.0,
+      "addressId": 53500365,
+      "polygonId": "64915591",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שונית 7",
+      "dealDate": "2014-05-25",
+      "dealAmount": 870000,
+      "parcelNum": "3022-90-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1992,
+      "streetCode": 26300521,
+      "settlmentID": 2630,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14428,
+      "row_id": 139
+    },
+    {
+      "assetId": 50094601.0,
+      "addressId": 53500871,
+      "polygonId": "52741804",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 211",
+      "dealDate": "2014-02-25",
+      "dealAmount": 429000,
+      "parcelNum": "3021-129-90",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 43.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9772,
+      "row_id": 140
+    },
+    {
+      "assetId": 50094205.0,
+      "addressId": 53935613,
+      "polygonId": "52738750",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "פארן 13",
+      "dealDate": "2014-01-02",
+      "dealAmount": 965000,
+      "parcelNum": "3021-47-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 41.8,
+      "yearBuilt": 1991,
+      "streetCode": 26300509,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-06",
+          "dealAmount": 830000
+        },
+        {
+          "dealDate": "2009-09-14",
+          "dealAmount": 685000
+        }
+      ],
+      "trend": {
+        "rate": 16.3,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 23537,
+      "row_id": 141
+    },
+    {
+      "assetId": 50094744.0,
+      "addressId": 53500484,
+      "polygonId": "52721711",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "קטורה 21",
+      "dealDate": "2013-10-29",
+      "dealAmount": 849000,
+      "parcelNum": "3022-33-1",
+      "dealNature": "בית בודד",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1990,
+      "streetCode": 26300514,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14390,
+      "row_id": 142
+    },
+    {
+      "assetId": 50094572.0,
+      "addressId": 53496942,
+      "polygonId": "52769868",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 215",
+      "dealDate": "2013-10-17",
+      "dealAmount": 685000,
+      "parcelNum": "3021-129-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9396,
+      "row_id": 143
+    },
+    {
+      "assetId": 50094475.0,
+      "addressId": 53497359,
+      "polygonId": "52674235",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 188",
+      "dealDate": "2013-10-16",
+      "dealAmount": 700000,
+      "parcelNum": "3021-128-76",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9602,
+      "row_id": 144
+    },
+    {
+      "assetId": 50094455.0,
+      "addressId": 53853820,
+      "polygonId": "52609057",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 186",
+      "dealDate": "2013-10-10",
+      "dealAmount": 610000,
+      "parcelNum": "3021-128-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1991,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-03-27",
+          "dealAmount": 375000
+        }
+      ],
+      "trend": {
+        "rate": 62.7,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 9531,
+      "row_id": 145
+    },
+    {
+      "assetId": 50095053.0,
+      "addressId": 53853196,
+      "polygonId": "53372869",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שבטה 17",
+      "dealDate": "2013-08-19",
+      "dealAmount": 1190000,
+      "parcelNum": "3022-113-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 119.0,
+      "yearBuilt": 1991,
+      "streetCode": 26300179,
+      "settlmentID": 2630,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 146
+    },
+    {
+      "assetId": 50094777.0,
+      "addressId": 53497649,
+      "polygonId": "52595922",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שיזפון 19",
+      "dealDate": "2013-08-07",
+      "dealAmount": 1164000,
+      "parcelNum": "3022-41-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 119.5,
+      "yearBuilt": 1996,
+      "streetCode": 26300516,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9741,
+      "row_id": 147
+    },
+    {
+      "assetId": 50094929.0,
+      "addressId": 53497896,
+      "polygonId": "52986605",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ניצנה 9",
+      "dealDate": "2013-07-17",
+      "dealAmount": 1135000,
+      "parcelNum": "3022-79-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 95.5,
+      "yearBuilt": 1980,
+      "streetCode": 26300531,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-05-02",
+          "dealAmount": 670000
+        }
+      ],
+      "trend": {
+        "rate": 69.4,
+        "years": 11.2
+      },
+      "ownership": [],
+      "priceSM": 11947,
+      "row_id": 148
+    },
+    {
+      "assetId": 50094772.0,
+      "addressId": 53852056,
+      "polygonId": "52596852",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שיזפון 16",
+      "dealDate": "2013-06-02",
+      "dealAmount": 1149000,
+      "parcelNum": "3022-40-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 107.25,
+      "yearBuilt": 1992,
+      "streetCode": 26300516,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10713,
+      "row_id": 149
+    },
+    {
+      "assetId": 50094987.0,
+      "addressId": 53852730,
+      "polygonId": "52727179",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "צפע 9",
+      "dealDate": "2013-05-23",
+      "dealAmount": 890000,
+      "parcelNum": "3022-95-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 58.6,
+      "yearBuilt": 1900,
+      "streetCode": 26300534,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15188,
+      "row_id": 150
+    },
+    {
+      "assetId": 50094064.0,
+      "addressId": 53495366,
+      "polygonId": "53373986",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין נטפים 4",
+      "dealDate": "2012-12-25",
+      "dealAmount": 1260000,
+      "parcelNum": "3021-8-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 111.8,
+      "yearBuilt": 2001,
+      "streetCode": 26300383,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11270,
+      "row_id": 151
+    },
+    {
+      "assetId": 50094881.0,
+      "addressId": 53495929,
+      "polygonId": "53372881",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עבדת 5",
+      "dealDate": "2012-12-20",
+      "dealAmount": 950000,
+      "parcelNum": "3022-67-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1990,
+      "streetCode": 26300526,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16102,
+      "row_id": 152
+    },
+    {
+      "assetId": 50094557.0,
+      "addressId": 53496942,
+      "polygonId": "52769868",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 215",
+      "dealDate": "2012-12-10",
+      "dealAmount": 300000,
+      "parcelNum": "3021-129-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 43.9,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6834,
+      "row_id": 153
+    },
+    {
+      "assetId": 50094917.0,
+      "addressId": 53853108,
+      "polygonId": "52575559",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ניצנה 3",
+      "dealDate": "2012-12-09",
+      "dealAmount": 1199000,
+      "parcelNum": "3022-76-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 96.5,
+      "yearBuilt": 1800,
+      "streetCode": 26300531,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12425,
+      "row_id": 154
+    },
+    {
+      "assetId": 50095062.0,
+      "addressId": 53498049,
+      "polygonId": "52589803",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שבטה 22",
+      "dealDate": "2012-11-27",
+      "dealAmount": 1350000,
+      "parcelNum": "3022-116-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 125.4,
+      "yearBuilt": 1991,
+      "streetCode": 26300179,
+      "settlmentID": 2630,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-08-17",
+          "dealAmount": 750000
+        }
+      ],
+      "trend": {
+        "rate": 80.0,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 10800,
+      "row_id": 155
+    },
+    {
+      "assetId": 50094300.0,
+      "addressId": 53849946,
+      "polygonId": "52683787",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין בוקק 9",
+      "dealDate": "2012-11-25",
+      "dealAmount": 870000,
+      "parcelNum": "3021-72-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 41.8,
+      "yearBuilt": 1991,
+      "streetCode": 26300380,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20813,
+      "row_id": 156
+    },
+    {
+      "assetId": 50094885.0,
+      "addressId": 53926304,
+      "polygonId": "52719864",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עבדת 7",
+      "dealDate": "2012-08-29",
+      "dealAmount": 850000,
+      "parcelNum": "3022-68-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1950,
+      "streetCode": 26300526,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-06-15",
+          "dealAmount": 387000
+        }
+      ],
+      "trend": {
+        "rate": 119.6,
+        "years": 14.2
+      },
+      "ownership": [],
+      "priceSM": 14407,
+      "row_id": 157
+    },
+    {
+      "assetId": 50094946.0,
+      "addressId": 53486617,
+      "polygonId": "52633809",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ניצנה 18",
+      "dealDate": "2012-08-28",
+      "dealAmount": 900000,
+      "parcelNum": "3022-84-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1985,
+      "streetCode": 26300531,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-02-14",
+          "dealAmount": 538000
+        }
+      ],
+      "trend": {
+        "rate": 67.3,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 158
+    },
+    {
+      "assetId": 50095166.0,
+      "addressId": 53852557,
+      "polygonId": "52692812",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "יהל 24",
+      "dealDate": "2012-08-13",
+      "dealAmount": 850000,
+      "parcelNum": "3022-142-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 42.2,
+      "yearBuilt": 1800,
+      "streetCode": 26300389,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20142,
+      "row_id": 159
+    },
+    {
+      "assetId": 4473364.0,
+      "addressId": 53486167,
+      "polygonId": "52678524",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין ירקעם 13",
+      "dealDate": "2012-07-09",
+      "dealAmount": 1225000,
+      "parcelNum": "3021-44-1",
+      "dealNature": "בית בודד",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 100.0,
+      "yearBuilt": 1991,
+      "streetCode": 26300385,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12250,
+      "row_id": 160
+    },
+    {
+      "assetId": 50094788.0,
+      "addressId": 53804945,
+      "polygonId": "53073243",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "גרופית 2",
+      "dealDate": "2012-06-24",
+      "dealAmount": 900000,
+      "parcelNum": "3022-44-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1900,
+      "streetCode": 26300536,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15254,
+      "row_id": 161
+    },
+    {
+      "assetId": 50094542.0,
+      "addressId": 53501880,
+      "polygonId": "52740679",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 217",
+      "dealDate": "2012-06-17",
+      "dealAmount": 670000,
+      "parcelNum": "3021-129-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.9,
+      "yearBuilt": 1980,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9191,
+      "row_id": 162
+    },
+    {
+      "assetId": 50095134.0,
+      "addressId": 53495352,
+      "polygonId": "52734988",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "יהל 9",
+      "dealDate": "2012-05-21",
+      "dealAmount": 900000,
+      "parcelNum": "3022-134-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 121.4,
+      "yearBuilt": 1900,
+      "streetCode": 26300389,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7414,
+      "row_id": 163
+    },
+    {
+      "assetId": 50094065.0,
+      "addressId": 53495576,
+      "polygonId": "53373986",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין נטפים 5",
+      "dealDate": "2012-03-19",
+      "dealAmount": 1150000,
+      "parcelNum": "3021-8-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 117.4,
+      "yearBuilt": 2001,
+      "streetCode": 26300383,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9796,
+      "row_id": 164
+    },
+    {
+      "assetId": 50094638.0,
+      "addressId": 53486943,
+      "polygonId": "52723945",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "צופר 7",
+      "dealDate": "2012-01-02",
+      "dealAmount": 890000,
+      "parcelNum": "3022-4-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1993,
+      "streetCode": 26300510,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15085,
+      "row_id": 165
+    },
+    {
+      "assetId": 50094320.0,
+      "addressId": 53853257,
+      "polygonId": "52722205",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין בוקק 23",
+      "dealDate": "2011-12-22",
+      "dealAmount": 1380000,
+      "parcelNum": "3021-77-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 113.4,
+      "yearBuilt": 1992,
+      "streetCode": 26300380,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12169,
+      "row_id": 166
+    },
+    {
+      "assetId": 50094962.0,
+      "addressId": 53496704,
+      "polygonId": "53002272",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "צאלים 6",
+      "dealDate": "2011-10-05",
+      "dealAmount": 1200000,
+      "parcelNum": "3022-89-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1992,
+      "streetCode": 26300527,
+      "settlmentID": 2630,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-01-02",
+          "dealAmount": 460000
+        }
+      ],
+      "trend": {
+        "rate": 160.9,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 20000,
+      "row_id": 167
+    },
+    {
+      "assetId": 50094769.0,
+      "addressId": 53500480,
+      "polygonId": "52596764",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שיזפון 13",
+      "dealDate": "2011-09-09",
+      "dealAmount": 1050000,
+      "parcelNum": "3022-39-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 86.0,
+      "yearBuilt": 1992,
+      "streetCode": 26300516,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-12-10",
+          "dealAmount": 830000
+        },
+        {
+          "dealDate": "2007-12-20",
+          "dealAmount": 679000
+        }
+      ],
+      "trend": {
+        "rate": 26.5,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 12209,
+      "row_id": 168
+    },
+    {
+      "assetId": 50094925.0,
+      "addressId": 53851929,
+      "polygonId": "53379805",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ניצנה 7",
+      "dealDate": "2011-07-21",
+      "dealAmount": 865000,
+      "parcelNum": "3022-78-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1980,
+      "streetCode": 26300531,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-09-02",
+          "dealAmount": 515000
+        }
+      ],
+      "trend": {
+        "rate": 68.0,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 14417,
+      "row_id": 169
+    },
+    {
+      "assetId": 50094537.0,
+      "addressId": 53501880,
+      "polygonId": "52740679",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 217",
+      "dealDate": "2011-04-12",
+      "dealAmount": 555000,
+      "parcelNum": "3021-129-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-01-18",
+          "dealAmount": 327000
+        }
+      ],
+      "trend": {
+        "rate": 69.7,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 8672,
+      "row_id": 170
+    },
+    {
+      "assetId": 50095121.0,
+      "addressId": 53500006,
+      "polygonId": "52729921",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "יהל 3",
+      "dealDate": "2011-02-16",
+      "dealAmount": 1050000,
+      "parcelNum": "3022-131-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.5,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 141.8,
+      "yearBuilt": 1991,
+      "streetCode": 26300389,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-06-27",
+          "dealAmount": 353000
+        }
+      ],
+      "trend": {
+        "rate": 197.5,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 7447,
+      "row_id": 171
+    },
+    {
+      "assetId": 50095069.0,
+      "addressId": 53500489,
+      "polygonId": "52772239",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "שבטה 26",
+      "dealDate": "2011-02-09",
+      "dealAmount": 1210000,
+      "parcelNum": "3022-118-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 122.6,
+      "yearBuilt": 1990,
+      "streetCode": 26300179,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9869,
+      "row_id": 172
+    },
+    {
+      "assetId": 50095078.0,
+      "addressId": 53487755,
+      "polygonId": "52759856",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ממשית 5",
+      "dealDate": "2011-02-04",
+      "dealAmount": 750000,
+      "parcelNum": "3022-120-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 57.0,
+      "yearBuilt": 1991,
+      "streetCode": 26300475,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-12-03",
+          "dealAmount": 397000
+        }
+      ],
+      "trend": {
+        "rate": 88.9,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 13158,
+      "row_id": 173
+    },
+    {
+      "assetId": 50095017.0,
+      "addressId": 53487750,
+      "polygonId": "52617653",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "האלמוגים 17",
+      "dealDate": "2010-10-18",
+      "dealAmount": 800000,
+      "parcelNum": "3022-104-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1990,
+      "streetCode": 26300533,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-04-12",
+          "dealAmount": 453000
+        }
+      ],
+      "trend": {
+        "rate": 76.6,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 13333,
+      "row_id": 174
+    },
+    {
+      "assetId": 50094414.0,
+      "addressId": 53852360,
+      "polygonId": "52716196",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 182",
+      "dealDate": "2010-08-25",
+      "dealAmount": 550000,
+      "parcelNum": "3021-128-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-08-13",
+          "dealAmount": 375000
+        }
+      ],
+      "trend": {
+        "rate": 46.7,
+        "years": 12.0
+      },
+      "ownership": [],
+      "priceSM": 8594,
+      "row_id": 175
+    },
+    {
+      "assetId": 50094945.0,
+      "addressId": 53486616,
+      "polygonId": "52633809",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ניצנה 17",
+      "dealDate": "2010-08-17",
+      "dealAmount": 800000,
+      "parcelNum": "3022-84-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.3,
+      "yearBuilt": 1985,
+      "streetCode": 26300531,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13267,
+      "row_id": 176
+    },
+    {
+      "assetId": 50094524.0,
+      "addressId": 53853784,
+      "polygonId": "52720348",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 219",
+      "dealDate": "2010-08-17",
+      "dealAmount": 480000,
+      "parcelNum": "3021-129-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.9,
+      "yearBuilt": 1992,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6584,
+      "row_id": 177
+    },
+    {
+      "assetId": 50094868.0,
+      "addressId": 53493538,
+      "polygonId": "52733309",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "חלוצה 20",
+      "dealDate": "2010-06-07",
+      "dealAmount": 780000,
+      "parcelNum": "3022-64-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 59.0,
+      "yearBuilt": 1992,
+      "streetCode": 26300525,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13220,
+      "row_id": 178
+    },
+    {
+      "assetId": 50094189.0,
+      "addressId": 53493211,
+      "polygonId": "52732818",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין ירקעם 17",
+      "dealDate": "2010-05-17",
+      "dealAmount": 710000,
+      "parcelNum": "3021-42-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 41.8,
+      "yearBuilt": 1800,
+      "streetCode": 26300385,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16986,
+      "row_id": 179
+    },
+    {
+      "assetId": 50094481.0,
+      "addressId": 53497359,
+      "polygonId": "52674235",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "מלכי ישראל 188",
+      "dealDate": "2010-05-12",
+      "dealAmount": 430000,
+      "parcelNum": "3021-128-82",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1993,
+      "streetCode": 26300285,
+      "settlmentID": 2630,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6636,
+      "row_id": 180
+    },
+    {
+      "assetId": 50019411.0,
+      "addressId": 0,
+      "polygonId": "52657362",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ימין 16",
+      "dealDate": "2009-11-23",
+      "dealAmount": 329000,
+      "parcelNum": "1499-111-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 96.0,
+      "yearBuilt": 1800,
+      "streetCode": 26300520,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3427,
+      "row_id": 181
+    },
+    {
+      "assetId": 4475115.0,
+      "addressId": 53495754,
+      "polygonId": "52721247",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ימין 13",
+      "dealDate": "2009-05-03",
+      "dealAmount": 600000,
+      "parcelNum": "1499-206-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 129.0,
+      "yearBuilt": 1980,
+      "streetCode": 26300520,
+      "settlmentID": 2630,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4651,
+      "row_id": 182
+    },
+    {
+      "assetId": 4589751.0,
+      "addressId": 53495622,
+      "polygonId": "65694048",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "רותם 21",
+      "dealDate": "2008-12-04",
+      "dealAmount": 600000,
+      "parcelNum": "1499-200-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 2.0,
+      "floor": null,
+      "assetArea": 48.0,
+      "yearBuilt": 1980,
+      "streetCode": 26300537,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 183
+    },
+    {
+      "assetId": 50094921.0,
+      "addressId": 53497404,
+      "polygonId": "52726068",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "ניצנה 5",
+      "dealDate": "2008-08-15",
+      "dealAmount": 270000,
+      "parcelNum": "3022-77-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 72.0,
+      "yearBuilt": 1971,
+      "streetCode": 26300531,
+      "settlmentID": 2630,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3750,
+      "row_id": 184
+    },
+    {
+      "assetId": 4589750.0,
+      "addressId": 53495622,
+      "polygonId": "65694048",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "רותם 21",
+      "dealDate": "2005-01-04",
+      "dealAmount": 474000,
+      "parcelNum": "1499-200-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 70.0,
+      "yearBuilt": 1980,
+      "streetCode": 26300537,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6771,
+      "row_id": 185
+    },
+    {
+      "assetId": 50094355.0,
+      "addressId": 53500585,
+      "polygonId": "53375849",
+      "neighborhoodName": "שער הדרום",
+      "neighborhoodId": 65209998,
+      "address": "עין גדי 14",
+      "dealDate": "2004-05-20",
+      "dealAmount": 414000,
+      "parcelNum": "3021-86-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 42.2,
+      "yearBuilt": 1992,
+      "streetCode": 26300384,
+      "settlmentID": 2630,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9810,
+      "row_id": 186
+    }
+  ]
+}

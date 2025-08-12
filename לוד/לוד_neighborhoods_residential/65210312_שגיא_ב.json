@@ -1,0 +1,3065 @@
+{
+  "neighborhood_name": "שגיא ב",
+  "city_name": "לוד",
+  "transaction_count": 96,
+  "transactions": [
+    {
+      "assetId": 10010312.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2025-03-24",
+      "dealAmount": 1180000,
+      "parcelNum": "4024-562-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18730,
+      "row_id": 1
+    },
+    {
+      "assetId": 10010283.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2025-03-17",
+      "dealAmount": 1500000,
+      "parcelNum": "4024-562-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 89.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-12-11",
+          "dealAmount": 951000
+        },
+        {
+          "dealDate": "2001-11-19",
+          "dealAmount": 285000
+        }
+      ],
+      "trend": {
+        "rate": 57.7,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 16854,
+      "row_id": 2
+    },
+    {
+      "assetId": 10010320.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2024-12-12",
+      "dealAmount": 1270000,
+      "parcelNum": "4024-563-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-05-17",
+          "dealAmount": 956000
+        }
+      ],
+      "trend": {
+        "rate": 32.8,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 17162,
+      "row_id": 3
+    },
+    {
+      "assetId": 10010334.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2024-08-09",
+      "dealAmount": 1280000,
+      "parcelNum": "4024-563-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-12-17",
+          "dealAmount": 1060000
+        },
+        {
+          "dealDate": "2015-03-24",
+          "dealAmount": 720000
+        }
+      ],
+      "trend": {
+        "rate": 20.8,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 17297,
+      "row_id": 4
+    },
+    {
+      "assetId": 10010390.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2024-07-24",
+      "dealAmount": 1275000,
+      "parcelNum": "4024-565-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16798,
+      "row_id": 5
+    },
+    {
+      "assetId": 10010369.0,
+      "addressId": 53709143,
+      "polygonId": "52399706",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 14",
+      "dealDate": "2024-06-27",
+      "dealAmount": 950000,
+      "parcelNum": "4024-564-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 33.6,
+      "yearBuilt": 1975,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28274,
+      "row_id": 6
+    },
+    {
+      "assetId": 10010402.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2024-06-24",
+      "dealAmount": 1265000,
+      "parcelNum": "4024-565-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 65.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-06-06",
+          "dealAmount": 1150000
+        },
+        {
+          "dealDate": "2017-04-20",
+          "dealAmount": 910000
+        }
+      ],
+      "trend": {
+        "rate": 10.0,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 19462,
+      "row_id": 7
+    },
+    {
+      "assetId": 10010282.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2024-06-16",
+      "dealAmount": 1050000,
+      "parcelNum": "4024-562-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 84.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-06-07",
+          "dealAmount": 730000
+        }
+      ],
+      "trend": {
+        "rate": 43.8,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 8
+    },
+    {
+      "assetId": 10010443.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2024-06-10",
+      "dealAmount": 1200000,
+      "parcelNum": "4024-566-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 65.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18209,
+      "row_id": 9
+    },
+    {
+      "assetId": 10010416.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2024-01-11",
+      "dealAmount": 1300000,
+      "parcelNum": "4024-566-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-10-21",
+          "dealAmount": 715000
+        }
+      ],
+      "trend": {
+        "rate": 81.8,
+        "years": 10.2
+      },
+      "ownership": [],
+      "priceSM": 17333,
+      "row_id": 10
+    },
+    {
+      "assetId": 10010325.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2023-12-20",
+      "dealAmount": 1235000,
+      "parcelNum": "4024-563-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-10-22",
+          "dealAmount": 840000
+        },
+        {
+          "dealDate": "2013-07-30",
+          "dealAmount": 610000
+        }
+      ],
+      "trend": {
+        "rate": 47.0,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 16689,
+      "row_id": 11
+    },
+    {
+      "assetId": 10010393.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2023-11-30",
+      "dealAmount": 900000,
+      "parcelNum": "4024-565-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 77.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11568,
+      "row_id": 12
+    },
+    {
+      "assetId": 10010399.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2023-08-10",
+      "dealAmount": 800000,
+      "parcelNum": "4024-565-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-03-25",
+          "dealAmount": 650000
+        }
+      ],
+      "trend": {
+        "rate": 23.1,
+        "years": 11.4
+      },
+      "ownership": [],
+      "priceSM": 12308,
+      "row_id": 13
+    },
+    {
+      "assetId": 10010342.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2023-07-13",
+      "dealAmount": 1256000,
+      "parcelNum": "4024-563-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-01-16",
+          "dealAmount": 765000
+        }
+      ],
+      "trend": {
+        "rate": 64.2,
+        "years": 6.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 628000
+        },
+        {
+          "proportion": "50",
+          "price": 628000
+        }
+      ],
+      "priceSM": 16973,
+      "row_id": 14
+    },
+    {
+      "assetId": 10010386.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2023-05-15",
+      "dealAmount": 973000,
+      "parcelNum": "4024-565-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 69.1,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14081,
+      "row_id": 15
+    },
+    {
+      "assetId": 10010322.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2023-02-09",
+      "dealAmount": 1100000,
+      "parcelNum": "4024-563-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14865,
+      "row_id": 16
+    },
+    {
+      "assetId": 10010330.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2023-01-22",
+      "dealAmount": 1110000,
+      "parcelNum": "4024-563-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 17
+    },
+    {
+      "assetId": 10010269.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2022-12-29",
+      "dealAmount": 1330000,
+      "parcelNum": "4024-562-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 89.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-06-11",
+          "dealAmount": 297000
+        }
+      ],
+      "trend": {
+        "rate": 347.8,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 14944,
+      "row_id": 18
+    },
+    {
+      "assetId": 10010297.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2022-12-29",
+      "dealAmount": 1100000,
+      "parcelNum": "4024-562-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 85.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12941,
+      "row_id": 19
+    },
+    {
+      "assetId": 10010304.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2022-12-25",
+      "dealAmount": 1215000,
+      "parcelNum": "4024-562-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-10-28",
+          "dealAmount": 645000
+        }
+      ],
+      "trend": {
+        "rate": 88.4,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 19286,
+      "row_id": 20
+    },
+    {
+      "assetId": 10010314.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2022-12-19",
+      "dealAmount": 1145000,
+      "parcelNum": "4024-562-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 84.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13631,
+      "row_id": 21
+    },
+    {
+      "assetId": 10010382.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2022-11-17",
+      "dealAmount": 1220000,
+      "parcelNum": "4024-565-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-11-01",
+          "dealAmount": 1010000
+        },
+        {
+          "dealDate": "2008-11-10",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 20.8,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 18769,
+      "row_id": 22
+    },
+    {
+      "assetId": 10010336.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2022-11-16",
+      "dealAmount": 1190000,
+      "parcelNum": "4024-563-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-07-04",
+          "dealAmount": 1050000
+        },
+        {
+          "dealDate": "2013-04-29",
+          "dealAmount": 610000
+        }
+      ],
+      "trend": {
+        "rate": 13.3,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 16081,
+      "row_id": 23
+    },
+    {
+      "assetId": 10010340.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2022-10-31",
+      "dealAmount": 1130000,
+      "parcelNum": "4024-563-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-12",
+          "dealAmount": 426000
+        }
+      ],
+      "trend": {
+        "rate": 165.3,
+        "years": 23.1
+      },
+      "ownership": [],
+      "priceSM": 15270,
+      "row_id": 24
+    },
+    {
+      "assetId": 10010415.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2022-08-15",
+      "dealAmount": 608000,
+      "parcelNum": "4024-566-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9240,
+      "row_id": 25
+    },
+    {
+      "assetId": 10010337.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2022-08-09",
+      "dealAmount": 1075000,
+      "parcelNum": "4024-563-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 69.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-10",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2014-01-10",
+          "dealAmount": 1240000
+        },
+        {
+          "dealDate": "2012-05-24",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2009-10-01",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 65.4,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 15580,
+      "row_id": 26
+    },
+    {
+      "assetId": 10010319.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2022-08-08",
+      "dealAmount": 1090000,
+      "parcelNum": "4024-563-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 69.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-12-03",
+          "dealAmount": 902000
+        },
+        {
+          "dealDate": "2017-05-24",
+          "dealAmount": 770000
+        },
+        {
+          "dealDate": "2007-12-10",
+          "dealAmount": 97000
+        }
+      ],
+      "trend": {
+        "rate": 20.8,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 15797,
+      "row_id": 27
+    },
+    {
+      "assetId": 10010333.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2022-08-08",
+      "dealAmount": 1050000,
+      "parcelNum": "4024-563-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-15",
+          "dealAmount": 558000
+        },
+        {
+          "dealDate": "2008-05-14",
+          "dealAmount": 170000
+        }
+      ],
+      "trend": {
+        "rate": 88.2,
+        "years": 8.7
+      },
+      "ownership": [],
+      "priceSM": 14189,
+      "row_id": 28
+    },
+    {
+      "assetId": 10010424.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2022-08-02",
+      "dealAmount": 1110000,
+      "parcelNum": "4024-566-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 77.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14267,
+      "row_id": 29
+    },
+    {
+      "assetId": 10010418.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2022-07-28",
+      "dealAmount": 1110000,
+      "parcelNum": "4024-566-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-11-01",
+          "dealAmount": 180000
+        }
+      ],
+      "trend": {
+        "rate": 516.7,
+        "years": 11.7
+      },
+      "ownership": [],
+      "priceSM": 17077,
+      "row_id": 30
+    },
+    {
+      "assetId": 10010287.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2022-07-27",
+      "dealAmount": 1050000,
+      "parcelNum": "4024-562-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-03-08",
+          "dealAmount": 850000
+        },
+        {
+          "dealDate": "2017-11-02",
+          "dealAmount": 875000
+        },
+        {
+          "dealDate": "2016-04-10",
+          "dealAmount": 727000
+        }
+      ],
+      "trend": {
+        "rate": 23.5,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 16667,
+      "row_id": 31
+    },
+    {
+      "assetId": 10010296.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2022-07-12",
+      "dealAmount": 1000000,
+      "parcelNum": "4024-562-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-02",
+          "dealAmount": 585000
+        },
+        {
+          "dealDate": "1999-02-19",
+          "dealAmount": 366000
+        }
+      ],
+      "trend": {
+        "rate": 70.9,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 15873,
+      "row_id": 32
+    },
+    {
+      "assetId": 10010327.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2022-07-10",
+      "dealAmount": 1070000,
+      "parcelNum": "4024-563-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 45.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23778,
+      "row_id": 33
+    },
+    {
+      "assetId": 10010343.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2022-06-23",
+      "dealAmount": 1129000,
+      "parcelNum": "4024-563-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-09-18",
+          "dealAmount": 990000
+        },
+        {
+          "dealDate": "2010-07-25",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 14.0,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 15257,
+      "row_id": 34
+    },
+    {
+      "assetId": 10010275.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2022-06-02",
+      "dealAmount": 1180000,
+      "parcelNum": "4024-562-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 89.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13258,
+      "row_id": 35
+    },
+    {
+      "assetId": 10010384.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2022-04-25",
+      "dealAmount": 1100000,
+      "parcelNum": "4024-565-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-08-06",
+          "dealAmount": 615000
+        },
+        {
+          "dealDate": "2010-07-11",
+          "dealAmount": 445000
+        }
+      ],
+      "trend": {
+        "rate": 78.9,
+        "years": 8.7
+      },
+      "ownership": [],
+      "priceSM": 16923,
+      "row_id": 36
+    },
+    {
+      "assetId": 10010347.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2022-03-20",
+      "dealAmount": 800000,
+      "parcelNum": "4024-563-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10811,
+      "row_id": 37
+    },
+    {
+      "assetId": 10010339.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2022-03-06",
+      "dealAmount": 620000,
+      "parcelNum": "4024-563-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-04-07",
+          "dealAmount": 874000
+        },
+        {
+          "dealDate": "2013-10-15",
+          "dealAmount": 640000
+        }
+      ],
+      "trend": {
+        "rate": -29.1,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 8378,
+      "row_id": 38
+    },
+    {
+      "assetId": 10010313.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2022-02-08",
+      "dealAmount": 860000,
+      "parcelNum": "4024-562-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-01-24",
+          "dealAmount": 320000
+        },
+        {
+          "dealDate": "2007-12-20",
+          "dealAmount": 167000
+        },
+        {
+          "dealDate": "2004-03-04",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": 168.8,
+        "years": 12.0
+      },
+      "ownership": [],
+      "priceSM": 13651,
+      "row_id": 39
+    },
+    {
+      "assetId": 10010353.0,
+      "addressId": 53709143,
+      "polygonId": "52399706",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 14",
+      "dealDate": "2021-10-31",
+      "dealAmount": 740000,
+      "parcelNum": "4024-564-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 38.6,
+      "yearBuilt": 1975,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-26",
+          "dealAmount": 280000
+        },
+        {
+          "dealDate": "1999-03-05",
+          "dealAmount": 303000
+        }
+      ],
+      "trend": {
+        "rate": 164.3,
+        "years": 12.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 370000
+        },
+        {
+          "proportion": "50",
+          "price": 370000
+        }
+      ],
+      "priceSM": 19474,
+      "row_id": 40
+    },
+    {
+      "assetId": 10010276.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2021-08-17",
+      "dealAmount": 1170000,
+      "parcelNum": "4024-562-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 89.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13146,
+      "row_id": 41
+    },
+    {
+      "assetId": 10010395.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2021-03-17",
+      "dealAmount": 1130000,
+      "parcelNum": "4024-565-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14888,
+      "row_id": 42
+    },
+    {
+      "assetId": 10010271.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2021-03-16",
+      "dealAmount": 1130000,
+      "parcelNum": "4024-562-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 89.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-09-21",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 88.3,
+        "years": 10.5
+      },
+      "ownership": [],
+      "priceSM": 12697,
+      "row_id": 43
+    },
+    {
+      "assetId": 10010434.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2021-02-22",
+      "dealAmount": 1100000,
+      "parcelNum": "4024-566-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 77.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-08-18",
+          "dealAmount": 665000
+        }
+      ],
+      "trend": {
+        "rate": 65.4,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 14286,
+      "row_id": 44
+    },
+    {
+      "assetId": 10010431.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2021-01-14",
+      "dealAmount": 1075000,
+      "parcelNum": "4024-566-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-11-30",
+          "dealAmount": 882000
+        },
+        {
+          "dealDate": "2004-10-01",
+          "dealAmount": 345000
+        }
+      ],
+      "trend": {
+        "rate": 21.9,
+        "years": 0.1
+      },
+      "ownership": [],
+      "priceSM": 14333,
+      "row_id": 45
+    },
+    {
+      "assetId": 10010292.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2021-01-11",
+      "dealAmount": 920000,
+      "parcelNum": "4024-562-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14603,
+      "row_id": 46
+    },
+    {
+      "assetId": 10010284.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2020-12-27",
+      "dealAmount": 981000,
+      "parcelNum": "4024-562-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 89.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11022,
+      "row_id": 47
+    },
+    {
+      "assetId": 10010280.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2020-11-22",
+      "dealAmount": 1065000,
+      "parcelNum": "4024-562-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 89.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11966,
+      "row_id": 48
+    },
+    {
+      "assetId": 10010441.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2020-09-06",
+      "dealAmount": 1090000,
+      "parcelNum": "4024-566-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-02-16",
+          "dealAmount": 460000
+        }
+      ],
+      "trend": {
+        "rate": 137.0,
+        "years": 11.6
+      },
+      "ownership": [],
+      "priceSM": 14533,
+      "row_id": 49
+    },
+    {
+      "assetId": 10010420.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2020-07-07",
+      "dealAmount": 500000,
+      "parcelNum": "4024-566-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-03-12",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 7692,
+      "row_id": 50
+    },
+    {
+      "assetId": 10010423.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2019-11-13",
+      "dealAmount": 1030000,
+      "parcelNum": "4024-566-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15630,
+      "row_id": 51
+    },
+    {
+      "assetId": 10010300.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2019-10-10",
+      "dealAmount": 840000,
+      "parcelNum": "4024-562-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-05-25",
+          "dealAmount": 515000
+        }
+      ],
+      "trend": {
+        "rate": 63.1,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 13333,
+      "row_id": 52
+    },
+    {
+      "assetId": 10010401.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2019-09-24",
+      "dealAmount": 995000,
+      "parcelNum": "4024-565-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 69.1,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14399,
+      "row_id": 53
+    },
+    {
+      "assetId": 10010396.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2018-12-03",
+      "dealAmount": 1025000,
+      "parcelNum": "4024-565-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 69.1,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14834,
+      "row_id": 54
+    },
+    {
+      "assetId": 10010288.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2018-08-20",
+      "dealAmount": 600000,
+      "parcelNum": "4024-562-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9524,
+      "row_id": 55
+    },
+    {
+      "assetId": 10010309.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2018-07-26",
+      "dealAmount": 845000,
+      "parcelNum": "4024-562-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13413,
+      "row_id": 56
+    },
+    {
+      "assetId": 10010346.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2018-05-23",
+      "dealAmount": 828000,
+      "parcelNum": "4024-563-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-23",
+          "dealAmount": 675000
+        },
+        {
+          "dealDate": "2010-03-28",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 22.7,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 11189,
+      "row_id": 57
+    },
+    {
+      "assetId": 10010310.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2018-03-28",
+      "dealAmount": 945000,
+      "parcelNum": "4024-562-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 84.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11250,
+      "row_id": 58
+    },
+    {
+      "assetId": 10010414.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2018-03-18",
+      "dealAmount": 1050000,
+      "parcelNum": "4024-566-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 77.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13496,
+      "row_id": 59
+    },
+    {
+      "assetId": 10010315.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2017-09-12",
+      "dealAmount": 950000,
+      "parcelNum": "4024-562-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-03-19",
+          "dealAmount": 135000
+        }
+      ],
+      "trend": {
+        "rate": 603.7,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 15079,
+      "row_id": 60
+    },
+    {
+      "assetId": 10010344.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2017-07-27",
+      "dealAmount": 860000,
+      "parcelNum": "4024-563-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11622,
+      "row_id": 61
+    },
+    {
+      "assetId": 10010368.0,
+      "addressId": 53709143,
+      "polygonId": "52399706",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 14",
+      "dealDate": "2017-07-26",
+      "dealAmount": 700000,
+      "parcelNum": "4024-564-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שלישית",
+      "assetArea": 38.6,
+      "yearBuilt": 1975,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-04-30",
+          "dealAmount": 529000
+        },
+        {
+          "dealDate": "2012-03-11",
+          "dealAmount": 405000
+        },
+        {
+          "dealDate": "2011-01-30",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": 32.3,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 18421,
+      "row_id": 62
+    },
+    {
+      "assetId": 10010365.0,
+      "addressId": 53709143,
+      "polygonId": "52399706",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 14",
+      "dealDate": "2017-07-19",
+      "dealAmount": 570000,
+      "parcelNum": "4024-564-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 38.6,
+      "yearBuilt": 1975,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-08-05",
+          "dealAmount": 259000
+        }
+      ],
+      "trend": {
+        "rate": 120.1,
+        "years": 19.0
+      },
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 63
+    },
+    {
+      "assetId": 10010403.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2017-06-22",
+      "dealAmount": 880000,
+      "parcelNum": "4024-565-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 77.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-21",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 193.3,
+        "years": 4.1
+      },
+      "ownership": [
+        {
+          "proportion": "16",
+          "price": 140800
+        },
+        {
+          "proportion": "16",
+          "price": 140800
+        },
+        {
+          "proportion": "33",
+          "price": 290400
+        },
+        {
+          "proportion": "33",
+          "price": 290400
+        }
+      ],
+      "priceSM": 11429,
+      "row_id": 64
+    },
+    {
+      "assetId": 10010331.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2016-12-26",
+      "dealAmount": 710000,
+      "parcelNum": "4024-563-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 69.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-23",
+          "dealAmount": 582000
+        }
+      ],
+      "trend": {
+        "rate": 22.0,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 10290,
+      "row_id": 65
+    },
+    {
+      "assetId": 10010387.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2016-11-17",
+      "dealAmount": 850000,
+      "parcelNum": "4024-565-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12898,
+      "row_id": 66
+    },
+    {
+      "assetId": 10010321.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2016-11-14",
+      "dealAmount": 917000,
+      "parcelNum": "4024-563-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-03-12",
+          "dealAmount": 650000
+        }
+      ],
+      "trend": {
+        "rate": 41.1,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 12392,
+      "row_id": 67
+    },
+    {
+      "assetId": 10010285.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2016-09-22",
+      "dealAmount": 1015000,
+      "parcelNum": "4024-562-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 85.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-08-11",
+          "dealAmount": 800000
+        }
+      ],
+      "trend": {
+        "rate": 26.9,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 11941,
+      "row_id": 68
+    },
+    {
+      "assetId": 10010294.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2016-09-19",
+      "dealAmount": 729000,
+      "parcelNum": "4024-562-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-17",
+          "dealAmount": 507000
+        }
+      ],
+      "trend": {
+        "rate": 43.8,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 11571,
+      "row_id": 69
+    },
+    {
+      "assetId": 10010367.0,
+      "addressId": 53709143,
+      "polygonId": "52399706",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 14",
+      "dealDate": "2016-08-03",
+      "dealAmount": 530000,
+      "parcelNum": "4024-564-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 34.6,
+      "yearBuilt": 1975,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15318,
+      "row_id": 70
+    },
+    {
+      "assetId": 10010389.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2016-07-01",
+      "dealAmount": 820000,
+      "parcelNum": "4024-565-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12462,
+      "row_id": 71
+    },
+    {
+      "assetId": 10010352.0,
+      "addressId": 53709143,
+      "polygonId": "52399706",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 14",
+      "dealDate": "2016-05-19",
+      "dealAmount": 500000,
+      "parcelNum": "4024-564-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 34.6,
+      "yearBuilt": 1975,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-02-01",
+          "dealAmount": 100000
+        }
+      ],
+      "trend": {
+        "rate": 400.0,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 14706,
+      "row_id": 72
+    },
+    {
+      "assetId": 10010445.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2015-06-14",
+      "dealAmount": 750000,
+      "parcelNum": "4024-566-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-05-24",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 108.3,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 11538,
+      "row_id": 73
+    },
+    {
+      "assetId": 10010385.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2014-06-05",
+      "dealAmount": 750000,
+      "parcelNum": "4024-565-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-08-18",
+          "dealAmount": 342000
+        }
+      ],
+      "trend": {
+        "rate": 119.3,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 74
+    },
+    {
+      "assetId": 10010270.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2013-05-26",
+      "dealAmount": 595000,
+      "parcelNum": "4024-562-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 84.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7083,
+      "row_id": 75
+    },
+    {
+      "assetId": 10010293.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2013-05-21",
+      "dealAmount": 660000,
+      "parcelNum": "4024-562-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 85.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7765,
+      "row_id": 76
+    },
+    {
+      "assetId": 10010291.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2012-09-09",
+      "dealAmount": 552000,
+      "parcelNum": "4024-562-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-06-15",
+          "dealAmount": 368000
+        }
+      ],
+      "trend": {
+        "rate": 50.0,
+        "years": 14.2
+      },
+      "ownership": [],
+      "priceSM": 8762,
+      "row_id": 77
+    },
+    {
+      "assetId": 10010335.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2012-08-13",
+      "dealAmount": 578000,
+      "parcelNum": "4024-563-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7811,
+      "row_id": 78
+    },
+    {
+      "assetId": 10010273.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2012-07-12",
+      "dealAmount": 600000,
+      "parcelNum": "4024-562-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 89.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-07",
+          "dealAmount": 540000
+        }
+      ],
+      "trend": {
+        "rate": 11.1,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 6742,
+      "row_id": 79
+    },
+    {
+      "assetId": 10010295.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2012-05-30",
+      "dealAmount": 510000,
+      "parcelNum": "4024-562-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8095,
+      "row_id": 80
+    },
+    {
+      "assetId": 10010286.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2012-03-04",
+      "dealAmount": 500000,
+      "parcelNum": "4024-562-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7937,
+      "row_id": 81
+    },
+    {
+      "assetId": 10010302.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2011-09-05",
+      "dealAmount": 605000,
+      "parcelNum": "4024-562-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 84.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7202,
+      "row_id": 84
+    },
+    {
+      "assetId": 10010305.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2011-07-28",
+      "dealAmount": 400000,
+      "parcelNum": "4024-562-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6349,
+      "row_id": 85
+    },
+    {
+      "assetId": 10010429.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2011-07-18",
+      "dealAmount": 765000,
+      "parcelNum": "4024-566-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 77.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-07-08",
+          "dealAmount": 295000
+        }
+      ],
+      "trend": {
+        "rate": 159.3,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 9935,
+      "row_id": 86
+    },
+    {
+      "assetId": 10010409.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2011-06-14",
+      "dealAmount": 400000,
+      "parcelNum": "4024-565-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-20",
+          "dealAmount": 525000
+        }
+      ],
+      "trend": {
+        "rate": -23.8,
+        "years": 0.3
+      },
+      "ownership": [],
+      "priceSM": 6154,
+      "row_id": 87
+    },
+    {
+      "assetId": 10010316.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2010-09-20",
+      "dealAmount": 410000,
+      "parcelNum": "4024-562-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6508,
+      "row_id": 88
+    },
+    {
+      "assetId": 10010435.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2010-01-03",
+      "dealAmount": 475000,
+      "parcelNum": "4024-566-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7219,
+      "row_id": 89
+    },
+    {
+      "assetId": 10010408.0,
+      "addressId": 53707821,
+      "polygonId": "52441793",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "דוד המלך 19",
+      "dealDate": "2009-11-22",
+      "dealAmount": 375000,
+      "parcelNum": "4024-565-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 77.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000421,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4820,
+      "row_id": 90
+    },
+    {
+      "assetId": 10010422.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2009-08-18",
+      "dealAmount": 505000,
+      "parcelNum": "4024-566-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 69.1,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7308,
+      "row_id": 91
+    },
+    {
+      "assetId": 10010351.0,
+      "addressId": 53709143,
+      "polygonId": "52399706",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 14",
+      "dealDate": "2009-07-07",
+      "dealAmount": 121000,
+      "parcelNum": "4024-564-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 33.6,
+      "yearBuilt": 1975,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3601,
+      "row_id": 92
+    },
+    {
+      "assetId": 10010299.0,
+      "addressId": 68634865,
+      "polygonId": "53292851",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 5",
+      "dealDate": "2009-05-14",
+      "dealAmount": 265000,
+      "parcelNum": "4024-562-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 63.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4206,
+      "row_id": 93
+    },
+    {
+      "assetId": 10010425.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2009-05-10",
+      "dealAmount": 365000,
+      "parcelNum": "4024-566-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5547,
+      "row_id": 94
+    },
+    {
+      "assetId": 10010338.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2008-04-15",
+      "dealAmount": 285000,
+      "parcelNum": "4024-563-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3851,
+      "row_id": 95
+    },
+    {
+      "assetId": 10010446.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2007-12-25",
+      "dealAmount": 286000,
+      "parcelNum": "4024-566-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3768,
+      "row_id": 96
+    },
+    {
+      "assetId": 10010341.0,
+      "addressId": 53708534,
+      "polygonId": "52402777",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 16",
+      "dealDate": "2006-08-15",
+      "dealAmount": 284000,
+      "parcelNum": "4024-563-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 69.0,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4116,
+      "row_id": 97
+    },
+    {
+      "assetId": 10010440.0,
+      "addressId": 53709152,
+      "polygonId": "53324024",
+      "neighborhoodName": "שגיא ב",
+      "neighborhoodId": 65210312,
+      "address": "אלפעל 12",
+      "dealDate": "2006-06-05",
+      "dealAmount": 214000,
+      "parcelNum": "4024-566-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 70000554,
+      "settlmentID": 7000,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3252,
+      "row_id": 98
+    }
+  ]
+}

@@ -1,0 +1,5697 @@
+{
+  "neighborhood_name": "בקמה",
+  "city_name": "אשדוד",
+  "transaction_count": 165,
+  "transactions": [
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2025-07-24",
+      "dealAmount": 2150000,
+      "parcelNum": "2077-127-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשירית",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28667,
+      "row_id": 1
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2025-07-06",
+      "dealAmount": 2600000,
+      "parcelNum": "2077-127-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26000,
+      "row_id": 2
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2025-07-03",
+      "dealAmount": 2450000,
+      "parcelNum": "2077-127-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים ואחת",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32237,
+      "row_id": 3
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2025-05-14",
+      "dealAmount": 2670000,
+      "parcelNum": "2077-127-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שתים עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26700,
+      "row_id": 5
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2025-05-05",
+      "dealAmount": 2590000,
+      "parcelNum": "2077-127-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25900,
+      "row_id": 6
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2025-03-31",
+      "dealAmount": 2190000,
+      "parcelNum": "2077-229-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31739,
+      "row_id": 7
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2025-03-19",
+      "dealAmount": 3150000,
+      "parcelNum": "2062-23-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שש עשרה",
+      "assetArea": 105.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30000,
+      "row_id": 8
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2025-03-17",
+      "dealAmount": 2277000,
+      "parcelNum": "2077-229-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשע עשרה",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 33000,
+      "row_id": 9
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2025-02-27",
+      "dealAmount": 2502000,
+      "parcelNum": "2077-127-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-02-27",
+          "dealAmount": 3162000
+        }
+      ],
+      "trend": {
+        "rate": -20.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 32921,
+      "row_id": 10
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2025-02-26",
+      "dealAmount": 3133000,
+      "parcelNum": "2077-229-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשע עשרה",
+      "assetArea": 120.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26108,
+      "row_id": 11
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2025-02-25",
+      "dealAmount": 3165000,
+      "parcelNum": "2077-127-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשרים וחמש",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31650,
+      "row_id": 12
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2025-02-19",
+      "dealAmount": 2690000,
+      "parcelNum": "2077-229-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26900,
+      "row_id": 13
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2025-02-11",
+      "dealAmount": 3128000,
+      "parcelNum": "2077-127-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמש עשרה",
+      "assetArea": 119.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26286,
+      "row_id": 14
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2025-02-09",
+      "dealAmount": 3052000,
+      "parcelNum": "2077-127-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 119.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25647,
+      "row_id": 15
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2025-01-23",
+      "dealAmount": 2218000,
+      "parcelNum": "2077-229-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשע עשרה",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32145,
+      "row_id": 18
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-12-31",
+      "dealAmount": 2190000,
+      "parcelNum": "2077-127-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 101.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 2650000
+        }
+      ],
+      "trend": {
+        "rate": -17.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21683,
+      "row_id": 20
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-12-30",
+      "dealAmount": 2460000,
+      "parcelNum": "2077-229-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 99.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24848,
+      "row_id": 21
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-12-26",
+      "dealAmount": 2684000,
+      "parcelNum": "2077-127-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26840,
+      "row_id": 22
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-12-23",
+      "dealAmount": 2080000,
+      "parcelNum": "2077-127-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27733,
+      "row_id": 23
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-12-17",
+      "dealAmount": 2550000,
+      "parcelNum": "2077-229-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 99.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25758,
+      "row_id": 24
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2024-12-08",
+      "dealAmount": 1718000,
+      "parcelNum": "2062-23-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 105.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-12-08",
+          "dealAmount": 1287000
+        }
+      ],
+      "trend": {
+        "rate": 33.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 16362,
+      "row_id": 25
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-12-05",
+      "dealAmount": 2500000,
+      "parcelNum": "2077-229-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 99.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25253,
+      "row_id": 26
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-12-05",
+      "dealAmount": 2120000,
+      "parcelNum": "2077-127-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שתים עשרה",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28267,
+      "row_id": 27
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-12-01",
+      "dealAmount": 2757000,
+      "parcelNum": "2077-127-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שבע עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-12-01",
+          "dealAmount": 2600000
+        }
+      ],
+      "trend": {
+        "rate": 6.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 27570,
+      "row_id": 28
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-11-28",
+      "dealAmount": 2180000,
+      "parcelNum": "2077-127-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-11-28",
+          "dealAmount": 2517000
+        }
+      ],
+      "trend": {
+        "rate": -13.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21800,
+      "row_id": 29
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-11-28",
+      "dealAmount": 2207000,
+      "parcelNum": "2077-229-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31986,
+      "row_id": 30
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-11-25",
+      "dealAmount": 3153000,
+      "parcelNum": "2077-229-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשרים",
+      "assetArea": 120.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26275,
+      "row_id": 31
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-11-21",
+      "dealAmount": 2580000,
+      "parcelNum": "2077-229-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 101.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25545,
+      "row_id": 32
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-11-20",
+      "dealAmount": 2435000,
+      "parcelNum": "2077-127-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שתים עשרה",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32039,
+      "row_id": 33
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-11-20",
+      "dealAmount": 2520000,
+      "parcelNum": "2077-229-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 99.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25455,
+      "row_id": 34
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-11-17",
+      "dealAmount": 2060000,
+      "parcelNum": "2077-127-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27467,
+      "row_id": 35
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-11-14",
+      "dealAmount": 2613000,
+      "parcelNum": "2077-229-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 101.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25871,
+      "row_id": 36
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-11-11",
+      "dealAmount": 2600000,
+      "parcelNum": "2077-229-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 101.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25743,
+      "row_id": 37
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-11-10",
+      "dealAmount": 2720000,
+      "parcelNum": "2077-229-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "אחת עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27200,
+      "row_id": 38
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-11-03",
+      "dealAmount": 2500000,
+      "parcelNum": "2077-127-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32895,
+      "row_id": 39
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-10-31",
+      "dealAmount": 2500000,
+      "parcelNum": "2077-229-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 99.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25253,
+      "row_id": 40
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-10-31",
+      "dealAmount": 2070000,
+      "parcelNum": "2077-127-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמש עשרה",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-10-31",
+          "dealAmount": 2080000
+        }
+      ],
+      "trend": {
+        "rate": -0.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 27600,
+      "row_id": 41
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-10-29",
+      "dealAmount": 2020000,
+      "parcelNum": "2077-127-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שתים עשרה",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26933,
+      "row_id": 42
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-10-27",
+      "dealAmount": 2081000,
+      "parcelNum": "2077-127-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שש עשרה",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27747,
+      "row_id": 43
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-10-15",
+      "dealAmount": 2582000,
+      "parcelNum": "2077-127-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-10-15",
+          "dealAmount": 2405000
+        },
+        {
+          "dealDate": "2024-10-15",
+          "dealAmount": 2030000
+        },
+        {
+          "dealDate": "2024-10-15",
+          "dealAmount": 2577000
+        }
+      ],
+      "trend": {
+        "rate": 7.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 25820,
+      "row_id": 44
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-10-10",
+      "dealAmount": 3890000,
+      "parcelNum": "2077-229-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 130.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29923,
+      "row_id": 45
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-10-08",
+      "dealAmount": 2570000,
+      "parcelNum": "2077-229-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 101.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25446,
+      "row_id": 46
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-09-30",
+      "dealAmount": 2040000,
+      "parcelNum": "2077-127-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמש עשרה",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-09-30",
+          "dealAmount": 2445000
+        }
+      ],
+      "trend": {
+        "rate": -16.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 26842,
+      "row_id": 47
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-09-26",
+      "dealAmount": 2050000,
+      "parcelNum": "2077-127-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שתים עשרה",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27333,
+      "row_id": 48
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-09-25",
+      "dealAmount": 2192000,
+      "parcelNum": "2077-229-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-09-25",
+          "dealAmount": 2891000
+        }
+      ],
+      "trend": {
+        "rate": -24.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21920,
+      "row_id": 49
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-09-17",
+      "dealAmount": 2544000,
+      "parcelNum": "2077-229-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 99.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25697,
+      "row_id": 50
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-09-16",
+      "dealAmount": 2875000,
+      "parcelNum": "2077-229-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 101.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28465,
+      "row_id": 51
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-08-26",
+      "dealAmount": 3447000,
+      "parcelNum": "2077-229-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28725,
+      "row_id": 52
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-08-15",
+      "dealAmount": 2173000,
+      "parcelNum": "2077-229-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שש עשרה",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31493,
+      "row_id": 54
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-08-06",
+      "dealAmount": 3254000,
+      "parcelNum": "2077-229-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשרים ושלוש",
+      "assetArea": 120.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27117,
+      "row_id": 56
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-07-31",
+      "dealAmount": 2200000,
+      "parcelNum": "2077-229-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31884,
+      "row_id": 57
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-07-30",
+      "dealAmount": 2356000,
+      "parcelNum": "2077-127-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שש עשרה",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31000,
+      "row_id": 58
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-07-24",
+      "dealAmount": 2757000,
+      "parcelNum": "2077-127-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שבע עשרה",
+      "assetArea": 99.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27848,
+      "row_id": 59
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-07-22",
+      "dealAmount": 2450000,
+      "parcelNum": "2077-127-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32237,
+      "row_id": 60
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-07-21",
+      "dealAmount": 2574000,
+      "parcelNum": "2077-127-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25740,
+      "row_id": 61
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-07-18",
+      "dealAmount": 3075000,
+      "parcelNum": "2077-127-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 119.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25840,
+      "row_id": 62
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-07-16",
+      "dealAmount": 2673000,
+      "parcelNum": "2077-127-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 101.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-07-16",
+          "dealAmount": 2380000
+        }
+      ],
+      "trend": {
+        "rate": 12.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 26465,
+      "row_id": 63
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-07-14",
+      "dealAmount": 2205000,
+      "parcelNum": "2077-229-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31957,
+      "row_id": 64
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-07-10",
+      "dealAmount": 2514000,
+      "parcelNum": "2077-127-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25140,
+      "row_id": 65
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-07-08",
+      "dealAmount": 2590000,
+      "parcelNum": "2077-127-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25900,
+      "row_id": 66
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-07-04",
+      "dealAmount": 2544000,
+      "parcelNum": "2077-127-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים וחמש",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 33474,
+      "row_id": 67
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-07-02",
+      "dealAmount": 2925000,
+      "parcelNum": "2077-229-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשרים וארבע",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-07-02",
+          "dealAmount": 2940000
+        }
+      ],
+      "trend": {
+        "rate": -0.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 29250,
+      "row_id": 68
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-07-01",
+      "dealAmount": 2550000,
+      "parcelNum": "2077-229-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25500,
+      "row_id": 69
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-06-30",
+      "dealAmount": 2965000,
+      "parcelNum": "2077-127-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-06-30",
+          "dealAmount": 2500000
+        },
+        {
+          "dealDate": "2024-06-30",
+          "dealAmount": 2905000
+        }
+      ],
+      "trend": {
+        "rate": 18.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 29650,
+      "row_id": 70
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-06-27",
+      "dealAmount": 2525000,
+      "parcelNum": "2077-229-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 99.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25505,
+      "row_id": 71
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-06-27",
+      "dealAmount": 2995000,
+      "parcelNum": "2077-127-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשרים",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-06-27",
+          "dealAmount": 3025000
+        }
+      ],
+      "trend": {
+        "rate": -1.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 29950,
+      "row_id": 72
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-06-26",
+      "dealAmount": 2215000,
+      "parcelNum": "2077-229-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-06-26",
+          "dealAmount": 2715000
+        }
+      ],
+      "trend": {
+        "rate": -18.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 22150,
+      "row_id": 73
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-06-25",
+      "dealAmount": 2375000,
+      "parcelNum": "2077-127-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31250,
+      "row_id": 74
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-06-19",
+      "dealAmount": 2623000,
+      "parcelNum": "2077-229-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 101.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25970,
+      "row_id": 75
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-06-10",
+      "dealAmount": 2891000,
+      "parcelNum": "2077-229-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28910,
+      "row_id": 76
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-06-10",
+      "dealAmount": 2640000,
+      "parcelNum": "2077-127-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשירית",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26400,
+      "row_id": 77
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-06-06",
+      "dealAmount": 2730000,
+      "parcelNum": "2077-229-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שש עשרה",
+      "assetArea": 120.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-06-06",
+          "dealAmount": 3331000
+        }
+      ],
+      "trend": {
+        "rate": -18.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 22750,
+      "row_id": 78
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-06-05",
+      "dealAmount": 2192000,
+      "parcelNum": "2077-229-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים ושתיים",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31768,
+      "row_id": 79
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-06-04",
+      "dealAmount": 2700000,
+      "parcelNum": "2077-229-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27000,
+      "row_id": 80
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-06-02",
+      "dealAmount": 2846000,
+      "parcelNum": "2077-127-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28460,
+      "row_id": 81
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-06-02",
+      "dealAmount": 2791000,
+      "parcelNum": "2077-229-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27910,
+      "row_id": 82
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-05-30",
+      "dealAmount": 2969000,
+      "parcelNum": "2077-229-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-05-30",
+          "dealAmount": 2715000
+        },
+        {
+          "dealDate": "2024-05-30",
+          "dealAmount": 2098000
+        },
+        {
+          "dealDate": "2024-05-30",
+          "dealAmount": 2955000
+        }
+      ],
+      "trend": {
+        "rate": 9.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 29690,
+      "row_id": 83
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-05-29",
+      "dealAmount": 2195000,
+      "parcelNum": "2077-229-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31812,
+      "row_id": 84
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-05-27",
+      "dealAmount": 2243000,
+      "parcelNum": "2077-127-60",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 73.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30726,
+      "row_id": 85
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-05-26",
+      "dealAmount": 2098000,
+      "parcelNum": "2077-229-60",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-05-26",
+          "dealAmount": 2143000
+        }
+      ],
+      "trend": {
+        "rate": -2.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 30406,
+      "row_id": 86
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-05-21",
+      "dealAmount": 2830000,
+      "parcelNum": "2077-127-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28300,
+      "row_id": 87
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-05-12",
+      "dealAmount": 2150000,
+      "parcelNum": "2077-229-62",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "אחת עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-05-12",
+          "dealAmount": 2628000
+        }
+      ],
+      "trend": {
+        "rate": -18.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21500,
+      "row_id": 89
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-05-08",
+      "dealAmount": 2108000,
+      "parcelNum": "2077-229-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30551,
+      "row_id": 90
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-05-07",
+      "dealAmount": 1115000,
+      "parcelNum": "2077-127-62",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14867,
+      "row_id": 91
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-05-07",
+      "dealAmount": 2090000,
+      "parcelNum": "2077-229-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 101.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20693,
+      "row_id": 92
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-05-06",
+      "dealAmount": 2598000,
+      "parcelNum": "2077-229-66",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשיעית",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25980,
+      "row_id": 93
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-05-05",
+      "dealAmount": 2685000,
+      "parcelNum": "2077-229-67",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26850,
+      "row_id": 94
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-05-02",
+      "dealAmount": 2509000,
+      "parcelNum": "2077-127-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 77.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32584,
+      "row_id": 95
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-04-21",
+      "dealAmount": 2353000,
+      "parcelNum": "2077-127-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30961,
+      "row_id": 96
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-04-21",
+      "dealAmount": 2128000,
+      "parcelNum": "2077-229-68",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים ואחת",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-21",
+          "dealAmount": 2777000
+        }
+      ],
+      "trend": {
+        "rate": -23.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21280,
+      "row_id": 97
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-04-18",
+      "dealAmount": 2905000,
+      "parcelNum": "2077-127-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שבע עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29050,
+      "row_id": 98
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-04-17",
+      "dealAmount": 2745000,
+      "parcelNum": "2077-127-66",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שתים עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27450,
+      "row_id": 99
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-04-17",
+      "dealAmount": 2643000,
+      "parcelNum": "2077-229-70",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שתים עשרה",
+      "assetArea": 120.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-17",
+          "dealAmount": 3380000
+        }
+      ],
+      "trend": {
+        "rate": -21.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 22025,
+      "row_id": 100
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-04-16",
+      "dealAmount": 2593000,
+      "parcelNum": "2077-127-67",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25930,
+      "row_id": 101
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-04-16",
+      "dealAmount": 2775000,
+      "parcelNum": "2077-229-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשע עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27750,
+      "row_id": 102
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-04-15",
+      "dealAmount": 2791000,
+      "parcelNum": "2077-229-73",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשרים ותשע",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-15",
+          "dealAmount": 2747000
+        },
+        {
+          "dealDate": "2024-04-15",
+          "dealAmount": 2643000
+        },
+        {
+          "dealDate": "2024-04-15",
+          "dealAmount": 2165000
+        }
+      ],
+      "trend": {
+        "rate": 1.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 27910,
+      "row_id": 103
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-04-15",
+      "dealAmount": 2790000,
+      "parcelNum": "2077-127-68",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמש עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27900,
+      "row_id": 104
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-04-14",
+      "dealAmount": 2717000,
+      "parcelNum": "2077-229-77",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שבע עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27170,
+      "row_id": 107
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-04-12",
+      "dealAmount": 2775000,
+      "parcelNum": "2077-229-78",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשע עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27750,
+      "row_id": 108
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-04-10",
+      "dealAmount": 2100000,
+      "parcelNum": "2077-229-79",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-10",
+          "dealAmount": 3267000
+        },
+        {
+          "dealDate": "2024-04-10",
+          "dealAmount": 2205000
+        }
+      ],
+      "trend": {
+        "rate": -35.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 30435,
+      "row_id": 109
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-04-09",
+      "dealAmount": 1117000,
+      "parcelNum": "2077-127-69",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-09",
+          "dealAmount": 1108000
+        }
+      ],
+      "trend": {
+        "rate": 0.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14893,
+      "row_id": 110
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-04-07",
+      "dealAmount": 2310000,
+      "parcelNum": "2077-127-71",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-07",
+          "dealAmount": 2981000
+        }
+      ],
+      "trend": {
+        "rate": -22.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 28875,
+      "row_id": 111
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-04-04",
+      "dealAmount": 3187000,
+      "parcelNum": "2077-229-82",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשרים ואחת",
+      "assetArea": 120.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26558,
+      "row_id": 112
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-04-03",
+      "dealAmount": 2145000,
+      "parcelNum": "2077-229-83",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים ושלוש",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-03",
+          "dealAmount": 2890000
+        }
+      ],
+      "trend": {
+        "rate": -25.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21450,
+      "row_id": 113
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-04-01",
+      "dealAmount": 2610000,
+      "parcelNum": "2077-229-85",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשע עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-01",
+          "dealAmount": 2185000
+        }
+      ],
+      "trend": {
+        "rate": 19.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 26100,
+      "row_id": 114
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-03-31",
+      "dealAmount": 2790000,
+      "parcelNum": "2077-229-87",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשרים",
+      "assetArea": 100.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27900,
+      "row_id": 115
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2024-03-26",
+      "dealAmount": 2182000,
+      "parcelNum": "2077-229-89",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים ואחת",
+      "assetArea": 69.0,
+      "yearBuilt": 2024,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31623,
+      "row_id": 116
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-03-21",
+      "dealAmount": 2650000,
+      "parcelNum": "2077-127-73",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשירית",
+      "assetArea": 120.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-03-21",
+          "dealAmount": 2995000
+        },
+        {
+          "dealDate": "2024-03-21",
+          "dealAmount": 2967000
+        }
+      ],
+      "trend": {
+        "rate": -11.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 22083,
+      "row_id": 117
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-03-17",
+      "dealAmount": 1130000,
+      "parcelNum": "2077-127-76",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 73.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15479,
+      "row_id": 118
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-03-12",
+      "dealAmount": 2695000,
+      "parcelNum": "2077-127-77",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 101.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26683,
+      "row_id": 119
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-03-11",
+      "dealAmount": 2116000,
+      "parcelNum": "2077-127-78",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27842,
+      "row_id": 120
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-03-03",
+      "dealAmount": 1105000,
+      "parcelNum": "2077-127-79",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14733,
+      "row_id": 121
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-02-29",
+      "dealAmount": 1095000,
+      "parcelNum": "2077-127-80",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 101.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 2515000
+        }
+      ],
+      "trend": {
+        "rate": -56.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10842,
+      "row_id": 122
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-02-28",
+      "dealAmount": 1981000,
+      "parcelNum": "2077-127-82",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 73.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27137,
+      "row_id": 123
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-02-22",
+      "dealAmount": 2254000,
+      "parcelNum": "2077-127-83",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29658,
+      "row_id": 124
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-02-21",
+      "dealAmount": 1104000,
+      "parcelNum": "2077-127-84",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-02-21",
+          "dealAmount": 1167000
+        },
+        {
+          "dealDate": "2024-02-21",
+          "dealAmount": 1125000
+        },
+        {
+          "dealDate": "2024-02-21",
+          "dealAmount": 1101000
+        },
+        {
+          "dealDate": "2024-02-21",
+          "dealAmount": 1129000
+        },
+        {
+          "dealDate": "2024-02-21",
+          "dealAmount": 1134000
+        },
+        {
+          "dealDate": "2024-02-21",
+          "dealAmount": 1466000
+        },
+        {
+          "dealDate": "2024-02-21",
+          "dealAmount": 1127000
+        },
+        {
+          "dealDate": "2024-02-21",
+          "dealAmount": 1122000
+        },
+        {
+          "dealDate": "2024-02-21",
+          "dealAmount": 1106000
+        }
+      ],
+      "trend": {
+        "rate": -5.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 11040,
+      "row_id": 125
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-02-12",
+      "dealAmount": 2460000,
+      "parcelNum": "2077-127-95",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24600,
+      "row_id": 127
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-02-11",
+      "dealAmount": 1110000,
+      "parcelNum": "2077-127-96",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שש עשרה",
+      "assetArea": 99.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-02-11",
+          "dealAmount": 1141000
+        },
+        {
+          "dealDate": "2024-02-11",
+          "dealAmount": 1100000
+        },
+        {
+          "dealDate": "2024-02-11",
+          "dealAmount": 1113000
+        },
+        {
+          "dealDate": "2024-02-11",
+          "dealAmount": 1116000
+        },
+        {
+          "dealDate": "2024-02-11",
+          "dealAmount": 1101000
+        },
+        {
+          "dealDate": "2024-02-11",
+          "dealAmount": 1132000
+        },
+        {
+          "dealDate": "2024-02-11",
+          "dealAmount": 1091000
+        },
+        {
+          "dealDate": "2024-02-11",
+          "dealAmount": 1105000
+        },
+        {
+          "dealDate": "2024-02-11",
+          "dealAmount": 1123000
+        },
+        {
+          "dealDate": "2024-02-11",
+          "dealAmount": 1160000
+        },
+        {
+          "dealDate": "2024-02-11",
+          "dealAmount": 2548000
+        },
+        {
+          "dealDate": "2024-02-11",
+          "dealAmount": 1122000
+        }
+      ],
+      "trend": {
+        "rate": -2.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 11212,
+      "row_id": 128
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-02-06",
+      "dealAmount": 1127000,
+      "parcelNum": "2077-127-111",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15438,
+      "row_id": 129
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-02-05",
+      "dealAmount": 1960000,
+      "parcelNum": "2077-127-112",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 73.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26849,
+      "row_id": 130
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-31",
+      "dealAmount": 2156000,
+      "parcelNum": "2077-127-113",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמש עשרה",
+      "assetArea": 77.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-31",
+          "dealAmount": 1986000
+        }
+      ],
+      "trend": {
+        "rate": 8.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 28000,
+      "row_id": 131
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-30",
+      "dealAmount": 1972000,
+      "parcelNum": "2077-127-115",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-30",
+          "dealAmount": 2465000
+        },
+        {
+          "dealDate": "2024-01-30",
+          "dealAmount": 2099000
+        },
+        {
+          "dealDate": "2024-01-30",
+          "dealAmount": 2421000
+        },
+        {
+          "dealDate": "2024-01-30",
+          "dealAmount": 2600000
+        },
+        {
+          "dealDate": "2024-01-30",
+          "dealAmount": 2016000
+        },
+        {
+          "dealDate": "2024-01-30",
+          "dealAmount": 2001000
+        },
+        {
+          "dealDate": "2024-01-30",
+          "dealAmount": 2140000
+        }
+      ],
+      "trend": {
+        "rate": -20.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 19720,
+      "row_id": 132
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-29",
+      "dealAmount": 1089000,
+      "parcelNum": "2077-127-123",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 73.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1106000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1199000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1156000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1230000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1115000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1142000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1120000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1789000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1103000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1143000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1105000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1145000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 1101000
+        },
+        {
+          "dealDate": "2024-01-29",
+          "dealAmount": 2025000
+        }
+      ],
+      "trend": {
+        "rate": -1.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14918,
+      "row_id": 133
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-28",
+      "dealAmount": 1982000,
+      "parcelNum": "2077-127-138",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-28",
+          "dealAmount": 1830000
+        },
+        {
+          "dealDate": "2024-01-28",
+          "dealAmount": 2025000
+        },
+        {
+          "dealDate": "2024-01-28",
+          "dealAmount": 1134000
+        },
+        {
+          "dealDate": "2024-01-28",
+          "dealAmount": 2087000
+        },
+        {
+          "dealDate": "2024-01-28",
+          "dealAmount": 1862000
+        },
+        {
+          "dealDate": "2024-01-28",
+          "dealAmount": 2660000
+        }
+      ],
+      "trend": {
+        "rate": 8.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 27151,
+      "row_id": 135
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-25",
+      "dealAmount": 1834000,
+      "parcelNum": "2077-127-145",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשירית",
+      "assetArea": 120.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1110000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1467000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 2018000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1482000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1793000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1459000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1130000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1112000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1461000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1450000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1504000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1118000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1151000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1466000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1123000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 1213000
+        },
+        {
+          "dealDate": "2024-01-25",
+          "dealAmount": 2431000
+        }
+      ],
+      "trend": {
+        "rate": 65.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 15283,
+      "row_id": 136
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-24",
+      "dealAmount": 2119000,
+      "parcelNum": "2077-127-167",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-24",
+          "dealAmount": 1796000
+        },
+        {
+          "dealDate": "2024-01-24",
+          "dealAmount": 1967000
+        },
+        {
+          "dealDate": "2024-01-24",
+          "dealAmount": 1466000
+        }
+      ],
+      "trend": {
+        "rate": 18.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 26823,
+      "row_id": 140
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-23",
+      "dealAmount": 1938000,
+      "parcelNum": "2077-127-171",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 73.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26548,
+      "row_id": 141
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-22",
+      "dealAmount": 2147000,
+      "parcelNum": "2077-127-172",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשירית",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-22",
+          "dealAmount": 1992000
+        },
+        {
+          "dealDate": "2024-01-22",
+          "dealAmount": 1976000
+        },
+        {
+          "dealDate": "2024-01-22",
+          "dealAmount": 2109000
+        },
+        {
+          "dealDate": "2024-01-22",
+          "dealAmount": 1977000
+        },
+        {
+          "dealDate": "2024-01-22",
+          "dealAmount": 2061000
+        }
+      ],
+      "trend": {
+        "rate": 7.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 27177,
+      "row_id": 143
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-21",
+      "dealAmount": 1180000,
+      "parcelNum": "2077-127-178",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 1462000
+        },
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 1466000
+        },
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 1807000
+        },
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 1131000
+        },
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 1455000
+        },
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 1474000
+        },
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 1195000
+        },
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 1116000
+        },
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 3040000
+        },
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 1132000
+        },
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 1450000
+        },
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 1145000
+        },
+        {
+          "dealDate": "2024-01-21",
+          "dealAmount": 1201000
+        }
+      ],
+      "trend": {
+        "rate": -19.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 15526,
+      "row_id": 144
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-18",
+      "dealAmount": 1095000,
+      "parcelNum": "2077-127-198",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-18",
+          "dealAmount": 1101000
+        },
+        {
+          "dealDate": "2024-01-18",
+          "dealAmount": 1099000
+        },
+        {
+          "dealDate": "2024-01-18",
+          "dealAmount": 1160000
+        },
+        {
+          "dealDate": "2024-01-18",
+          "dealAmount": 1107000
+        },
+        {
+          "dealDate": "2024-01-18",
+          "dealAmount": 1103000
+        }
+      ],
+      "trend": {
+        "rate": -0.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14600,
+      "row_id": 145
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-17",
+      "dealAmount": 2006000,
+      "parcelNum": "2077-127-206",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 73.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-17",
+          "dealAmount": 2090000
+        },
+        {
+          "dealDate": "2024-01-17",
+          "dealAmount": 3066000
+        },
+        {
+          "dealDate": "2024-01-17",
+          "dealAmount": 1991000
+        },
+        {
+          "dealDate": "2024-01-17",
+          "dealAmount": 2099000
+        },
+        {
+          "dealDate": "2024-01-17",
+          "dealAmount": 2160000
+        },
+        {
+          "dealDate": "2024-01-17",
+          "dealAmount": 2087000
+        },
+        {
+          "dealDate": "2024-01-17",
+          "dealAmount": 2059000
+        }
+      ],
+      "trend": {
+        "rate": -4.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 27479,
+      "row_id": 146
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-16",
+      "dealAmount": 2118000,
+      "parcelNum": "2077-127-214",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "אחת עשרה",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-16",
+          "dealAmount": 3023000
+        },
+        {
+          "dealDate": "2024-01-16",
+          "dealAmount": 2071000
+        },
+        {
+          "dealDate": "2024-01-16",
+          "dealAmount": 3051000
+        }
+      ],
+      "trend": {
+        "rate": -29.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 27868,
+      "row_id": 147
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-15",
+      "dealAmount": 2128000,
+      "parcelNum": "2077-127-218",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שתים עשרה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-15",
+          "dealAmount": 1977000
+        },
+        {
+          "dealDate": "2024-01-15",
+          "dealAmount": 1201000
+        },
+        {
+          "dealDate": "2024-01-15",
+          "dealAmount": 1987000
+        }
+      ],
+      "trend": {
+        "rate": 7.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 26600,
+      "row_id": 148
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-11",
+      "dealAmount": 2009000,
+      "parcelNum": "2077-127-222",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-11",
+          "dealAmount": 2047000
+        },
+        {
+          "dealDate": "2024-01-11",
+          "dealAmount": 2028000
+        },
+        {
+          "dealDate": "2024-01-11",
+          "dealAmount": 2016000
+        },
+        {
+          "dealDate": "2024-01-11",
+          "dealAmount": 1950000
+        }
+      ],
+      "trend": {
+        "rate": -1.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 26787,
+      "row_id": 149
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-09",
+      "dealAmount": 1968000,
+      "parcelNum": "2077-127-228",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 73.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-09",
+          "dealAmount": 1987000
+        }
+      ],
+      "trend": {
+        "rate": -1.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 26959,
+      "row_id": 150
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-07",
+      "dealAmount": 1977000,
+      "parcelNum": "2077-127-231",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 73.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-07",
+          "dealAmount": 1968000
+        }
+      ],
+      "trend": {
+        "rate": 0.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 27082,
+      "row_id": 151
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2024-01-04",
+      "dealAmount": 2645000,
+      "parcelNum": "2077-127-233",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-04",
+          "dealAmount": 1958000
+        }
+      ],
+      "trend": {
+        "rate": 35.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 26450,
+      "row_id": 152
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2023-12-31",
+      "dealAmount": 1123000,
+      "parcelNum": "2077-127-235",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1815000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1127000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1131000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1202000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1790000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1112000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1130000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1102000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1145000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1146000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1158000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1474000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1792000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1466000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1223000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1108000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1091000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1812000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1104000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1199000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1807000
+        },
+        {
+          "dealDate": "2023-12-31",
+          "dealAmount": 1820000
+        }
+      ],
+      "trend": {
+        "rate": -38.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14776,
+      "row_id": 153
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2023-12-28",
+      "dealAmount": 1131000,
+      "parcelNum": "2077-127-266",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 76.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1215000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1118000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1450000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1125000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1202000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1123000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1462000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1198000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1480000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1454000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1474000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1122000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1494000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1466000
+        },
+        {
+          "dealDate": "2023-12-28",
+          "dealAmount": 1799000
+        }
+      ],
+      "trend": {
+        "rate": -6.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14882,
+      "row_id": 155
+    },
+    {
+      "assetId": 4083791.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2023-12-27",
+      "dealAmount": 1450250,
+      "parcelNum": "2077-127-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשיעית",
+      "assetArea": 99.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14649,
+      "row_id": 156
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2023-12-27",
+      "dealAmount": 1801000,
+      "parcelNum": "2077-127-286",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 120.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1465000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1199000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1495000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1105000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1461000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1466000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1469000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1474000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1476000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1790000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1830000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1171000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1814000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1836000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1858000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1129000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1448000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1095000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1219000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1454000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1806000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1837000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1141000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1463000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1815000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1462000
+        },
+        {
+          "dealDate": "2023-12-27",
+          "dealAmount": 1811000
+        }
+      ],
+      "trend": {
+        "rate": 22.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 15008,
+      "row_id": 157
+    },
+    {
+      "assetId": 4083975.0,
+      "addressId": 0,
+      "polygonId": "2077-127",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2023-08-31",
+      "dealAmount": 2514000,
+      "parcelNum": "2077-127-322",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שתים עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25140,
+      "row_id": 159
+    },
+    {
+      "assetId": 4499119.0,
+      "addressId": 71739201,
+      "polygonId": "53183052",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "אורט 1",
+      "dealDate": "2023-01-18",
+      "dealAmount": 33695000,
+      "parcelNum": "2077-229-90",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 4537.0,
+      "yearBuilt": 0,
+      "streetCode": 700200,
+      "settlmentID": 70,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7427,
+      "row_id": 164
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2022-07-06",
+      "dealAmount": 2938000,
+      "parcelNum": "2062-23-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשרים",
+      "assetArea": 123.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23886,
+      "row_id": 165
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2022-05-31",
+      "dealAmount": 2095000,
+      "parcelNum": "2062-23-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשירית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-05-31",
+          "dealAmount": 2650000
+        }
+      ],
+      "trend": {
+        "rate": -20.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 25549,
+      "row_id": 166
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2022-04-05",
+      "dealAmount": 1880000,
+      "parcelNum": "2062-23-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשירית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22927,
+      "row_id": 169
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2022-03-30",
+      "dealAmount": 1556000,
+      "parcelNum": "2062-23-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "עשרים ושתיים",
+      "assetArea": 57.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-30",
+          "dealAmount": 2604000
+        }
+      ],
+      "trend": {
+        "rate": -40.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 27298,
+      "row_id": 170
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2022-03-21",
+      "dealAmount": 1767000,
+      "parcelNum": "2062-23-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-21",
+          "dealAmount": 2025000
+        },
+        {
+          "dealDate": "2022-03-21",
+          "dealAmount": 2353000
+        }
+      ],
+      "trend": {
+        "rate": -12.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21549,
+      "row_id": 171
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2022-03-04",
+      "dealAmount": 1779000,
+      "parcelNum": "2062-23-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 83.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-04",
+          "dealAmount": 1744000
+        }
+      ],
+      "trend": {
+        "rate": 2.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21434,
+      "row_id": 172
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2022-01-30",
+      "dealAmount": 2605000,
+      "parcelNum": "2062-23-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשרים ושמונה",
+      "assetArea": 139.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-01-30",
+          "dealAmount": 3000000
+        }
+      ],
+      "trend": {
+        "rate": -13.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18741,
+      "row_id": 174
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2022-01-25",
+      "dealAmount": 1686000,
+      "parcelNum": "2062-23-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-01-25",
+          "dealAmount": 2288000
+        }
+      ],
+      "trend": {
+        "rate": -26.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 20561,
+      "row_id": 175
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-12-28",
+      "dealAmount": 101302000,
+      "parcelNum": "2062-23-27",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 4410.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-28",
+          "dealAmount": 123092000
+        }
+      ],
+      "trend": {
+        "rate": -17.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 22971,
+      "row_id": 178
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-12-27",
+      "dealAmount": 1665000,
+      "parcelNum": "2062-23-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 83.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-27",
+          "dealAmount": 2423000
+        },
+        {
+          "dealDate": "2021-12-27",
+          "dealAmount": 1684000
+        }
+      ],
+      "trend": {
+        "rate": -31.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 20060,
+      "row_id": 179
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-12-20",
+      "dealAmount": 2253000,
+      "parcelNum": "2062-23-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשרים ואחת",
+      "assetArea": 123.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-20",
+          "dealAmount": 2446000
+        },
+        {
+          "dealDate": "2021-12-20",
+          "dealAmount": 2457000
+        }
+      ],
+      "trend": {
+        "rate": -7.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18317,
+      "row_id": 180
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-12-19",
+      "dealAmount": 1946000,
+      "parcelNum": "2062-23-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 83.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23446,
+      "row_id": 181
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-12-02",
+      "dealAmount": 2333000,
+      "parcelNum": "2062-23-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "אחת עשרה",
+      "assetArea": 123.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18967,
+      "row_id": 182
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-12-01",
+      "dealAmount": 2265000,
+      "parcelNum": "2062-23-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שבע עשרה",
+      "assetArea": 123.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-01",
+          "dealAmount": 2401000
+        }
+      ],
+      "trend": {
+        "rate": -5.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18415,
+      "row_id": 183
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-11-26",
+      "dealAmount": 1780000,
+      "parcelNum": "2062-23-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים ושלוש",
+      "assetArea": 83.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-26",
+          "dealAmount": 2254000
+        },
+        {
+          "dealDate": "2021-11-26",
+          "dealAmount": 2468000
+        },
+        {
+          "dealDate": "2021-11-26",
+          "dealAmount": 4800000
+        },
+        {
+          "dealDate": "2021-11-26",
+          "dealAmount": 2883000
+        }
+      ],
+      "trend": {
+        "rate": -21.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21446,
+      "row_id": 184
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-11-25",
+      "dealAmount": 1819000,
+      "parcelNum": "2062-23-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 83.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-25",
+          "dealAmount": 1701000
+        },
+        {
+          "dealDate": "2021-11-25",
+          "dealAmount": 2759000
+        },
+        {
+          "dealDate": "2021-11-25",
+          "dealAmount": 1926000
+        }
+      ],
+      "trend": {
+        "rate": 6.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21916,
+      "row_id": 185
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-11-24",
+      "dealAmount": 2728000,
+      "parcelNum": "2062-23-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשרים וחמש",
+      "assetArea": 139.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-24",
+          "dealAmount": 2119000
+        },
+        {
+          "dealDate": "2021-11-24",
+          "dealAmount": 2552000
+        }
+      ],
+      "trend": {
+        "rate": 28.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 19626,
+      "row_id": 186
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-11-23",
+      "dealAmount": 2378000,
+      "parcelNum": "2062-23-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמש עשרה",
+      "assetArea": 123.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19333,
+      "row_id": 187
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-11-07",
+      "dealAmount": 2743000,
+      "parcelNum": "2062-23-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשירית",
+      "assetArea": 139.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-07",
+          "dealAmount": 1703000
+        },
+        {
+          "dealDate": "2021-11-07",
+          "dealAmount": 1838000
+        },
+        {
+          "dealDate": "2021-11-07",
+          "dealAmount": 1761000
+        },
+        {
+          "dealDate": "2021-11-07",
+          "dealAmount": 2311000
+        },
+        {
+          "dealDate": "2021-11-07",
+          "dealAmount": 2502000
+        }
+      ],
+      "trend": {
+        "rate": 61.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 19734,
+      "row_id": 188
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-11-02",
+      "dealAmount": 2299000,
+      "parcelNum": "2062-23-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשרים וארבע",
+      "assetArea": 139.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-02",
+          "dealAmount": 2389000
+        },
+        {
+          "dealDate": "2021-11-02",
+          "dealAmount": 2344000
+        },
+        {
+          "dealDate": "2021-11-02",
+          "dealAmount": 2697000
+        },
+        {
+          "dealDate": "2021-11-02",
+          "dealAmount": 1800000
+        },
+        {
+          "dealDate": "2021-11-02",
+          "dealAmount": 2356000
+        },
+        {
+          "dealDate": "2021-11-02",
+          "dealAmount": 2480000
+        }
+      ],
+      "trend": {
+        "rate": -3.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 16540,
+      "row_id": 189
+    },
+    {
+      "assetId": 4084639.0,
+      "addressId": 72314042,
+      "polygonId": "52428604",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "ז'בוטינסקי 40",
+      "dealDate": "2021-10-28",
+      "dealAmount": 1742000,
+      "parcelNum": "2062-23-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 83.0,
+      "yearBuilt": 0,
+      "streetCode": 700181,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-10-28",
+          "dealAmount": 2367000
+        },
+        {
+          "dealDate": "2021-10-28",
+          "dealAmount": 2322000
+        },
+        {
+          "dealDate": "2021-10-28",
+          "dealAmount": 2412000
+        }
+      ],
+      "trend": {
+        "rate": -26.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 20988,
+      "row_id": 190
+    },
+    {
+      "assetId": 4083982.0,
+      "addressId": 0,
+      "polygonId": "2077-163",
+      "neighborhoodName": "בקמה",
+      "neighborhoodId": 65210071,
+      "address": "0",
+      "dealDate": "2021-08-01",
+      "dealAmount": 241257000,
+      "parcelNum": "2077-163-1",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 11416.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 70,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-08-01",
+          "dealAmount": 227144000
+        },
+        {
+          "dealDate": "2021-08-01",
+          "dealAmount": 222267000
+        }
+      ],
+      "trend": {
+        "rate": 6.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 21133,
+      "row_id": 191
+    }
+  ]
+}

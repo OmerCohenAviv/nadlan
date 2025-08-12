@@ -1,0 +1,7609 @@
+{
+  "neighborhood_name": "הרי\"ף",
+  "city_name": "אופקים",
+  "transaction_count": 243,
+  "transactions": [
+    {
+      "assetId": 50227925.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2025-07-16",
+      "dealAmount": 1300000,
+      "parcelNum": "39563-113-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-01-17",
+          "dealAmount": 860000
+        },
+        {
+          "dealDate": "2005-06-01",
+          "dealAmount": 298000
+        }
+      ],
+      "trend": {
+        "rate": 51.2,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 18056,
+      "row_id": 1
+    },
+    {
+      "assetId": 50246123.0,
+      "addressId": 53464032,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 12",
+      "dealDate": "2025-06-18",
+      "dealAmount": 1087000,
+      "parcelNum": "39850-1-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.0,
+      "yearBuilt": 1980,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-03-12",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2015-10-27",
+          "dealAmount": 569000
+        }
+      ],
+      "trend": {
+        "rate": 72.5,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 17532,
+      "row_id": 2
+    },
+    {
+      "assetId": 4497166.0,
+      "addressId": 53462997,
+      "polygonId": "53153011",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "לח\"י 29",
+      "dealDate": "2025-06-05",
+      "dealAmount": 2750000,
+      "parcelNum": "39563-44-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 275.0,
+      "yearBuilt": 1993,
+      "streetCode": 310201,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 3
+    },
+    {
+      "assetId": 50246179.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2025-04-02",
+      "dealAmount": 1150000,
+      "parcelNum": "39850-7-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 71.02,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-06-15",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2017-05-14",
+          "dealAmount": 536000
+        },
+        {
+          "dealDate": "2012-07-18",
+          "dealAmount": 376000
+        }
+      ],
+      "trend": {
+        "rate": 76.9,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 16197,
+      "row_id": 4
+    },
+    {
+      "assetId": 50246129.0,
+      "addressId": 53461759,
+      "polygonId": "65396153",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 18",
+      "dealDate": "2025-03-07",
+      "dealAmount": 1000000,
+      "parcelNum": "39850-1-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.7,
+      "yearBuilt": 1980,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-02",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2010-03-04",
+          "dealAmount": 290000
+        }
+      ],
+      "trend": {
+        "rate": 58.7,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 16949,
+      "row_id": 5
+    },
+    {
+      "assetId": 50227958.0,
+      "addressId": 53463219,
+      "polygonId": "52840015",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 4",
+      "dealDate": "2025-03-03",
+      "dealAmount": 1300000,
+      "parcelNum": "39563-115-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-12-26",
+          "dealAmount": 730000
+        },
+        {
+          "dealDate": "2004-11-25",
+          "dealAmount": 261000
+        }
+      ],
+      "trend": {
+        "rate": 78.1,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 18056,
+      "row_id": 6
+    },
+    {
+      "assetId": 50227931.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2025-02-25",
+      "dealAmount": 1195000,
+      "parcelNum": "39563-113-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-11-19",
+          "dealAmount": 610000
+        },
+        {
+          "dealDate": "2014-11-08",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2011-10-27",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 95.9,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 16597,
+      "row_id": 7
+    },
+    {
+      "assetId": 4485414.0,
+      "addressId": 53462881,
+      "polygonId": "52996243",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 5",
+      "dealDate": "2025-02-17",
+      "dealAmount": 2500000,
+      "parcelNum": "39851-15-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 394.0,
+      "yearBuilt": 1990,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6345,
+      "row_id": 8
+    },
+    {
+      "assetId": 50227897.0,
+      "addressId": 53844359,
+      "polygonId": "53444114",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "החיד\"א 11",
+      "dealDate": "2024-12-09",
+      "dealAmount": 1100000,
+      "parcelNum": "39563-110-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310176,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-20",
+          "dealAmount": 670000
+        },
+        {
+          "dealDate": "2005-09-09",
+          "dealAmount": 792000
+        }
+      ],
+      "trend": {
+        "rate": 64.2,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 15278,
+      "row_id": 9
+    },
+    {
+      "assetId": 50227953.0,
+      "addressId": 53461128,
+      "polygonId": "53425214",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 6",
+      "dealDate": "2024-12-08",
+      "dealAmount": 1100000,
+      "parcelNum": "39563-114-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 75.0,
+      "yearBuilt": 1980,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-14",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 243.8,
+        "years": 14.7
+      },
+      "ownership": [],
+      "priceSM": 14667,
+      "row_id": 10
+    },
+    {
+      "assetId": 50227959.0,
+      "addressId": 53463219,
+      "polygonId": "52840015",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 4",
+      "dealDate": "2024-11-05",
+      "dealAmount": 1290000,
+      "parcelNum": "39563-115-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-08-14",
+          "dealAmount": 430000
+        }
+      ],
+      "trend": {
+        "rate": 200.0,
+        "years": 12.2
+      },
+      "ownership": [],
+      "priceSM": 17917,
+      "row_id": 11
+    },
+    {
+      "assetId": 50246272.0,
+      "addressId": 53460990,
+      "polygonId": "53114517",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 13",
+      "dealDate": "2024-10-31",
+      "dealAmount": 1200000,
+      "parcelNum": "39852-1-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15019,
+      "row_id": 12
+    },
+    {
+      "assetId": 50227878.0,
+      "addressId": 53460621,
+      "polygonId": "52828933",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "שוהם 2",
+      "dealDate": "2024-10-30",
+      "dealAmount": 1100000,
+      "parcelNum": "39563-108-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.7,
+      "yearBuilt": 1990,
+      "streetCode": 310205,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13802,
+      "row_id": 13
+    },
+    {
+      "assetId": 50246152.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2024-10-01",
+      "dealAmount": 1095000,
+      "parcelNum": "39850-7-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.42,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-10-01",
+          "dealAmount": 540000
+        },
+        {
+          "dealDate": "2012-08-09",
+          "dealAmount": 340000
+        }
+      ],
+      "trend": {
+        "rate": 102.8,
+        "years": 10.0
+      },
+      "ownership": [],
+      "priceSM": 17951,
+      "row_id": 14
+    },
+    {
+      "assetId": 4497278.0,
+      "addressId": 53461876,
+      "polygonId": "53154587",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ספיר 1",
+      "dealDate": "2024-09-30",
+      "dealAmount": 2000000,
+      "parcelNum": "39563-85-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 247.0,
+      "yearBuilt": 1970,
+      "streetCode": 310207,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8097,
+      "row_id": 15
+    },
+    {
+      "assetId": 50246140.0,
+      "addressId": 53462282,
+      "polygonId": "65396153",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 16",
+      "dealDate": "2024-07-30",
+      "dealAmount": 1320000,
+      "parcelNum": "39850-1-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-08-28",
+          "dealAmount": 827000
+        },
+        {
+          "dealDate": "2017-05-11",
+          "dealAmount": 710000
+        },
+        {
+          "dealDate": "2014-08-26",
+          "dealAmount": 590000
+        }
+      ],
+      "trend": {
+        "rate": 59.6,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 16709,
+      "row_id": 16
+    },
+    {
+      "assetId": 50246181.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2024-07-30",
+      "dealAmount": 1115000,
+      "parcelNum": "39850-7-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.42,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-11-18",
+          "dealAmount": 715000
+        },
+        {
+          "dealDate": "2017-08-27",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2010-07-04",
+          "dealAmount": 302000
+        },
+        {
+          "dealDate": "2006-03-19",
+          "dealAmount": 209000
+        },
+        {
+          "dealDate": "2000-12-25",
+          "dealAmount": 173000
+        }
+      ],
+      "trend": {
+        "rate": 55.9,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 18279,
+      "row_id": 17
+    },
+    {
+      "assetId": 50246275.0,
+      "addressId": 53460990,
+      "polygonId": "53114517",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 13",
+      "dealDate": "2024-06-04",
+      "dealAmount": 1230000,
+      "parcelNum": "39852-1-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 77.5,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-06-11",
+          "dealAmount": 720000
+        }
+      ],
+      "trend": {
+        "rate": 70.8,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 15974,
+      "row_id": 18
+    },
+    {
+      "assetId": 50226829.0,
+      "addressId": 53461095,
+      "polygonId": "52829652",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 41",
+      "dealDate": "2024-05-03",
+      "dealAmount": 950000,
+      "parcelNum": "39556-56-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 112.0,
+      "yearBuilt": 1950,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-06-24",
+          "dealAmount": 550000
+        }
+      ],
+      "trend": {
+        "rate": 72.7,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 8482,
+      "row_id": 19
+    },
+    {
+      "assetId": 50227281.0,
+      "addressId": 53464131,
+      "polygonId": "53410818",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "השקמה 7",
+      "dealDate": "2024-04-17",
+      "dealAmount": 1300000,
+      "parcelNum": "39557-116-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 28.4,
+      "yearBuilt": 1980,
+      "streetCode": 310103,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 45775,
+      "row_id": 20
+    },
+    {
+      "assetId": 50246153.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2024-03-17",
+      "dealAmount": 900000,
+      "parcelNum": "39850-7-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.42,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14653,
+      "row_id": 21
+    },
+    {
+      "assetId": 4492317.0,
+      "addressId": 53459425,
+      "polygonId": "53090525",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "קהילות בן יעקב 18",
+      "dealDate": "2024-02-11",
+      "dealAmount": 2400000,
+      "parcelNum": "39563-28-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 250.0,
+      "yearBuilt": 1983,
+      "streetCode": 310187,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9600,
+      "row_id": 22
+    },
+    {
+      "assetId": 4476015.0,
+      "addressId": 53459702,
+      "polygonId": "52753881",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 23",
+      "dealDate": "2024-02-11",
+      "dealAmount": 1700000,
+      "parcelNum": "39849-12-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 146.0,
+      "yearBuilt": 1983,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11644,
+      "row_id": 23
+    },
+    {
+      "assetId": 50246234.0,
+      "addressId": 53458830,
+      "polygonId": "52786369",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 1",
+      "dealDate": "2024-01-24",
+      "dealAmount": 765000,
+      "parcelNum": "39852-1-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.2,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-26",
+          "dealAmount": 153000
+        }
+      ],
+      "trend": {
+        "rate": 400.0,
+        "years": 15.7
+      },
+      "ownership": [],
+      "priceSM": 12339,
+      "row_id": 24
+    },
+    {
+      "assetId": 50246235.0,
+      "addressId": 53458830,
+      "polygonId": "52786369",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 1",
+      "dealDate": "2024-01-17",
+      "dealAmount": 940000,
+      "parcelNum": "39852-1-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.2,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15113,
+      "row_id": 25
+    },
+    {
+      "assetId": 50227936.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2023-12-18",
+      "dealAmount": 1035000,
+      "parcelNum": "39563-113-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-08-27",
+          "dealAmount": 608000
+        },
+        {
+          "dealDate": "2015-07-28",
+          "dealAmount": 572000
+        },
+        {
+          "dealDate": "2010-03-10",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 70.2,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 14375,
+      "row_id": 26
+    },
+    {
+      "assetId": 50246283.0,
+      "addressId": 53458830,
+      "polygonId": "52786369",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 1",
+      "dealDate": "2023-12-10",
+      "dealAmount": 920000,
+      "parcelNum": "39852-1-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.2,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14791,
+      "row_id": 27
+    },
+    {
+      "assetId": 50227845.0,
+      "addressId": 53462376,
+      "polygonId": "52997430",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "החיד\"א 1",
+      "dealDate": "2023-10-20",
+      "dealAmount": 1350000,
+      "parcelNum": "39563-107-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 77.15,
+      "yearBuilt": 1970,
+      "streetCode": 310176,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17498,
+      "row_id": 28
+    },
+    {
+      "assetId": 50246175.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2023-09-03",
+      "dealAmount": 1030000,
+      "parcelNum": "39850-7-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 71.02,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14503,
+      "row_id": 29
+    },
+    {
+      "assetId": 50246162.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2023-08-31",
+      "dealAmount": 1150000,
+      "parcelNum": "39850-7-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 77.46,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-07-30",
+          "dealAmount": 524000
+        },
+        {
+          "dealDate": "2011-06-09",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 119.5,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 14935,
+      "row_id": 30
+    },
+    {
+      "assetId": 4496728.0,
+      "addressId": 53460468,
+      "polygonId": "53147119",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ביל\"ו 9",
+      "dealDate": "2023-08-30",
+      "dealAmount": 2180000,
+      "parcelNum": "39851-7-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 220.0,
+      "yearBuilt": 2000,
+      "streetCode": 310202,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9909,
+      "row_id": 31
+    },
+    {
+      "assetId": 4477680.0,
+      "addressId": 53844490,
+      "polygonId": "52802251",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 15",
+      "dealDate": "2023-08-15",
+      "dealAmount": 432000,
+      "parcelNum": "39855-20-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 1432.0,
+      "yearBuilt": 0,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 302,
+      "row_id": 32
+    },
+    {
+      "assetId": 50246124.0,
+      "addressId": 53464032,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 12",
+      "dealDate": "2023-08-08",
+      "dealAmount": 818000,
+      "parcelNum": "39850-1-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.2,
+      "yearBuilt": 1980,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13151,
+      "row_id": 33
+    },
+    {
+      "assetId": 50246286.0,
+      "addressId": 53461918,
+      "polygonId": "52786369",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 3",
+      "dealDate": "2023-07-18",
+      "dealAmount": 1025000,
+      "parcelNum": "39852-1-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.2,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-08",
+          "dealAmount": 535000
+        },
+        {
+          "dealDate": "2007-05-31",
+          "dealAmount": 202000
+        }
+      ],
+      "trend": {
+        "rate": 91.6,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 16532,
+      "row_id": 34
+    },
+    {
+      "assetId": 50227887.0,
+      "addressId": 53844359,
+      "polygonId": "53444114",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "החיד\"א 11",
+      "dealDate": "2023-06-15",
+      "dealAmount": 1200000,
+      "parcelNum": "39563-110-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310176,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-03-10",
+          "dealAmount": 675000
+        },
+        {
+          "dealDate": "2003-11-23",
+          "dealAmount": 274000
+        }
+      ],
+      "trend": {
+        "rate": 77.8,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 16667,
+      "row_id": 36
+    },
+    {
+      "assetId": 50227940.0,
+      "addressId": 53461128,
+      "polygonId": "53425214",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 6",
+      "dealDate": "2023-05-21",
+      "dealAmount": 1250000,
+      "parcelNum": "39563-114-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 1980,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-15",
+          "dealAmount": 460000
+        },
+        {
+          "dealDate": "1998-10-22",
+          "dealAmount": 265000
+        }
+      ],
+      "trend": {
+        "rate": 171.7,
+        "years": 12.9
+      },
+      "ownership": [],
+      "priceSM": 16667,
+      "row_id": 37
+    },
+    {
+      "assetId": 4475863.0,
+      "addressId": 53461456,
+      "polygonId": "52747257",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 29",
+      "dealDate": "2023-05-16",
+      "dealAmount": 2200000,
+      "parcelNum": "39851-4-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 151.0,
+      "yearBuilt": 1982,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14570,
+      "row_id": 38
+    },
+    {
+      "assetId": 50246173.0,
+      "addressId": 53462348,
+      "polygonId": "52885270",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 6",
+      "dealDate": "2023-03-22",
+      "dealAmount": 1152000,
+      "parcelNum": "39850-7-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 77.46,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-09-20",
+          "dealAmount": 730000
+        },
+        {
+          "dealDate": "2016-11-03",
+          "dealAmount": 610000
+        }
+      ],
+      "trend": {
+        "rate": 57.8,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 14961,
+      "row_id": 39
+    },
+    {
+      "assetId": 50246285.0,
+      "addressId": 53461918,
+      "polygonId": "52786369",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 3",
+      "dealDate": "2023-02-02",
+      "dealAmount": 1080000,
+      "parcelNum": "39852-1-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.7,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18090,
+      "row_id": 41
+    },
+    {
+      "assetId": 4476527.0,
+      "addressId": 53462654,
+      "polygonId": "52777736",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 49",
+      "dealDate": "2023-01-22",
+      "dealAmount": 1850000,
+      "parcelNum": "39853-16-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 185.0,
+      "yearBuilt": 1985,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 42
+    },
+    {
+      "assetId": 4518268.0,
+      "addressId": 53459333,
+      "polygonId": "53403125",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 8",
+      "dealDate": "2022-12-26",
+      "dealAmount": 1310000,
+      "parcelNum": "39853-30-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 1970,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10917,
+      "row_id": 43
+    },
+    {
+      "assetId": 50226893.0,
+      "addressId": 72956983,
+      "polygonId": "52836728",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "האיריס 11",
+      "dealDate": "2022-12-19",
+      "dealAmount": 640000,
+      "parcelNum": "39556-72-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 122.0,
+      "yearBuilt": 1950,
+      "streetCode": 310106,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5246,
+      "row_id": 44
+    },
+    {
+      "assetId": 50226659.0,
+      "addressId": 72956995,
+      "polygonId": "53105013",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הנרקיס 5",
+      "dealDate": "2022-11-29",
+      "dealAmount": 1500000,
+      "parcelNum": "39556-12-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 42.8,
+      "yearBuilt": 1980,
+      "streetCode": 310105,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-06-14",
+          "dealAmount": 750000
+        }
+      ],
+      "trend": {
+        "rate": 100.0,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 35714,
+      "row_id": 45
+    },
+    {
+      "assetId": 4477595.0,
+      "addressId": 53842907,
+      "polygonId": "52800910",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "דוד רזיאל 4",
+      "dealDate": "2022-10-31",
+      "dealAmount": 1240000,
+      "parcelNum": "39850-3-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 292.0,
+      "yearBuilt": 1991,
+      "streetCode": 310198,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4247,
+      "row_id": 46
+    },
+    {
+      "assetId": 50227252.0,
+      "addressId": 53462270,
+      "polygonId": "52838801",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרקפת 7",
+      "dealDate": "2022-10-19",
+      "dealAmount": 1400000,
+      "parcelNum": "39557-106-0",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 1062.0,
+      "yearBuilt": 1959,
+      "streetCode": 310138,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-06-19",
+          "dealAmount": 55000
+        }
+      ],
+      "trend": {
+        "rate": 2445.5,
+        "years": 21.3
+      },
+      "ownership": [],
+      "priceSM": 1318,
+      "row_id": 47
+    },
+    {
+      "assetId": 50246156.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2022-09-09",
+      "dealAmount": 850000,
+      "parcelNum": "39850-7-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.42,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13839,
+      "row_id": 48
+    },
+    {
+      "assetId": 50246174.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2022-09-01",
+      "dealAmount": 800000,
+      "parcelNum": "39850-7-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 71.02,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11264,
+      "row_id": 49
+    },
+    {
+      "assetId": 50227924.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2022-08-25",
+      "dealAmount": 1080000,
+      "parcelNum": "39563-113-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-06-28",
+          "dealAmount": 850000
+        },
+        {
+          "dealDate": "2005-10-10",
+          "dealAmount": 321000
+        }
+      ],
+      "trend": {
+        "rate": 27.1,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 50
+    },
+    {
+      "assetId": 4478236.0,
+      "addressId": 72957674,
+      "polygonId": "52813021",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 73",
+      "dealDate": "2022-08-10",
+      "dealAmount": 1630000,
+      "parcelNum": "39853-15-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 150.0,
+      "yearBuilt": 1980,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10867,
+      "row_id": 51
+    },
+    {
+      "assetId": 4480569.0,
+      "addressId": 53461367,
+      "polygonId": "52888995",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 33",
+      "dealDate": "2022-08-10",
+      "dealAmount": 2200000,
+      "parcelNum": "39563-2-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 227.0,
+      "yearBuilt": 1991,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9692,
+      "row_id": 52
+    },
+    {
+      "assetId": 50226668.0,
+      "addressId": 72956989,
+      "polygonId": "53446836",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 37",
+      "dealDate": "2022-07-31",
+      "dealAmount": 870000,
+      "parcelNum": "39556-13-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.9,
+      "yearBuilt": 1950,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14524,
+      "row_id": 53
+    },
+    {
+      "assetId": 50246120.0,
+      "addressId": 53464032,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 12",
+      "dealDate": "2022-07-27",
+      "dealAmount": 900000,
+      "parcelNum": "39850-1-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.2,
+      "yearBuilt": 1980,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-22",
+          "dealAmount": 577000
+        },
+        {
+          "dealDate": "2011-12-08",
+          "dealAmount": 325000
+        }
+      ],
+      "trend": {
+        "rate": 56.0,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 14516,
+      "row_id": 54
+    },
+    {
+      "assetId": 50246282.0,
+      "addressId": 53458830,
+      "polygonId": "52786369",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 1",
+      "dealDate": "2022-07-20",
+      "dealAmount": 795000,
+      "parcelNum": "39852-1-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.7,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-04-07",
+          "dealAmount": 460000
+        }
+      ],
+      "trend": {
+        "rate": 72.8,
+        "years": 6.3
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 397500
+        },
+        {
+          "proportion": "50",
+          "price": 397500
+        }
+      ],
+      "priceSM": 13475,
+      "row_id": 55
+    },
+    {
+      "assetId": 50246271.0,
+      "addressId": 53842700,
+      "polygonId": "53439294",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 11",
+      "dealDate": "2022-07-11",
+      "dealAmount": 970000,
+      "parcelNum": "39852-1-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 77.5,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-24",
+          "dealAmount": 599000
+        },
+        {
+          "dealDate": "2002-02-27",
+          "dealAmount": 324000
+        }
+      ],
+      "trend": {
+        "rate": 61.9,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 12597,
+      "row_id": 56
+    },
+    {
+      "assetId": 50246109.0,
+      "addressId": 53464526,
+      "polygonId": "65396153",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 10",
+      "dealDate": "2022-06-28",
+      "dealAmount": 800000,
+      "parcelNum": "39850-1-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.7,
+      "yearBuilt": 1970,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13400,
+      "row_id": 57
+    },
+    {
+      "assetId": 4477918.0,
+      "addressId": 72957681,
+      "polygonId": "52806421",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "דוד רזיאל 18",
+      "dealDate": "2022-06-17",
+      "dealAmount": 2060000,
+      "parcelNum": "39852-5-1",
+      "dealNature": "בית בודד",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 282.0,
+      "yearBuilt": 1993,
+      "streetCode": 310198,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7305,
+      "row_id": 58
+    },
+    {
+      "assetId": 4478638.0,
+      "addressId": 53839394,
+      "polygonId": "52825158",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "דוד רזיאל 5",
+      "dealDate": "2022-05-22",
+      "dealAmount": 1820000,
+      "parcelNum": "39850-12-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 180.0,
+      "yearBuilt": 1991,
+      "streetCode": 310198,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10111,
+      "row_id": 59
+    },
+    {
+      "assetId": 50246256.0,
+      "addressId": 53459306,
+      "polygonId": "53091363",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 7",
+      "dealDate": "2022-05-19",
+      "dealAmount": 900000,
+      "parcelNum": "39852-1-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.9,
+      "yearBuilt": 1983,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11264,
+      "row_id": 60
+    },
+    {
+      "assetId": 50246230.0,
+      "addressId": 53461328,
+      "polygonId": "53450280",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 19",
+      "dealDate": "2022-05-15",
+      "dealAmount": 753000,
+      "parcelNum": "39852-1-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.2,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-26",
+          "dealAmount": 580000
+        },
+        {
+          "dealDate": "2012-05-10",
+          "dealAmount": 440000
+        },
+        {
+          "dealDate": "2007-02-18",
+          "dealAmount": 201000
+        }
+      ],
+      "trend": {
+        "rate": 29.8,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 12145,
+      "row_id": 61
+    },
+    {
+      "assetId": 50227968.0,
+      "addressId": 53463219,
+      "polygonId": "52840015",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 4",
+      "dealDate": "2022-05-03",
+      "dealAmount": 600000,
+      "parcelNum": "39563-115-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 62
+    },
+    {
+      "assetId": 4482042.0,
+      "addressId": 53462883,
+      "polygonId": "52940060",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 8",
+      "dealDate": "2022-03-15",
+      "dealAmount": 1800000,
+      "parcelNum": "39851-20-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 277.0,
+      "yearBuilt": 1970,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6498,
+      "row_id": 63
+    },
+    {
+      "assetId": 50246125.0,
+      "addressId": 53464032,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 12",
+      "dealDate": "2022-03-13",
+      "dealAmount": 660000,
+      "parcelNum": "39850-1-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1980,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-01-08",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 57.1,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 10645,
+      "row_id": 64
+    },
+    {
+      "assetId": 50227855.0,
+      "addressId": 53462376,
+      "polygonId": "52997430",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "החיד\"א 1",
+      "dealDate": "2022-03-09",
+      "dealAmount": 825000,
+      "parcelNum": "39563-107-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 77.15,
+      "yearBuilt": 1970,
+      "streetCode": 310176,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10693,
+      "row_id": 65
+    },
+    {
+      "assetId": 50246117.0,
+      "addressId": 53464032,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 12",
+      "dealDate": "2022-02-06",
+      "dealAmount": 650000,
+      "parcelNum": "39850-1-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.2,
+      "yearBuilt": 1980,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-06-04",
+          "dealAmount": 700000
+        }
+      ],
+      "trend": {
+        "rate": -7.1,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 10484,
+      "row_id": 66
+    },
+    {
+      "assetId": 4518058.0,
+      "addressId": 53463163,
+      "polygonId": "53392827",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 23",
+      "dealDate": "2022-01-04",
+      "dealAmount": 1650000,
+      "parcelNum": "39855-24-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 230.0,
+      "yearBuilt": 1980,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7174,
+      "row_id": 67
+    },
+    {
+      "assetId": 4475992.0,
+      "addressId": 53844443,
+      "polygonId": "52752910",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 17",
+      "dealDate": "2022-01-02",
+      "dealAmount": 1870000,
+      "parcelNum": "39849-9-1",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 232.0,
+      "yearBuilt": 1980,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8060,
+      "row_id": 68
+    },
+    {
+      "assetId": 50227865.0,
+      "addressId": 53460621,
+      "polygonId": "52828933",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "שוהם 2",
+      "dealDate": "2021-12-30",
+      "dealAmount": 670000,
+      "parcelNum": "39563-108-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.7,
+      "yearBuilt": 1990,
+      "streetCode": 310205,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-12-12",
+          "dealAmount": 230000
+        }
+      ],
+      "trend": {
+        "rate": 191.3,
+        "years": 16.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 335000
+        },
+        {
+          "proportion": "50",
+          "price": 335000
+        }
+      ],
+      "priceSM": 11167,
+      "row_id": 69
+    },
+    {
+      "assetId": 4364144.0,
+      "addressId": 0,
+      "polygonId": "39853-5",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "0",
+      "dealDate": "2021-12-26",
+      "dealAmount": 1200000,
+      "parcelNum": "39853-5-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 130.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9231,
+      "row_id": 70
+    },
+    {
+      "assetId": 50227937.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2021-12-22",
+      "dealAmount": 595000,
+      "parcelNum": "39563-113-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-10-13",
+          "dealAmount": 124000
+        }
+      ],
+      "trend": {
+        "rate": 379.8,
+        "years": 17.2
+      },
+      "ownership": [],
+      "priceSM": 8264,
+      "row_id": 71
+    },
+    {
+      "assetId": 50227226.0,
+      "addressId": 72957003,
+      "polygonId": "53159327",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרמב\"ם 25",
+      "dealDate": "2021-11-24",
+      "dealAmount": 324000,
+      "parcelNum": "39557-95-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 67.5,
+      "yearBuilt": 1960,
+      "streetCode": 310101,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-24",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": -22.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 4836,
+      "row_id": 72
+    },
+    {
+      "assetId": 4476016.0,
+      "addressId": 53459702,
+      "polygonId": "52753881",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 23",
+      "dealDate": "2021-11-17",
+      "dealAmount": 1550000,
+      "parcelNum": "39849-12-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 146.0,
+      "yearBuilt": 1983,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10616,
+      "row_id": 73
+    },
+    {
+      "assetId": 50246253.0,
+      "addressId": 53460390,
+      "polygonId": "53140987",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 5",
+      "dealDate": "2021-11-14",
+      "dealAmount": 780000,
+      "parcelNum": "39852-1-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9762,
+      "row_id": 74
+    },
+    {
+      "assetId": 50227881.0,
+      "addressId": 53460621,
+      "polygonId": "52828933",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "שוהם 2",
+      "dealDate": "2021-10-26",
+      "dealAmount": 680000,
+      "parcelNum": "39563-108-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.7,
+      "yearBuilt": 1990,
+      "streetCode": 310205,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-26",
+          "dealAmount": 514000
+        }
+      ],
+      "trend": {
+        "rate": 32.3,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 11333,
+      "row_id": 75
+    },
+    {
+      "assetId": 4494349.0,
+      "addressId": 53461466,
+      "polygonId": "53114936",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ביל\"ו 1",
+      "dealDate": "2021-10-12",
+      "dealAmount": 1700000,
+      "parcelNum": "39851-8-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 160.0,
+      "yearBuilt": 1982,
+      "streetCode": 310202,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10625,
+      "row_id": 76
+    },
+    {
+      "assetId": 50227269.0,
+      "addressId": 72957012,
+      "polygonId": "52953281",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "השקמה 2",
+      "dealDate": "2021-09-01",
+      "dealAmount": 1140000,
+      "parcelNum": "39557-111-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 65.7,
+      "yearBuilt": 1960,
+      "streetCode": 310103,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17352,
+      "row_id": 77
+    },
+    {
+      "assetId": 50227915.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2021-08-30",
+      "dealAmount": 690000,
+      "parcelNum": "39563-111-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-01-04",
+          "dealAmount": 580000
+        },
+        {
+          "dealDate": "2013-05-16",
+          "dealAmount": 409000
+        },
+        {
+          "dealDate": "2010-04-25",
+          "dealAmount": 332000
+        }
+      ],
+      "trend": {
+        "rate": 19.0,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 9200,
+      "row_id": 78
+    },
+    {
+      "assetId": 4518778.0,
+      "addressId": 53835130,
+      "polygonId": "53414236",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 5",
+      "dealDate": "2021-08-09",
+      "dealAmount": 1600000,
+      "parcelNum": "39849-3-3",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 210.0,
+      "yearBuilt": 1982,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7619,
+      "row_id": 79
+    },
+    {
+      "assetId": 4517631.0,
+      "addressId": 53461757,
+      "polygonId": "53383529",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 9",
+      "dealDate": "2021-08-03",
+      "dealAmount": 1170000,
+      "parcelNum": "39854-16-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1984,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11700,
+      "row_id": 80
+    },
+    {
+      "assetId": 50227966.0,
+      "addressId": 53463219,
+      "polygonId": "52840015",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 4",
+      "dealDate": "2021-08-02",
+      "dealAmount": 723000,
+      "parcelNum": "39563-115-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-10",
+          "dealAmount": 642000
+        },
+        {
+          "dealDate": "2004-05-06",
+          "dealAmount": 182000
+        }
+      ],
+      "trend": {
+        "rate": 12.6,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 10042,
+      "row_id": 81
+    },
+    {
+      "assetId": 4479680.0,
+      "addressId": 53461046,
+      "polygonId": "52841351",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 32",
+      "dealDate": "2021-07-10",
+      "dealAmount": 2000000,
+      "parcelNum": "39563-19-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 220.0,
+      "yearBuilt": 1982,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9091,
+      "row_id": 82
+    },
+    {
+      "assetId": 50227950.0,
+      "addressId": 53461128,
+      "polygonId": "53425214",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 6",
+      "dealDate": "2021-06-28",
+      "dealAmount": 800000,
+      "parcelNum": "39563-114-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 75.0,
+      "yearBuilt": 1980,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-11-09",
+          "dealAmount": 730000
+        }
+      ],
+      "trend": {
+        "rate": 9.6,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 10667,
+      "row_id": 83
+    },
+    {
+      "assetId": 50246133.0,
+      "addressId": 53459743,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 14",
+      "dealDate": "2021-06-24",
+      "dealAmount": 825000,
+      "parcelNum": "39850-1-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 77.5,
+      "yearBuilt": 1980,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10645,
+      "row_id": 84
+    },
+    {
+      "assetId": 50227864.0,
+      "addressId": 53460621,
+      "polygonId": "52828933",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "שוהם 2",
+      "dealDate": "2021-06-24",
+      "dealAmount": 699000,
+      "parcelNum": "39563-108-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.7,
+      "yearBuilt": 1990,
+      "streetCode": 310205,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11516,
+      "row_id": 85
+    },
+    {
+      "assetId": 50246284.0,
+      "addressId": 53458830,
+      "polygonId": "52786369",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 1",
+      "dealDate": "2021-06-03",
+      "dealAmount": 680000,
+      "parcelNum": "39852-1-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.2,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-07",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2002-11-15",
+          "dealAmount": 210000
+        }
+      ],
+      "trend": {
+        "rate": 94.3,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 10968,
+      "row_id": 86
+    },
+    {
+      "assetId": 50246261.0,
+      "addressId": 53460391,
+      "polygonId": "52809812",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 9",
+      "dealDate": "2021-05-13",
+      "dealAmount": 800000,
+      "parcelNum": "39852-1-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 77.5,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10323,
+      "row_id": 87
+    },
+    {
+      "assetId": 50246288.0,
+      "addressId": 53458830,
+      "polygonId": "52786369",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 1",
+      "dealDate": "2021-05-09",
+      "dealAmount": 665000,
+      "parcelNum": "39852-1-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.2,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-11-20",
+          "dealAmount": 411000
+        }
+      ],
+      "trend": {
+        "rate": 61.8,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 10726,
+      "row_id": 88
+    },
+    {
+      "assetId": 50246159.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2021-05-06",
+      "dealAmount": 820000,
+      "parcelNum": "39850-7-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 77.46,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-07-18",
+          "dealAmount": 572000
+        }
+      ],
+      "trend": {
+        "rate": 43.4,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 10649,
+      "row_id": 89
+    },
+    {
+      "assetId": 50226862.0,
+      "addressId": 53842871,
+      "polygonId": "52828629",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 43",
+      "dealDate": "2021-04-22",
+      "dealAmount": 900000,
+      "parcelNum": "39556-61-4",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 40.3,
+      "yearBuilt": 1990,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-09-30",
+          "dealAmount": 649000
+        }
+      ],
+      "trend": {
+        "rate": 38.7,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 22500,
+      "row_id": 90
+    },
+    {
+      "assetId": 50227900.0,
+      "addressId": 53844359,
+      "polygonId": "53444114",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "החיד\"א 11",
+      "dealDate": "2021-01-31",
+      "dealAmount": 650000,
+      "parcelNum": "39563-110-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310176,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-01-06",
+          "dealAmount": 215000
+        },
+        {
+          "dealDate": "2004-03-25",
+          "dealAmount": 122000
+        }
+      ],
+      "trend": {
+        "rate": 202.3,
+        "years": 11.1
+      },
+      "ownership": [],
+      "priceSM": 9028,
+      "row_id": 91
+    },
+    {
+      "assetId": 50246257.0,
+      "addressId": 53842700,
+      "polygonId": "53439294",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 11",
+      "dealDate": "2021-01-05",
+      "dealAmount": 740000,
+      "parcelNum": "39852-1-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.9,
+      "yearBuilt": 1983,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-08-13",
+          "dealAmount": 575000
+        },
+        {
+          "dealDate": "2002-06-12",
+          "dealAmount": 265000
+        }
+      ],
+      "trend": {
+        "rate": 28.7,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 9367,
+      "row_id": 92
+    },
+    {
+      "assetId": 4519930.0,
+      "addressId": 53461366,
+      "polygonId": "53430939",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 25",
+      "dealDate": "2020-11-15",
+      "dealAmount": 1550000,
+      "parcelNum": "39855-25-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 160.0,
+      "yearBuilt": 1980,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9688,
+      "row_id": 93
+    },
+    {
+      "assetId": 4482549.0,
+      "addressId": 53463186,
+      "polygonId": "52950924",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 13",
+      "dealDate": "2020-10-21",
+      "dealAmount": 1650000,
+      "parcelNum": "39849-7-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 505.0,
+      "yearBuilt": 1999,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3267,
+      "row_id": 94
+    },
+    {
+      "assetId": 50227858.0,
+      "addressId": 53460621,
+      "polygonId": "52828933",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "שוהם 2",
+      "dealDate": "2020-09-14",
+      "dealAmount": 750000,
+      "parcelNum": "39563-108-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.7,
+      "yearBuilt": 1990,
+      "streetCode": 310205,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-04-03",
+          "dealAmount": 570000
+        }
+      ],
+      "trend": {
+        "rate": 31.6,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 95
+    },
+    {
+      "assetId": 50246276.0,
+      "addressId": 53460990,
+      "polygonId": "53114517",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 13",
+      "dealDate": "2020-09-13",
+      "dealAmount": 750000,
+      "parcelNum": "39852-1-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9387,
+      "row_id": 96
+    },
+    {
+      "assetId": 4518283.0,
+      "addressId": 53844274,
+      "polygonId": "53403346",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 17",
+      "dealDate": "2020-08-26",
+      "dealAmount": 1150000,
+      "parcelNum": "39854-12-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 145.0,
+      "yearBuilt": 1985,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7931,
+      "row_id": 97
+    },
+    {
+      "assetId": 50246281.0,
+      "addressId": 53458830,
+      "polygonId": "52786369",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 1",
+      "dealDate": "2020-07-02",
+      "dealAmount": 775000,
+      "parcelNum": "39852-1-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.2,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-01-16",
+          "dealAmount": 565000
+        },
+        {
+          "dealDate": "2009-05-27",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 37.2,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 98
+    },
+    {
+      "assetId": 50226872.0,
+      "addressId": 72956986,
+      "polygonId": "52776312",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "האיריס 5",
+      "dealDate": "2020-06-30",
+      "dealAmount": 650000,
+      "parcelNum": "39556-66-1",
+      "dealNature": "בית בודד",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 67.5,
+      "yearBuilt": 1940,
+      "streetCode": 310106,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9630,
+      "row_id": 99
+    },
+    {
+      "assetId": 4478029.0,
+      "addressId": 53460387,
+      "polygonId": "52808303",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ביל\"ו 31",
+      "dealDate": "2020-06-02",
+      "dealAmount": 1599000,
+      "parcelNum": "39563-24-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 248.0,
+      "yearBuilt": 1980,
+      "streetCode": 310202,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6448,
+      "row_id": 100
+    },
+    {
+      "assetId": 50246252.0,
+      "addressId": 53460390,
+      "polygonId": "53140987",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 5",
+      "dealDate": "2020-05-13",
+      "dealAmount": 760000,
+      "parcelNum": "39852-1-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-21",
+          "dealAmount": 160000
+        }
+      ],
+      "trend": {
+        "rate": 375.0,
+        "years": 10.6
+      },
+      "ownership": [],
+      "priceSM": 9620,
+      "row_id": 101
+    },
+    {
+      "assetId": 50227964.0,
+      "addressId": 53463219,
+      "polygonId": "52840015",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 4",
+      "dealDate": "2020-05-11",
+      "dealAmount": 800000,
+      "parcelNum": "39563-115-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-12-18",
+          "dealAmount": 317000
+        }
+      ],
+      "trend": {
+        "rate": 152.4,
+        "years": 17.4
+      },
+      "ownership": [],
+      "priceSM": 11111,
+      "row_id": 102
+    },
+    {
+      "assetId": 50246171.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2020-03-04",
+      "dealAmount": 820000,
+      "parcelNum": "39850-7-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 77.46,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10586,
+      "row_id": 103
+    },
+    {
+      "assetId": 4476526.0,
+      "addressId": 53459382,
+      "polygonId": "52777736",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 37",
+      "dealDate": "2020-02-02",
+      "dealAmount": 1000000,
+      "parcelNum": "39853-31-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 188.0,
+      "yearBuilt": 1985,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5319,
+      "row_id": 104
+    },
+    {
+      "assetId": 50227914.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2020-01-29",
+      "dealAmount": 730000,
+      "parcelNum": "39563-111-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-09-23",
+          "dealAmount": 279000
+        }
+      ],
+      "trend": {
+        "rate": 161.6,
+        "years": 14.4
+      },
+      "ownership": [],
+      "priceSM": 9733,
+      "row_id": 105
+    },
+    {
+      "assetId": 50227934.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2020-01-16",
+      "dealAmount": 700000,
+      "parcelNum": "39563-113-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-08-22",
+          "dealAmount": 530000
+        },
+        {
+          "dealDate": "2006-08-07",
+          "dealAmount": 184000
+        }
+      ],
+      "trend": {
+        "rate": 32.1,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 9722,
+      "row_id": 106
+    },
+    {
+      "assetId": 4521589.0,
+      "addressId": 53844428,
+      "polygonId": "53449636",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "לח\"י 11",
+      "dealDate": "2020-01-05",
+      "dealAmount": 1430000,
+      "parcelNum": "39563-35-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 180.0,
+      "yearBuilt": 1984,
+      "streetCode": 310201,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7944,
+      "row_id": 107
+    },
+    {
+      "assetId": 4476028.0,
+      "addressId": 53459703,
+      "polygonId": "52754308",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 27",
+      "dealDate": "2019-12-23",
+      "dealAmount": 1327000,
+      "parcelNum": "39851-3-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 150.0,
+      "yearBuilt": 1991,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8847,
+      "row_id": 108
+    },
+    {
+      "assetId": 50227888.0,
+      "addressId": 53844359,
+      "polygonId": "53444114",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "החיד\"א 11",
+      "dealDate": "2019-11-24",
+      "dealAmount": 830000,
+      "parcelNum": "39563-110-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310176,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-09-08",
+          "dealAmount": 279000
+        }
+      ],
+      "trend": {
+        "rate": 197.5,
+        "years": 15.2
+      },
+      "ownership": [],
+      "priceSM": 11528,
+      "row_id": 109
+    },
+    {
+      "assetId": 4478001.0,
+      "addressId": 53462777,
+      "polygonId": "52807798",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "לח\"י 24",
+      "dealDate": "2019-10-27",
+      "dealAmount": 1750000,
+      "parcelNum": "39563-62-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 160.0,
+      "yearBuilt": 1990,
+      "streetCode": 310201,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10938,
+      "row_id": 110
+    },
+    {
+      "assetId": 50227906.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2019-10-26",
+      "dealAmount": 905000,
+      "parcelNum": "39563-111-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-28",
+          "dealAmount": 700000
+        },
+        {
+          "dealDate": "2006-02-12",
+          "dealAmount": 342000
+        }
+      ],
+      "trend": {
+        "rate": 29.3,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 12067,
+      "row_id": 111
+    },
+    {
+      "assetId": 50246113.0,
+      "addressId": 53843993,
+      "polygonId": "52784333",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 24",
+      "dealDate": "2019-10-24",
+      "dealAmount": 188000,
+      "parcelNum": "39850-1-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.7,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-10-30",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2013-03-11",
+          "dealAmount": 449000
+        }
+      ],
+      "trend": {
+        "rate": -65.8,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 3186,
+      "row_id": 112
+    },
+    {
+      "assetId": 50227965.0,
+      "addressId": 53463219,
+      "polygonId": "52840015",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 4",
+      "dealDate": "2019-10-06",
+      "dealAmount": 770000,
+      "parcelNum": "39563-115-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-01-13",
+          "dealAmount": 249000
+        }
+      ],
+      "trend": {
+        "rate": 209.2,
+        "years": 21.7
+      },
+      "ownership": [],
+      "priceSM": 10694,
+      "row_id": 113
+    },
+    {
+      "assetId": 4479208.0,
+      "addressId": 53918584,
+      "polygonId": "52835361",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 10",
+      "dealDate": "2019-09-22",
+      "dealAmount": 1550000,
+      "parcelNum": "39851-5-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 1.0,
+      "floor": null,
+      "assetArea": 223.0,
+      "yearBuilt": 1986,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6951,
+      "row_id": 114
+    },
+    {
+      "assetId": 50227967.0,
+      "addressId": 53463219,
+      "polygonId": "52840015",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 4",
+      "dealDate": "2019-09-16",
+      "dealAmount": 780000,
+      "parcelNum": "39563-115-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10833,
+      "row_id": 115
+    },
+    {
+      "assetId": 4517629.0,
+      "addressId": 53842728,
+      "polygonId": "53383529",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 13",
+      "dealDate": "2019-09-05",
+      "dealAmount": 1315000,
+      "parcelNum": "39854-1-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 7.0,
+      "floor": null,
+      "assetArea": 155.0,
+      "yearBuilt": 1984,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8484,
+      "row_id": 116
+    },
+    {
+      "assetId": 50227877.0,
+      "addressId": 53460621,
+      "polygonId": "52828933",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "שוהם 2",
+      "dealDate": "2019-07-26",
+      "dealAmount": 718000,
+      "parcelNum": "39563-108-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.7,
+      "yearBuilt": 1990,
+      "streetCode": 310205,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-10-01",
+          "dealAmount": 640000
+        },
+        {
+          "dealDate": "1998-05-17",
+          "dealAmount": 234000
+        }
+      ],
+      "trend": {
+        "rate": 12.2,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 11967,
+      "row_id": 117
+    },
+    {
+      "assetId": 4497399.0,
+      "addressId": 53459424,
+      "polygonId": "53156126",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 45",
+      "dealDate": "2019-06-03",
+      "dealAmount": 1500000,
+      "parcelNum": "39563-8-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 200.0,
+      "yearBuilt": 1995,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7500,
+      "row_id": 118
+    },
+    {
+      "assetId": 50227927.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2019-05-30",
+      "dealAmount": 580000,
+      "parcelNum": "39563-113-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-17",
+          "dealAmount": 490000
+        }
+      ],
+      "trend": {
+        "rate": 18.4,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 8056,
+      "row_id": 119
+    },
+    {
+      "assetId": 50246265.0,
+      "addressId": 53460391,
+      "polygonId": "52809812",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 9",
+      "dealDate": "2019-05-27",
+      "dealAmount": 681000,
+      "parcelNum": "39852-1-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-14",
+          "dealAmount": 214000
+        },
+        {
+          "dealDate": "2007-08-30",
+          "dealAmount": 241000
+        }
+      ],
+      "trend": {
+        "rate": 218.2,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 8620,
+      "row_id": 120
+    },
+    {
+      "assetId": 50246164.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2019-05-20",
+      "dealAmount": 655000,
+      "parcelNum": "39850-7-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.42,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-11-03",
+          "dealAmount": 186000
+        }
+      ],
+      "trend": {
+        "rate": 252.2,
+        "years": 13.6
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 216150
+        },
+        {
+          "proportion": "33",
+          "price": 216150
+        },
+        {
+          "proportion": "33",
+          "price": 216150
+        }
+      ],
+      "priceSM": 10738,
+      "row_id": 121
+    },
+    {
+      "assetId": 50226884.0,
+      "addressId": 53465505,
+      "polygonId": "53389437",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 47",
+      "dealDate": "2019-05-14",
+      "dealAmount": 167000,
+      "parcelNum": "39556-69-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 140.0,
+      "yearBuilt": 1950,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1193,
+      "row_id": 122
+    },
+    {
+      "assetId": 4477383.0,
+      "addressId": 53464014,
+      "polygonId": "52797940",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אודם 8",
+      "dealDate": "2019-05-05",
+      "dealAmount": 1700000,
+      "parcelNum": "39563-104-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 8.0,
+      "floor": null,
+      "assetArea": 220.0,
+      "yearBuilt": 1970,
+      "streetCode": 310209,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7727,
+      "row_id": 123
+    },
+    {
+      "assetId": 50227907.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2019-03-24",
+      "dealAmount": 778000,
+      "parcelNum": "39563-111-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10373,
+      "row_id": 124
+    },
+    {
+      "assetId": 50246267.0,
+      "addressId": 53842700,
+      "polygonId": "53439294",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 11",
+      "dealDate": "2019-02-24",
+      "dealAmount": 760000,
+      "parcelNum": "39852-1-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 77.5,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9806,
+      "row_id": 125
+    },
+    {
+      "assetId": 50227952.0,
+      "addressId": 53461128,
+      "polygonId": "53425214",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 6",
+      "dealDate": "2019-02-18",
+      "dealAmount": 610000,
+      "parcelNum": "39563-114-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 75.0,
+      "yearBuilt": 1980,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-13",
+          "dealAmount": 315000
+        },
+        {
+          "dealDate": "2006-03-19",
+          "dealAmount": 167000
+        }
+      ],
+      "trend": {
+        "rate": 93.7,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 8133,
+      "row_id": 126
+    },
+    {
+      "assetId": 50227873.0,
+      "addressId": 53460621,
+      "polygonId": "52828933",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "שוהם 2",
+      "dealDate": "2019-02-14",
+      "dealAmount": 740000,
+      "parcelNum": "39563-108-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.7,
+      "yearBuilt": 1990,
+      "streetCode": 310205,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-04-15",
+          "dealAmount": 281000
+        }
+      ],
+      "trend": {
+        "rate": 163.3,
+        "years": 14.8
+      },
+      "ownership": [],
+      "priceSM": 12333,
+      "row_id": 127
+    },
+    {
+      "assetId": 4497207.0,
+      "addressId": 53463239,
+      "polygonId": "53153654",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "לח\"י 35",
+      "dealDate": "2019-01-25",
+      "dealAmount": 1730000,
+      "parcelNum": "39563-47-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 246.0,
+      "yearBuilt": 1999,
+      "streetCode": 310201,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7033,
+      "row_id": 128
+    },
+    {
+      "assetId": 50246130.0,
+      "addressId": 53459743,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 14",
+      "dealDate": "2019-01-13",
+      "dealAmount": 680000,
+      "parcelNum": "39850-1-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.9,
+      "yearBuilt": 1980,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-26",
+          "dealAmount": 540000
+        }
+      ],
+      "trend": {
+        "rate": 25.9,
+        "years": 1.9
+      },
+      "ownership": [],
+      "priceSM": 8608,
+      "row_id": 129
+    },
+    {
+      "assetId": 50246259.0,
+      "addressId": 53459306,
+      "polygonId": "53091363",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 7",
+      "dealDate": "2018-11-28",
+      "dealAmount": 700000,
+      "parcelNum": "39852-1-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.9,
+      "yearBuilt": 1983,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8761,
+      "row_id": 131
+    },
+    {
+      "assetId": 50246244.0,
+      "addressId": 53842732,
+      "polygonId": "52882409",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 17",
+      "dealDate": "2018-11-05",
+      "dealAmount": 635000,
+      "parcelNum": "39852-1-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10242,
+      "row_id": 132
+    },
+    {
+      "assetId": 50227917.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2018-10-23",
+      "dealAmount": 640000,
+      "parcelNum": "39563-111-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-22",
+          "dealAmount": 447000
+        }
+      ],
+      "trend": {
+        "rate": 43.2,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 8533,
+      "row_id": 133
+    },
+    {
+      "assetId": 50227929.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2018-09-17",
+      "dealAmount": 755000,
+      "parcelNum": "39563-113-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-01",
+          "dealAmount": 571000
+        },
+        {
+          "dealDate": "2003-12-25",
+          "dealAmount": 183000
+        }
+      ],
+      "trend": {
+        "rate": 32.2,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 10486,
+      "row_id": 134
+    },
+    {
+      "assetId": 50227872.0,
+      "addressId": 53460621,
+      "polygonId": "52828933",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "שוהם 2",
+      "dealDate": "2018-09-07",
+      "dealAmount": 700000,
+      "parcelNum": "39563-108-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.7,
+      "yearBuilt": 1990,
+      "streetCode": 310205,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-21",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2001-06-26",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 55.6,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 11667,
+      "row_id": 135
+    },
+    {
+      "assetId": 50246138.0,
+      "addressId": 53459743,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 14",
+      "dealDate": "2018-08-28",
+      "dealAmount": 800000,
+      "parcelNum": "39850-1-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-03-17",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 60.0,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 10127,
+      "row_id": 136
+    },
+    {
+      "assetId": 50227923.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2018-08-19",
+      "dealAmount": 855000,
+      "parcelNum": "39563-113-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-24",
+          "dealAmount": 660000
+        }
+      ],
+      "trend": {
+        "rate": 29.5,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 11875,
+      "row_id": 137
+    },
+    {
+      "assetId": 4517630.0,
+      "addressId": 53461123,
+      "polygonId": "53383529",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 15",
+      "dealDate": "2018-07-29",
+      "dealAmount": 1250000,
+      "parcelNum": "39854-2-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 250.0,
+      "yearBuilt": 1984,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 138
+    },
+    {
+      "assetId": 4490779.0,
+      "addressId": 53463606,
+      "polygonId": "53071381",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 57",
+      "dealDate": "2018-07-28",
+      "dealAmount": 72000,
+      "parcelNum": "39555-78-6",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 1.0,
+      "floor": null,
+      "assetArea": 192.0,
+      "yearBuilt": 1960,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 375,
+      "row_id": 139
+    },
+    {
+      "assetId": 50246262.0,
+      "addressId": 53460390,
+      "polygonId": "53140987",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 5",
+      "dealDate": "2018-07-08",
+      "dealAmount": 745000,
+      "parcelNum": "39852-1-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-01-12",
+          "dealAmount": 610000
+        },
+        {
+          "dealDate": "2012-08-20",
+          "dealAmount": 530000
+        },
+        {
+          "dealDate": "2008-05-01",
+          "dealAmount": 219000
+        },
+        {
+          "dealDate": "2007-03-29",
+          "dealAmount": 218000
+        }
+      ],
+      "trend": {
+        "rate": 22.1,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 9430,
+      "row_id": 140
+    },
+    {
+      "assetId": 50227928.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2018-06-20",
+      "dealAmount": 800000,
+      "parcelNum": "39563-113-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-11",
+          "dealAmount": 530000
+        }
+      ],
+      "trend": {
+        "rate": 50.9,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 11111,
+      "row_id": 141
+    },
+    {
+      "assetId": 4477915.0,
+      "addressId": 53462772,
+      "polygonId": "52806402",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 9",
+      "dealDate": "2018-06-13",
+      "dealAmount": 1700000,
+      "parcelNum": "39563-77-2",
+      "dealNature": "בית בודד",
+      "roomNum": 8.0,
+      "floor": null,
+      "assetArea": 227.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7489,
+      "row_id": 142
+    },
+    {
+      "assetId": 50227911.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2018-06-06",
+      "dealAmount": 828000,
+      "parcelNum": "39563-111-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-27",
+          "dealAmount": 490000
+        }
+      ],
+      "trend": {
+        "rate": 69.0,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 11040,
+      "row_id": 143
+    },
+    {
+      "assetId": 4497434.0,
+      "addressId": 53463077,
+      "polygonId": "53156841",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "לח\"י 3",
+      "dealDate": "2018-05-17",
+      "dealAmount": 1500000,
+      "parcelNum": "39563-31-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 250.0,
+      "yearBuilt": 1981,
+      "streetCode": 310201,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6000,
+      "row_id": 144
+    },
+    {
+      "assetId": 4481461.0,
+      "addressId": 53461137,
+      "polygonId": "52930395",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 4",
+      "dealDate": "2018-03-04",
+      "dealAmount": 720000,
+      "parcelNum": "39851-14-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 513.0,
+      "yearBuilt": 0,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1404,
+      "row_id": 145
+    },
+    {
+      "assetId": 50246112.0,
+      "addressId": 53464526,
+      "polygonId": "65396153",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 10",
+      "dealDate": "2018-02-13",
+      "dealAmount": 560000,
+      "parcelNum": "39850-1-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.7,
+      "yearBuilt": 1970,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-28",
+          "dealAmount": 345000
+        },
+        {
+          "dealDate": "2005-11-24",
+          "dealAmount": 164000
+        }
+      ],
+      "trend": {
+        "rate": 62.3,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 9492,
+      "row_id": 146
+    },
+    {
+      "assetId": 50246183.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2018-01-29",
+      "dealAmount": 620000,
+      "parcelNum": "39850-7-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.42,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-23",
+          "dealAmount": 265000
+        },
+        {
+          "dealDate": "2009-10-11",
+          "dealAmount": 235000
+        }
+      ],
+      "trend": {
+        "rate": 134.0,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 10164,
+      "row_id": 147
+    },
+    {
+      "assetId": 50246280.0,
+      "addressId": 53458830,
+      "polygonId": "52786369",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 1",
+      "dealDate": "2018-01-18",
+      "dealAmount": 610000,
+      "parcelNum": "39852-1-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.7,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-12-14",
+          "dealAmount": 275000
+        },
+        {
+          "dealDate": "2008-01-29",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2007-05-27",
+          "dealAmount": 201000
+        }
+      ],
+      "trend": {
+        "rate": 121.8,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 10339,
+      "row_id": 148
+    },
+    {
+      "assetId": 50246246.0,
+      "addressId": 53461918,
+      "polygonId": "52786369",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 3",
+      "dealDate": "2018-01-14",
+      "dealAmount": 550000,
+      "parcelNum": "39852-1-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-06-09",
+          "dealAmount": 539000
+        }
+      ],
+      "trend": {
+        "rate": 2.0,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 8871,
+      "row_id": 149
+    },
+    {
+      "assetId": 50246167.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2017-11-01",
+      "dealAmount": 470000,
+      "parcelNum": "39850-7-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.42,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7652,
+      "row_id": 150
+    },
+    {
+      "assetId": 50227926.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2017-10-27",
+      "dealAmount": 770000,
+      "parcelNum": "39563-113-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10694,
+      "row_id": 151
+    },
+    {
+      "assetId": 50226641.0,
+      "addressId": 53461831,
+      "polygonId": "52994498",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהדות דרום אפריקה 4",
+      "dealDate": "2017-09-13",
+      "dealAmount": 1300000,
+      "parcelNum": "39556-7-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1970,
+      "streetCode": 310194,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13000,
+      "row_id": 152
+    },
+    {
+      "assetId": 50227916.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2017-09-11",
+      "dealAmount": 622000,
+      "parcelNum": "39563-111-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8293,
+      "row_id": 153
+    },
+    {
+      "assetId": 4495561.0,
+      "addressId": 53461139,
+      "polygonId": "53131059",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 29",
+      "dealDate": "2017-08-28",
+      "dealAmount": 1367000,
+      "parcelNum": "39855-18-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 192.0,
+      "yearBuilt": 1988,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7120,
+      "row_id": 154
+    },
+    {
+      "assetId": 50246184.0,
+      "addressId": 53463598,
+      "polygonId": "52801392",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 12",
+      "dealDate": "2017-07-27",
+      "dealAmount": 310000,
+      "parcelNum": "39850-7-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.42,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5047,
+      "row_id": 155
+    },
+    {
+      "assetId": 50227954.0,
+      "addressId": 53461128,
+      "polygonId": "53425214",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 6",
+      "dealDate": "2017-05-24",
+      "dealAmount": 600000,
+      "parcelNum": "39563-114-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 75.0,
+      "yearBuilt": 1980,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-13",
+          "dealAmount": 550000
+        }
+      ],
+      "trend": {
+        "rate": 9.1,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 8000,
+      "row_id": 157
+    },
+    {
+      "assetId": 4481608.0,
+      "addressId": 53458935,
+      "polygonId": "52933228",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 28",
+      "dealDate": "2017-05-24",
+      "dealAmount": 737000,
+      "parcelNum": "39853-29-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 111.0,
+      "yearBuilt": 1990,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6640,
+      "row_id": 158
+    },
+    {
+      "assetId": 50227904.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2017-05-01",
+      "dealAmount": 795000,
+      "parcelNum": "39563-111-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10600,
+      "row_id": 159
+    },
+    {
+      "assetId": 50227912.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2017-04-23",
+      "dealAmount": 695000,
+      "parcelNum": "39563-111-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-10",
+          "dealAmount": 505000
+        },
+        {
+          "dealDate": "2010-11-19",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 37.6,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 9267,
+      "row_id": 160
+    },
+    {
+      "assetId": 50227963.0,
+      "addressId": 53463219,
+      "polygonId": "52840015",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 4",
+      "dealDate": "2017-03-15",
+      "dealAmount": 666000,
+      "parcelNum": "39563-115-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-03-08",
+          "dealAmount": 232000
+        }
+      ],
+      "trend": {
+        "rate": 187.1,
+        "years": 12.0
+      },
+      "ownership": [],
+      "priceSM": 9250,
+      "row_id": 161
+    },
+    {
+      "assetId": 50246154.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2017-02-16",
+      "dealAmount": 349000,
+      "parcelNum": "39850-7-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.42,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5682,
+      "row_id": 163
+    },
+    {
+      "assetId": 50246128.0,
+      "addressId": 53459743,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 14",
+      "dealDate": "2017-02-13",
+      "dealAmount": 734000,
+      "parcelNum": "39850-1-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.9,
+      "yearBuilt": 1980,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9186,
+      "row_id": 164
+    },
+    {
+      "assetId": 50227896.0,
+      "addressId": 53844359,
+      "polygonId": "53444114",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "החיד\"א 11",
+      "dealDate": "2017-01-16",
+      "dealAmount": 663000,
+      "parcelNum": "39563-110-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310176,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-10-31",
+          "dealAmount": 292000
+        }
+      ],
+      "trend": {
+        "rate": 127.1,
+        "years": 11.2
+      },
+      "ownership": [],
+      "priceSM": 9208,
+      "row_id": 165
+    },
+    {
+      "assetId": 50246143.0,
+      "addressId": 53462282,
+      "polygonId": "65396153",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 16",
+      "dealDate": "2016-11-29",
+      "dealAmount": 605000,
+      "parcelNum": "39850-1-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-15",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2002-12-30",
+          "dealAmount": 286000
+        }
+      ],
+      "trend": {
+        "rate": 51.2,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 7658,
+      "row_id": 166
+    },
+    {
+      "assetId": 50227879.0,
+      "addressId": 53460621,
+      "polygonId": "52828933",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "שוהם 2",
+      "dealDate": "2016-09-22",
+      "dealAmount": 600000,
+      "parcelNum": "39563-108-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.7,
+      "yearBuilt": 1990,
+      "streetCode": 310205,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-09-04",
+          "dealAmount": 314000
+        }
+      ],
+      "trend": {
+        "rate": 91.1,
+        "years": 15.1
+      },
+      "ownership": [
+        {
+          "proportion": "6",
+          "price": 36000
+        },
+        {
+          "proportion": "6",
+          "price": 36000
+        },
+        {
+          "proportion": "6",
+          "price": 36000
+        },
+        {
+          "proportion": "6",
+          "price": 36000
+        },
+        {
+          "proportion": "75",
+          "price": 450000
+        }
+      ],
+      "priceSM": 7595,
+      "row_id": 167
+    },
+    {
+      "assetId": 50246241.0,
+      "addressId": 53460392,
+      "polygonId": "52882409",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 15",
+      "dealDate": "2016-09-02",
+      "dealAmount": 509000,
+      "parcelNum": "39852-1-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1980,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-02",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2011-02-21",
+          "dealAmount": 395000
+        }
+      ],
+      "trend": {
+        "rate": 1.8,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 8210,
+      "row_id": 168
+    },
+    {
+      "assetId": 4521444.0,
+      "addressId": 53463493,
+      "polygonId": "53447154",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ביל\"ו 19",
+      "dealDate": "2016-07-25",
+      "dealAmount": 1100000,
+      "parcelNum": "39855-10-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 155.0,
+      "yearBuilt": 1900,
+      "streetCode": 310202,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7097,
+      "row_id": 169
+    },
+    {
+      "assetId": 50246170.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2016-07-07",
+      "dealAmount": 600000,
+      "parcelNum": "39850-7-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 71.02,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-06-27",
+          "dealAmount": 125000
+        }
+      ],
+      "trend": {
+        "rate": 380.0,
+        "years": 10.0
+      },
+      "ownership": [],
+      "priceSM": 8451,
+      "row_id": 170
+    },
+    {
+      "assetId": 4477801.0,
+      "addressId": 53462873,
+      "polygonId": "52804739",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ביל\"ו 21",
+      "dealDate": "2016-05-26",
+      "dealAmount": 1839000,
+      "parcelNum": "39855-12-3",
+      "dealNature": "בית בודד",
+      "roomNum": 8.0,
+      "floor": "ראשונה",
+      "assetArea": 362.0,
+      "yearBuilt": 1970,
+      "streetCode": 310202,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5080,
+      "row_id": 171
+    },
+    {
+      "assetId": 4476525.0,
+      "addressId": 53459293,
+      "polygonId": "52777736",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 39",
+      "dealDate": "2016-05-22",
+      "dealAmount": 845000,
+      "parcelNum": "39853-33-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 120.0,
+      "yearBuilt": 1985,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7042,
+      "row_id": 172
+    },
+    {
+      "assetId": 50246141.0,
+      "addressId": 53462282,
+      "polygonId": "65396153",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 16",
+      "dealDate": "2016-04-13",
+      "dealAmount": 628000,
+      "parcelNum": "39850-1-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-07",
+          "dealAmount": 520000
+        }
+      ],
+      "trend": {
+        "rate": 20.8,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 7949,
+      "row_id": 173
+    },
+    {
+      "assetId": 50246264.0,
+      "addressId": 53460391,
+      "polygonId": "52809812",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 9",
+      "dealDate": "2016-04-10",
+      "dealAmount": 630000,
+      "parcelNum": "39852-1-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-10",
+          "dealAmount": 334000
+        }
+      ],
+      "trend": {
+        "rate": 88.6,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 7975,
+      "row_id": 174
+    },
+    {
+      "assetId": 50227913.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2016-03-27",
+      "dealAmount": 660000,
+      "parcelNum": "39563-111-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8800,
+      "row_id": 175
+    },
+    {
+      "assetId": 50227935.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2016-03-13",
+      "dealAmount": 600000,
+      "parcelNum": "39563-113-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 176
+    },
+    {
+      "assetId": 50227961.0,
+      "addressId": 53463219,
+      "polygonId": "52840015",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 4",
+      "dealDate": "2016-03-06",
+      "dealAmount": 635000,
+      "parcelNum": "39563-115-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8819,
+      "row_id": 177
+    },
+    {
+      "assetId": 4518731.0,
+      "addressId": 53466240,
+      "polygonId": "53413654",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 16",
+      "dealDate": "2016-02-18",
+      "dealAmount": 1500000,
+      "parcelNum": "39855-6-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 198.0,
+      "yearBuilt": 1980,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7576,
+      "row_id": 178
+    },
+    {
+      "assetId": 50246266.0,
+      "addressId": 53842700,
+      "polygonId": "53439294",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 11",
+      "dealDate": "2016-01-11",
+      "dealAmount": 620000,
+      "parcelNum": "39852-1-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-07-03",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 87.9,
+        "years": 7.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 310000
+        },
+        {
+          "proportion": "50",
+          "price": 310000
+        }
+      ],
+      "priceSM": 7848,
+      "row_id": 179
+    },
+    {
+      "assetId": 50227225.0,
+      "addressId": 0,
+      "polygonId": "39557-95",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "0",
+      "dealDate": "2015-11-03",
+      "dealAmount": 169000,
+      "parcelNum": "39557-95-0",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 67.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2522,
+      "row_id": 180
+    },
+    {
+      "assetId": 50246237.0,
+      "addressId": 53460392,
+      "polygonId": "52882409",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 15",
+      "dealDate": "2015-10-26",
+      "dealAmount": 537000,
+      "parcelNum": "39852-1-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8661,
+      "row_id": 181
+    },
+    {
+      "assetId": 50227274.0,
+      "addressId": 53462584,
+      "polygonId": "53386028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "השקמה 6",
+      "dealDate": "2015-08-12",
+      "dealAmount": 770000,
+      "parcelNum": "39557-113-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 109.0,
+      "yearBuilt": 1960,
+      "streetCode": 310103,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7064,
+      "row_id": 182
+    },
+    {
+      "assetId": 50226876.0,
+      "addressId": 53465680,
+      "polygonId": "52751129",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 45",
+      "dealDate": "2015-07-28",
+      "dealAmount": 460000,
+      "parcelNum": "39556-67-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 48.0,
+      "yearBuilt": 1999,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-07-01",
+          "dealAmount": 75000
+        }
+      ],
+      "trend": {
+        "rate": 513.3,
+        "years": 16.1
+      },
+      "ownership": [],
+      "priceSM": 9583,
+      "row_id": 183
+    },
+    {
+      "assetId": 4480656.0,
+      "addressId": 53461413,
+      "polygonId": "52891387",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 33",
+      "dealDate": "2015-07-08",
+      "dealAmount": 850000,
+      "parcelNum": "39854-4-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 129.0,
+      "yearBuilt": 1900,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6589,
+      "row_id": 184
+    },
+    {
+      "assetId": 50246254.0,
+      "addressId": 53459306,
+      "polygonId": "53091363",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 7",
+      "dealDate": "2015-07-05",
+      "dealAmount": 600000,
+      "parcelNum": "39852-1-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.9,
+      "yearBuilt": 1983,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7509,
+      "row_id": 185
+    },
+    {
+      "assetId": 50227922.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2015-06-24",
+      "dealAmount": 690000,
+      "parcelNum": "39563-113-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-23",
+          "dealAmount": 560000
+        },
+        {
+          "dealDate": "2000-03-08",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 23.2,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 9583,
+      "row_id": 186
+    },
+    {
+      "assetId": 50246139.0,
+      "addressId": 53462282,
+      "polygonId": "65396153",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 16",
+      "dealDate": "2015-06-21",
+      "dealAmount": 630000,
+      "parcelNum": "39850-1-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7885,
+      "row_id": 187
+    },
+    {
+      "assetId": 50227930.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2015-06-16",
+      "dealAmount": 630000,
+      "parcelNum": "39563-113-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-02-26",
+          "dealAmount": 490000
+        },
+        {
+          "dealDate": "2005-12-14",
+          "dealAmount": 275000
+        }
+      ],
+      "trend": {
+        "rate": 28.6,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 8750,
+      "row_id": 188
+    },
+    {
+      "assetId": 50227903.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2015-05-19",
+      "dealAmount": 500000,
+      "parcelNum": "39563-111-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6667,
+      "row_id": 189
+    },
+    {
+      "assetId": 50246172.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2015-05-17",
+      "dealAmount": 525000,
+      "parcelNum": "39850-7-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 71.02,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7392,
+      "row_id": 190
+    },
+    {
+      "assetId": 50226830.0,
+      "addressId": 53461095,
+      "polygonId": "52829652",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 41",
+      "dealDate": "2015-05-12",
+      "dealAmount": 635000,
+      "parcelNum": "39556-56-6",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 109.0,
+      "yearBuilt": 1950,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5826,
+      "row_id": 191
+    },
+    {
+      "assetId": 50226865.0,
+      "addressId": 72956988,
+      "polygonId": "53155477",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "האיריס 1",
+      "dealDate": "2015-02-15",
+      "dealAmount": 1300000,
+      "parcelNum": "39556-62-2",
+      "dealNature": "בית בודד",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 67.5,
+      "yearBuilt": 1980,
+      "streetCode": 310106,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19259,
+      "row_id": 192
+    },
+    {
+      "assetId": 50246114.0,
+      "addressId": 53464032,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 12",
+      "dealDate": "2015-01-26",
+      "dealAmount": 544000,
+      "parcelNum": "39850-1-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1980,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-06-19",
+          "dealAmount": 168000
+        }
+      ],
+      "trend": {
+        "rate": 223.8,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 8774,
+      "row_id": 193
+    },
+    {
+      "assetId": 50246126.0,
+      "addressId": 53459743,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 14",
+      "dealDate": "2014-12-24",
+      "dealAmount": 630000,
+      "parcelNum": "39850-1-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.9,
+      "yearBuilt": 1980,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-03-06",
+          "dealAmount": 452000
+        }
+      ],
+      "trend": {
+        "rate": 39.4,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 7975,
+      "row_id": 194
+    },
+    {
+      "assetId": 4479229.0,
+      "addressId": 53462812,
+      "polygonId": "52835757",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ביל\"ו 15",
+      "dealDate": "2014-12-07",
+      "dealAmount": 1310000,
+      "parcelNum": "39855-5-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 146.0,
+      "yearBuilt": 1900,
+      "streetCode": 310202,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8973,
+      "row_id": 195
+    },
+    {
+      "assetId": 50246236.0,
+      "addressId": 53460392,
+      "polygonId": "52882409",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 15",
+      "dealDate": "2014-10-31",
+      "dealAmount": 499000,
+      "parcelNum": "39852-1-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.2,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8023,
+      "row_id": 196
+    },
+    {
+      "assetId": 50246165.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2014-09-12",
+      "dealAmount": 510000,
+      "parcelNum": "39850-7-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.42,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-09-23",
+          "dealAmount": 380000
+        }
+      ],
+      "trend": {
+        "rate": 34.2,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 8361,
+      "row_id": 197
+    },
+    {
+      "assetId": 4497401.0,
+      "addressId": 53461141,
+      "polygonId": "53156191",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "לח\"י 5",
+      "dealDate": "2014-08-18",
+      "dealAmount": 1200000,
+      "parcelNum": "39563-32-1",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 220.0,
+      "yearBuilt": 1980,
+      "streetCode": 310201,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5455,
+      "row_id": 198
+    },
+    {
+      "assetId": 4493106.0,
+      "addressId": 53461942,
+      "polygonId": "53101243",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 43",
+      "dealDate": "2014-06-24",
+      "dealAmount": 1349000,
+      "parcelNum": "39563-7-2",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 167.0,
+      "yearBuilt": 1987,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8078,
+      "row_id": 199
+    },
+    {
+      "assetId": 50227942.0,
+      "addressId": 53461128,
+      "polygonId": "53425214",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 6",
+      "dealDate": "2014-06-17",
+      "dealAmount": 699000,
+      "parcelNum": "39563-114-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 1980,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-04",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 125.5,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 9320,
+      "row_id": 200
+    },
+    {
+      "assetId": 50227905.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2014-06-01",
+      "dealAmount": 700000,
+      "parcelNum": "39563-111-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9333,
+      "row_id": 201
+    },
+    {
+      "assetId": 50246134.0,
+      "addressId": 53459743,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 14",
+      "dealDate": "2014-04-02",
+      "dealAmount": 600000,
+      "parcelNum": "39850-1-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.9,
+      "yearBuilt": 1980,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7509,
+      "row_id": 202
+    },
+    {
+      "assetId": 4487983.0,
+      "addressId": 53844198,
+      "polygonId": "53030164",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "לח\"י 9",
+      "dealDate": "2014-03-20",
+      "dealAmount": 1350000,
+      "parcelNum": "39563-34-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1980,
+      "streetCode": 310201,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13500,
+      "row_id": 203
+    },
+    {
+      "assetId": 50227867.0,
+      "addressId": 53460621,
+      "polygonId": "52828933",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "שוהם 2",
+      "dealDate": "2014-01-26",
+      "dealAmount": 510000,
+      "parcelNum": "39563-108-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.7,
+      "yearBuilt": 1990,
+      "streetCode": 310205,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-01-20",
+          "dealAmount": 237000
+        }
+      ],
+      "trend": {
+        "rate": 115.2,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 8500,
+      "row_id": 204
+    },
+    {
+      "assetId": 4486777.0,
+      "addressId": 53844340,
+      "polygonId": "53014210",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ברקת 2",
+      "dealDate": "2013-12-19",
+      "dealAmount": 950000,
+      "parcelNum": "39563-91-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 346.0,
+      "yearBuilt": 1900,
+      "streetCode": 310208,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2746,
+      "row_id": 205
+    },
+    {
+      "assetId": 50227138.0,
+      "addressId": 72957030,
+      "polygonId": "39557-78",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 13",
+      "dealDate": "2013-12-01",
+      "dealAmount": 600000,
+      "parcelNum": "39557-78-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.5,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1956,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 206
+    },
+    {
+      "assetId": 50227944.0,
+      "addressId": 53461128,
+      "polygonId": "53425214",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 6",
+      "dealDate": "2013-10-27",
+      "dealAmount": 599000,
+      "parcelNum": "39563-114-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 75.0,
+      "yearBuilt": 1980,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7987,
+      "row_id": 207
+    },
+    {
+      "assetId": 50227943.0,
+      "addressId": 53461128,
+      "polygonId": "53425214",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 6",
+      "dealDate": "2013-10-27",
+      "dealAmount": 630000,
+      "parcelNum": "39563-114-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 1980,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8400,
+      "row_id": 208
+    },
+    {
+      "assetId": 4477800.0,
+      "addressId": 53462873,
+      "polygonId": "52804739",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ביל\"ו 21",
+      "dealDate": "2013-09-11",
+      "dealAmount": 1220000,
+      "parcelNum": "39855-12-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 8.0,
+      "floor": "ראשונה",
+      "assetArea": 350.0,
+      "yearBuilt": 1970,
+      "streetCode": 310202,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3486,
+      "row_id": 209
+    },
+    {
+      "assetId": 50246161.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2013-08-19",
+      "dealAmount": 500000,
+      "parcelNum": "39850-7-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 77.46,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6455,
+      "row_id": 210
+    },
+    {
+      "assetId": 50227862.0,
+      "addressId": 53460621,
+      "polygonId": "52828933",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "שוהם 2",
+      "dealDate": "2013-07-30",
+      "dealAmount": 515000,
+      "parcelNum": "39563-108-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.7,
+      "yearBuilt": 1990,
+      "streetCode": 310205,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8484,
+      "row_id": 211
+    },
+    {
+      "assetId": 50246263.0,
+      "addressId": 53460391,
+      "polygonId": "52809812",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 9",
+      "dealDate": "2013-07-09",
+      "dealAmount": 550000,
+      "parcelNum": "39852-1-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.9,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-09-18",
+          "dealAmount": 390000
+        }
+      ],
+      "trend": {
+        "rate": 41.0,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 6962,
+      "row_id": 212
+    },
+    {
+      "assetId": 4521658.0,
+      "addressId": 53462041,
+      "polygonId": "53451042",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אודם 1",
+      "dealDate": "2013-07-01",
+      "dealAmount": 1270000,
+      "parcelNum": "39695-1-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 8.0,
+      "floor": "ראשונה",
+      "assetArea": 210.0,
+      "yearBuilt": 1991,
+      "streetCode": 310209,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6048,
+      "row_id": 213
+    },
+    {
+      "assetId": 4482041.0,
+      "addressId": 53462883,
+      "polygonId": "52940060",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 8",
+      "dealDate": "2013-06-09",
+      "dealAmount": 1299000,
+      "parcelNum": "39851-20-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 150.0,
+      "yearBuilt": 1970,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8660,
+      "row_id": 214
+    },
+    {
+      "assetId": 50227910.0,
+      "addressId": 72958003,
+      "polygonId": "52889619",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 10",
+      "dealDate": "2013-05-22",
+      "dealAmount": 520000,
+      "parcelNum": "39563-111-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 75.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6933,
+      "row_id": 216
+    },
+    {
+      "assetId": 4482399.0,
+      "addressId": 53462370,
+      "polygonId": "52948600",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "מרבד הקסמים 2",
+      "dealDate": "2013-03-07",
+      "dealAmount": 1280000,
+      "parcelNum": "39851-10-1",
+      "dealNature": "בית בודד",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 207.0,
+      "yearBuilt": 1993,
+      "streetCode": 310203,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6184,
+      "row_id": 217
+    },
+    {
+      "assetId": 50246155.0,
+      "addressId": 53463797,
+      "polygonId": "53156503",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "טרומפלדור 2",
+      "dealDate": "2013-02-26",
+      "dealAmount": 450000,
+      "parcelNum": "39850-7-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.42,
+      "yearBuilt": 1970,
+      "streetCode": 310196,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-21",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 12.5,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 7377,
+      "row_id": 218
+    },
+    {
+      "assetId": 50226895.0,
+      "addressId": 53459223,
+      "polygonId": "52939246",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 49",
+      "dealDate": "2012-12-12",
+      "dealAmount": 230000,
+      "parcelNum": "39556-73-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 1.5,
+      "floor": "ראשונה",
+      "assetArea": 26.7,
+      "yearBuilt": 1900,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8614,
+      "row_id": 219
+    },
+    {
+      "assetId": 50227139.0,
+      "addressId": 53465213,
+      "polygonId": "53450584",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 15",
+      "dealDate": "2012-11-28",
+      "dealAmount": 850000,
+      "parcelNum": "39557-79-0",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 858.0,
+      "yearBuilt": 1958,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-02-21",
+          "dealAmount": 202000
+        }
+      ],
+      "trend": {
+        "rate": 320.8,
+        "years": 12.8
+      },
+      "ownership": [],
+      "priceSM": 991,
+      "row_id": 220
+    },
+    {
+      "assetId": 4485593.0,
+      "addressId": 53462656,
+      "polygonId": "52999940",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ביל\"ו 35",
+      "dealDate": "2012-11-05",
+      "dealAmount": 719000,
+      "parcelNum": "39563-26-1",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 245.0,
+      "yearBuilt": 1984,
+      "streetCode": 310202,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2935,
+      "row_id": 221
+    },
+    {
+      "assetId": 50227945.0,
+      "addressId": 53461128,
+      "polygonId": "53425214",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 6",
+      "dealDate": "2012-10-15",
+      "dealAmount": 500000,
+      "parcelNum": "39563-114-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 75.0,
+      "yearBuilt": 1980,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-11-28",
+          "dealAmount": 287000
+        }
+      ],
+      "trend": {
+        "rate": 74.2,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 6667,
+      "row_id": 222
+    },
+    {
+      "assetId": 50246116.0,
+      "addressId": 53464032,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 12",
+      "dealDate": "2012-08-30",
+      "dealAmount": 404000,
+      "parcelNum": "39850-1-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.0,
+      "yearBuilt": 1980,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6516,
+      "row_id": 223
+    },
+    {
+      "assetId": 4517785.0,
+      "addressId": 53844422,
+      "polygonId": "53387565",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 20",
+      "dealDate": "2012-07-19",
+      "dealAmount": 1250000,
+      "parcelNum": "39851-9-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 500.0,
+      "yearBuilt": 1970,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2500,
+      "row_id": 224
+    },
+    {
+      "assetId": 50227972.0,
+      "addressId": 53463219,
+      "polygonId": "52840015",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 4",
+      "dealDate": "2012-05-29",
+      "dealAmount": 417000,
+      "parcelNum": "39563-115-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-01-27",
+          "dealAmount": 191000
+        }
+      ],
+      "trend": {
+        "rate": 118.3,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 5792,
+      "row_id": 225
+    },
+    {
+      "assetId": 50227892.0,
+      "addressId": 53844359,
+      "polygonId": "53444114",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "החיד\"א 11",
+      "dealDate": "2011-12-06",
+      "dealAmount": 510000,
+      "parcelNum": "39563-110-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310176,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-02-20",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2003-09-05",
+          "dealAmount": 182000
+        }
+      ],
+      "trend": {
+        "rate": 155.0,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 7083,
+      "row_id": 226
+    },
+    {
+      "assetId": 50227899.0,
+      "addressId": 53844359,
+      "polygonId": "53444114",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "החיד\"א 11",
+      "dealDate": "2011-07-05",
+      "dealAmount": 429000,
+      "parcelNum": "39563-110-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310176,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-08",
+          "dealAmount": 352000
+        },
+        {
+          "dealDate": "2003-09-10",
+          "dealAmount": 118000
+        },
+        {
+          "dealDate": "2002-10-09",
+          "dealAmount": 106000
+        }
+      ],
+      "trend": {
+        "rate": 21.9,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 5958,
+      "row_id": 227
+    },
+    {
+      "assetId": 50227271.0,
+      "addressId": 53843977,
+      "polygonId": "52932278",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "השקמה 4",
+      "dealDate": "2011-05-31",
+      "dealAmount": 295000,
+      "parcelNum": "39557-112-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 99.0,
+      "yearBuilt": 1956,
+      "streetCode": 310103,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2980,
+      "row_id": 228
+    },
+    {
+      "assetId": 50227866.0,
+      "addressId": 53460621,
+      "polygonId": "52828933",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "שוהם 2",
+      "dealDate": "2011-03-07",
+      "dealAmount": 440000,
+      "parcelNum": "39563-108-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.7,
+      "yearBuilt": 1990,
+      "streetCode": 310205,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-07",
+          "dealAmount": 232000
+        }
+      ],
+      "trend": {
+        "rate": 89.7,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 7333,
+      "row_id": 229
+    },
+    {
+      "assetId": 4480626.0,
+      "addressId": 53461146,
+      "polygonId": "52890401",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "לח\"י 34",
+      "dealDate": "2011-02-14",
+      "dealAmount": 910000,
+      "parcelNum": "39563-57-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 502.0,
+      "yearBuilt": 1995,
+      "streetCode": 310201,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1813,
+      "row_id": 230
+    },
+    {
+      "assetId": 50227933.0,
+      "addressId": 53844368,
+      "polygonId": "52956930",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 8",
+      "dealDate": "2010-08-08",
+      "dealAmount": 330000,
+      "parcelNum": "39563-113-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4583,
+      "row_id": 231
+    },
+    {
+      "assetId": 50226931.0,
+      "addressId": 0,
+      "polygonId": "39556-106",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "0",
+      "dealDate": "2010-05-10",
+      "dealAmount": 165000,
+      "parcelNum": "39556-106-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 58.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2845,
+      "row_id": 232
+    },
+    {
+      "assetId": 4497323.0,
+      "addressId": 53842882,
+      "polygonId": "53155203",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "לח\"י 19",
+      "dealDate": "2010-03-07",
+      "dealAmount": 1250000,
+      "parcelNum": "39563-39-1",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 250.0,
+      "yearBuilt": 1987,
+      "streetCode": 310201,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 234
+    },
+    {
+      "assetId": 50227973.0,
+      "addressId": 53463219,
+      "polygonId": "52840015",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "יהלום 4",
+      "dealDate": "2010-02-02",
+      "dealAmount": 233000,
+      "parcelNum": "39563-115-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 310206,
+      "settlmentID": 31,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3236,
+      "row_id": 236
+    },
+    {
+      "assetId": 50226651.0,
+      "addressId": 53465228,
+      "polygonId": "53450091",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 33",
+      "dealDate": "2009-08-25",
+      "dealAmount": 480000,
+      "parcelNum": "39556-10-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 26.7,
+      "yearBuilt": 1996,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17978,
+      "row_id": 239
+    },
+    {
+      "assetId": 4488643.0,
+      "addressId": 53844313,
+      "polygonId": "53041235",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 27",
+      "dealDate": "2009-05-14",
+      "dealAmount": 550000,
+      "parcelNum": "39854-7-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 110.0,
+      "yearBuilt": 1984,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 240
+    },
+    {
+      "assetId": 50246238.0,
+      "addressId": 53842732,
+      "polygonId": "52882409",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ההגנה 17",
+      "dealDate": "2008-11-30",
+      "dealAmount": 270000,
+      "parcelNum": "39852-1-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.2,
+      "yearBuilt": 1970,
+      "streetCode": 310199,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4341,
+      "row_id": 241
+    },
+    {
+      "assetId": 50226886.0,
+      "addressId": 72956985,
+      "polygonId": "52932765",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "האיריס 7",
+      "dealDate": "2008-02-07",
+      "dealAmount": 290000,
+      "parcelNum": "39556-70-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 67.5,
+      "yearBuilt": 1800,
+      "streetCode": 310106,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4296,
+      "row_id": 244
+    },
+    {
+      "assetId": 4497324.0,
+      "addressId": 72958002,
+      "polygonId": "53155232",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "תרשיש 11",
+      "dealDate": "2007-05-31",
+      "dealAmount": 800000,
+      "parcelNum": "39563-92-1",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 150.0,
+      "yearBuilt": 1970,
+      "streetCode": 310204,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5333,
+      "row_id": 246
+    },
+    {
+      "assetId": 50246115.0,
+      "addressId": 53464032,
+      "polygonId": "52799028",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 12",
+      "dealDate": "2006-11-08",
+      "dealAmount": 182000,
+      "parcelNum": "39850-1-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.2,
+      "yearBuilt": 1980,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-09-11",
+          "dealAmount": 179000
+        }
+      ],
+      "trend": {
+        "rate": 1.7,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 2935,
+      "row_id": 247
+    },
+    {
+      "assetId": 4518266.0,
+      "addressId": 53459333,
+      "polygonId": "53403125",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 8",
+      "dealDate": "2006-06-21",
+      "dealAmount": 401000,
+      "parcelNum": "39853-30-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1970,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4010,
+      "row_id": 248
+    },
+    {
+      "assetId": 50226657.0,
+      "addressId": 72956996,
+      "polygonId": "52799997",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הנרקיס 3",
+      "dealDate": "2005-12-05",
+      "dealAmount": 232000,
+      "parcelNum": "39556-11-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.0,
+      "yearBuilt": 1956,
+      "streetCode": 310105,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-01-14",
+          "dealAmount": 403000
+        }
+      ],
+      "trend": {
+        "rate": -42.4,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 2937,
+      "row_id": 249
+    },
+    {
+      "assetId": 4482502.0,
+      "addressId": 53844041,
+      "polygonId": "52949992",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 11",
+      "dealDate": "2005-07-12",
+      "dealAmount": 588000,
+      "parcelNum": "39849-6-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 180.0,
+      "yearBuilt": 1992,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3267,
+      "row_id": 250
+    },
+    {
+      "assetId": 4477802.0,
+      "addressId": 53462873,
+      "polygonId": "52804739",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ביל\"ו 21",
+      "dealDate": "2005-05-17",
+      "dealAmount": 940000,
+      "parcelNum": "39855-12-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 200.0,
+      "yearBuilt": 1970,
+      "streetCode": 310202,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4700,
+      "row_id": 251
+    },
+    {
+      "assetId": 50226670.0,
+      "addressId": 72956989,
+      "polygonId": "53446836",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 37",
+      "dealDate": "2005-03-31",
+      "dealAmount": 196000,
+      "parcelNum": "39556-13-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 27.6,
+      "yearBuilt": 1950,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7101,
+      "row_id": 252
+    },
+    {
+      "assetId": 50226647.0,
+      "addressId": 53465228,
+      "polygonId": "53450091",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "הרצל 33",
+      "dealDate": "2004-11-01",
+      "dealAmount": 377000,
+      "parcelNum": "39556-10-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 104.0,
+      "yearBuilt": 1996,
+      "streetCode": 310107,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3625,
+      "row_id": 253
+    },
+    {
+      "assetId": 50246110.0,
+      "addressId": 53464526,
+      "polygonId": "65396153",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "עולי הגרדום 10",
+      "dealDate": "2004-06-08",
+      "dealAmount": 142000,
+      "parcelNum": "39850-1-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.7,
+      "yearBuilt": 1970,
+      "streetCode": 310195,
+      "settlmentID": 31,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2379,
+      "row_id": 254
+    },
+    {
+      "assetId": 4497233.0,
+      "addressId": 53460988,
+      "polygonId": "53154059",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "ביל\"ו 25",
+      "dealDate": "2004-01-12",
+      "dealAmount": 591000,
+      "parcelNum": "39855-16-1",
+      "dealNature": "דירת גן",
+      "roomNum": 1.0,
+      "floor": null,
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 310202,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9850,
+      "row_id": 255
+    },
+    {
+      "assetId": 4488644.0,
+      "addressId": 53844313,
+      "polygonId": "53041235",
+      "neighborhoodName": "הרי\"ף",
+      "neighborhoodId": 65211092,
+      "address": "אצ\"ל 27",
+      "dealDate": "2003-09-03",
+      "dealAmount": 362000,
+      "parcelNum": "39854-7-1",
+      "dealNature": "קוטג' טורי",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 110.0,
+      "yearBuilt": 1984,
+      "streetCode": 310200,
+      "settlmentID": 31,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3291,
+      "row_id": 256
+    }
+  ]
+}

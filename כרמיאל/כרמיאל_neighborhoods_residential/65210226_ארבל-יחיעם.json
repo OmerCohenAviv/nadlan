@@ -1,0 +1,7545 @@
+{
+  "neighborhood_name": "ארבל-יחיעם",
+  "city_name": "כרמיאל",
+  "transaction_count": 231,
+  "transactions": [
+    {
+      "assetId": 60292529.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2025-05-12",
+      "dealAmount": 1240000,
+      "parcelNum": "18988-198-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-05-23",
+          "dealAmount": 800000
+        },
+        {
+          "dealDate": "2015-07-26",
+          "dealAmount": 700000
+        }
+      ],
+      "trend": {
+        "rate": 55.0,
+        "years": 4.0
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 620000
+        },
+        {
+          "proportion": "50",
+          "price": 620000
+        }
+      ],
+      "priceSM": 16986,
+      "row_id": 1
+    },
+    {
+      "assetId": 60292377.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2025-04-29",
+      "dealAmount": 1200000,
+      "parcelNum": "18988-193-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 72.9,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-17",
+          "dealAmount": 710000
+        },
+        {
+          "dealDate": "2011-04-14",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 69.0,
+        "years": 9.0
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 396000
+        },
+        {
+          "proportion": "33",
+          "price": 396000
+        },
+        {
+          "proportion": "33",
+          "price": 396000
+        }
+      ],
+      "priceSM": 16667,
+      "row_id": 2
+    },
+    {
+      "assetId": 60292320.0,
+      "addressId": 53515594,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 25",
+      "dealDate": "2025-04-08",
+      "dealAmount": 950000,
+      "parcelNum": "18988-192-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-06-01",
+          "dealAmount": 825000
+        },
+        {
+          "dealDate": "2011-12-29",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "1999-11-08",
+          "dealAmount": 358000
+        }
+      ],
+      "trend": {
+        "rate": 15.2,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 16102,
+      "row_id": 3
+    },
+    {
+      "assetId": 60292676.0,
+      "addressId": 53769216,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 5",
+      "dealDate": "2025-03-19",
+      "dealAmount": 1300000,
+      "parcelNum": "18988-203-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 104.1,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12488,
+      "row_id": 4
+    },
+    {
+      "assetId": 60292651.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2025-02-23",
+      "dealAmount": 1300000,
+      "parcelNum": "18988-202-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-07-17",
+          "dealAmount": 224000
+        },
+        {
+          "dealDate": "1998-08-21",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 480.4,
+        "years": 18.6
+      },
+      "ownership": [],
+      "priceSM": 18056,
+      "row_id": 5
+    },
+    {
+      "assetId": 60292331.0,
+      "addressId": 53517239,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 27",
+      "dealDate": "2025-02-23",
+      "dealAmount": 770000,
+      "parcelNum": "18988-192-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-14",
+          "dealAmount": 580000
+        }
+      ],
+      "trend": {
+        "rate": 32.8,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 17500,
+      "row_id": 6
+    },
+    {
+      "assetId": 60292527.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2025-02-20",
+      "dealAmount": 1200000,
+      "parcelNum": "18988-198-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-12-02",
+          "dealAmount": 715000
+        },
+        {
+          "dealDate": "2015-07-29",
+          "dealAmount": 620000
+        }
+      ],
+      "trend": {
+        "rate": 67.8,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 16667,
+      "row_id": 7
+    },
+    {
+      "assetId": 60292515.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2025-02-19",
+      "dealAmount": 1000000,
+      "parcelNum": "18988-198-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-30",
+          "dealAmount": 810000
+        },
+        {
+          "dealDate": "2012-01-01",
+          "dealAmount": 535000
+        },
+        {
+          "dealDate": "2002-12-26",
+          "dealAmount": 346000
+        }
+      ],
+      "trend": {
+        "rate": 23.5,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 13889,
+      "row_id": 8
+    },
+    {
+      "assetId": 60292702.0,
+      "addressId": 53515529,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 11",
+      "dealDate": "2025-01-20",
+      "dealAmount": 950000,
+      "parcelNum": "18988-203-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-10-23",
+          "dealAmount": 555000
+        }
+      ],
+      "trend": {
+        "rate": 71.2,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 16102,
+      "row_id": 9
+    },
+    {
+      "assetId": 60292467.0,
+      "addressId": 53857627,
+      "polygonId": "51783163",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 30",
+      "dealDate": "2024-11-27",
+      "dealAmount": 1165000,
+      "parcelNum": "18988-196-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 85.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-03-01",
+          "dealAmount": 850000
+        },
+        {
+          "dealDate": "2000-10-18",
+          "dealAmount": 435000
+        }
+      ],
+      "trend": {
+        "rate": 37.1,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 13706,
+      "row_id": 10
+    },
+    {
+      "assetId": 60292618.0,
+      "addressId": 53512376,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 8",
+      "dealDate": "2024-10-14",
+      "dealAmount": 1000000,
+      "parcelNum": "18988-201-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15432,
+      "row_id": 11
+    },
+    {
+      "assetId": 60292574.0,
+      "addressId": 53811372,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 14",
+      "dealDate": "2024-09-30",
+      "dealAmount": 800000,
+      "parcelNum": "18988-199-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-27",
+          "dealAmount": 460000
+        },
+        {
+          "dealDate": "2011-03-03",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 73.9,
+        "years": 10.6
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 12
+    },
+    {
+      "assetId": 60292688.0,
+      "addressId": 53516895,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 7",
+      "dealDate": "2024-09-24",
+      "dealAmount": 735000,
+      "parcelNum": "18988-203-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-11-13",
+          "dealAmount": 356000
+        }
+      ],
+      "trend": {
+        "rate": 106.5,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 16705,
+      "row_id": 13
+    },
+    {
+      "assetId": 60292730.0,
+      "addressId": 53515529,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 11",
+      "dealDate": "2024-08-21",
+      "dealAmount": 700000,
+      "parcelNum": "18988-203-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 43.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-09-06",
+          "dealAmount": 246000
+        }
+      ],
+      "trend": {
+        "rate": 184.6,
+        "years": 26.0
+      },
+      "ownership": [],
+      "priceSM": 16279,
+      "row_id": 14
+    },
+    {
+      "assetId": 60292372.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2024-08-14",
+      "dealAmount": 1200000,
+      "parcelNum": "18988-193-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 76.02,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-07-05",
+          "dealAmount": 770000
+        },
+        {
+          "dealDate": "2012-02-10",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 55.8,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 15789,
+      "row_id": 15
+    },
+    {
+      "assetId": 60292462.0,
+      "addressId": 53857627,
+      "polygonId": "51783163",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 30",
+      "dealDate": "2024-07-08",
+      "dealAmount": 1050000,
+      "parcelNum": "18988-196-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 85.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-11-10",
+          "dealAmount": 740000
+        },
+        {
+          "dealDate": "2010-10-28",
+          "dealAmount": 430000
+        },
+        {
+          "dealDate": "2000-11-06",
+          "dealAmount": 435000
+        }
+      ],
+      "trend": {
+        "rate": 41.9,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 12353,
+      "row_id": 16
+    },
+    {
+      "assetId": 60292350.0,
+      "addressId": 53512310,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 17",
+      "dealDate": "2024-06-07",
+      "dealAmount": 800000,
+      "parcelNum": "18988-192-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-10-10",
+          "dealAmount": 505000
+        },
+        {
+          "dealDate": "2006-10-31",
+          "dealAmount": 154000
+        }
+      ],
+      "trend": {
+        "rate": 58.4,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 18182,
+      "row_id": 17
+    },
+    {
+      "assetId": 60292793.0,
+      "addressId": 53521243,
+      "polygonId": "51778598",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 4",
+      "dealDate": "2024-04-08",
+      "dealAmount": 2475000,
+      "parcelNum": "18988-217-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 139.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-01-16",
+          "dealAmount": 794000
+        }
+      ],
+      "trend": {
+        "rate": 211.7,
+        "years": 20.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 1237500
+        },
+        {
+          "proportion": "50",
+          "price": 1237500
+        }
+      ],
+      "priceSM": 17806,
+      "row_id": 18
+    },
+    {
+      "assetId": 60292735.0,
+      "addressId": 53522127,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 1",
+      "dealDate": "2024-03-24",
+      "dealAmount": 532000,
+      "parcelNum": "18988-203-60",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12146,
+      "row_id": 19
+    },
+    {
+      "assetId": 60292736.0,
+      "addressId": 53522127,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 1",
+      "dealDate": "2024-03-20",
+      "dealAmount": 620000,
+      "parcelNum": "18988-203-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14155,
+      "row_id": 20
+    },
+    {
+      "assetId": 60292491.0,
+      "addressId": 53522502,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 28",
+      "dealDate": "2024-03-20",
+      "dealAmount": 800000,
+      "parcelNum": "18988-197-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-11-15",
+          "dealAmount": 590000
+        },
+        {
+          "dealDate": "2010-12-30",
+          "dealAmount": 370000
+        }
+      ],
+      "trend": {
+        "rate": 35.6,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 10127,
+      "row_id": 21
+    },
+    {
+      "assetId": 60292495.0,
+      "addressId": 53522501,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 26",
+      "dealDate": "2024-02-07",
+      "dealAmount": 990000,
+      "parcelNum": "18988-197-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-08-23",
+          "dealAmount": 710000
+        }
+      ],
+      "trend": {
+        "rate": 39.4,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 12532,
+      "row_id": 22
+    },
+    {
+      "assetId": 60292634.0,
+      "addressId": 53515532,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 4",
+      "dealDate": "2024-02-01",
+      "dealAmount": 930000,
+      "parcelNum": "18988-201-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14352,
+      "row_id": 23
+    },
+    {
+      "assetId": 60292620.0,
+      "addressId": 53512376,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 8",
+      "dealDate": "2023-11-24",
+      "dealAmount": 840000,
+      "parcelNum": "18988-201-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-09-18",
+          "dealAmount": 565000
+        }
+      ],
+      "trend": {
+        "rate": 48.7,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 13125,
+      "row_id": 24
+    },
+    {
+      "assetId": 60292474.0,
+      "addressId": 53857627,
+      "polygonId": "51783163",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 30",
+      "dealDate": "2023-10-16",
+      "dealAmount": 800000,
+      "parcelNum": "18988-196-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 85.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9313,
+      "row_id": 25
+    },
+    {
+      "assetId": 60292447.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2023-09-14",
+      "dealAmount": 1090000,
+      "parcelNum": "18988-195-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11319,
+      "row_id": 26
+    },
+    {
+      "assetId": 60292554.0,
+      "addressId": 53515530,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 18",
+      "dealDate": "2023-08-31",
+      "dealAmount": 930000,
+      "parcelNum": "18988-199-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-07-05",
+          "dealAmount": 730000
+        },
+        {
+          "dealDate": "2012-01-19",
+          "dealAmount": 425000
+        },
+        {
+          "dealDate": "2010-08-06",
+          "dealAmount": 345000
+        },
+        {
+          "dealDate": "2009-11-18",
+          "dealAmount": 250000
+        },
+        {
+          "dealDate": "2001-01-26",
+          "dealAmount": 301000
+        }
+      ],
+      "trend": {
+        "rate": 27.4,
+        "years": 1.2
+      },
+      "ownership": [],
+      "priceSM": 14531,
+      "row_id": 27
+    },
+    {
+      "assetId": 60292328.0,
+      "addressId": 53517239,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 27",
+      "dealDate": "2023-06-22",
+      "dealAmount": 820000,
+      "parcelNum": "18988-192-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-11-07",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 134.3,
+        "years": 23.6
+      },
+      "ownership": [],
+      "priceSM": 13898,
+      "row_id": 28
+    },
+    {
+      "assetId": 60292624.0,
+      "addressId": 53512376,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 8",
+      "dealDate": "2023-04-24",
+      "dealAmount": 750000,
+      "parcelNum": "18988-201-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-08-22",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 275.0,
+        "years": 14.7
+      },
+      "ownership": [],
+      "priceSM": 11719,
+      "row_id": 29
+    },
+    {
+      "assetId": 60292332.0,
+      "addressId": 53517239,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 27",
+      "dealDate": "2023-04-17",
+      "dealAmount": 880000,
+      "parcelNum": "18988-192-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-08-09",
+          "dealAmount": 580000
+        },
+        {
+          "dealDate": "2016-08-04",
+          "dealAmount": 455000
+        }
+      ],
+      "trend": {
+        "rate": 51.7,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 14915,
+      "row_id": 30
+    },
+    {
+      "assetId": 60292615.0,
+      "addressId": 53517240,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 10",
+      "dealDate": "2023-02-24",
+      "dealAmount": 795000,
+      "parcelNum": "18988-201-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-08-19",
+          "dealAmount": 535000
+        },
+        {
+          "dealDate": "2012-10-16",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2010-11-14",
+          "dealAmount": 305000
+        }
+      ],
+      "trend": {
+        "rate": 48.6,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 12422,
+      "row_id": 31
+    },
+    {
+      "assetId": 60292666.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2023-02-17",
+      "dealAmount": 1010000,
+      "parcelNum": "18988-202-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13667,
+      "row_id": 32
+    },
+    {
+      "assetId": 60292617.0,
+      "addressId": 53512376,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 8",
+      "dealDate": "2023-01-20",
+      "dealAmount": 1125000,
+      "parcelNum": "18988-201-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-08-20",
+          "dealAmount": 540000
+        },
+        {
+          "dealDate": "2010-01-14",
+          "dealAmount": 310000
+        },
+        {
+          "dealDate": "1998-02-26",
+          "dealAmount": 311000
+        }
+      ],
+      "trend": {
+        "rate": 108.3,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 17578,
+      "row_id": 33
+    },
+    {
+      "assetId": 60292341.0,
+      "addressId": 53515527,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 29",
+      "dealDate": "2023-01-18",
+      "dealAmount": 620000,
+      "parcelNum": "18988-192-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-20",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2002-05-21",
+          "dealAmount": 236000
+        }
+      ],
+      "trend": {
+        "rate": 55.0,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 14091,
+      "row_id": 34
+    },
+    {
+      "assetId": 60292419.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2023-01-05",
+      "dealAmount": 1000000,
+      "parcelNum": "18988-195-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10384,
+      "row_id": 35
+    },
+    {
+      "assetId": 60292568.0,
+      "addressId": 53811372,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 14",
+      "dealDate": "2022-12-19",
+      "dealAmount": 920000,
+      "parcelNum": "18988-199-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-13",
+          "dealAmount": 280000
+        }
+      ],
+      "trend": {
+        "rate": 228.6,
+        "years": 19.7
+      },
+      "ownership": [],
+      "priceSM": 14375,
+      "row_id": 36
+    },
+    {
+      "assetId": 60292626.0,
+      "addressId": 53516896,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 6",
+      "dealDate": "2022-12-19",
+      "dealAmount": 905000,
+      "parcelNum": "18988-201-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-11-04",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 115.5,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 14141,
+      "row_id": 37
+    },
+    {
+      "assetId": 60292598.0,
+      "addressId": 53511805,
+      "polygonId": "51771264",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 12",
+      "dealDate": "2022-10-26",
+      "dealAmount": 1080000,
+      "parcelNum": "18988-200-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14856,
+      "row_id": 38
+    },
+    {
+      "assetId": 60292506.0,
+      "addressId": 53522500,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 24",
+      "dealDate": "2022-10-20",
+      "dealAmount": 990000,
+      "parcelNum": "18988-197-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-01",
+          "dealAmount": 870000
+        },
+        {
+          "dealDate": "2013-06-23",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2005-06-26",
+          "dealAmount": 308000
+        }
+      ],
+      "trend": {
+        "rate": 13.8,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 12532,
+      "row_id": 39
+    },
+    {
+      "assetId": 60292668.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2022-08-31",
+      "dealAmount": 967000,
+      "parcelNum": "18988-202-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13301,
+      "row_id": 40
+    },
+    {
+      "assetId": 60292310.0,
+      "addressId": 53857426,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 21",
+      "dealDate": "2022-08-01",
+      "dealAmount": 600000,
+      "parcelNum": "18988-192-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13393,
+      "row_id": 41
+    },
+    {
+      "assetId": 60292763.0,
+      "addressId": 53857594,
+      "polygonId": "51776641",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 14",
+      "dealDate": "2022-07-21",
+      "dealAmount": 400000,
+      "parcelNum": "18988-216-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 111.4,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3591,
+      "row_id": 42
+    },
+    {
+      "assetId": 60292314.0,
+      "addressId": 53515526,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 23",
+      "dealDate": "2022-07-11",
+      "dealAmount": 815000,
+      "parcelNum": "18988-192-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-17",
+          "dealAmount": 485000
+        }
+      ],
+      "trend": {
+        "rate": 68.0,
+        "years": 7.1
+      },
+      "ownership": [],
+      "priceSM": 13814,
+      "row_id": 43
+    },
+    {
+      "assetId": 60292446.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2022-07-04",
+      "dealAmount": 1010000,
+      "parcelNum": "18988-195-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 85.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-27",
+          "dealAmount": 685000
+        }
+      ],
+      "trend": {
+        "rate": 47.4,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 11882,
+      "row_id": 44
+    },
+    {
+      "assetId": 60292576.0,
+      "addressId": 53511805,
+      "polygonId": "51771264",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 12",
+      "dealDate": "2022-07-01",
+      "dealAmount": 960000,
+      "parcelNum": "18988-200-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12991,
+      "row_id": 45
+    },
+    {
+      "assetId": 60292731.0,
+      "addressId": 53523352,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 13",
+      "dealDate": "2022-06-29",
+      "dealAmount": 620000,
+      "parcelNum": "18988-203-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-02-08",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 24.0,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 14419,
+      "row_id": 46
+    },
+    {
+      "assetId": 60292616.0,
+      "addressId": 53517240,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 10",
+      "dealDate": "2022-06-22",
+      "dealAmount": 640000,
+      "parcelNum": "18988-201-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-05-30",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2013-11-06",
+          "dealAmount": 510000
+        },
+        {
+          "dealDate": "2011-05-23",
+          "dealAmount": 360000
+        },
+        {
+          "dealDate": "2002-06-06",
+          "dealAmount": 397000
+        }
+      ],
+      "trend": {
+        "rate": 16.4,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 47
+    },
+    {
+      "assetId": 60292543.0,
+      "addressId": 53510877,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 20",
+      "dealDate": "2022-06-16",
+      "dealAmount": 860000,
+      "parcelNum": "18988-199-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13272,
+      "row_id": 48
+    },
+    {
+      "assetId": 60292537.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2022-05-29",
+      "dealAmount": 950000,
+      "parcelNum": "18988-198-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-23",
+          "dealAmount": 720000
+        },
+        {
+          "dealDate": "1999-12-30",
+          "dealAmount": 386000
+        }
+      ],
+      "trend": {
+        "rate": 31.9,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 13014,
+      "row_id": 49
+    },
+    {
+      "assetId": 60292633.0,
+      "addressId": 53515532,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 4",
+      "dealDate": "2022-05-18",
+      "dealAmount": 890000,
+      "parcelNum": "18988-201-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13735,
+      "row_id": 50
+    },
+    {
+      "assetId": 60292319.0,
+      "addressId": 53515526,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 23",
+      "dealDate": "2022-05-15",
+      "dealAmount": 420000,
+      "parcelNum": "18988-192-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-24",
+          "dealAmount": 130000
+        },
+        {
+          "dealDate": "2007-11-05",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 223.1,
+        "years": 12.0
+      },
+      "ownership": [],
+      "priceSM": 7119,
+      "row_id": 51
+    },
+    {
+      "assetId": 60292709.0,
+      "addressId": 53515595,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 15",
+      "dealDate": "2022-04-27",
+      "dealAmount": 1300000,
+      "parcelNum": "18988-203-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 89.6,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-08-31",
+          "dealAmount": 1125000
+        },
+        {
+          "dealDate": "2012-08-30",
+          "dealAmount": 790000
+        },
+        {
+          "dealDate": "1999-12-30",
+          "dealAmount": 1982000
+        }
+      ],
+      "trend": {
+        "rate": 15.6,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 14607,
+      "row_id": 52
+    },
+    {
+      "assetId": 60292677.0,
+      "addressId": 53769216,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 5",
+      "dealDate": "2022-04-25",
+      "dealAmount": 750000,
+      "parcelNum": "18988-203-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-06-04",
+          "dealAmount": 250000
+        },
+        {
+          "dealDate": "2011-08-01",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2002-12-08",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 200.0,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 12712,
+      "row_id": 53
+    },
+    {
+      "assetId": 60292361.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2022-04-24",
+      "dealAmount": 114000,
+      "parcelNum": "18988-193-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 76.52,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-10-30",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": -43.0,
+        "years": 13.5
+      },
+      "ownership": [],
+      "priceSM": 1500,
+      "row_id": 54
+    },
+    {
+      "assetId": 60292566.0,
+      "addressId": 53515531,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 16",
+      "dealDate": "2022-04-20",
+      "dealAmount": 675000,
+      "parcelNum": "18988-199-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-09-06",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2010-09-07",
+          "dealAmount": 304000
+        },
+        {
+          "dealDate": "2009-07-26",
+          "dealAmount": 168000
+        }
+      ],
+      "trend": {
+        "rate": 50.0,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 10547,
+      "row_id": 55
+    },
+    {
+      "assetId": 60292545.0,
+      "addressId": 53510877,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 20",
+      "dealDate": "2022-04-17",
+      "dealAmount": 795000,
+      "parcelNum": "18988-199-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-13",
+          "dealAmount": 550000
+        }
+      ],
+      "trend": {
+        "rate": 44.5,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 12422,
+      "row_id": 56
+    },
+    {
+      "assetId": 60292438.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2022-04-11",
+      "dealAmount": 815000,
+      "parcelNum": "18988-195-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 85.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-26",
+          "dealAmount": 426000
+        }
+      ],
+      "trend": {
+        "rate": 91.3,
+        "years": 22.5
+      },
+      "ownership": [],
+      "priceSM": 9588,
+      "row_id": 57
+    },
+    {
+      "assetId": 60292552.0,
+      "addressId": 53515530,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 18",
+      "dealDate": "2022-04-05",
+      "dealAmount": 698000,
+      "parcelNum": "18988-199-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-05-12",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 66.2,
+        "years": 10.9
+      },
+      "ownership": [],
+      "priceSM": 10906,
+      "row_id": 58
+    },
+    {
+      "assetId": 60292664.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2022-01-10",
+      "dealAmount": 189000,
+      "parcelNum": "18988-202-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2600,
+      "row_id": 59
+    },
+    {
+      "assetId": 60292547.0,
+      "addressId": 53510877,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 20",
+      "dealDate": "2021-12-21",
+      "dealAmount": 700000,
+      "parcelNum": "18988-199-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10802,
+      "row_id": 60
+    },
+    {
+      "assetId": 60292497.0,
+      "addressId": 53522501,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 26",
+      "dealDate": "2021-11-30",
+      "dealAmount": 805000,
+      "parcelNum": "18988-197-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10190,
+      "row_id": 61
+    },
+    {
+      "assetId": 60292667.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2021-11-09",
+      "dealAmount": 900000,
+      "parcelNum": "18988-202-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-19",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2003-11-16",
+          "dealAmount": 362000
+        }
+      ],
+      "trend": {
+        "rate": 80.0,
+        "years": 9.4
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 62
+    },
+    {
+      "assetId": 60292296.0,
+      "addressId": 53512310,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 17",
+      "dealDate": "2021-10-07",
+      "dealAmount": 618000,
+      "parcelNum": "18988-192-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-15",
+          "dealAmount": 445000
+        },
+        {
+          "dealDate": "1999-06-18",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 38.9,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 10475,
+      "row_id": 63
+    },
+    {
+      "assetId": 60292402.0,
+      "addressId": 53521310,
+      "polygonId": "51771984",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 26",
+      "dealDate": "2021-09-19",
+      "dealAmount": 900000,
+      "parcelNum": "18988-194-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 73.4,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12262,
+      "row_id": 64
+    },
+    {
+      "assetId": 60292625.0,
+      "addressId": 53516896,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 6",
+      "dealDate": "2021-06-24",
+      "dealAmount": 785000,
+      "parcelNum": "18988-201-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12114,
+      "row_id": 65
+    },
+    {
+      "assetId": 60292351.0,
+      "addressId": 53512310,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 17",
+      "dealDate": "2021-06-23",
+      "dealAmount": 500000,
+      "parcelNum": "18988-192-60",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-06-17",
+          "dealAmount": 470000
+        },
+        {
+          "dealDate": "2003-02-02",
+          "dealAmount": 259000
+        }
+      ],
+      "trend": {
+        "rate": 6.4,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 11364,
+      "row_id": 66
+    },
+    {
+      "assetId": 60292705.0,
+      "addressId": 53523352,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 13",
+      "dealDate": "2021-06-17",
+      "dealAmount": 730000,
+      "parcelNum": "18988-203-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-11-10",
+          "dealAmount": 530000
+        },
+        {
+          "dealDate": "2013-05-03",
+          "dealAmount": 525000
+        },
+        {
+          "dealDate": "2012-11-04",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 37.7,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 12373,
+      "row_id": 67
+    },
+    {
+      "assetId": 60292648.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2021-06-17",
+      "dealAmount": 820000,
+      "parcelNum": "18988-202-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-03-07",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2009-12-11",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2001-01-29",
+          "dealAmount": 352000
+        }
+      ],
+      "trend": {
+        "rate": 26.2,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 11389,
+      "row_id": 68
+    },
+    {
+      "assetId": 60292385.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2021-05-27",
+      "dealAmount": 700000,
+      "parcelNum": "18988-193-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 76.02,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9208,
+      "row_id": 69
+    },
+    {
+      "assetId": 60292708.0,
+      "addressId": 53523352,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 13",
+      "dealDate": "2021-05-20",
+      "dealAmount": 550000,
+      "parcelNum": "18988-203-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-11-03",
+          "dealAmount": 525000
+        }
+      ],
+      "trend": {
+        "rate": 4.8,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 9322,
+      "row_id": 70
+    },
+    {
+      "assetId": 60292324.0,
+      "addressId": 53515594,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 25",
+      "dealDate": "2021-04-14",
+      "dealAmount": 650000,
+      "parcelNum": "18988-192-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10961,
+      "row_id": 71
+    },
+    {
+      "assetId": 60292524.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2021-03-22",
+      "dealAmount": 700000,
+      "parcelNum": "18988-198-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-03-14",
+          "dealAmount": 490000
+        },
+        {
+          "dealDate": "2011-12-21",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2004-03-05",
+          "dealAmount": 328000
+        }
+      ],
+      "trend": {
+        "rate": 42.9,
+        "years": 9.0
+      },
+      "ownership": [],
+      "priceSM": 9722,
+      "row_id": 72
+    },
+    {
+      "assetId": 60292516.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2021-03-10",
+      "dealAmount": 720000,
+      "parcelNum": "18988-198-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-20",
+          "dealAmount": 568000
+        },
+        {
+          "dealDate": "2009-09-25",
+          "dealAmount": 335000
+        }
+      ],
+      "trend": {
+        "rate": 26.8,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 73
+    },
+    {
+      "assetId": 60292643.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2021-02-13",
+      "dealAmount": 637000,
+      "parcelNum": "18988-202-2",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8762,
+      "row_id": 74
+    },
+    {
+      "assetId": 60292637.0,
+      "addressId": 53515532,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 4",
+      "dealDate": "2020-12-28",
+      "dealAmount": 750000,
+      "parcelNum": "18988-201-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-30",
+          "dealAmount": 555000
+        },
+        {
+          "dealDate": "2000-04-05",
+          "dealAmount": 345000
+        }
+      ],
+      "trend": {
+        "rate": 35.1,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 11719,
+      "row_id": 75
+    },
+    {
+      "assetId": 60292613.0,
+      "addressId": 53517240,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 10",
+      "dealDate": "2020-12-25",
+      "dealAmount": 600000,
+      "parcelNum": "18988-201-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-04-22",
+          "dealAmount": 438000
+        }
+      ],
+      "trend": {
+        "rate": 37.0,
+        "years": 8.7
+      },
+      "ownership": [],
+      "priceSM": 9375,
+      "row_id": 76
+    },
+    {
+      "assetId": 60292534.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2020-10-08",
+      "dealAmount": 810000,
+      "parcelNum": "18988-198-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-07-04",
+          "dealAmount": 700000
+        },
+        {
+          "dealDate": "2012-12-09",
+          "dealAmount": 564000
+        },
+        {
+          "dealDate": "2010-11-16",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "1999-06-15",
+          "dealAmount": 395000
+        }
+      ],
+      "trend": {
+        "rate": 15.7,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 11096,
+      "row_id": 77
+    },
+    {
+      "assetId": 60292498.0,
+      "addressId": 53522501,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 26",
+      "dealDate": "2020-10-06",
+      "dealAmount": 730000,
+      "parcelNum": "18988-197-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-10",
+          "dealAmount": 620000
+        }
+      ],
+      "trend": {
+        "rate": 17.7,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 9241,
+      "row_id": 78
+    },
+    {
+      "assetId": 60292673.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2020-09-06",
+      "dealAmount": 233000,
+      "parcelNum": "18988-202-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3153,
+      "row_id": 79
+    },
+    {
+      "assetId": 60292632.0,
+      "addressId": 53516896,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 6",
+      "dealDate": "2020-08-27",
+      "dealAmount": 530000,
+      "parcelNum": "18988-201-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-10-30",
+          "dealAmount": 495000
+        },
+        {
+          "dealDate": "2011-09-26",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2007-09-19",
+          "dealAmount": 202000
+        },
+        {
+          "dealDate": "2003-09-18",
+          "dealAmount": 214000
+        }
+      ],
+      "trend": {
+        "rate": 7.1,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 8281,
+      "row_id": 80
+    },
+    {
+      "assetId": 60292540.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2020-08-06",
+      "dealAmount": 720000,
+      "parcelNum": "18988-198-31",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-21",
+          "dealAmount": 640000
+        }
+      ],
+      "trend": {
+        "rate": 12.5,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 81
+    },
+    {
+      "assetId": 60292482.0,
+      "addressId": 53857627,
+      "polygonId": "51783163",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 30",
+      "dealDate": "2020-07-24",
+      "dealAmount": 760000,
+      "parcelNum": "18988-196-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 85.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-08",
+          "dealAmount": 635000
+        },
+        {
+          "dealDate": "2012-12-13",
+          "dealAmount": 575000
+        }
+      ],
+      "trend": {
+        "rate": 19.7,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 8941,
+      "row_id": 82
+    },
+    {
+      "assetId": 60292703.0,
+      "addressId": 53515529,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 11",
+      "dealDate": "2020-07-20",
+      "dealAmount": 523000,
+      "parcelNum": "18988-203-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-06-23",
+          "dealAmount": 440000
+        }
+      ],
+      "trend": {
+        "rate": 18.9,
+        "years": 7.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 261500
+        },
+        {
+          "proportion": "50",
+          "price": 261500
+        }
+      ],
+      "priceSM": 8864,
+      "row_id": 83
+    },
+    {
+      "assetId": 60292336.0,
+      "addressId": 53515527,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 29",
+      "dealDate": "2020-06-29",
+      "dealAmount": 700000,
+      "parcelNum": "18988-192-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-05",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 75.0,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 11864,
+      "row_id": 84
+    },
+    {
+      "assetId": 60292726.0,
+      "addressId": 53522127,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 1",
+      "dealDate": "2020-05-13",
+      "dealAmount": 635000,
+      "parcelNum": "18988-203-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10708,
+      "row_id": 85
+    },
+    {
+      "assetId": 60292629.0,
+      "addressId": 53516896,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 6",
+      "dealDate": "2020-05-12",
+      "dealAmount": 625000,
+      "parcelNum": "18988-201-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-04-10",
+          "dealAmount": 565000
+        },
+        {
+          "dealDate": "2011-08-01",
+          "dealAmount": 434000
+        },
+        {
+          "dealDate": "2008-11-17",
+          "dealAmount": 167000
+        },
+        {
+          "dealDate": "2001-05-07",
+          "dealAmount": 356000
+        }
+      ],
+      "trend": {
+        "rate": 10.6,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 9766,
+      "row_id": 86
+    },
+    {
+      "assetId": 60292573.0,
+      "addressId": 53811372,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 14",
+      "dealDate": "2020-02-06",
+      "dealAmount": 500000,
+      "parcelNum": "18988-199-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-05-10",
+          "dealAmount": 490000
+        },
+        {
+          "dealDate": "2013-06-23",
+          "dealAmount": 440000
+        },
+        {
+          "dealDate": "2011-08-29",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2009-06-30",
+          "dealAmount": 215000
+        }
+      ],
+      "trend": {
+        "rate": 2.0,
+        "years": 0.7
+      },
+      "ownership": [],
+      "priceSM": 7812,
+      "row_id": 87
+    },
+    {
+      "assetId": 60292684.0,
+      "addressId": 53516895,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 7",
+      "dealDate": "2020-01-28",
+      "dealAmount": 475000,
+      "parcelNum": "18988-203-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10603,
+      "row_id": 88
+    },
+    {
+      "assetId": 60292369.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2019-12-13",
+      "dealAmount": 737000,
+      "parcelNum": "18988-193-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 76.02,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9695,
+      "row_id": 89
+    },
+    {
+      "assetId": 60292409.0,
+      "addressId": 53521310,
+      "polygonId": "51771984",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 26",
+      "dealDate": "2019-12-04",
+      "dealAmount": 750000,
+      "parcelNum": "18988-194-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 73.4,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-15",
+          "dealAmount": 695000
+        }
+      ],
+      "trend": {
+        "rate": 7.9,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 10274,
+      "row_id": 90
+    },
+    {
+      "assetId": 60292645.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2019-09-23",
+      "dealAmount": 240000,
+      "parcelNum": "18988-202-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3248,
+      "row_id": 91
+    },
+    {
+      "assetId": 60292600.0,
+      "addressId": 53511805,
+      "polygonId": "51771264",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 12",
+      "dealDate": "2019-08-04",
+      "dealAmount": 800000,
+      "parcelNum": "18988-200-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-11-27",
+          "dealAmount": 660000
+        },
+        {
+          "dealDate": "2010-11-19",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "1998-11-08",
+          "dealAmount": 399000
+        }
+      ],
+      "trend": {
+        "rate": 21.2,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 10959,
+      "row_id": 92
+    },
+    {
+      "assetId": 60292663.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2019-08-04",
+      "dealAmount": 186000,
+      "parcelNum": "18988-202-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2558,
+      "row_id": 93
+    },
+    {
+      "assetId": 60292312.0,
+      "addressId": 53857426,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 21",
+      "dealDate": "2019-07-07",
+      "dealAmount": 430000,
+      "parcelNum": "18988-192-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-01-06",
+          "dealAmount": 410000
+        },
+        {
+          "dealDate": "2013-01-14",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2011-04-10",
+          "dealAmount": 245000
+        },
+        {
+          "dealDate": "2008-03-10",
+          "dealAmount": 94000
+        }
+      ],
+      "trend": {
+        "rate": 4.9,
+        "years": 3.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 215000
+        },
+        {
+          "proportion": "50",
+          "price": 215000
+        }
+      ],
+      "priceSM": 9773,
+      "row_id": 94
+    },
+    {
+      "assetId": 60292507.0,
+      "addressId": 53522500,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 24",
+      "dealDate": "2019-05-14",
+      "dealAmount": 577000,
+      "parcelNum": "18988-197-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-12-28",
+          "dealAmount": 348000
+        }
+      ],
+      "trend": {
+        "rate": 65.8,
+        "years": 18.4
+      },
+      "ownership": [],
+      "priceSM": 7304,
+      "row_id": 95
+    },
+    {
+      "assetId": 60292531.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2019-03-11",
+      "dealAmount": 735000,
+      "parcelNum": "18988-198-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-08-07",
+          "dealAmount": 710000
+        }
+      ],
+      "trend": {
+        "rate": 3.5,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 10208,
+      "row_id": 96
+    },
+    {
+      "assetId": 60292711.0,
+      "addressId": 53515595,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 15",
+      "dealDate": "2019-01-31",
+      "dealAmount": 649000,
+      "parcelNum": "18988-203-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-11",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2000-03-21",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 18.0,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 11000,
+      "row_id": 97
+    },
+    {
+      "assetId": 60292591.0,
+      "addressId": 53511805,
+      "polygonId": "51771264",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 12",
+      "dealDate": "2019-01-27",
+      "dealAmount": 695000,
+      "parcelNum": "18988-200-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9405,
+      "row_id": 98
+    },
+    {
+      "assetId": 60292679.0,
+      "addressId": 53769216,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 5",
+      "dealDate": "2018-11-25",
+      "dealAmount": 865000,
+      "parcelNum": "18988-203-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שלישית",
+      "assetArea": 104.1,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8309,
+      "row_id": 99
+    },
+    {
+      "assetId": 60292373.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2018-11-01",
+      "dealAmount": 690000,
+      "parcelNum": "18988-193-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 72.9,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-08-05",
+          "dealAmount": 480000
+        },
+        {
+          "dealDate": "1998-06-22",
+          "dealAmount": 410000
+        }
+      ],
+      "trend": {
+        "rate": 43.8,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 9583,
+      "row_id": 100
+    },
+    {
+      "assetId": 60292485.0,
+      "addressId": 53522502,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 28",
+      "dealDate": "2018-10-30",
+      "dealAmount": 700000,
+      "parcelNum": "18988-197-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-14",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 66.7,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 8861,
+      "row_id": 101
+    },
+    {
+      "assetId": 60292562.0,
+      "addressId": 53515531,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 16",
+      "dealDate": "2018-10-26",
+      "dealAmount": 670000,
+      "parcelNum": "18988-199-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-02-24",
+          "dealAmount": 307000
+        }
+      ],
+      "trend": {
+        "rate": 118.2,
+        "years": 19.7
+      },
+      "ownership": [],
+      "priceSM": 10469,
+      "row_id": 102
+    },
+    {
+      "assetId": 60292692.0,
+      "addressId": 53521445,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 9",
+      "dealDate": "2018-09-12",
+      "dealAmount": 605000,
+      "parcelNum": "18988-203-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-09-04",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 34.4,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 10254,
+      "row_id": 103
+    },
+    {
+      "assetId": 60292611.0,
+      "addressId": 53517240,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 10",
+      "dealDate": "2018-08-31",
+      "dealAmount": 660000,
+      "parcelNum": "18988-201-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-12-03",
+          "dealAmount": 324000
+        }
+      ],
+      "trend": {
+        "rate": 103.7,
+        "years": 19.8
+      },
+      "ownership": [],
+      "priceSM": 10312,
+      "row_id": 104
+    },
+    {
+      "assetId": 60292714.0,
+      "addressId": 53515595,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 15",
+      "dealDate": "2018-08-10",
+      "dealAmount": 760000,
+      "parcelNum": "18988-203-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 89.6,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-24",
+          "dealAmount": 456000
+        },
+        {
+          "dealDate": "2009-12-10",
+          "dealAmount": 338000
+        }
+      ],
+      "trend": {
+        "rate": 66.7,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 8539,
+      "row_id": 105
+    },
+    {
+      "assetId": 60292533.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2018-06-01",
+      "dealAmount": 740000,
+      "parcelNum": "18988-198-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-30",
+          "dealAmount": 380000
+        }
+      ],
+      "trend": {
+        "rate": 94.7,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 10137,
+      "row_id": 106
+    },
+    {
+      "assetId": 60292609.0,
+      "addressId": 53517240,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 10",
+      "dealDate": "2018-03-15",
+      "dealAmount": 680000,
+      "parcelNum": "18988-201-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10494,
+      "row_id": 107
+    },
+    {
+      "assetId": 60292512.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2018-02-26",
+      "dealAmount": 760000,
+      "parcelNum": "18988-198-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-06-05",
+          "dealAmount": 680000
+        },
+        {
+          "dealDate": "2015-03-10",
+          "dealAmount": 660000
+        },
+        {
+          "dealDate": "2009-11-04",
+          "dealAmount": 340000
+        }
+      ],
+      "trend": {
+        "rate": 11.8,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 10556,
+      "row_id": 108
+    },
+    {
+      "assetId": 60292294.0,
+      "addressId": 53512310,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 17",
+      "dealDate": "2018-02-04",
+      "dealAmount": 615000,
+      "parcelNum": "18988-192-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-11-11",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 53.8,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 10424,
+      "row_id": 109
+    },
+    {
+      "assetId": 60292612.0,
+      "addressId": 53517240,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 10",
+      "dealDate": "2018-01-28",
+      "dealAmount": 620000,
+      "parcelNum": "18988-201-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9568,
+      "row_id": 110
+    },
+    {
+      "assetId": 60292460.0,
+      "addressId": 53857627,
+      "polygonId": "51783163",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 30",
+      "dealDate": "2018-01-25",
+      "dealAmount": 755000,
+      "parcelNum": "18988-196-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-12-28",
+          "dealAmount": 444000
+        }
+      ],
+      "trend": {
+        "rate": 70.0,
+        "years": 19.1
+      },
+      "ownership": [],
+      "priceSM": 7865,
+      "row_id": 111
+    },
+    {
+      "assetId": 60292321.0,
+      "addressId": 53515594,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 25",
+      "dealDate": "2018-01-21",
+      "dealAmount": 835000,
+      "parcelNum": "18988-192-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 91.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-04-14",
+          "dealAmount": 342000
+        }
+      ],
+      "trend": {
+        "rate": 144.2,
+        "years": 12.8
+      },
+      "ownership": [],
+      "priceSM": 9176,
+      "row_id": 112
+    },
+    {
+      "assetId": 60292635.0,
+      "addressId": 53515532,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 4",
+      "dealDate": "2017-12-08",
+      "dealAmount": 640000,
+      "parcelNum": "18988-201-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-11-04",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2003-09-02",
+          "dealAmount": 329000
+        }
+      ],
+      "trend": {
+        "rate": 42.2,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 113
+    },
+    {
+      "assetId": 60292716.0,
+      "addressId": 53522127,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 1",
+      "dealDate": "2017-12-05",
+      "dealAmount": 670000,
+      "parcelNum": "18988-203-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-10-30",
+          "dealAmount": 410000
+        }
+      ],
+      "trend": {
+        "rate": 63.4,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 11356,
+      "row_id": 114
+    },
+    {
+      "assetId": 60292340.0,
+      "addressId": 53515527,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 29",
+      "dealDate": "2017-11-13",
+      "dealAmount": 490000,
+      "parcelNum": "18988-192-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-09-14",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 58.1,
+        "years": 17.2
+      },
+      "ownership": [],
+      "priceSM": 8305,
+      "row_id": 115
+    },
+    {
+      "assetId": 60292355.0,
+      "addressId": 53856249,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 31",
+      "dealDate": "2017-10-24",
+      "dealAmount": 555000,
+      "parcelNum": "18988-192-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-09-24",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 32.1,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 12333,
+      "row_id": 116
+    },
+    {
+      "assetId": 60292452.0,
+      "addressId": 53857627,
+      "polygonId": "51783163",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 30",
+      "dealDate": "2017-09-14",
+      "dealAmount": 750000,
+      "parcelNum": "18988-196-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-11",
+          "dealAmount": 700000
+        }
+      ],
+      "trend": {
+        "rate": 7.1,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 7812,
+      "row_id": 117
+    },
+    {
+      "assetId": 60292433.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2017-08-24",
+      "dealAmount": 870000,
+      "parcelNum": "18988-195-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 85.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-06-29",
+          "dealAmount": 536000
+        },
+        {
+          "dealDate": "2006-05-10",
+          "dealAmount": 296000
+        },
+        {
+          "dealDate": "2002-01-20",
+          "dealAmount": 465000
+        }
+      ],
+      "trend": {
+        "rate": 62.3,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 10235,
+      "row_id": 118
+    },
+    {
+      "assetId": 60292301.0,
+      "addressId": 53516948,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 19",
+      "dealDate": "2017-08-14",
+      "dealAmount": 645000,
+      "parcelNum": "18988-192-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-25",
+          "dealAmount": 249000
+        }
+      ],
+      "trend": {
+        "rate": 159.0,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 10932,
+      "row_id": 119
+    },
+    {
+      "assetId": 60292696.0,
+      "addressId": 53521445,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 9",
+      "dealDate": "2017-06-07",
+      "dealAmount": 600000,
+      "parcelNum": "18988-203-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-30",
+          "dealAmount": 498000
+        },
+        {
+          "dealDate": "2008-04-30",
+          "dealAmount": 153000
+        }
+      ],
+      "trend": {
+        "rate": 20.5,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 10169,
+      "row_id": 120
+    },
+    {
+      "assetId": 60292487.0,
+      "addressId": 53522502,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 28",
+      "dealDate": "2017-05-11",
+      "dealAmount": 655000,
+      "parcelNum": "18988-197-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-21",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2006-05-29",
+          "dealAmount": 284000
+        }
+      ],
+      "trend": {
+        "rate": 63.7,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 8291,
+      "row_id": 121
+    },
+    {
+      "assetId": 60292571.0,
+      "addressId": 53811372,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 14",
+      "dealDate": "2017-03-26",
+      "dealAmount": 580000,
+      "parcelNum": "18988-199-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-08-25",
+          "dealAmount": 210000
+        }
+      ],
+      "trend": {
+        "rate": 176.2,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 9062,
+      "row_id": 122
+    },
+    {
+      "assetId": 60292614.0,
+      "addressId": 53517240,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 10",
+      "dealDate": "2017-02-19",
+      "dealAmount": 568000,
+      "parcelNum": "18988-201-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8765,
+      "row_id": 123
+    },
+    {
+      "assetId": 60292565.0,
+      "addressId": 53515531,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 16",
+      "dealDate": "2016-12-11",
+      "dealAmount": 490000,
+      "parcelNum": "18988-199-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-06-29",
+          "dealAmount": 483000
+        }
+      ],
+      "trend": {
+        "rate": 1.4,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 7656,
+      "row_id": 124
+    },
+    {
+      "assetId": 60292514.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2016-12-04",
+      "dealAmount": 650000,
+      "parcelNum": "18988-198-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-27",
+          "dealAmount": 425000
+        }
+      ],
+      "trend": {
+        "rate": 52.9,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 8904,
+      "row_id": 125
+    },
+    {
+      "assetId": 60292728.0,
+      "addressId": 53522127,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 1",
+      "dealDate": "2016-11-25",
+      "dealAmount": 460000,
+      "parcelNum": "18988-203-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-04",
+          "dealAmount": 445000
+        },
+        {
+          "dealDate": "2010-10-06",
+          "dealAmount": 290000
+        }
+      ],
+      "trend": {
+        "rate": 3.4,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 7797,
+      "row_id": 126
+    },
+    {
+      "assetId": 60292732.0,
+      "addressId": 53515595,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 15",
+      "dealDate": "2016-11-13",
+      "dealAmount": 450000,
+      "parcelNum": "18988-203-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-29",
+          "dealAmount": 255000
+        }
+      ],
+      "trend": {
+        "rate": 76.5,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 10465,
+      "row_id": 127
+    },
+    {
+      "assetId": 60292450.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2016-09-05",
+      "dealAmount": 670000,
+      "parcelNum": "18988-195-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 85.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-01-17",
+          "dealAmount": 230000
+        }
+      ],
+      "trend": {
+        "rate": 191.3,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 7882,
+      "row_id": 128
+    },
+    {
+      "assetId": 60292444.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2016-06-30",
+      "dealAmount": 750000,
+      "parcelNum": "18988-195-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-05-09",
+          "dealAmount": 422000
+        }
+      ],
+      "trend": {
+        "rate": 77.7,
+        "years": 15.2
+      },
+      "ownership": [],
+      "priceSM": 7812,
+      "row_id": 129
+    },
+    {
+      "assetId": 60292416.0,
+      "addressId": 53521310,
+      "polygonId": "51771984",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 26",
+      "dealDate": "2016-06-24",
+      "dealAmount": 600000,
+      "parcelNum": "18988-194-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 72.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-04-10",
+          "dealAmount": 406000
+        }
+      ],
+      "trend": {
+        "rate": 47.8,
+        "years": 18.2
+      },
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 130
+    },
+    {
+      "assetId": 60292317.0,
+      "addressId": 53515526,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 23",
+      "dealDate": "2016-05-10",
+      "dealAmount": 480000,
+      "parcelNum": "18988-192-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8094,
+      "row_id": 131
+    },
+    {
+      "assetId": 60292435.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2016-04-14",
+      "dealAmount": 800000,
+      "parcelNum": "18988-195-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-02",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2000-10-17",
+          "dealAmount": 434000
+        }
+      ],
+      "trend": {
+        "rate": 23.1,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 132
+    },
+    {
+      "assetId": 60292297.0,
+      "addressId": 53512310,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 17",
+      "dealDate": "2016-03-25",
+      "dealAmount": 410000,
+      "parcelNum": "18988-192-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-11-10",
+          "dealAmount": 294000
+        }
+      ],
+      "trend": {
+        "rate": 39.5,
+        "years": 16.4
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 205000
+        },
+        {
+          "proportion": "50",
+          "price": 205000
+        }
+      ],
+      "priceSM": 9318,
+      "row_id": 133
+    },
+    {
+      "assetId": 60292428.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2016-03-16",
+      "dealAmount": 760000,
+      "parcelNum": "18988-195-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-09-02",
+          "dealAmount": 435000
+        }
+      ],
+      "trend": {
+        "rate": 74.7,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 7917,
+      "row_id": 134
+    },
+    {
+      "assetId": 60292357.0,
+      "addressId": 53516948,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 19",
+      "dealDate": "2016-03-14",
+      "dealAmount": 385000,
+      "parcelNum": "18988-192-66",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 45.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-23",
+          "dealAmount": 285000
+        },
+        {
+          "dealDate": "2011-02-18",
+          "dealAmount": 214000
+        }
+      ],
+      "trend": {
+        "rate": 35.1,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 8556,
+      "row_id": 135
+    },
+    {
+      "assetId": 60292564.0,
+      "addressId": 53515531,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 16",
+      "dealDate": "2016-02-08",
+      "dealAmount": 565000,
+      "parcelNum": "18988-199-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8719,
+      "row_id": 136
+    },
+    {
+      "assetId": 60292448.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2016-02-05",
+      "dealAmount": 660000,
+      "parcelNum": "18988-195-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6854,
+      "row_id": 137
+    },
+    {
+      "assetId": 60292690.0,
+      "addressId": 53521445,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 9",
+      "dealDate": "2015-12-22",
+      "dealAmount": 620000,
+      "parcelNum": "18988-203-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-16",
+          "dealAmount": 620000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 10508,
+      "row_id": 138
+    },
+    {
+      "assetId": 60292556.0,
+      "addressId": 53515530,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 18",
+      "dealDate": "2015-11-06",
+      "dealAmount": 510000,
+      "parcelNum": "18988-199-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-11-22",
+          "dealAmount": 460000
+        }
+      ],
+      "trend": {
+        "rate": 10.9,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 7969,
+      "row_id": 139
+    },
+    {
+      "assetId": 60292563.0,
+      "addressId": 53515531,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 16",
+      "dealDate": "2015-09-10",
+      "dealAmount": 537000,
+      "parcelNum": "18988-199-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8287,
+      "row_id": 140
+    },
+    {
+      "assetId": 60292518.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2015-06-22",
+      "dealAmount": 700000,
+      "parcelNum": "18988-198-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9472,
+      "row_id": 141
+    },
+    {
+      "assetId": 60292582.0,
+      "addressId": 53511805,
+      "polygonId": "51771264",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 12",
+      "dealDate": "2015-06-07",
+      "dealAmount": 700000,
+      "parcelNum": "18988-200-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-10-10",
+          "dealAmount": 388000
+        }
+      ],
+      "trend": {
+        "rate": 80.4,
+        "years": 14.7
+      },
+      "ownership": [],
+      "priceSM": 9722,
+      "row_id": 142
+    },
+    {
+      "assetId": 60292465.0,
+      "addressId": 53857627,
+      "polygonId": "51783163",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 30",
+      "dealDate": "2015-06-03",
+      "dealAmount": 604000,
+      "parcelNum": "18988-196-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6272,
+      "row_id": 143
+    },
+    {
+      "assetId": 60292455.0,
+      "addressId": 53857627,
+      "polygonId": "51783163",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 30",
+      "dealDate": "2015-04-26",
+      "dealAmount": 780000,
+      "parcelNum": "18988-196-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 85.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-04-27",
+          "dealAmount": 242000
+        }
+      ],
+      "trend": {
+        "rate": 222.3,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 9176,
+      "row_id": 144
+    },
+    {
+      "assetId": 60292375.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2015-04-14",
+      "dealAmount": 705000,
+      "parcelNum": "18988-193-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 76.52,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9213,
+      "row_id": 145
+    },
+    {
+      "assetId": 60292445.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2015-04-02",
+      "dealAmount": 710000,
+      "parcelNum": "18988-195-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 85.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-08",
+          "dealAmount": 685000
+        }
+      ],
+      "trend": {
+        "rate": 3.6,
+        "years": 1.2
+      },
+      "ownership": [],
+      "priceSM": 8353,
+      "row_id": 146
+    },
+    {
+      "assetId": 60292585.0,
+      "addressId": 53511805,
+      "polygonId": "51771264",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 12",
+      "dealDate": "2015-03-03",
+      "dealAmount": 635000,
+      "parcelNum": "18988-200-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-02-06",
+          "dealAmount": 510000
+        },
+        {
+          "dealDate": "2006-10-29",
+          "dealAmount": 252000
+        }
+      ],
+      "trend": {
+        "rate": 24.5,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 8819,
+      "row_id": 147
+    },
+    {
+      "assetId": 60292630.0,
+      "addressId": 53516896,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 6",
+      "dealDate": "2015-01-19",
+      "dealAmount": 520000,
+      "parcelNum": "18988-201-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8025,
+      "row_id": 148
+    },
+    {
+      "assetId": 60292345.0,
+      "addressId": 53856249,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 31",
+      "dealDate": "2015-01-16",
+      "dealAmount": 450000,
+      "parcelNum": "18988-192-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7589,
+      "row_id": 149
+    },
+    {
+      "assetId": 60292715.0,
+      "addressId": 53515595,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 15",
+      "dealDate": "2014-11-06",
+      "dealAmount": 425000,
+      "parcelNum": "18988-203-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-05-31",
+          "dealAmount": 390000
+        },
+        {
+          "dealDate": "2004-07-14",
+          "dealAmount": 233000
+        }
+      ],
+      "trend": {
+        "rate": 9.0,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 7203,
+      "row_id": 150
+    },
+    {
+      "assetId": 60292412.0,
+      "addressId": 53521310,
+      "polygonId": "51771984",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 26",
+      "dealDate": "2014-09-14",
+      "dealAmount": 630000,
+      "parcelNum": "18988-194-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 73.4,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8583,
+      "row_id": 151
+    },
+    {
+      "assetId": 60292653.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2014-07-28",
+      "dealAmount": 680000,
+      "parcelNum": "18988-202-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9202,
+      "row_id": 152
+    },
+    {
+      "assetId": 60292339.0,
+      "addressId": 53515527,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 29",
+      "dealDate": "2014-06-29",
+      "dealAmount": 410000,
+      "parcelNum": "18988-192-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9152,
+      "row_id": 153
+    },
+    {
+      "assetId": 60292729.0,
+      "addressId": 53521445,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 9",
+      "dealDate": "2014-06-08",
+      "dealAmount": 418000,
+      "parcelNum": "18988-203-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 43.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9543,
+      "row_id": 154
+    },
+    {
+      "assetId": 60292661.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2014-04-27",
+      "dealAmount": 680000,
+      "parcelNum": "18988-202-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9202,
+      "row_id": 155
+    },
+    {
+      "assetId": 60292557.0,
+      "addressId": 53515530,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 18",
+      "dealDate": "2014-04-08",
+      "dealAmount": 510000,
+      "parcelNum": "18988-199-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7870,
+      "row_id": 156
+    },
+    {
+      "assetId": 60292640.0,
+      "addressId": 53515532,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 4",
+      "dealDate": "2014-03-03",
+      "dealAmount": 510000,
+      "parcelNum": "18988-201-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-06-22",
+          "dealAmount": 205000
+        }
+      ],
+      "trend": {
+        "rate": 148.8,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 7969,
+      "row_id": 157
+    },
+    {
+      "assetId": 60292701.0,
+      "addressId": 53515529,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 11",
+      "dealDate": "2013-12-31",
+      "dealAmount": 480000,
+      "parcelNum": "18988-203-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10714,
+      "row_id": 158
+    },
+    {
+      "assetId": 60292762.0,
+      "addressId": 53857594,
+      "polygonId": "51776641",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 14",
+      "dealDate": "2013-12-22",
+      "dealAmount": 1080000,
+      "parcelNum": "18988-216-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 144.4,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7479,
+      "row_id": 159
+    },
+    {
+      "assetId": 60292480.0,
+      "addressId": 53857627,
+      "polygonId": "51783163",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 30",
+      "dealDate": "2013-11-28",
+      "dealAmount": 599000,
+      "parcelNum": "18988-196-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-03-27",
+          "dealAmount": 210000
+        }
+      ],
+      "trend": {
+        "rate": 185.2,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 6240,
+      "row_id": 160
+    },
+    {
+      "assetId": 60292354.0,
+      "addressId": 53515527,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 29",
+      "dealDate": "2013-08-22",
+      "dealAmount": 480000,
+      "parcelNum": "18988-192-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10480,
+      "row_id": 161
+    },
+    {
+      "assetId": 60292791.0,
+      "addressId": 53522153,
+      "polygonId": "53202728",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 6",
+      "dealDate": "2013-08-21",
+      "dealAmount": 1380000,
+      "parcelNum": "18988-217-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 139.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9878,
+      "row_id": 162
+    },
+    {
+      "assetId": 60292713.0,
+      "addressId": 53515595,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 15",
+      "dealDate": "2013-07-18",
+      "dealAmount": 565000,
+      "parcelNum": "18988-203-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9528,
+      "row_id": 163
+    },
+    {
+      "assetId": 60292631.0,
+      "addressId": 53516896,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 6",
+      "dealDate": "2013-06-07",
+      "dealAmount": 480000,
+      "parcelNum": "18988-201-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7407,
+      "row_id": 164
+    },
+    {
+      "assetId": 60292443.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2013-05-31",
+      "dealAmount": 600000,
+      "parcelNum": "18988-195-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-05-16",
+          "dealAmount": 338000
+        }
+      ],
+      "trend": {
+        "rate": 77.5,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 6250,
+      "row_id": 165
+    },
+    {
+      "assetId": 60292649.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2013-03-21",
+      "dealAmount": 585000,
+      "parcelNum": "18988-202-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7916,
+      "row_id": 166
+    },
+    {
+      "assetId": 60292768.0,
+      "addressId": 53857594,
+      "polygonId": "51776641",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 14",
+      "dealDate": "2013-01-27",
+      "dealAmount": 1154000,
+      "parcelNum": "18988-216-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 152.8,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-02",
+          "dealAmount": 950000
+        }
+      ],
+      "trend": {
+        "rate": 21.5,
+        "years": 0.7
+      },
+      "ownership": [],
+      "priceSM": 7592,
+      "row_id": 167
+    },
+    {
+      "assetId": 60292770.0,
+      "addressId": 53808149,
+      "polygonId": "53020990",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 12",
+      "dealDate": "2012-11-15",
+      "dealAmount": 1150000,
+      "parcelNum": "18988-216-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 111.4,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10323,
+      "row_id": 169
+    },
+    {
+      "assetId": 60292309.0,
+      "addressId": 53857426,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 21",
+      "dealDate": "2012-11-06",
+      "dealAmount": 450000,
+      "parcelNum": "18988-192-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7589,
+      "row_id": 170
+    },
+    {
+      "assetId": 60292657.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2012-10-04",
+      "dealAmount": 420000,
+      "parcelNum": "18988-202-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5683,
+      "row_id": 171
+    },
+    {
+      "assetId": 60292311.0,
+      "addressId": 53857426,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 21",
+      "dealDate": "2012-09-21",
+      "dealAmount": 400000,
+      "parcelNum": "18988-192-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-03-25",
+          "dealAmount": 188000
+        }
+      ],
+      "trend": {
+        "rate": 112.8,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 6780,
+      "row_id": 172
+    },
+    {
+      "assetId": 60292590.0,
+      "addressId": 53511805,
+      "polygonId": "51771264",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 12",
+      "dealDate": "2012-06-20",
+      "dealAmount": 525000,
+      "parcelNum": "18988-200-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-27",
+          "dealAmount": 310000
+        },
+        {
+          "dealDate": "2009-04-22",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 69.4,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 7292,
+      "row_id": 173
+    },
+    {
+      "assetId": 60292776.0,
+      "addressId": 53808149,
+      "polygonId": "53020990",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 12",
+      "dealDate": "2012-05-13",
+      "dealAmount": 915000,
+      "parcelNum": "18988-216-15",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.5,
+      "floor": "קרקע וראשונה",
+      "assetArea": 111.4,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8214,
+      "row_id": 174
+    },
+    {
+      "assetId": 60292767.0,
+      "addressId": 53521766,
+      "polygonId": "51781437",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 10",
+      "dealDate": "2012-04-05",
+      "dealAmount": 980000,
+      "parcelNum": "18988-216-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 144.4,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6787,
+      "row_id": 175
+    },
+    {
+      "assetId": 60292541.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2012-03-02",
+      "dealAmount": 475000,
+      "parcelNum": "18988-198-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6428,
+      "row_id": 176
+    },
+    {
+      "assetId": 60292769.0,
+      "addressId": 53857594,
+      "polygonId": "51776641",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 14",
+      "dealDate": "2012-02-16",
+      "dealAmount": 1035000,
+      "parcelNum": "18988-216-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 152.8,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6774,
+      "row_id": 177
+    },
+    {
+      "assetId": 60292700.0,
+      "addressId": 53515529,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 11",
+      "dealDate": "2011-10-27",
+      "dealAmount": 400000,
+      "parcelNum": "18988-203-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6745,
+      "row_id": 178
+    },
+    {
+      "assetId": 60292367.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2011-08-25",
+      "dealAmount": 420000,
+      "parcelNum": "18988-193-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 76.52,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5489,
+      "row_id": 179
+    },
+    {
+      "assetId": 60292513.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2011-07-29",
+      "dealAmount": 440000,
+      "parcelNum": "18988-198-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5954,
+      "row_id": 180
+    },
+    {
+      "assetId": 60292486.0,
+      "addressId": 53522502,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 28",
+      "dealDate": "2011-07-08",
+      "dealAmount": 510000,
+      "parcelNum": "18988-197-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-01-14",
+          "dealAmount": 395000
+        }
+      ],
+      "trend": {
+        "rate": 29.1,
+        "years": 12.5
+      },
+      "ownership": [],
+      "priceSM": 6456,
+      "row_id": 181
+    },
+    {
+      "assetId": 60292683.0,
+      "addressId": 53516895,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 7",
+      "dealDate": "2011-06-02",
+      "dealAmount": 430000,
+      "parcelNum": "18988-203-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-17",
+          "dealAmount": 140000
+        }
+      ],
+      "trend": {
+        "rate": 207.1,
+        "years": 0.4
+      },
+      "ownership": [],
+      "priceSM": 7288,
+      "row_id": 182
+    },
+    {
+      "assetId": 60292783.0,
+      "addressId": 53524790,
+      "polygonId": "53203669",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 8",
+      "dealDate": "2010-11-07",
+      "dealAmount": 1050000,
+      "parcelNum": "18988-217-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 139.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7516,
+      "row_id": 183
+    },
+    {
+      "assetId": 60292304.0,
+      "addressId": 53516948,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 19",
+      "dealDate": "2010-11-03",
+      "dealAmount": 250000,
+      "parcelNum": "18988-192-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4216,
+      "row_id": 184
+    },
+    {
+      "assetId": 60292313.0,
+      "addressId": 53515526,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 23",
+      "dealDate": "2010-10-29",
+      "dealAmount": 280000,
+      "parcelNum": "18988-192-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6250,
+      "row_id": 185
+    },
+    {
+      "assetId": 60292315.0,
+      "addressId": 53515526,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 23",
+      "dealDate": "2010-10-20",
+      "dealAmount": 315000,
+      "parcelNum": "18988-192-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-15",
+          "dealAmount": 324000
+        }
+      ],
+      "trend": {
+        "rate": -2.8,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 5339,
+      "row_id": 186
+    },
+    {
+      "assetId": 60292532.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2010-08-31",
+      "dealAmount": 360000,
+      "parcelNum": "18988-198-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4952,
+      "row_id": 187
+    },
+    {
+      "assetId": 60292356.0,
+      "addressId": 53512310,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 17",
+      "dealDate": "2010-08-27",
+      "dealAmount": 195000,
+      "parcelNum": "18988-192-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 45.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4258,
+      "row_id": 188
+    },
+    {
+      "assetId": 60292429.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2010-06-29",
+      "dealAmount": 410000,
+      "parcelNum": "18988-195-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 85.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-05-27",
+          "dealAmount": 307000
+        },
+        {
+          "dealDate": "2005-06-27",
+          "dealAmount": 322000
+        }
+      ],
+      "trend": {
+        "rate": 33.6,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 4824,
+      "row_id": 189
+    },
+    {
+      "assetId": 60292504.0,
+      "addressId": 53522500,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 24",
+      "dealDate": "2010-05-14",
+      "dealAmount": 404000,
+      "parcelNum": "18988-197-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-05-07",
+          "dealAmount": 423000
+        },
+        {
+          "dealDate": "1999-02-13",
+          "dealAmount": 445000
+        }
+      ],
+      "trend": {
+        "rate": -4.5,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 5114,
+      "row_id": 190
+    },
+    {
+      "assetId": 60292307.0,
+      "addressId": 53857426,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 21",
+      "dealDate": "2010-03-05",
+      "dealAmount": 285000,
+      "parcelNum": "18988-192-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4806,
+      "row_id": 191
+    },
+    {
+      "assetId": 60292570.0,
+      "addressId": 53811372,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 14",
+      "dealDate": "2009-11-15",
+      "dealAmount": 265000,
+      "parcelNum": "18988-199-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-01-14",
+          "dealAmount": 326000
+        }
+      ],
+      "trend": {
+        "rate": -18.7,
+        "years": 10.8
+      },
+      "ownership": [],
+      "priceSM": 4141,
+      "row_id": 192
+    },
+    {
+      "assetId": 60292773.0,
+      "addressId": 53521766,
+      "polygonId": "51781437",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 10",
+      "dealDate": "2009-09-10",
+      "dealAmount": 770000,
+      "parcelNum": "18988-216-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 118.4,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6503,
+      "row_id": 193
+    },
+    {
+      "assetId": 60292346.0,
+      "addressId": 53856249,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 31",
+      "dealDate": "2009-09-02",
+      "dealAmount": 185000,
+      "parcelNum": "18988-192-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-11-23",
+          "dealAmount": 155000
+        },
+        {
+          "dealDate": "2006-01-16",
+          "dealAmount": 140000
+        }
+      ],
+      "trend": {
+        "rate": 19.4,
+        "years": 0.8
+      },
+      "ownership": [],
+      "priceSM": 4205,
+      "row_id": 194
+    },
+    {
+      "assetId": 60292316.0,
+      "addressId": 53515526,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 23",
+      "dealDate": "2009-08-24",
+      "dealAmount": 250000,
+      "parcelNum": "18988-192-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-05-03",
+          "dealAmount": 274000
+        }
+      ],
+      "trend": {
+        "rate": -8.8,
+        "years": 11.3
+      },
+      "ownership": [],
+      "priceSM": 5682,
+      "row_id": 195
+    },
+    {
+      "assetId": 60292318.0,
+      "addressId": 53515526,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 23",
+      "dealDate": "2009-07-03",
+      "dealAmount": 153000,
+      "parcelNum": "18988-192-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3415,
+      "row_id": 196
+    },
+    {
+      "assetId": 60292386.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2009-03-07",
+      "dealAmount": 265000,
+      "parcelNum": "18988-193-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 76.52,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-05-13",
+          "dealAmount": 372000
+        }
+      ],
+      "trend": {
+        "rate": -28.8,
+        "years": 9.8
+      },
+      "ownership": [],
+      "priceSM": 3487,
+      "row_id": 197
+    },
+    {
+      "assetId": 60292371.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2009-02-22",
+      "dealAmount": 280000,
+      "parcelNum": "18988-193-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 76.52,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-01-28",
+          "dealAmount": 354000
+        }
+      ],
+      "trend": {
+        "rate": -20.9,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 3684,
+      "row_id": 198
+    },
+    {
+      "assetId": 60292364.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2009-02-19",
+      "dealAmount": 340000,
+      "parcelNum": "18988-193-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 76.02,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4473,
+      "row_id": 199
+    },
+    {
+      "assetId": 60292397.0,
+      "addressId": 53521310,
+      "polygonId": "51771984",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 26",
+      "dealDate": "2009-01-05",
+      "dealAmount": 275000,
+      "parcelNum": "18988-194-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.4,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-05-27",
+          "dealAmount": 371000
+        }
+      ],
+      "trend": {
+        "rate": -25.9,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 3767,
+      "row_id": 200
+    },
+    {
+      "assetId": 60292636.0,
+      "addressId": 53515532,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 4",
+      "dealDate": "2008-12-16",
+      "dealAmount": 295000,
+      "parcelNum": "18988-201-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-01-18",
+          "dealAmount": 348000
+        }
+      ],
+      "trend": {
+        "rate": -15.2,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 4609,
+      "row_id": 201
+    },
+    {
+      "assetId": 60292365.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2008-11-26",
+      "dealAmount": 300000,
+      "parcelNum": "18988-193-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 76.02,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-03-03",
+          "dealAmount": 357000
+        }
+      ],
+      "trend": {
+        "rate": -16.0,
+        "years": 10.7
+      },
+      "ownership": [],
+      "priceSM": 3947,
+      "row_id": 202
+    },
+    {
+      "assetId": 60292522.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2008-11-23",
+      "dealAmount": 260000,
+      "parcelNum": "18988-198-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3518,
+      "row_id": 203
+    },
+    {
+      "assetId": 60292461.0,
+      "addressId": 53857627,
+      "polygonId": "51783163",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 30",
+      "dealDate": "2008-09-24",
+      "dealAmount": 285000,
+      "parcelNum": "18988-196-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-02-15",
+          "dealAmount": 295000
+        },
+        {
+          "dealDate": "2004-07-29",
+          "dealAmount": 362000
+        }
+      ],
+      "trend": {
+        "rate": -3.4,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 2969,
+      "row_id": 204
+    },
+    {
+      "assetId": 60292492.0,
+      "addressId": 53522502,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 28",
+      "dealDate": "2008-09-17",
+      "dealAmount": 255000,
+      "parcelNum": "18988-197-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3228,
+      "row_id": 205
+    },
+    {
+      "assetId": 60292374.0,
+      "addressId": 53522365,
+      "polygonId": "51777933",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 28",
+      "dealDate": "2008-08-27",
+      "dealAmount": 263000,
+      "parcelNum": "18988-193-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 76.52,
+      "yearBuilt": 1982,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3437,
+      "row_id": 206
+    },
+    {
+      "assetId": 60292561.0,
+      "addressId": 53515531,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 16",
+      "dealDate": "2008-08-18",
+      "dealAmount": 240000,
+      "parcelNum": "18988-199-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3704,
+      "row_id": 207
+    },
+    {
+      "assetId": 60292493.0,
+      "addressId": 53522501,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 26",
+      "dealDate": "2008-08-04",
+      "dealAmount": 320000,
+      "parcelNum": "18988-197-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4051,
+      "row_id": 208
+    },
+    {
+      "assetId": 60292619.0,
+      "addressId": 53512376,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 8",
+      "dealDate": "2008-04-03",
+      "dealAmount": 200000,
+      "parcelNum": "18988-201-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3086,
+      "row_id": 209
+    },
+    {
+      "assetId": 60292423.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2008-03-04",
+      "dealAmount": 295000,
+      "parcelNum": "18988-195-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-07-22",
+          "dealAmount": 377000
+        }
+      ],
+      "trend": {
+        "rate": -21.8,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 3073,
+      "row_id": 210
+    },
+    {
+      "assetId": 60292436.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2008-02-13",
+      "dealAmount": 330000,
+      "parcelNum": "18988-195-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3427,
+      "row_id": 211
+    },
+    {
+      "assetId": 60292646.0,
+      "addressId": 53522369,
+      "polygonId": "51775801",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 2",
+      "dealDate": "2007-12-06",
+      "dealAmount": 270000,
+      "parcelNum": "18988-202-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-03-01",
+          "dealAmount": 336000
+        }
+      ],
+      "trend": {
+        "rate": -19.6,
+        "years": 9.8
+      },
+      "ownership": [],
+      "priceSM": 3699,
+      "row_id": 212
+    },
+    {
+      "assetId": 60292764.0,
+      "addressId": 53808149,
+      "polygonId": "53020990",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 12",
+      "dealDate": "2007-11-21",
+      "dealAmount": 720000,
+      "parcelNum": "18988-216-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 111.4,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6463,
+      "row_id": 213
+    },
+    {
+      "assetId": 60292680.0,
+      "addressId": 53769216,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 5",
+      "dealDate": "2007-11-13",
+      "dealAmount": 152000,
+      "parcelNum": "18988-203-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2563,
+      "row_id": 215
+    },
+    {
+      "assetId": 60292525.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2007-09-30",
+      "dealAmount": 240000,
+      "parcelNum": "18988-198-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 73.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-04-15",
+          "dealAmount": 346000
+        }
+      ],
+      "trend": {
+        "rate": -30.6,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 3288,
+      "row_id": 216
+    },
+    {
+      "assetId": 60292774.0,
+      "addressId": 53857594,
+      "polygonId": "51776641",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 14",
+      "dealDate": "2007-05-21",
+      "dealAmount": 700000,
+      "parcelNum": "18988-216-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 111.4,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-03-19",
+          "dealAmount": 674000
+        }
+      ],
+      "trend": {
+        "rate": 3.9,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 6306,
+      "row_id": 217
+    },
+    {
+      "assetId": 60292765.0,
+      "addressId": 53808149,
+      "polygonId": "53020990",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 12",
+      "dealDate": "2007-05-10",
+      "dealAmount": 652000,
+      "parcelNum": "18988-216-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 111.4,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5853,
+      "row_id": 218
+    },
+    {
+      "assetId": 60292775.0,
+      "addressId": 53857594,
+      "polygonId": "51776641",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 14",
+      "dealDate": "2006-12-28",
+      "dealAmount": 805000,
+      "parcelNum": "18988-216-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 159.8,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5038,
+      "row_id": 219
+    },
+    {
+      "assetId": 60292686.0,
+      "addressId": 53516895,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 7",
+      "dealDate": "2006-05-02",
+      "dealAmount": 135000,
+      "parcelNum": "18988-203-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3013,
+      "row_id": 220
+    },
+    {
+      "assetId": 60292481.0,
+      "addressId": 53857627,
+      "polygonId": "51783163",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 30",
+      "dealDate": "2005-12-07",
+      "dealAmount": 259000,
+      "parcelNum": "18988-196-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 96.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2690,
+      "row_id": 221
+    },
+    {
+      "assetId": 60292499.0,
+      "addressId": 53522501,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 26",
+      "dealDate": "2005-10-09",
+      "dealAmount": 220000,
+      "parcelNum": "18988-197-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2785,
+      "row_id": 222
+    },
+    {
+      "assetId": 60292437.0,
+      "addressId": 53517268,
+      "polygonId": "53020346",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 17",
+      "dealDate": "2005-09-05",
+      "dealAmount": 300000,
+      "parcelNum": "18988-195-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 85.9,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3492,
+      "row_id": 223
+    },
+    {
+      "assetId": 60292623.0,
+      "addressId": 53512376,
+      "polygonId": "51782449",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 8",
+      "dealDate": "2005-01-09",
+      "dealAmount": 223000,
+      "parcelNum": "18988-201-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3441,
+      "row_id": 224
+    },
+    {
+      "assetId": 60292779.0,
+      "addressId": 53521766,
+      "polygonId": "51781437",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 10",
+      "dealDate": "2005-01-02",
+      "dealAmount": 633000,
+      "parcelNum": "18988-216-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 159.8,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3961,
+      "row_id": 225
+    },
+    {
+      "assetId": 60292681.0,
+      "addressId": 53769216,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 5",
+      "dealDate": "2004-08-10",
+      "dealAmount": 185000,
+      "parcelNum": "18988-203-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4129,
+      "row_id": 226
+    },
+    {
+      "assetId": 60292560.0,
+      "addressId": 53515531,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 16",
+      "dealDate": "2004-04-28",
+      "dealAmount": 250000,
+      "parcelNum": "18988-199-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3858,
+      "row_id": 227
+    },
+    {
+      "assetId": 60292520.0,
+      "addressId": 53515525,
+      "polygonId": "51765392",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 22",
+      "dealDate": "2004-03-26",
+      "dealAmount": 281000,
+      "parcelNum": "18988-198-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.7,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3865,
+      "row_id": 228
+    },
+    {
+      "assetId": 60292349.0,
+      "addressId": 53856249,
+      "polygonId": "53118121",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 31",
+      "dealDate": "2003-12-08",
+      "dealAmount": 211000,
+      "parcelNum": "18988-192-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4710,
+      "row_id": 229
+    },
+    {
+      "assetId": 60292490.0,
+      "addressId": 53522502,
+      "polygonId": "51774401",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 28",
+      "dealDate": "2003-10-20",
+      "dealAmount": 301000,
+      "parcelNum": "18988-197-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.0,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3810,
+      "row_id": 230
+    },
+    {
+      "assetId": 60292722.0,
+      "addressId": 53522127,
+      "polygonId": "51769771",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 1",
+      "dealDate": "2003-06-15",
+      "dealAmount": 200000,
+      "parcelNum": "18988-203-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.3,
+      "yearBuilt": 1980,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-01-06",
+          "dealAmount": 291000
+        }
+      ],
+      "trend": {
+        "rate": -31.3,
+        "years": 5.4
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 100000
+        },
+        {
+          "proportion": "50",
+          "price": 100000
+        }
+      ],
+      "priceSM": 3390,
+      "row_id": 232
+    },
+    {
+      "assetId": 60292559.0,
+      "addressId": 53515531,
+      "polygonId": "51774610",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "ארבל 16",
+      "dealDate": "2003-06-04",
+      "dealAmount": 291000,
+      "parcelNum": "18988-199-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.8,
+      "yearBuilt": 1980,
+      "streetCode": 11390133,
+      "settlmentID": 1139,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4491,
+      "row_id": 233
+    },
+    {
+      "assetId": 60292772.0,
+      "addressId": 53521766,
+      "polygonId": "51781437",
+      "neighborhoodName": "ארבל-יחיעם",
+      "neighborhoodId": 65210226,
+      "address": "יחיעם 10",
+      "dealDate": "2002-11-06",
+      "dealAmount": 752000,
+      "parcelNum": "18988-216-11",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 7.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 118.4,
+      "yearBuilt": 1990,
+      "streetCode": 11390132,
+      "settlmentID": 1139,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6351,
+      "row_id": 239
+    }
+  ]
+}

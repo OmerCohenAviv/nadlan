@@ -1,0 +1,7177 @@
+{
+  "neighborhood_name": "אפק",
+  "city_name": "קריית ביאליק",
+  "transaction_count": 231,
+  "transactions": [
+    {
+      "assetId": 70064261.0,
+      "addressId": 53933423,
+      "polygonId": "51803573",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 1",
+      "dealDate": "2025-05-28",
+      "dealAmount": 800000,
+      "parcelNum": "10422-74-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-22",
+          "dealAmount": 325000
+        }
+      ],
+      "trend": {
+        "rate": 146.2,
+        "years": 13.0
+      },
+      "ownership": [],
+      "priceSM": 13333,
+      "row_id": 1
+    },
+    {
+      "assetId": 70064377.0,
+      "addressId": 53834668,
+      "polygonId": "53208275",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 7",
+      "dealDate": "2025-05-06",
+      "dealAmount": 1210000,
+      "parcelNum": "10422-79-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-06-23",
+          "dealAmount": 660000
+        },
+        {
+          "dealDate": "2016-05-02",
+          "dealAmount": 575000
+        },
+        {
+          "dealDate": "2012-08-09",
+          "dealAmount": 435000
+        }
+      ],
+      "trend": {
+        "rate": 83.3,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 20167,
+      "row_id": 2
+    },
+    {
+      "assetId": 70064447.0,
+      "addressId": 53553455,
+      "polygonId": "51802803",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 18",
+      "dealDate": "2025-02-26",
+      "dealAmount": 1265000,
+      "parcelNum": "10422-82-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.4,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19343,
+      "row_id": 3
+    },
+    {
+      "assetId": 70064491.0,
+      "addressId": 53556411,
+      "polygonId": "53066842",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 10",
+      "dealDate": "2025-02-25",
+      "dealAmount": 1350000,
+      "parcelNum": "10422-84-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 95.7,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-18",
+          "dealAmount": 629000
+        },
+        {
+          "dealDate": "2009-11-11",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 114.6,
+        "years": 10.2
+      },
+      "ownership": [],
+      "priceSM": 14211,
+      "row_id": 4
+    },
+    {
+      "assetId": 70064337.0,
+      "addressId": 53555794,
+      "polygonId": "51803636",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 2",
+      "dealDate": "2025-01-23",
+      "dealAmount": 425000,
+      "parcelNum": "10422-77-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-04-12",
+          "dealAmount": 670000
+        },
+        {
+          "dealDate": "2013-09-29",
+          "dealAmount": 480000
+        }
+      ],
+      "trend": {
+        "rate": -36.6,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 7083,
+      "row_id": 5
+    },
+    {
+      "assetId": 70064570.0,
+      "addressId": 53556119,
+      "polygonId": "51804222",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 14",
+      "dealDate": "2024-12-19",
+      "dealAmount": 900000,
+      "parcelNum": "10422-114-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20455,
+      "row_id": 6
+    },
+    {
+      "assetId": 70064354.0,
+      "addressId": 53555996,
+      "polygonId": "51807049",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 5",
+      "dealDate": "2024-12-10",
+      "dealAmount": 900000,
+      "parcelNum": "10422-78-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-13",
+          "dealAmount": 465000
+        }
+      ],
+      "trend": {
+        "rate": 93.5,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 15789,
+      "row_id": 7
+    },
+    {
+      "assetId": 70064628.0,
+      "addressId": 53866361,
+      "polygonId": "51803052",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 17",
+      "dealDate": "2024-11-07",
+      "dealAmount": 850000,
+      "parcelNum": "10422-116-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 76.2,
+      "yearBuilt": 1991,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11155,
+      "row_id": 8
+    },
+    {
+      "assetId": 70064600.0,
+      "addressId": 53556091,
+      "polygonId": "51811455",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "אצ\"ל 6",
+      "dealDate": "2024-09-08",
+      "dealAmount": 1200000,
+      "parcelNum": "10422-115-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 76.1,
+      "yearBuilt": 1991,
+      "streetCode": 95000224,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15769,
+      "row_id": 9
+    },
+    {
+      "assetId": 70064339.0,
+      "addressId": 53555794,
+      "polygonId": "51803636",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 2",
+      "dealDate": "2024-08-19",
+      "dealAmount": 965000,
+      "parcelNum": "10422-77-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-03-12",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2007-01-28",
+          "dealAmount": 92000
+        }
+      ],
+      "trend": {
+        "rate": 69.3,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 16083,
+      "row_id": 10
+    },
+    {
+      "assetId": 70064322.0,
+      "addressId": 53835951,
+      "polygonId": "53065437",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 1",
+      "dealDate": "2024-07-23",
+      "dealAmount": 1075000,
+      "parcelNum": "10422-76-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14726,
+      "row_id": 11
+    },
+    {
+      "assetId": 70064639.0,
+      "addressId": 53556323,
+      "polygonId": "51801655",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 13",
+      "dealDate": "2024-07-09",
+      "dealAmount": 1220000,
+      "parcelNum": "10422-117-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 76.1,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-11-02",
+          "dealAmount": 462000
+        },
+        {
+          "dealDate": "2006-08-27",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 164.1,
+        "years": 13.7
+      },
+      "ownership": [],
+      "priceSM": 16053,
+      "row_id": 12
+    },
+    {
+      "assetId": 70064372.0,
+      "addressId": 53834668,
+      "polygonId": "53208275",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 7",
+      "dealDate": "2024-06-20",
+      "dealAmount": 925000,
+      "parcelNum": "10422-79-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15417,
+      "row_id": 13
+    },
+    {
+      "assetId": 70064366.0,
+      "addressId": 53555996,
+      "polygonId": "51807049",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 5",
+      "dealDate": "2024-06-19",
+      "dealAmount": 980000,
+      "parcelNum": "10422-78-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-06-23",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2016-08-04",
+          "dealAmount": 522000
+        },
+        {
+          "dealDate": "2014-02-14",
+          "dealAmount": 410000
+        },
+        {
+          "dealDate": "2005-12-26",
+          "dealAmount": 187000
+        }
+      ],
+      "trend": {
+        "rate": 71.9,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 17193,
+      "row_id": 14
+    },
+    {
+      "assetId": 70064120.0,
+      "addressId": 53838863,
+      "polygonId": "51790946",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 2",
+      "dealDate": "2024-05-23",
+      "dealAmount": 880000,
+      "parcelNum": "10422-67-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-06-20",
+          "dealAmount": 540000
+        }
+      ],
+      "trend": {
+        "rate": 63.0,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 14667,
+      "row_id": 15
+    },
+    {
+      "assetId": 70064321.0,
+      "addressId": 53835951,
+      "polygonId": "53065437",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 1",
+      "dealDate": "2024-04-11",
+      "dealAmount": 1025000,
+      "parcelNum": "10422-76-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-07-06",
+          "dealAmount": 490000
+        }
+      ],
+      "trend": {
+        "rate": 109.2,
+        "years": 9.8
+      },
+      "ownership": [],
+      "priceSM": 14041,
+      "row_id": 16
+    },
+    {
+      "assetId": 70064164.0,
+      "addressId": 53553226,
+      "polygonId": "52998514",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 1",
+      "dealDate": "2024-01-11",
+      "dealAmount": 750000,
+      "parcelNum": "10422-69-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1981,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-09-22",
+          "dealAmount": 430000
+        }
+      ],
+      "trend": {
+        "rate": 74.4,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 17045,
+      "row_id": 17
+    },
+    {
+      "assetId": 70064453.0,
+      "addressId": 53553455,
+      "polygonId": "51802803",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 18",
+      "dealDate": "2024-01-11",
+      "dealAmount": 950000,
+      "parcelNum": "10422-82-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14615,
+      "row_id": 18
+    },
+    {
+      "assetId": 70064198.0,
+      "addressId": 53554442,
+      "polygonId": "51798334",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 3",
+      "dealDate": "2023-08-10",
+      "dealAmount": 850000,
+      "parcelNum": "10422-71-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19318,
+      "row_id": 19
+    },
+    {
+      "assetId": 70064411.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2023-07-18",
+      "dealAmount": 850000,
+      "parcelNum": "10422-81-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-18",
+          "dealAmount": 230000
+        }
+      ],
+      "trend": {
+        "rate": 269.6,
+        "years": 12.8
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 425000
+        },
+        {
+          "proportion": "50",
+          "price": 425000
+        }
+      ],
+      "priceSM": 19318,
+      "row_id": 20
+    },
+    {
+      "assetId": 70064429.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2023-05-28",
+      "dealAmount": 125000,
+      "parcelNum": "10422-81-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2841,
+      "row_id": 21
+    },
+    {
+      "assetId": 70064276.0,
+      "addressId": 53864976,
+      "polygonId": "51803640",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 3",
+      "dealDate": "2023-02-23",
+      "dealAmount": 800000,
+      "parcelNum": "10422-75-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 70.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11429,
+      "row_id": 22
+    },
+    {
+      "assetId": 70064423.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2023-02-08",
+      "dealAmount": 500000,
+      "parcelNum": "10422-81-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11364,
+      "row_id": 23
+    },
+    {
+      "assetId": 70064173.0,
+      "addressId": 53553226,
+      "polygonId": "52998514",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 1",
+      "dealDate": "2022-12-04",
+      "dealAmount": 980000,
+      "parcelNum": "10422-69-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 73.0,
+      "yearBuilt": 1981,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-05-21",
+          "dealAmount": 700000
+        },
+        {
+          "dealDate": "2012-08-05",
+          "dealAmount": 467000
+        },
+        {
+          "dealDate": "2012-02-10",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 40.0,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 13425,
+      "row_id": 24
+    },
+    {
+      "assetId": 70064503.0,
+      "addressId": 53555903,
+      "polygonId": "52795992",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 8",
+      "dealDate": "2022-11-14",
+      "dealAmount": 905000,
+      "parcelNum": "10422-85-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.0,
+      "yearBuilt": 1982,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-11",
+          "dealAmount": 630000
+        }
+      ],
+      "trend": {
+        "rate": 43.7,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 13923,
+      "row_id": 25
+    },
+    {
+      "assetId": 70064163.0,
+      "addressId": 53553226,
+      "polygonId": "52998514",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 1",
+      "dealDate": "2022-10-27",
+      "dealAmount": 600000,
+      "parcelNum": "10422-69-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 57.0,
+      "yearBuilt": 1981,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10526,
+      "row_id": 26
+    },
+    {
+      "assetId": 70064140.0,
+      "addressId": 53772073,
+      "polygonId": "51804841",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 6",
+      "dealDate": "2022-09-07",
+      "dealAmount": 750000,
+      "parcelNum": "10422-68-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-09-05",
+          "dealAmount": 305000
+        }
+      ],
+      "trend": {
+        "rate": 145.9,
+        "years": 11.0
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 375000
+        },
+        {
+          "proportion": "50",
+          "price": 375000
+        }
+      ],
+      "priceSM": 17045,
+      "row_id": 27
+    },
+    {
+      "assetId": 70064176.0,
+      "addressId": 53554993,
+      "polygonId": "51804701",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 2",
+      "dealDate": "2022-09-06",
+      "dealAmount": 1000000,
+      "parcelNum": "10422-70-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 73.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-25",
+          "dealAmount": 735000
+        },
+        {
+          "dealDate": "2013-08-21",
+          "dealAmount": 590000
+        }
+      ],
+      "trend": {
+        "rate": 36.1,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 13699,
+      "row_id": 28
+    },
+    {
+      "assetId": 70064638.0,
+      "addressId": 53556323,
+      "polygonId": "51801655",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 13",
+      "dealDate": "2022-08-12",
+      "dealAmount": 1100000,
+      "parcelNum": "10422-117-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 93.4,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11777,
+      "row_id": 29
+    },
+    {
+      "assetId": 70064606.0,
+      "addressId": 53556091,
+      "polygonId": "51811455",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "אצ\"ל 6",
+      "dealDate": "2022-07-11",
+      "dealAmount": 466000,
+      "parcelNum": "10422-115-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 94.6,
+      "yearBuilt": 1991,
+      "streetCode": 95000224,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4926,
+      "row_id": 30
+    },
+    {
+      "assetId": 70064193.0,
+      "addressId": 53554993,
+      "polygonId": "51804701",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 2",
+      "dealDate": "2022-05-29",
+      "dealAmount": 820000,
+      "parcelNum": "10422-70-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-01-30",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 310.0,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 14386,
+      "row_id": 31
+    },
+    {
+      "assetId": 70064313.0,
+      "addressId": 53835951,
+      "polygonId": "53065437",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 1",
+      "dealDate": "2022-05-22",
+      "dealAmount": 700000,
+      "parcelNum": "10422-76-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9589,
+      "row_id": 32
+    },
+    {
+      "assetId": 70064371.0,
+      "addressId": 53834668,
+      "polygonId": "53208275",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 7",
+      "dealDate": "2022-03-15",
+      "dealAmount": 118000,
+      "parcelNum": "10422-79-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-20",
+          "dealAmount": 642000
+        }
+      ],
+      "trend": {
+        "rate": -81.6,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 1967,
+      "row_id": 33
+    },
+    {
+      "assetId": 70064320.0,
+      "addressId": 53835951,
+      "polygonId": "53065437",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 1",
+      "dealDate": "2022-02-22",
+      "dealAmount": 775000,
+      "parcelNum": "10422-76-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-29",
+          "dealAmount": 579000
+        }
+      ],
+      "trend": {
+        "rate": 33.9,
+        "years": 8.7
+      },
+      "ownership": [],
+      "priceSM": 10616,
+      "row_id": 34
+    },
+    {
+      "assetId": 70064384.0,
+      "addressId": 53834668,
+      "polygonId": "53208275",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 7",
+      "dealDate": "2022-02-08",
+      "dealAmount": 670000,
+      "parcelNum": "10422-79-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11167,
+      "row_id": 35
+    },
+    {
+      "assetId": 70064529.0,
+      "addressId": 53864999,
+      "polygonId": "53206972",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 2",
+      "dealDate": "2022-02-07",
+      "dealAmount": 650000,
+      "parcelNum": "10422-86-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.0,
+      "yearBuilt": 1960,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-09-11",
+          "dealAmount": 490000
+        },
+        {
+          "dealDate": "2010-08-22",
+          "dealAmount": 320000
+        },
+        {
+          "dealDate": "2003-05-01",
+          "dealAmount": 302000
+        }
+      ],
+      "trend": {
+        "rate": 32.7,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 36
+    },
+    {
+      "assetId": 70064246.0,
+      "addressId": 53556090,
+      "polygonId": "51798001",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 2",
+      "dealDate": "2022-01-19",
+      "dealAmount": 640000,
+      "parcelNum": "10422-73-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 57.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11228,
+      "row_id": 37
+    },
+    {
+      "assetId": 70064225.0,
+      "addressId": 53554441,
+      "polygonId": "53208663",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 4",
+      "dealDate": "2021-12-09",
+      "dealAmount": 670000,
+      "parcelNum": "10422-72-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11167,
+      "row_id": 38
+    },
+    {
+      "assetId": 70064107.0,
+      "addressId": 53552438,
+      "polygonId": "51799635",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 1",
+      "dealDate": "2021-11-25",
+      "dealAmount": 640000,
+      "parcelNum": "10422-66-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-25",
+          "dealAmount": 485000
+        }
+      ],
+      "trend": {
+        "rate": 32.0,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 11228,
+      "row_id": 39
+    },
+    {
+      "assetId": 70064253.0,
+      "addressId": 53552071,
+      "polygonId": "51798001",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 2",
+      "dealDate": "2021-11-05",
+      "dealAmount": 670000,
+      "parcelNum": "10422-73-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-04-26",
+          "dealAmount": 620000
+        },
+        {
+          "dealDate": "2015-12-13",
+          "dealAmount": 540000
+        }
+      ],
+      "trend": {
+        "rate": 8.1,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 11754,
+      "row_id": 40
+    },
+    {
+      "assetId": 70064418.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2021-10-31",
+      "dealAmount": 675000,
+      "parcelNum": "10422-81-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-01-30",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2008-12-31",
+          "dealAmount": 154000
+        }
+      ],
+      "trend": {
+        "rate": 7.1,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 11842,
+      "row_id": 41
+    },
+    {
+      "assetId": 70064636.0,
+      "addressId": 53556323,
+      "polygonId": "51801655",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 13",
+      "dealDate": "2021-10-25",
+      "dealAmount": 1010100,
+      "parcelNum": "10422-117-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 93.8,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10769,
+      "row_id": 42
+    },
+    {
+      "assetId": 70064336.0,
+      "addressId": 53555794,
+      "polygonId": "51803636",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 2",
+      "dealDate": "2021-10-19",
+      "dealAmount": 750000,
+      "parcelNum": "10422-77-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 43
+    },
+    {
+      "assetId": 70064478.0,
+      "addressId": 53556505,
+      "polygonId": "51806982",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 16",
+      "dealDate": "2021-09-05",
+      "dealAmount": 665000,
+      "parcelNum": "10422-83-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 83.2,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7993,
+      "row_id": 44
+    },
+    {
+      "assetId": 70064646.0,
+      "addressId": 53556323,
+      "polygonId": "51801655",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 13",
+      "dealDate": "2021-08-12",
+      "dealAmount": 990000,
+      "parcelNum": "10422-117-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 76.3,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12975,
+      "row_id": 45
+    },
+    {
+      "assetId": 70064472.0,
+      "addressId": 53556505,
+      "polygonId": "51806982",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 16",
+      "dealDate": "2021-08-11",
+      "dealAmount": 900000,
+      "parcelNum": "10422-83-8",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 83.2,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-09-30",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2003-07-11",
+          "dealAmount": 362000
+        }
+      ],
+      "trend": {
+        "rate": 63.6,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 10843,
+      "row_id": 46
+    },
+    {
+      "assetId": 70064492.0,
+      "addressId": 53556411,
+      "polygonId": "53066842",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 10",
+      "dealDate": "2021-08-05",
+      "dealAmount": 800000,
+      "parcelNum": "10422-84-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 83.2,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9615,
+      "row_id": 47
+    },
+    {
+      "assetId": 70064439.0,
+      "addressId": 53555325,
+      "polygonId": "51807455",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 22",
+      "dealDate": "2021-08-02",
+      "dealAmount": 720000,
+      "parcelNum": "10422-82-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.4,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11009,
+      "row_id": 48
+    },
+    {
+      "assetId": 70064461.0,
+      "addressId": 53553455,
+      "polygonId": "51802803",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 18",
+      "dealDate": "2021-07-22",
+      "dealAmount": 500000,
+      "parcelNum": "10422-82-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-26",
+          "dealAmount": 265000
+        }
+      ],
+      "trend": {
+        "rate": 88.7,
+        "years": 10.5
+      },
+      "ownership": [],
+      "priceSM": 7692,
+      "row_id": 49
+    },
+    {
+      "assetId": 70064605.0,
+      "addressId": 53556091,
+      "polygonId": "51811455",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "אצ\"ל 6",
+      "dealDate": "2021-06-13",
+      "dealAmount": 830000,
+      "parcelNum": "10422-115-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 76.2,
+      "yearBuilt": 1991,
+      "streetCode": 95000224,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10892,
+      "row_id": 50
+    },
+    {
+      "assetId": 70064391.0,
+      "addressId": 53555203,
+      "polygonId": "53208240",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 9",
+      "dealDate": "2021-05-23",
+      "dealAmount": 357000,
+      "parcelNum": "10422-80-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 44.0,
+      "yearBuilt": 1960,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8114,
+      "row_id": 51
+    },
+    {
+      "assetId": 70064486.0,
+      "addressId": 53865163,
+      "polygonId": "51811116",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 12",
+      "dealDate": "2021-04-27",
+      "dealAmount": 850000,
+      "parcelNum": "10422-84-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 83.2,
+      "yearBuilt": 1970,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10216,
+      "row_id": 52
+    },
+    {
+      "assetId": 70064121.0,
+      "addressId": 53838863,
+      "polygonId": "51790946",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 2",
+      "dealDate": "2021-03-25",
+      "dealAmount": 660000,
+      "parcelNum": "10422-67-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11000,
+      "row_id": 53
+    },
+    {
+      "assetId": 70064612.0,
+      "addressId": 53866361,
+      "polygonId": "51803052",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 17",
+      "dealDate": "2021-03-21",
+      "dealAmount": 750000,
+      "parcelNum": "10422-116-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 76.7,
+      "yearBuilt": 1991,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9778,
+      "row_id": 54
+    },
+    {
+      "assetId": 70064398.0,
+      "addressId": 53555203,
+      "polygonId": "53208240",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 9",
+      "dealDate": "2021-03-15",
+      "dealAmount": 650000,
+      "parcelNum": "10422-80-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 57.0,
+      "yearBuilt": 1960,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-05",
+          "dealAmount": 542000
+        }
+      ],
+      "trend": {
+        "rate": 19.9,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 11404,
+      "row_id": 55
+    },
+    {
+      "assetId": 70064599.0,
+      "addressId": 53556091,
+      "polygonId": "51811455",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "אצ\"ל 6",
+      "dealDate": "2021-03-04",
+      "dealAmount": 830000,
+      "parcelNum": "10422-115-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 94.6,
+      "yearBuilt": 1991,
+      "streetCode": 95000224,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8774,
+      "row_id": 56
+    },
+    {
+      "assetId": 70064142.0,
+      "addressId": 53772073,
+      "polygonId": "51804841",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 6",
+      "dealDate": "2021-03-01",
+      "dealAmount": 670000,
+      "parcelNum": "10422-68-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11167,
+      "row_id": 57
+    },
+    {
+      "assetId": 70064517.0,
+      "addressId": 53552072,
+      "polygonId": "51806009",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 4",
+      "dealDate": "2021-02-24",
+      "dealAmount": 750000,
+      "parcelNum": "10422-86-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.37,
+      "yearBuilt": 1970,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-10-18",
+          "dealAmount": 680000
+        },
+        {
+          "dealDate": "2010-01-25",
+          "dealAmount": 310000
+        },
+        {
+          "dealDate": "2003-09-17",
+          "dealAmount": 291000
+        }
+      ],
+      "trend": {
+        "rate": 10.3,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 11538,
+      "row_id": 58
+    },
+    {
+      "assetId": 70064608.0,
+      "addressId": 53556091,
+      "polygonId": "51811455",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "אצ\"ל 6",
+      "dealDate": "2021-02-12",
+      "dealAmount": 810000,
+      "parcelNum": "10422-115-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 93.3,
+      "yearBuilt": 1991,
+      "streetCode": 95000224,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8682,
+      "row_id": 59
+    },
+    {
+      "assetId": 70064412.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2021-02-11",
+      "dealAmount": 600000,
+      "parcelNum": "10422-81-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-03-01",
+          "dealAmount": 520000
+        }
+      ],
+      "trend": {
+        "rate": 15.4,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 10526,
+      "row_id": 60
+    },
+    {
+      "assetId": 70064081.0,
+      "addressId": 53556118,
+      "polygonId": "51807997",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 3",
+      "dealDate": "2021-02-09",
+      "dealAmount": 585000,
+      "parcelNum": "10422-65-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-10-23",
+          "dealAmount": 366000
+        }
+      ],
+      "trend": {
+        "rate": 59.8,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 9750,
+      "row_id": 61
+    },
+    {
+      "assetId": 70064489.0,
+      "addressId": 53556411,
+      "polygonId": "53066842",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 10",
+      "dealDate": "2021-02-09",
+      "dealAmount": 900000,
+      "parcelNum": "10422-84-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 95.7,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-01-24",
+          "dealAmount": 424000
+        }
+      ],
+      "trend": {
+        "rate": 112.3,
+        "years": 15.1
+      },
+      "ownership": [],
+      "priceSM": 9474,
+      "row_id": 62
+    },
+    {
+      "assetId": 70064417.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2021-01-20",
+      "dealAmount": 480000,
+      "parcelNum": "10422-81-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10909,
+      "row_id": 63
+    },
+    {
+      "assetId": 70064279.0,
+      "addressId": 53864976,
+      "polygonId": "51803640",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 3",
+      "dealDate": "2020-12-23",
+      "dealAmount": 350000,
+      "parcelNum": "10422-75-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.5,
+      "yearBuilt": 1980,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5691,
+      "row_id": 64
+    },
+    {
+      "assetId": 70064594.0,
+      "addressId": 53556091,
+      "polygonId": "51811455",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "אצ\"ל 6",
+      "dealDate": "2020-12-23",
+      "dealAmount": 775000,
+      "parcelNum": "10422-115-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 93.8,
+      "yearBuilt": 1991,
+      "streetCode": 95000224,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-08",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2009-02-19",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 23.0,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 65
+    },
+    {
+      "assetId": 70064415.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2020-11-29",
+      "dealAmount": 500000,
+      "parcelNum": "10422-81-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11364,
+      "row_id": 66
+    },
+    {
+      "assetId": 70064179.0,
+      "addressId": 53554993,
+      "polygonId": "51804701",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 2",
+      "dealDate": "2020-11-26",
+      "dealAmount": 787000,
+      "parcelNum": "10422-70-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-30",
+          "dealAmount": 700000
+        }
+      ],
+      "trend": {
+        "rate": 12.4,
+        "years": 4.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 393500
+        },
+        {
+          "proportion": "50",
+          "price": 393500
+        }
+      ],
+      "priceSM": 10781,
+      "row_id": 67
+    },
+    {
+      "assetId": 70064228.0,
+      "addressId": 53554441,
+      "polygonId": "53208663",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 4",
+      "dealDate": "2020-11-24",
+      "dealAmount": 627000,
+      "parcelNum": "10422-72-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-08-25",
+          "dealAmount": 539000
+        },
+        {
+          "dealDate": "2014-05-04",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 16.3,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 14250,
+      "row_id": 68
+    },
+    {
+      "assetId": 70064426.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2020-11-19",
+      "dealAmount": 675000,
+      "parcelNum": "10422-81-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-08-23",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2010-02-23",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 18.4,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 11842,
+      "row_id": 69
+    },
+    {
+      "assetId": 70064435.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2020-10-27",
+      "dealAmount": 189000,
+      "parcelNum": "10422-81-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4295,
+      "row_id": 70
+    },
+    {
+      "assetId": 70064627.0,
+      "addressId": 53866361,
+      "polygonId": "51803052",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 17",
+      "dealDate": "2020-10-16",
+      "dealAmount": 1065000,
+      "parcelNum": "10422-116-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 94.5,
+      "yearBuilt": 1991,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11270,
+      "row_id": 71
+    },
+    {
+      "assetId": 70064085.0,
+      "addressId": 53556118,
+      "polygonId": "51807997",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 3",
+      "dealDate": "2020-09-25",
+      "dealAmount": 617000,
+      "parcelNum": "10422-65-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10283,
+      "row_id": 72
+    },
+    {
+      "assetId": 70064199.0,
+      "addressId": 53554442,
+      "polygonId": "51798334",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 3",
+      "dealDate": "2020-09-24",
+      "dealAmount": 740000,
+      "parcelNum": "10422-71-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-05-01",
+          "dealAmount": 322000
+        }
+      ],
+      "trend": {
+        "rate": 129.8,
+        "years": 20.4
+      },
+      "ownership": [],
+      "priceSM": 12982,
+      "row_id": 73
+    },
+    {
+      "assetId": 70064584.0,
+      "addressId": 53556119,
+      "polygonId": "51804222",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 14",
+      "dealDate": "2020-08-20",
+      "dealAmount": 785000,
+      "parcelNum": "10422-114-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-10-24",
+          "dealAmount": 590000
+        },
+        {
+          "dealDate": "2003-06-01",
+          "dealAmount": 332000
+        }
+      ],
+      "trend": {
+        "rate": 33.1,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 10753,
+      "row_id": 74
+    },
+    {
+      "assetId": 70064136.0,
+      "addressId": 53772073,
+      "polygonId": "51804841",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 6",
+      "dealDate": "2020-08-05",
+      "dealAmount": 600000,
+      "parcelNum": "10422-68-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13636,
+      "row_id": 75
+    },
+    {
+      "assetId": 70064410.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2020-08-02",
+      "dealAmount": 650000,
+      "parcelNum": "10422-81-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-04-03",
+          "dealAmount": 615000
+        },
+        {
+          "dealDate": "2013-07-28",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2001-11-20",
+          "dealAmount": 325000
+        }
+      ],
+      "trend": {
+        "rate": 5.7,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 11404,
+      "row_id": 76
+    },
+    {
+      "assetId": 70064420.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2020-07-16",
+      "dealAmount": 520000,
+      "parcelNum": "10422-81-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-12",
+          "dealAmount": 410000
+        }
+      ],
+      "trend": {
+        "rate": 26.8,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 9123,
+      "row_id": 77
+    },
+    {
+      "assetId": 70064124.0,
+      "addressId": 53838863,
+      "polygonId": "51790946",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 2",
+      "dealDate": "2020-05-24",
+      "dealAmount": 645000,
+      "parcelNum": "10422-67-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10750,
+      "row_id": 78
+    },
+    {
+      "assetId": 70064460.0,
+      "addressId": 53553455,
+      "polygonId": "51802803",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 18",
+      "dealDate": "2020-02-21",
+      "dealAmount": 670000,
+      "parcelNum": "10422-82-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-21",
+          "dealAmount": 620000
+        }
+      ],
+      "trend": {
+        "rate": 8.1,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 10308,
+      "row_id": 79
+    },
+    {
+      "assetId": 70064369.0,
+      "addressId": 53834668,
+      "polygonId": "53208275",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 7",
+      "dealDate": "2020-02-14",
+      "dealAmount": 685000,
+      "parcelNum": "10422-79-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-11",
+          "dealAmount": 520000
+        }
+      ],
+      "trend": {
+        "rate": 31.7,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 11417,
+      "row_id": 80
+    },
+    {
+      "assetId": 70064619.0,
+      "addressId": 53866361,
+      "polygonId": "51803052",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 17",
+      "dealDate": "2020-01-20",
+      "dealAmount": 375000,
+      "parcelNum": "10422-116-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 76.7,
+      "yearBuilt": 1991,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-10-03",
+          "dealAmount": 685000
+        }
+      ],
+      "trend": {
+        "rate": -45.3,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 4934,
+      "row_id": 81
+    },
+    {
+      "assetId": 70064601.0,
+      "addressId": 53556091,
+      "polygonId": "51811455",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "אצ\"ל 6",
+      "dealDate": "2020-01-08",
+      "dealAmount": 760000,
+      "parcelNum": "10422-115-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 93.8,
+      "yearBuilt": 1991,
+      "streetCode": 95000224,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-09-20",
+          "dealAmount": 520000
+        }
+      ],
+      "trend": {
+        "rate": 46.2,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 8172,
+      "row_id": 82
+    },
+    {
+      "assetId": 70064150.0,
+      "addressId": 53772073,
+      "polygonId": "51804841",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 6",
+      "dealDate": "2020-01-01",
+      "dealAmount": 635000,
+      "parcelNum": "10422-68-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10583,
+      "row_id": 83
+    },
+    {
+      "assetId": 70064466.0,
+      "addressId": 53866594,
+      "polygonId": "51805421",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 14",
+      "dealDate": "2019-11-27",
+      "dealAmount": 870000,
+      "parcelNum": "10422-83-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 83.23,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10453,
+      "row_id": 84
+    },
+    {
+      "assetId": 70064582.0,
+      "addressId": 53556119,
+      "polygonId": "51804222",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 14",
+      "dealDate": "2019-11-20",
+      "dealAmount": 805000,
+      "parcelNum": "10422-114-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-06-11",
+          "dealAmount": 640000
+        }
+      ],
+      "trend": {
+        "rate": 25.8,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 11027,
+      "row_id": 85
+    },
+    {
+      "assetId": 70064180.0,
+      "addressId": 53554993,
+      "polygonId": "51804701",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 2",
+      "dealDate": "2019-11-18",
+      "dealAmount": 735000,
+      "parcelNum": "10422-70-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-09",
+          "dealAmount": 750000
+        }
+      ],
+      "trend": {
+        "rate": -2.0,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 10068,
+      "row_id": 86
+    },
+    {
+      "assetId": 70064511.0,
+      "addressId": 53553454,
+      "polygonId": "51805468",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 6",
+      "dealDate": "2019-11-16",
+      "dealAmount": 615000,
+      "parcelNum": "10422-85-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-03-12",
+          "dealAmount": 385000
+        }
+      ],
+      "trend": {
+        "rate": 59.7,
+        "years": 7.7
+      },
+      "ownership": [],
+      "priceSM": 9462,
+      "row_id": 87
+    },
+    {
+      "assetId": 70064462.0,
+      "addressId": 53553455,
+      "polygonId": "51802803",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 18",
+      "dealDate": "2019-07-23",
+      "dealAmount": 615000,
+      "parcelNum": "10422-82-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9462,
+      "row_id": 88
+    },
+    {
+      "assetId": 70064359.0,
+      "addressId": 53555996,
+      "polygonId": "51807049",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 5",
+      "dealDate": "2019-07-10",
+      "dealAmount": 555000,
+      "parcelNum": "10422-78-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12614,
+      "row_id": 89
+    },
+    {
+      "assetId": 70064516.0,
+      "addressId": 53552072,
+      "polygonId": "51806009",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 4",
+      "dealDate": "2019-07-01",
+      "dealAmount": 730000,
+      "parcelNum": "10422-86-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.37,
+      "yearBuilt": 1970,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11167,
+      "row_id": 90
+    },
+    {
+      "assetId": 70064401.0,
+      "addressId": 53555203,
+      "polygonId": "53208240",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 9",
+      "dealDate": "2019-05-31",
+      "dealAmount": 590000,
+      "parcelNum": "10422-80-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שלישית",
+      "assetArea": 44.0,
+      "yearBuilt": 1960,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-25",
+          "dealAmount": 220000
+        }
+      ],
+      "trend": {
+        "rate": 168.2,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 13409,
+      "row_id": 91
+    },
+    {
+      "assetId": 70064375.0,
+      "addressId": 53834668,
+      "polygonId": "53208275",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 7",
+      "dealDate": "2019-05-30",
+      "dealAmount": 218000,
+      "parcelNum": "10422-79-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3633,
+      "row_id": 92
+    },
+    {
+      "assetId": 70064083.0,
+      "addressId": 53556118,
+      "polygonId": "51807997",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 3",
+      "dealDate": "2019-05-20",
+      "dealAmount": 620000,
+      "parcelNum": "10422-65-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-06",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 158.3,
+        "years": 9.8
+      },
+      "ownership": [],
+      "priceSM": 10333,
+      "row_id": 93
+    },
+    {
+      "assetId": 70064158.0,
+      "addressId": 53553226,
+      "polygonId": "52998514",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 1",
+      "dealDate": "2019-04-07",
+      "dealAmount": 500000,
+      "parcelNum": "10422-69-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1981,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11364,
+      "row_id": 94
+    },
+    {
+      "assetId": 70064088.0,
+      "addressId": 53556118,
+      "polygonId": "51807997",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 3",
+      "dealDate": "2019-03-17",
+      "dealAmount": 680000,
+      "parcelNum": "10422-65-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-01-18",
+          "dealAmount": 527000
+        },
+        {
+          "dealDate": "2008-07-21",
+          "dealAmount": 225000
+        }
+      ],
+      "trend": {
+        "rate": 29.0,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 11333,
+      "row_id": 95
+    },
+    {
+      "assetId": 70064502.0,
+      "addressId": 53555903,
+      "polygonId": "52795992",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 8",
+      "dealDate": "2019-01-20",
+      "dealAmount": 700000,
+      "parcelNum": "10422-85-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.0,
+      "yearBuilt": 1982,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-05-04",
+          "dealAmount": 532000
+        }
+      ],
+      "trend": {
+        "rate": 31.6,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 10769,
+      "row_id": 96
+    },
+    {
+      "assetId": 70064109.0,
+      "addressId": 53552438,
+      "polygonId": "51799635",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 1",
+      "dealDate": "2018-12-17",
+      "dealAmount": 325000,
+      "parcelNum": "10422-66-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4452,
+      "row_id": 97
+    },
+    {
+      "assetId": 70064123.0,
+      "addressId": 53838863,
+      "polygonId": "51790946",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 2",
+      "dealDate": "2018-11-04",
+      "dealAmount": 660000,
+      "parcelNum": "10422-67-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11000,
+      "row_id": 98
+    },
+    {
+      "assetId": 70064201.0,
+      "addressId": 53554442,
+      "polygonId": "51798334",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 3",
+      "dealDate": "2018-08-29",
+      "dealAmount": 730000,
+      "parcelNum": "10422-71-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-16",
+          "dealAmount": 290000
+        }
+      ],
+      "trend": {
+        "rate": 151.7,
+        "years": 9.0
+      },
+      "ownership": [],
+      "priceSM": 12807,
+      "row_id": 99
+    },
+    {
+      "assetId": 70064519.0,
+      "addressId": 53552072,
+      "polygonId": "51806009",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 4",
+      "dealDate": "2018-07-26",
+      "dealAmount": 670000,
+      "parcelNum": "10422-86-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10308,
+      "row_id": 100
+    },
+    {
+      "assetId": 70064270.0,
+      "addressId": 53933423,
+      "polygonId": "51803573",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 1",
+      "dealDate": "2018-05-02",
+      "dealAmount": 665000,
+      "parcelNum": "10422-74-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-10-25",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 33.0,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 11083,
+      "row_id": 101
+    },
+    {
+      "assetId": 70064578.0,
+      "addressId": 53556119,
+      "polygonId": "51804222",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 14",
+      "dealDate": "2018-03-13",
+      "dealAmount": 770000,
+      "parcelNum": "10422-114-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-07-27",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 133.3,
+        "years": 10.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 385000
+        },
+        {
+          "proportion": "50",
+          "price": 385000
+        }
+      ],
+      "priceSM": 10548,
+      "row_id": 102
+    },
+    {
+      "assetId": 70064422.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2018-02-25",
+      "dealAmount": 208000,
+      "parcelNum": "10422-81-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3649,
+      "row_id": 103
+    },
+    {
+      "assetId": 70064160.0,
+      "addressId": 53553226,
+      "polygonId": "52998514",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 1",
+      "dealDate": "2017-12-14",
+      "dealAmount": 200000,
+      "parcelNum": "10422-69-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 44.0,
+      "yearBuilt": 1981,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4545,
+      "row_id": 104
+    },
+    {
+      "assetId": 70064518.0,
+      "addressId": 53552072,
+      "polygonId": "51806009",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 4",
+      "dealDate": "2017-12-11",
+      "dealAmount": 750000,
+      "parcelNum": "10422-86-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.37,
+      "yearBuilt": 1970,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11473,
+      "row_id": 105
+    },
+    {
+      "assetId": 70064623.0,
+      "addressId": 53866361,
+      "polygonId": "51803052",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 17",
+      "dealDate": "2017-11-03",
+      "dealAmount": 730000,
+      "parcelNum": "10422-116-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 66.8,
+      "yearBuilt": 1991,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-02-24",
+          "dealAmount": 570000
+        }
+      ],
+      "trend": {
+        "rate": 28.1,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 11061,
+      "row_id": 106
+    },
+    {
+      "assetId": 70064331.0,
+      "addressId": 53555794,
+      "polygonId": "51803636",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 2",
+      "dealDate": "2017-07-06",
+      "dealAmount": 535000,
+      "parcelNum": "10422-77-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-11-10",
+          "dealAmount": 355000
+        }
+      ],
+      "trend": {
+        "rate": 50.7,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 8917,
+      "row_id": 107
+    },
+    {
+      "assetId": 70064428.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2017-07-05",
+      "dealAmount": 595000,
+      "parcelNum": "10422-81-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-04-27",
+          "dealAmount": 476000
+        },
+        {
+          "dealDate": "2011-04-17",
+          "dealAmount": 360000
+        },
+        {
+          "dealDate": "2006-11-29",
+          "dealAmount": 214000
+        },
+        {
+          "dealDate": "2004-05-14",
+          "dealAmount": 235000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 0.2
+      },
+      "ownership": [],
+      "priceSM": 10439,
+      "row_id": 108
+    },
+    {
+      "assetId": 70064425.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2017-06-25",
+      "dealAmount": 179000,
+      "parcelNum": "10422-81-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4068,
+      "row_id": 109
+    },
+    {
+      "assetId": 70064307.0,
+      "addressId": 53835951,
+      "polygonId": "53065437",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 1",
+      "dealDate": "2017-01-10",
+      "dealAmount": 770000,
+      "parcelNum": "10422-76-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10548,
+      "row_id": 110
+    },
+    {
+      "assetId": 70064431.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2017-01-05",
+      "dealAmount": 444000,
+      "parcelNum": "10422-81-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10091,
+      "row_id": 111
+    },
+    {
+      "assetId": 70064210.0,
+      "addressId": 53554442,
+      "polygonId": "51798334",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 3",
+      "dealDate": "2016-12-25",
+      "dealAmount": 660000,
+      "parcelNum": "10422-71-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9041,
+      "row_id": 112
+    },
+    {
+      "assetId": 70064373.0,
+      "addressId": 53834668,
+      "polygonId": "53208275",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 7",
+      "dealDate": "2016-12-21",
+      "dealAmount": 594000,
+      "parcelNum": "10422-79-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9900,
+      "row_id": 113
+    },
+    {
+      "assetId": 70064621.0,
+      "addressId": 53866361,
+      "polygonId": "51803052",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 17",
+      "dealDate": "2016-12-11",
+      "dealAmount": 675000,
+      "parcelNum": "10422-116-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 67.4,
+      "yearBuilt": 1991,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10015,
+      "row_id": 114
+    },
+    {
+      "assetId": 70064256.0,
+      "addressId": 53933423,
+      "polygonId": "51803573",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 1",
+      "dealDate": "2016-08-28",
+      "dealAmount": 450000,
+      "parcelNum": "10422-74-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-09-03",
+          "dealAmount": 230000
+        }
+      ],
+      "trend": {
+        "rate": 95.7,
+        "years": 10.0
+      },
+      "ownership": [],
+      "priceSM": 7500,
+      "row_id": 115
+    },
+    {
+      "assetId": 70064459.0,
+      "addressId": 53553455,
+      "polygonId": "51802803",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 18",
+      "dealDate": "2016-08-24",
+      "dealAmount": 635000,
+      "parcelNum": "10422-82-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9769,
+      "row_id": 116
+    },
+    {
+      "assetId": 70064091.0,
+      "addressId": 53556118,
+      "polygonId": "51807997",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 3",
+      "dealDate": "2016-06-16",
+      "dealAmount": 540000,
+      "parcelNum": "10422-65-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-18",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 28.6,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 9000,
+      "row_id": 117
+    },
+    {
+      "assetId": 70064526.0,
+      "addressId": 53864999,
+      "polygonId": "53206972",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 2",
+      "dealDate": "2016-04-07",
+      "dealAmount": 610000,
+      "parcelNum": "10422-86-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.37,
+      "yearBuilt": 1960,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-11-05",
+          "dealAmount": 461000
+        }
+      ],
+      "trend": {
+        "rate": 32.3,
+        "years": 0.4
+      },
+      "ownership": [],
+      "priceSM": 9385,
+      "row_id": 118
+    },
+    {
+      "assetId": 70064153.0,
+      "addressId": 53772073,
+      "polygonId": "51804841",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 6",
+      "dealDate": "2016-03-23",
+      "dealAmount": 566000,
+      "parcelNum": "10422-68-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9433,
+      "row_id": 119
+    },
+    {
+      "assetId": 70064470.0,
+      "addressId": 53866594,
+      "polygonId": "51805421",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 14",
+      "dealDate": "2016-03-16",
+      "dealAmount": 1000000,
+      "parcelNum": "10422-83-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 83.2,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-01",
+          "dealAmount": 510000
+        }
+      ],
+      "trend": {
+        "rate": 96.1,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 12048,
+      "row_id": 120
+    },
+    {
+      "assetId": 70064098.0,
+      "addressId": 53552438,
+      "polygonId": "51799635",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 1",
+      "dealDate": "2016-02-21",
+      "dealAmount": 420000,
+      "parcelNum": "10422-66-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9545,
+      "row_id": 121
+    },
+    {
+      "assetId": 70064190.0,
+      "addressId": 53554993,
+      "polygonId": "51804701",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 2",
+      "dealDate": "2016-01-27",
+      "dealAmount": 620000,
+      "parcelNum": "10422-70-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 57.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-06-02",
+          "dealAmount": 540000
+        },
+        {
+          "dealDate": "1999-08-13",
+          "dealAmount": 327000
+        }
+      ],
+      "trend": {
+        "rate": 14.8,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 10877,
+      "row_id": 122
+    },
+    {
+      "assetId": 70064379.0,
+      "addressId": 53834668,
+      "polygonId": "53208275",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 7",
+      "dealDate": "2016-01-27",
+      "dealAmount": 600000,
+      "parcelNum": "10422-79-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 123
+    },
+    {
+      "assetId": 70064267.0,
+      "addressId": 53933423,
+      "polygonId": "51803573",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 1",
+      "dealDate": "2015-12-29",
+      "dealAmount": 600000,
+      "parcelNum": "10422-74-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-16",
+          "dealAmount": 375000
+        },
+        {
+          "dealDate": "2000-09-11",
+          "dealAmount": 463000
+        }
+      ],
+      "trend": {
+        "rate": 60.0,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 124
+    },
+    {
+      "assetId": 70064110.0,
+      "addressId": 53552438,
+      "polygonId": "51799635",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 1",
+      "dealDate": "2015-11-01",
+      "dealAmount": 630000,
+      "parcelNum": "10422-66-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8630,
+      "row_id": 125
+    },
+    {
+      "assetId": 70064424.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2015-10-04",
+      "dealAmount": 600000,
+      "parcelNum": "10422-81-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10526,
+      "row_id": 126
+    },
+    {
+      "assetId": 70064504.0,
+      "addressId": 53555903,
+      "polygonId": "52795992",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 8",
+      "dealDate": "2015-07-24",
+      "dealAmount": 520000,
+      "parcelNum": "10422-85-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.0,
+      "yearBuilt": 1982,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8000,
+      "row_id": 127
+    },
+    {
+      "assetId": 70064378.0,
+      "addressId": 53834668,
+      "polygonId": "53208275",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 7",
+      "dealDate": "2015-06-23",
+      "dealAmount": 540000,
+      "parcelNum": "10422-79-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-02-10",
+          "dealAmount": 451000
+        },
+        {
+          "dealDate": "2007-10-14",
+          "dealAmount": 263000
+        }
+      ],
+      "trend": {
+        "rate": 19.7,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 9000,
+      "row_id": 128
+    },
+    {
+      "assetId": 70064271.0,
+      "addressId": 53933423,
+      "polygonId": "51803573",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 1",
+      "dealDate": "2015-06-15",
+      "dealAmount": 519000,
+      "parcelNum": "10422-74-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-01-31",
+          "dealAmount": 415000
+        }
+      ],
+      "trend": {
+        "rate": 25.1,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 8650,
+      "row_id": 129
+    },
+    {
+      "assetId": 70064132.0,
+      "addressId": 53838863,
+      "polygonId": "51790946",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 2",
+      "dealDate": "2015-05-28",
+      "dealAmount": 565000,
+      "parcelNum": "10422-67-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-21",
+          "dealAmount": 220000
+        }
+      ],
+      "trend": {
+        "rate": 156.8,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 9417,
+      "row_id": 130
+    },
+    {
+      "assetId": 70064242.0,
+      "addressId": 53556090,
+      "polygonId": "51798001",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 2",
+      "dealDate": "2015-05-19",
+      "dealAmount": 404000,
+      "parcelNum": "10422-73-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9182,
+      "row_id": 131
+    },
+    {
+      "assetId": 70064106.0,
+      "addressId": 53552438,
+      "polygonId": "51799635",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 1",
+      "dealDate": "2015-04-19",
+      "dealAmount": 305000,
+      "parcelNum": "10422-66-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6932,
+      "row_id": 132
+    },
+    {
+      "assetId": 70064382.0,
+      "addressId": 53834668,
+      "polygonId": "53208275",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 7",
+      "dealDate": "2015-03-22",
+      "dealAmount": 449000,
+      "parcelNum": "10422-79-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7483,
+      "row_id": 133
+    },
+    {
+      "assetId": 70064315.0,
+      "addressId": 53835951,
+      "polygonId": "53065437",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 1",
+      "dealDate": "2015-02-16",
+      "dealAmount": 700000,
+      "parcelNum": "10422-76-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9589,
+      "row_id": 134
+    },
+    {
+      "assetId": 70064614.0,
+      "addressId": 53866361,
+      "polygonId": "51803052",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 17",
+      "dealDate": "2015-01-06",
+      "dealAmount": 670000,
+      "parcelNum": "10422-116-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 69.7,
+      "yearBuilt": 1991,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-20",
+          "dealAmount": 492000
+        }
+      ],
+      "trend": {
+        "rate": 36.2,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 9710,
+      "row_id": 136
+    },
+    {
+      "assetId": 70064340.0,
+      "addressId": 53555794,
+      "polygonId": "51803636",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 2",
+      "dealDate": "2014-12-25",
+      "dealAmount": 450000,
+      "parcelNum": "10422-77-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-08-31",
+          "dealAmount": 445000
+        }
+      ],
+      "trend": {
+        "rate": 1.1,
+        "years": 0.3
+      },
+      "ownership": [],
+      "priceSM": 7500,
+      "row_id": 137
+    },
+    {
+      "assetId": 70064272.0,
+      "addressId": 53933423,
+      "polygonId": "51803573",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 1",
+      "dealDate": "2014-12-15",
+      "dealAmount": 510000,
+      "parcelNum": "10422-74-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-30",
+          "dealAmount": 440000
+        }
+      ],
+      "trend": {
+        "rate": 15.9,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 8500,
+      "row_id": 138
+    },
+    {
+      "assetId": 70064571.0,
+      "addressId": 53556119,
+      "polygonId": "51804222",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 14",
+      "dealDate": "2014-12-11",
+      "dealAmount": 520000,
+      "parcelNum": "10422-114-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9123,
+      "row_id": 139
+    },
+    {
+      "assetId": 70064273.0,
+      "addressId": 53933423,
+      "polygonId": "51803573",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 1",
+      "dealDate": "2014-11-24",
+      "dealAmount": 485000,
+      "parcelNum": "10422-74-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-06",
+          "dealAmount": 279000
+        },
+        {
+          "dealDate": "2010-02-23",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 73.8,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 8083,
+      "row_id": 140
+    },
+    {
+      "assetId": 70064592.0,
+      "addressId": 53556091,
+      "polygonId": "51811455",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "אצ\"ל 6",
+      "dealDate": "2014-09-09",
+      "dealAmount": 823000,
+      "parcelNum": "10422-115-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 94.6,
+      "yearBuilt": 1991,
+      "streetCode": 95000224,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8700,
+      "row_id": 141
+    },
+    {
+      "assetId": 70064327.0,
+      "addressId": 53555794,
+      "polygonId": "51803636",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 2",
+      "dealDate": "2014-08-21",
+      "dealAmount": 540000,
+      "parcelNum": "10422-77-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-12-29",
+          "dealAmount": 222000
+        }
+      ],
+      "trend": {
+        "rate": 143.2,
+        "years": 10.7
+      },
+      "ownership": [],
+      "priceSM": 9000,
+      "row_id": 142
+    },
+    {
+      "assetId": 70064128.0,
+      "addressId": 53838863,
+      "polygonId": "51790946",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 2",
+      "dealDate": "2014-07-30",
+      "dealAmount": 530000,
+      "parcelNum": "10422-67-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8833,
+      "row_id": 143
+    },
+    {
+      "assetId": 70064151.0,
+      "addressId": 53772073,
+      "polygonId": "51804841",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 6",
+      "dealDate": "2014-07-20",
+      "dealAmount": 500000,
+      "parcelNum": "10422-68-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-07-14",
+          "dealAmount": 372000
+        }
+      ],
+      "trend": {
+        "rate": 34.4,
+        "years": 14.0
+      },
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 144
+    },
+    {
+      "assetId": 70064101.0,
+      "addressId": 53552438,
+      "polygonId": "51799635",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 1",
+      "dealDate": "2014-07-14",
+      "dealAmount": 550000,
+      "parcelNum": "10422-66-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9649,
+      "row_id": 145
+    },
+    {
+      "assetId": 70064191.0,
+      "addressId": 53554993,
+      "polygonId": "51804701",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 2",
+      "dealDate": "2014-06-19",
+      "dealAmount": 388000,
+      "parcelNum": "10422-70-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8818,
+      "row_id": 146
+    },
+    {
+      "assetId": 70064430.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2014-06-17",
+      "dealAmount": 495000,
+      "parcelNum": "10422-81-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-21",
+          "dealAmount": 335000
+        }
+      ],
+      "trend": {
+        "rate": 47.8,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 8684,
+      "row_id": 147
+    },
+    {
+      "assetId": 70064345.0,
+      "addressId": 53555996,
+      "polygonId": "51807049",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 5",
+      "dealDate": "2014-04-27",
+      "dealAmount": 136000,
+      "parcelNum": "10422-78-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3091,
+      "row_id": 148
+    },
+    {
+      "assetId": 70064244.0,
+      "addressId": 53556090,
+      "polygonId": "51798001",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 2",
+      "dealDate": "2014-04-17",
+      "dealAmount": 490000,
+      "parcelNum": "10422-73-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 57.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-08-18",
+          "dealAmount": 430000
+        }
+      ],
+      "trend": {
+        "rate": 14.0,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 8596,
+      "row_id": 149
+    },
+    {
+      "assetId": 70064432.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2014-03-09",
+      "dealAmount": 380000,
+      "parcelNum": "10422-81-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-10-03",
+          "dealAmount": 100000
+        }
+      ],
+      "trend": {
+        "rate": 280.0,
+        "years": 13.4
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 125400
+        },
+        {
+          "proportion": "66",
+          "price": 250800
+        }
+      ],
+      "priceSM": 6667,
+      "row_id": 150
+    },
+    {
+      "assetId": 70064082.0,
+      "addressId": 53556118,
+      "polygonId": "51807997",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 3",
+      "dealDate": "2014-01-30",
+      "dealAmount": 530000,
+      "parcelNum": "10422-65-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-09-13",
+          "dealAmount": 477000
+        }
+      ],
+      "trend": {
+        "rate": 11.1,
+        "years": 12.4
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 265000
+        },
+        {
+          "proportion": "50",
+          "price": 265000
+        }
+      ],
+      "priceSM": 8833,
+      "row_id": 151
+    },
+    {
+      "assetId": 70064147.0,
+      "addressId": 53772073,
+      "polygonId": "51804841",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 6",
+      "dealDate": "2014-01-01",
+      "dealAmount": 465000,
+      "parcelNum": "10422-68-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-15",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 55.0,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 7750,
+      "row_id": 153
+    },
+    {
+      "assetId": 70064442.0,
+      "addressId": 53555325,
+      "polygonId": "51807455",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 22",
+      "dealDate": "2013-12-24",
+      "dealAmount": 550000,
+      "parcelNum": "10422-82-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 76.76,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-02",
+          "dealAmount": 340000
+        }
+      ],
+      "trend": {
+        "rate": 61.8,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 7237,
+      "row_id": 154
+    },
+    {
+      "assetId": 70064364.0,
+      "addressId": 53555996,
+      "polygonId": "51807049",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 5",
+      "dealDate": "2013-12-10",
+      "dealAmount": 435000,
+      "parcelNum": "10422-78-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7632,
+      "row_id": 155
+    },
+    {
+      "assetId": 70064631.0,
+      "addressId": 53866361,
+      "polygonId": "51803052",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 17",
+      "dealDate": "2013-08-30",
+      "dealAmount": 780000,
+      "parcelNum": "10422-116-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 94.7,
+      "yearBuilt": 1991,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-06-09",
+          "dealAmount": 396000
+        }
+      ],
+      "trend": {
+        "rate": 97.0,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 8298,
+      "row_id": 156
+    },
+    {
+      "assetId": 70064212.0,
+      "addressId": 53554442,
+      "polygonId": "51798334",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 3",
+      "dealDate": "2013-08-19",
+      "dealAmount": 520000,
+      "parcelNum": "10422-71-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-10-16",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 160.0,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 7123,
+      "row_id": 157
+    },
+    {
+      "assetId": 70064102.0,
+      "addressId": 53552438,
+      "polygonId": "51799635",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 1",
+      "dealDate": "2013-08-18",
+      "dealAmount": 270000,
+      "parcelNum": "10422-66-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6136,
+      "row_id": 158
+    },
+    {
+      "assetId": 70064138.0,
+      "addressId": 53772073,
+      "polygonId": "51804841",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 6",
+      "dealDate": "2013-08-05",
+      "dealAmount": 410000,
+      "parcelNum": "10422-68-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9318,
+      "row_id": 159
+    },
+    {
+      "assetId": 70064626.0,
+      "addressId": 53866361,
+      "polygonId": "51803052",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 17",
+      "dealDate": "2013-07-01",
+      "dealAmount": 660000,
+      "parcelNum": "10422-116-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 76.3,
+      "yearBuilt": 1991,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-06-10",
+          "dealAmount": 334000
+        }
+      ],
+      "trend": {
+        "rate": 97.6,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 8684,
+      "row_id": 160
+    },
+    {
+      "assetId": 70064188.0,
+      "addressId": 53554993,
+      "polygonId": "51804701",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 2",
+      "dealDate": "2013-06-26",
+      "dealAmount": 400000,
+      "parcelNum": "10422-70-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9091,
+      "row_id": 161
+    },
+    {
+      "assetId": 70064144.0,
+      "addressId": 53772073,
+      "polygonId": "51804841",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 6",
+      "dealDate": "2013-01-26",
+      "dealAmount": 430000,
+      "parcelNum": "10422-68-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7167,
+      "row_id": 162
+    },
+    {
+      "assetId": 70064125.0,
+      "addressId": 53838863,
+      "polygonId": "51790946",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 2",
+      "dealDate": "2013-01-18",
+      "dealAmount": 420000,
+      "parcelNum": "10422-67-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7000,
+      "row_id": 163
+    },
+    {
+      "assetId": 70064471.0,
+      "addressId": 53556505,
+      "polygonId": "51806982",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 16",
+      "dealDate": "2012-11-06",
+      "dealAmount": 750000,
+      "parcelNum": "10422-83-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "ראשונה",
+      "assetArea": 95.73,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7835,
+      "row_id": 164
+    },
+    {
+      "assetId": 70064333.0,
+      "addressId": 53555794,
+      "polygonId": "51803636",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 2",
+      "dealDate": "2012-10-18",
+      "dealAmount": 440000,
+      "parcelNum": "10422-77-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7333,
+      "row_id": 165
+    },
+    {
+      "assetId": 70064356.0,
+      "addressId": 53555996,
+      "polygonId": "51807049",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 5",
+      "dealDate": "2012-10-15",
+      "dealAmount": 380000,
+      "parcelNum": "10422-78-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6667,
+      "row_id": 166
+    },
+    {
+      "assetId": 70064482.0,
+      "addressId": 53865163,
+      "polygonId": "51811116",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 12",
+      "dealDate": "2012-08-23",
+      "dealAmount": 585000,
+      "parcelNum": "10422-84-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 87.7,
+      "yearBuilt": 1970,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-12-21",
+          "dealAmount": 335000
+        }
+      ],
+      "trend": {
+        "rate": 74.6,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 6724,
+      "row_id": 167
+    },
+    {
+      "assetId": 70064202.0,
+      "addressId": 53554442,
+      "polygonId": "51798334",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 3",
+      "dealDate": "2012-07-08",
+      "dealAmount": 420000,
+      "parcelNum": "10422-71-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-03-06",
+          "dealAmount": 271000
+        }
+      ],
+      "trend": {
+        "rate": 55.0,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 9545,
+      "row_id": 168
+    },
+    {
+      "assetId": 70064236.0,
+      "addressId": 53554604,
+      "polygonId": "51798001",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 2",
+      "dealDate": "2012-03-11",
+      "dealAmount": 475000,
+      "parcelNum": "10422-73-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 73.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-07-20",
+          "dealAmount": 370000
+        },
+        {
+          "dealDate": "2006-02-19",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 28.4,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 6507,
+      "row_id": 169
+    },
+    {
+      "assetId": 70064448.0,
+      "addressId": 53553455,
+      "polygonId": "51802803",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 18",
+      "dealDate": "2012-02-08",
+      "dealAmount": 430000,
+      "parcelNum": "10422-82-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.4,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6575,
+      "row_id": 170
+    },
+    {
+      "assetId": 70064380.0,
+      "addressId": 53834668,
+      "polygonId": "53208275",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 7",
+      "dealDate": "2012-01-18",
+      "dealAmount": 440000,
+      "parcelNum": "10422-79-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7333,
+      "row_id": 171
+    },
+    {
+      "assetId": 70064211.0,
+      "addressId": 53554442,
+      "polygonId": "51798334",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 3",
+      "dealDate": "2011-11-22",
+      "dealAmount": 400000,
+      "parcelNum": "10422-71-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5479,
+      "row_id": 172
+    },
+    {
+      "assetId": 70064167.0,
+      "addressId": 53553226,
+      "polygonId": "52998514",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 1",
+      "dealDate": "2011-11-15",
+      "dealAmount": 330000,
+      "parcelNum": "10422-69-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1981,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-07-31",
+          "dealAmount": 137000
+        }
+      ],
+      "trend": {
+        "rate": 140.9,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 5789,
+      "row_id": 173
+    },
+    {
+      "assetId": 70064346.0,
+      "addressId": 53555996,
+      "polygonId": "51807049",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 5",
+      "dealDate": "2011-08-16",
+      "dealAmount": 350000,
+      "parcelNum": "10422-78-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6140,
+      "row_id": 174
+    },
+    {
+      "assetId": 70064084.0,
+      "addressId": 53556118,
+      "polygonId": "51807997",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 3",
+      "dealDate": "2011-08-03",
+      "dealAmount": 430000,
+      "parcelNum": "10422-65-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7167,
+      "row_id": 175
+    },
+    {
+      "assetId": 70064122.0,
+      "addressId": 53838863,
+      "polygonId": "51790946",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 2",
+      "dealDate": "2011-07-10",
+      "dealAmount": 510000,
+      "parcelNum": "10422-67-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8500,
+      "row_id": 176
+    },
+    {
+      "assetId": 70064206.0,
+      "addressId": 53554442,
+      "polygonId": "51798334",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 3",
+      "dealDate": "2011-04-17",
+      "dealAmount": 382000,
+      "parcelNum": "10422-71-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8682,
+      "row_id": 177
+    },
+    {
+      "assetId": 70064583.0,
+      "addressId": 53556119,
+      "polygonId": "51804222",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 14",
+      "dealDate": "2011-04-05",
+      "dealAmount": 444000,
+      "parcelNum": "10422-114-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-05-29",
+          "dealAmount": 457000
+        }
+      ],
+      "trend": {
+        "rate": -2.8,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 6082,
+      "row_id": 178
+    },
+    {
+      "assetId": 70064509.0,
+      "addressId": 53553454,
+      "polygonId": "51805468",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 6",
+      "dealDate": "2011-03-25",
+      "dealAmount": 360000,
+      "parcelNum": "10422-85-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.37,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-03-18",
+          "dealAmount": 225000
+        }
+      ],
+      "trend": {
+        "rate": 60.0,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 5538,
+      "row_id": 179
+    },
+    {
+      "assetId": 70064450.0,
+      "addressId": 53553455,
+      "polygonId": "51802803",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 18",
+      "dealDate": "2011-03-01",
+      "dealAmount": 400000,
+      "parcelNum": "10422-82-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.4,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6116,
+      "row_id": 180
+    },
+    {
+      "assetId": 70064348.0,
+      "addressId": 53555996,
+      "polygonId": "51807049",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 5",
+      "dealDate": "2011-01-14",
+      "dealAmount": 275000,
+      "parcelNum": "10422-78-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-02-18",
+          "dealAmount": 139000
+        }
+      ],
+      "trend": {
+        "rate": 97.8,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 4825,
+      "row_id": 181
+    },
+    {
+      "assetId": 70064616.0,
+      "addressId": 53866361,
+      "polygonId": "51803052",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 17",
+      "dealDate": "2011-01-03",
+      "dealAmount": 355000,
+      "parcelNum": "10422-116-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.7,
+      "yearBuilt": 1991,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5244,
+      "row_id": 182
+    },
+    {
+      "assetId": 70064185.0,
+      "addressId": 53554993,
+      "polygonId": "51804701",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 2",
+      "dealDate": "2010-11-08",
+      "dealAmount": 275000,
+      "parcelNum": "10422-70-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-01-01",
+          "dealAmount": 156000
+        }
+      ],
+      "trend": {
+        "rate": 76.3,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 6250,
+      "row_id": 183
+    },
+    {
+      "assetId": 70064444.0,
+      "addressId": 53555325,
+      "polygonId": "51807455",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 22",
+      "dealDate": "2010-09-01",
+      "dealAmount": 330000,
+      "parcelNum": "10422-82-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5077,
+      "row_id": 184
+    },
+    {
+      "assetId": 70064149.0,
+      "addressId": 53772073,
+      "polygonId": "51804841",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 6",
+      "dealDate": "2010-08-30",
+      "dealAmount": 307000,
+      "parcelNum": "10422-68-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-01-15",
+          "dealAmount": 248000
+        }
+      ],
+      "trend": {
+        "rate": 23.8,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 5117,
+      "row_id": 185
+    },
+    {
+      "assetId": 70064642.0,
+      "addressId": 53556323,
+      "polygonId": "51801655",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 13",
+      "dealDate": "2010-08-29",
+      "dealAmount": 520000,
+      "parcelNum": "10422-117-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 77.4,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-11-06",
+          "dealAmount": 396000
+        }
+      ],
+      "trend": {
+        "rate": 31.3,
+        "years": 4.8
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 130000
+        },
+        {
+          "proportion": "25",
+          "price": 130000
+        },
+        {
+          "proportion": "25",
+          "price": 130000
+        },
+        {
+          "proportion": "25",
+          "price": 130000
+        }
+      ],
+      "priceSM": 6753,
+      "row_id": 186
+    },
+    {
+      "assetId": 70064263.0,
+      "addressId": 53933423,
+      "polygonId": "51803573",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 1",
+      "dealDate": "2010-08-05",
+      "dealAmount": 365000,
+      "parcelNum": "10422-74-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6083,
+      "row_id": 187
+    },
+    {
+      "assetId": 70064273.0,
+      "addressId": 53933423,
+      "polygonId": "51803573",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 1",
+      "dealDate": "2010-06-02",
+      "dealAmount": 300000,
+      "parcelNum": "10422-74-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 188
+    },
+    {
+      "assetId": 70064224.0,
+      "addressId": 53554441,
+      "polygonId": "53208663",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 4",
+      "dealDate": "2010-05-23",
+      "dealAmount": 345000,
+      "parcelNum": "10422-72-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-06-11",
+          "dealAmount": 356000
+        }
+      ],
+      "trend": {
+        "rate": -3.1,
+        "years": 10.0
+      },
+      "ownership": [],
+      "priceSM": 5750,
+      "row_id": 189
+    },
+    {
+      "assetId": 70064239.0,
+      "addressId": 53554604,
+      "polygonId": "51798001",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 2",
+      "dealDate": "2010-05-05",
+      "dealAmount": 220000,
+      "parcelNum": "10422-73-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3014,
+      "row_id": 190
+    },
+    {
+      "assetId": 70064499.0,
+      "addressId": 53555903,
+      "polygonId": "52795992",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 8",
+      "dealDate": "2010-03-24",
+      "dealAmount": 372000,
+      "parcelNum": "10422-85-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.37,
+      "yearBuilt": 1982,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-04-19",
+          "dealAmount": 386000
+        }
+      ],
+      "trend": {
+        "rate": -3.6,
+        "years": 10.9
+      },
+      "ownership": [],
+      "priceSM": 5723,
+      "row_id": 191
+    },
+    {
+      "assetId": 70064407.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2010-03-23",
+      "dealAmount": 218000,
+      "parcelNum": "10422-81-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-11-04",
+          "dealAmount": 143000
+        }
+      ],
+      "trend": {
+        "rate": 52.4,
+        "years": 10.4
+      },
+      "ownership": [],
+      "priceSM": 4955,
+      "row_id": 192
+    },
+    {
+      "assetId": 70064217.0,
+      "addressId": 53554441,
+      "polygonId": "53208663",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 4",
+      "dealDate": "2010-03-15",
+      "dealAmount": 330000,
+      "parcelNum": "10422-72-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5500,
+      "row_id": 193
+    },
+    {
+      "assetId": 70064245.0,
+      "addressId": 53556090,
+      "polygonId": "51798001",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 2",
+      "dealDate": "2010-03-05",
+      "dealAmount": 190000,
+      "parcelNum": "10422-73-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4318,
+      "row_id": 194
+    },
+    {
+      "assetId": 70064494.0,
+      "addressId": 53556411,
+      "polygonId": "53066842",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 10",
+      "dealDate": "2009-12-10",
+      "dealAmount": 320000,
+      "parcelNum": "10422-84-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 83.2,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-08-16",
+          "dealAmount": 461000
+        }
+      ],
+      "trend": {
+        "rate": -30.6,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 3855,
+      "row_id": 195
+    },
+    {
+      "assetId": 70064487.0,
+      "addressId": 53556411,
+      "polygonId": "53066842",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 10",
+      "dealDate": "2009-11-26",
+      "dealAmount": 205000,
+      "parcelNum": "10422-84-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 95.7,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2142,
+      "row_id": 197
+    },
+    {
+      "assetId": 70064485.0,
+      "addressId": 53865163,
+      "polygonId": "51811116",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 12",
+      "dealDate": "2009-11-21",
+      "dealAmount": 320000,
+      "parcelNum": "10422-84-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שלישית",
+      "assetArea": 95.7,
+      "yearBuilt": 1970,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3344,
+      "row_id": 198
+    },
+    {
+      "assetId": 70064232.0,
+      "addressId": 53554441,
+      "polygonId": "53208663",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 4",
+      "dealDate": "2009-10-30",
+      "dealAmount": 252500,
+      "parcelNum": "10422-72-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 57.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4430,
+      "row_id": 199
+    },
+    {
+      "assetId": 70064383.0,
+      "addressId": 53834668,
+      "polygonId": "53208275",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 7",
+      "dealDate": "2009-09-13",
+      "dealAmount": 290000,
+      "parcelNum": "10422-79-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4833,
+      "row_id": 200
+    },
+    {
+      "assetId": 70064392.0,
+      "addressId": 53555203,
+      "polygonId": "53208240",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 9",
+      "dealDate": "2009-05-28",
+      "dealAmount": 250000,
+      "parcelNum": "10422-80-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1960,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-10-28",
+          "dealAmount": 259000
+        }
+      ],
+      "trend": {
+        "rate": -3.5,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 4386,
+      "row_id": 201
+    },
+    {
+      "assetId": 70064617.0,
+      "addressId": 53866361,
+      "polygonId": "51803052",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 17",
+      "dealDate": "2009-05-25",
+      "dealAmount": 310000,
+      "parcelNum": "10422-116-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 66.8,
+      "yearBuilt": 1991,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-03-23",
+          "dealAmount": 332000
+        }
+      ],
+      "trend": {
+        "rate": -6.6,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 4697,
+      "row_id": 202
+    },
+    {
+      "assetId": 70064243.0,
+      "addressId": 53556090,
+      "polygonId": "51798001",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 2",
+      "dealDate": "2009-04-27",
+      "dealAmount": 170000,
+      "parcelNum": "10422-73-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3864,
+      "row_id": 203
+    },
+    {
+      "assetId": 70064086.0,
+      "addressId": 53556118,
+      "polygonId": "51807997",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 3",
+      "dealDate": "2008-07-17",
+      "dealAmount": 175000,
+      "parcelNum": "10422-65-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2917,
+      "row_id": 204
+    },
+    {
+      "assetId": 70064213.0,
+      "addressId": 53554442,
+      "polygonId": "51798334",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 3",
+      "dealDate": "2008-05-28",
+      "dealAmount": 196000,
+      "parcelNum": "10422-71-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2685,
+      "row_id": 205
+    },
+    {
+      "assetId": 70064196.0,
+      "addressId": 53554442,
+      "polygonId": "51798334",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 3",
+      "dealDate": "2008-05-23",
+      "dealAmount": 170000,
+      "parcelNum": "10422-71-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3864,
+      "row_id": 206
+    },
+    {
+      "assetId": 70064574.0,
+      "addressId": 53556119,
+      "polygonId": "51804222",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 14",
+      "dealDate": "2008-03-12",
+      "dealAmount": 282000,
+      "parcelNum": "10422-114-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3863,
+      "row_id": 207
+    },
+    {
+      "assetId": 70064148.0,
+      "addressId": 53772073,
+      "polygonId": "51804841",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 6",
+      "dealDate": "2008-02-17",
+      "dealAmount": 222000,
+      "parcelNum": "10422-68-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-06-17",
+          "dealAmount": 407000
+        }
+      ],
+      "trend": {
+        "rate": -45.5,
+        "years": 8.7
+      },
+      "ownership": [],
+      "priceSM": 3700,
+      "row_id": 208
+    },
+    {
+      "assetId": 70064452.0,
+      "addressId": 53553455,
+      "polygonId": "51802803",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 18",
+      "dealDate": "2008-01-23",
+      "dealAmount": 235000,
+      "parcelNum": "10422-82-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3615,
+      "row_id": 209
+    },
+    {
+      "assetId": 70064421.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2007-12-26",
+      "dealAmount": 211000,
+      "parcelNum": "10422-81-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4795,
+      "row_id": 210
+    },
+    {
+      "assetId": 70064456.0,
+      "addressId": 53553455,
+      "polygonId": "51802803",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 18",
+      "dealDate": "2007-11-19",
+      "dealAmount": 300000,
+      "parcelNum": "10422-82-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.4,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4587,
+      "row_id": 211
+    },
+    {
+      "assetId": 70064076.0,
+      "addressId": 53556118,
+      "polygonId": "51807997",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 3",
+      "dealDate": "2007-11-09",
+      "dealAmount": 186000,
+      "parcelNum": "10422-65-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3100,
+      "row_id": 212
+    },
+    {
+      "assetId": 70064222.0,
+      "addressId": 53554441,
+      "polygonId": "53208663",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 4",
+      "dealDate": "2007-11-05",
+      "dealAmount": 189000,
+      "parcelNum": "10422-72-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3150,
+      "row_id": 213
+    },
+    {
+      "assetId": 70064505.0,
+      "addressId": 53553454,
+      "polygonId": "51805468",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 6",
+      "dealDate": "2007-08-27",
+      "dealAmount": 240000,
+      "parcelNum": "10422-85-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.37,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3671,
+      "row_id": 214
+    },
+    {
+      "assetId": 70064219.0,
+      "addressId": 53554441,
+      "polygonId": "53208663",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 4",
+      "dealDate": "2007-06-21",
+      "dealAmount": 274000,
+      "parcelNum": "10422-72-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4567,
+      "row_id": 215
+    },
+    {
+      "assetId": 70064226.0,
+      "addressId": 53554441,
+      "polygonId": "53208663",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 4",
+      "dealDate": "2007-05-29",
+      "dealAmount": 181000,
+      "parcelNum": "10422-72-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3017,
+      "row_id": 216
+    },
+    {
+      "assetId": 70064393.0,
+      "addressId": 53555203,
+      "polygonId": "53208240",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 9",
+      "dealDate": "2007-05-02",
+      "dealAmount": 77000,
+      "parcelNum": "10422-80-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 44.0,
+      "yearBuilt": 1960,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1750,
+      "row_id": 217
+    },
+    {
+      "assetId": 70064414.0,
+      "addressId": 53865053,
+      "polygonId": "51803939",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "יהונתן 4",
+      "dealDate": "2007-03-13",
+      "dealAmount": 94000,
+      "parcelNum": "10422-81-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000209,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1649,
+      "row_id": 218
+    },
+    {
+      "assetId": 70064218.0,
+      "addressId": 53554441,
+      "polygonId": "53208663",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 4",
+      "dealDate": "2006-08-13",
+      "dealAmount": 212000,
+      "parcelNum": "10422-72-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3533,
+      "row_id": 219
+    },
+    {
+      "assetId": 70064258.0,
+      "addressId": 53933423,
+      "polygonId": "51803573",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 1",
+      "dealDate": "2006-05-28",
+      "dealAmount": 270000,
+      "parcelNum": "10422-74-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-03-30",
+          "dealAmount": 326000
+        }
+      ],
+      "trend": {
+        "rate": -17.2,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 4500,
+      "row_id": 220
+    },
+    {
+      "assetId": 70064208.0,
+      "addressId": 53554442,
+      "polygonId": "51798334",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 3",
+      "dealDate": "2006-03-30",
+      "dealAmount": 271000,
+      "parcelNum": "10422-71-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-03-15",
+          "dealAmount": 380000
+        }
+      ],
+      "trend": {
+        "rate": -28.7,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 3712,
+      "row_id": 221
+    },
+    {
+      "assetId": 70064581.0,
+      "addressId": 53556119,
+      "polygonId": "51804222",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 14",
+      "dealDate": "2006-01-19",
+      "dealAmount": 360000,
+      "parcelNum": "10422-114-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4932,
+      "row_id": 222
+    },
+    {
+      "assetId": 70064259.0,
+      "addressId": 53933423,
+      "polygonId": "51803573",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 1",
+      "dealDate": "2005-09-07",
+      "dealAmount": 224000,
+      "parcelNum": "10422-74-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3733,
+      "row_id": 223
+    },
+    {
+      "assetId": 70064455.0,
+      "addressId": 53553455,
+      "polygonId": "51802803",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "עפרוני 18",
+      "dealDate": "2005-08-24",
+      "dealAmount": 293000,
+      "parcelNum": "10422-82-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.4,
+      "yearBuilt": 1980,
+      "streetCode": 95000223,
+      "settlmentID": 9500,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4480,
+      "row_id": 224
+    },
+    {
+      "assetId": 70064577.0,
+      "addressId": 53556119,
+      "polygonId": "51804222",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 14",
+      "dealDate": "2005-08-01",
+      "dealAmount": 406000,
+      "parcelNum": "10422-114-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5562,
+      "row_id": 225
+    },
+    {
+      "assetId": 70064131.0,
+      "addressId": 53838863,
+      "polygonId": "51790946",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 2",
+      "dealDate": "2004-07-14",
+      "dealAmount": 269000,
+      "parcelNum": "10422-67-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4483,
+      "row_id": 226
+    },
+    {
+      "assetId": 70064077.0,
+      "addressId": 53556118,
+      "polygonId": "51807997",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 3",
+      "dealDate": "2004-05-31",
+      "dealAmount": 282000,
+      "parcelNum": "10422-65-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4700,
+      "row_id": 227
+    },
+    {
+      "assetId": 70064187.0,
+      "addressId": 53554993,
+      "polygonId": "51804701",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "סנונית 2",
+      "dealDate": "2004-05-23",
+      "dealAmount": 330000,
+      "parcelNum": "10422-70-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000226,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5789,
+      "row_id": 228
+    },
+    {
+      "assetId": 70064117.0,
+      "addressId": 53838863,
+      "polygonId": "51790946",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 2",
+      "dealDate": "2004-04-30",
+      "dealAmount": 275000,
+      "parcelNum": "10422-67-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-05-18",
+          "dealAmount": 329000
+        }
+      ],
+      "trend": {
+        "rate": -16.4,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 4583,
+      "row_id": 229
+    },
+    {
+      "assetId": 70064280.0,
+      "addressId": 53864976,
+      "polygonId": "51803640",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "התל 3",
+      "dealDate": "2004-04-25",
+      "dealAmount": 335000,
+      "parcelNum": "10422-75-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000101,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3941,
+      "row_id": 230
+    },
+    {
+      "assetId": 70064268.0,
+      "addressId": 53933423,
+      "polygonId": "51803573",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "צופית 1",
+      "dealDate": "2004-04-18",
+      "dealAmount": 227000,
+      "parcelNum": "10422-74-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000214,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3783,
+      "row_id": 231
+    },
+    {
+      "assetId": 70064576.0,
+      "addressId": 53556119,
+      "polygonId": "51804222",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 14",
+      "dealDate": "2004-03-21",
+      "dealAmount": 367000,
+      "parcelNum": "10422-114-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1970,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5027,
+      "row_id": 232
+    },
+    {
+      "assetId": 70064227.0,
+      "addressId": 53554441,
+      "polygonId": "53208663",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "דרור 4",
+      "dealDate": "2003-05-11",
+      "dealAmount": 289000,
+      "parcelNum": "10422-72-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000229,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4817,
+      "row_id": 235
+    },
+    {
+      "assetId": 70064100.0,
+      "addressId": 53552438,
+      "polygonId": "51799635",
+      "neighborhoodName": "אפק",
+      "neighborhoodId": 65210880,
+      "address": "נחליאלי 1",
+      "dealDate": "2002-04-18",
+      "dealAmount": 268000,
+      "parcelNum": "10422-66-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 44.0,
+      "yearBuilt": 1980,
+      "streetCode": 95000227,
+      "settlmentID": 9500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6091,
+      "row_id": 239
+    }
+  ]
+}

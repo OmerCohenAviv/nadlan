@@ -1,0 +1,7177 @@
+{
+  "neighborhood_name": "אזורי ויצמן",
+  "city_name": "רחובות",
+  "transaction_count": 228,
+  "transactions": [
+    {
+      "assetId": 40165995.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2025-06-05",
+      "dealAmount": 1295000,
+      "parcelNum": "3694-306-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 76.27,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-16",
+          "dealAmount": 1280000
+        }
+      ],
+      "trend": {
+        "rate": 1.2,
+        "years": 11.4
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 647500
+        },
+        {
+          "proportion": "50",
+          "price": 647500
+        }
+      ],
+      "priceSM": 17039,
+      "row_id": 1
+    },
+    {
+      "assetId": 40166200.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2025-03-19",
+      "dealAmount": 4030000,
+      "parcelNum": "3694-312-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 134.43,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29978,
+      "row_id": 2
+    },
+    {
+      "assetId": 40166117.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2025-02-18",
+      "dealAmount": 2715000,
+      "parcelNum": "3694-310-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 92.23,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-01-24",
+          "dealAmount": 1900000
+        },
+        {
+          "dealDate": "1998-08-23",
+          "dealAmount": 687000
+        }
+      ],
+      "trend": {
+        "rate": 42.9,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 29511,
+      "row_id": 3
+    },
+    {
+      "assetId": 40166000.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2024-12-31",
+      "dealAmount": 2550000,
+      "parcelNum": "3694-306-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-06-07",
+          "dealAmount": 1650000
+        },
+        {
+          "dealDate": "2008-11-05",
+          "dealAmount": 930000
+        }
+      ],
+      "trend": {
+        "rate": 54.5,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 28333,
+      "row_id": 4
+    },
+    {
+      "assetId": 40166339.0,
+      "addressId": 68399851,
+      "polygonId": "52515586",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "סירני 44",
+      "dealDate": "2024-10-25",
+      "dealAmount": 2135000,
+      "parcelNum": "3694-316-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 76.36,
+      "yearBuilt": 1998,
+      "streetCode": 84000505,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27960,
+      "row_id": 5
+    },
+    {
+      "assetId": 40166009.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2024-09-29",
+      "dealAmount": 2670000,
+      "parcelNum": "3694-306-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29558,
+      "row_id": 6
+    },
+    {
+      "assetId": 40166177.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2024-08-15",
+      "dealAmount": 2000000,
+      "parcelNum": "3694-312-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 73.82,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27093,
+      "row_id": 7
+    },
+    {
+      "assetId": 40165989.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2024-07-22",
+      "dealAmount": 2333000,
+      "parcelNum": "3694-306-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 90.31,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-01-13",
+          "dealAmount": 2050000
+        },
+        {
+          "dealDate": "2001-09-09",
+          "dealAmount": 794000
+        }
+      ],
+      "trend": {
+        "rate": 13.8,
+        "years": 3.5
+      },
+      "ownership": [
+        {
+          "proportion": "10",
+          "price": 233300
+        },
+        {
+          "proportion": "90",
+          "price": 2099700
+        }
+      ],
+      "priceSM": 25922,
+      "row_id": 8
+    },
+    {
+      "assetId": 40166107.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2024-07-03",
+      "dealAmount": 2260000,
+      "parcelNum": "3694-310-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 76.5,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29542,
+      "row_id": 9
+    },
+    {
+      "assetId": 40166329.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2024-06-05",
+      "dealAmount": 2700000,
+      "parcelNum": "3694-315-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשירית",
+      "assetArea": 97.7,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-11-01",
+          "dealAmount": 940000
+        }
+      ],
+      "trend": {
+        "rate": 187.2,
+        "years": 16.6
+      },
+      "ownership": [],
+      "priceSM": 27835,
+      "row_id": 10
+    },
+    {
+      "assetId": 40166091.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2024-06-02",
+      "dealAmount": 2350000,
+      "parcelNum": "3694-309-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 92.23,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-12",
+          "dealAmount": 1300000
+        },
+        {
+          "dealDate": "2012-02-08",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2003-02-16",
+          "dealAmount": 930000
+        }
+      ],
+      "trend": {
+        "rate": 80.8,
+        "years": 11.1
+      },
+      "ownership": [],
+      "priceSM": 25543,
+      "row_id": 11
+    },
+    {
+      "assetId": 40166293.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2024-05-24",
+      "dealAmount": 2580000,
+      "parcelNum": "3694-315-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.2,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-17",
+          "dealAmount": 1370000
+        }
+      ],
+      "trend": {
+        "rate": 88.3,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 29318,
+      "row_id": 12
+    },
+    {
+      "assetId": 40166126.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2024-05-22",
+      "dealAmount": 4400000,
+      "parcelNum": "3694-310-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 142.7,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30834,
+      "row_id": 13
+    },
+    {
+      "assetId": 40166082.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2024-05-21",
+      "dealAmount": 3130000,
+      "parcelNum": "3694-309-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 109.35,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-02-22",
+          "dealAmount": 1480000
+        },
+        {
+          "dealDate": "2007-01-29",
+          "dealAmount": 1005000
+        }
+      ],
+      "trend": {
+        "rate": 111.5,
+        "years": 12.3
+      },
+      "ownership": [],
+      "priceSM": 28716,
+      "row_id": 14
+    },
+    {
+      "assetId": 40166147.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2024-04-21",
+      "dealAmount": 2640000,
+      "parcelNum": "3694-311-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 89.75,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-03-27",
+          "dealAmount": 725000
+        }
+      ],
+      "trend": {
+        "rate": 264.1,
+        "years": 9.1
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 660000
+        },
+        {
+          "proportion": "25",
+          "price": 660000
+        },
+        {
+          "proportion": "50",
+          "price": 1320000
+        }
+      ],
+      "priceSM": 29663,
+      "row_id": 15
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2024-04-16",
+      "dealAmount": 3500000,
+      "parcelNum": "3694-318-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 125.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28000,
+      "row_id": 16
+    },
+    {
+      "assetId": 40166294.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2024-03-18",
+      "dealAmount": 2300000,
+      "parcelNum": "3694-315-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 83.0,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-03-11",
+          "dealAmount": 830000
+        }
+      ],
+      "trend": {
+        "rate": 177.1,
+        "years": 21.0
+      },
+      "ownership": [],
+      "priceSM": 27711,
+      "row_id": 17
+    },
+    {
+      "assetId": 40166105.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2024-03-14",
+      "dealAmount": 2610000,
+      "parcelNum": "3694-310-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.9,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-11-28",
+          "dealAmount": 1850000
+        },
+        {
+          "dealDate": "2012-06-28",
+          "dealAmount": 1298000
+        }
+      ],
+      "trend": {
+        "rate": 41.1,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 29000,
+      "row_id": 18
+    },
+    {
+      "assetId": 40166330.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2024-03-06",
+      "dealAmount": 2375000,
+      "parcelNum": "3694-315-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "עשירית",
+      "assetArea": 93.4,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25428,
+      "row_id": 19
+    },
+    {
+      "assetId": 40166319.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2023-12-04",
+      "dealAmount": 2650000,
+      "parcelNum": "3694-315-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 105.55,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25107,
+      "row_id": 20
+    },
+    {
+      "assetId": 40166012.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2023-06-15",
+      "dealAmount": 2650000,
+      "parcelNum": "3694-306-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-22",
+          "dealAmount": 1480000
+        },
+        {
+          "dealDate": "2011-12-12",
+          "dealAmount": 1295000
+        }
+      ],
+      "trend": {
+        "rate": 79.1,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 29444,
+      "row_id": 21
+    },
+    {
+      "assetId": 40166225.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2023-04-17",
+      "dealAmount": 2725000,
+      "parcelNum": "3694-313-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 88.2,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-06-01",
+          "dealAmount": 985000
+        }
+      ],
+      "trend": {
+        "rate": 176.6,
+        "years": 14.9
+      },
+      "ownership": [],
+      "priceSM": 30966,
+      "row_id": 22
+    },
+    {
+      "assetId": 40166292.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2023-02-26",
+      "dealAmount": 2500000,
+      "parcelNum": "3694-315-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.5,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27624,
+      "row_id": 23
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-12-12",
+      "dealAmount": 3080000,
+      "parcelNum": "3694-318-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 104.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29615,
+      "row_id": 24
+    },
+    {
+      "assetId": 40166041.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2022-11-23",
+      "dealAmount": 2195000,
+      "parcelNum": "3694-306-74",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 76.27,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28779,
+      "row_id": 25
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-08-30",
+      "dealAmount": 2975000,
+      "parcelNum": "3694-318-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 104.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28606,
+      "row_id": 26
+    },
+    {
+      "assetId": 4068519.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-08-11",
+      "dealAmount": 3275000,
+      "parcelNum": "3694-318-5",
+      "dealNature": "דירה",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 143.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22902,
+      "row_id": 27
+    },
+    {
+      "assetId": 40166308.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2022-06-27",
+      "dealAmount": 2650000,
+      "parcelNum": "3694-315-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 90.5,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29282,
+      "row_id": 28
+    },
+    {
+      "assetId": 40166065.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2022-06-16",
+      "dealAmount": 1980000,
+      "parcelNum": "3694-309-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 76.5,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-15",
+          "dealAmount": 1220000
+        }
+      ],
+      "trend": {
+        "rate": 62.3,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 26053,
+      "row_id": 29
+    },
+    {
+      "assetId": 40166353.0,
+      "addressId": 68399851,
+      "polygonId": "52515586",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "סירני 44",
+      "dealDate": "2022-06-08",
+      "dealAmount": 2200000,
+      "parcelNum": "3694-316-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 104.81,
+      "yearBuilt": 1998,
+      "streetCode": 84000505,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20990,
+      "row_id": 30
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-05-30",
+      "dealAmount": 2700000,
+      "parcelNum": "3694-318-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 104.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25962,
+      "row_id": 31
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-05-11",
+      "dealAmount": 3200000,
+      "parcelNum": "3694-318-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 125.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25600,
+      "row_id": 32
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-04-27",
+      "dealAmount": 2550000,
+      "parcelNum": "3694-318-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31875,
+      "row_id": 33
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-04-07",
+      "dealAmount": 3690000,
+      "parcelNum": "3694-318-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 143.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25804,
+      "row_id": 34
+    },
+    {
+      "assetId": 40166175.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2022-03-24",
+      "dealAmount": 2300000,
+      "parcelNum": "3694-312-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 87.72,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-01-06",
+          "dealAmount": 1350000
+        },
+        {
+          "dealDate": "2007-10-29",
+          "dealAmount": 800000
+        }
+      ],
+      "trend": {
+        "rate": 70.4,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 26437,
+      "row_id": 35
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-03-10",
+      "dealAmount": 2290000,
+      "parcelNum": "3694-318-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-10",
+          "dealAmount": 2320000
+        }
+      ],
+      "trend": {
+        "rate": -1.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 28625,
+      "row_id": 36
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-03-07",
+      "dealAmount": 2325000,
+      "parcelNum": "3694-318-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29062,
+      "row_id": 37
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-02-24",
+      "dealAmount": 3055000,
+      "parcelNum": "3694-318-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 125.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24440,
+      "row_id": 38
+    },
+    {
+      "assetId": 4068553.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-02-23",
+      "dealAmount": 3055000,
+      "parcelNum": "3694-318-19",
+      "dealNature": "דירה",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 125.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24440,
+      "row_id": 39
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-02-21",
+      "dealAmount": 2975000,
+      "parcelNum": "3694-318-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 125.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-02-21",
+          "dealAmount": 3050000
+        }
+      ],
+      "trend": {
+        "rate": -2.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 23800,
+      "row_id": 40
+    },
+    {
+      "assetId": 4068542.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-02-20",
+      "dealAmount": 3050000,
+      "parcelNum": "3694-318-12",
+      "dealNature": "דירה",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 125.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24400,
+      "row_id": 41
+    },
+    {
+      "assetId": 4068539.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-02-20",
+      "dealAmount": 2975000,
+      "parcelNum": "3694-318-13",
+      "dealNature": "דירה",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 125.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23800,
+      "row_id": 42
+    },
+    {
+      "assetId": 40166187.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2022-02-20",
+      "dealAmount": 2180000,
+      "parcelNum": "3694-312-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 85.93,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25369,
+      "row_id": 43
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-02-16",
+      "dealAmount": 2720000,
+      "parcelNum": "3694-318-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 104.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26154,
+      "row_id": 44
+    },
+    {
+      "assetId": 4068532.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-02-15",
+      "dealAmount": 2720000,
+      "parcelNum": "3694-318-10",
+      "dealNature": "דירה",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 104.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26154,
+      "row_id": 45
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-02-07",
+      "dealAmount": 2215000,
+      "parcelNum": "3694-318-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27688,
+      "row_id": 46
+    },
+    {
+      "assetId": 4068511.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-02-06",
+      "dealAmount": 2215000,
+      "parcelNum": "3694-318-1",
+      "dealNature": "דירה",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27688,
+      "row_id": 47
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-02-01",
+      "dealAmount": 2675000,
+      "parcelNum": "3694-318-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 104.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25721,
+      "row_id": 48
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-01-31",
+      "dealAmount": 2675000,
+      "parcelNum": "3694-318-28",
+      "dealNature": "דירה",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 104.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25721,
+      "row_id": 49
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-01-09",
+      "dealAmount": 2190000,
+      "parcelNum": "3694-318-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27375,
+      "row_id": 50
+    },
+    {
+      "assetId": 4068512.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2022-01-08",
+      "dealAmount": 2190000,
+      "parcelNum": "3694-318-2",
+      "dealNature": "דירה",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27375,
+      "row_id": 51
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-12-27",
+      "dealAmount": 3055000,
+      "parcelNum": "3694-318-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 125.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-27",
+          "dealAmount": 2115000
+        }
+      ],
+      "trend": {
+        "rate": 44.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 24440,
+      "row_id": 52
+    },
+    {
+      "assetId": 4068552.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-12-26",
+      "dealAmount": 3055000,
+      "parcelNum": "3694-318-24",
+      "dealNature": "דירה",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 125.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24440,
+      "row_id": 53
+    },
+    {
+      "assetId": 4068535.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-12-26",
+      "dealAmount": 2190000,
+      "parcelNum": "3694-318-25",
+      "dealNature": "דירה",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27375,
+      "row_id": 54
+    },
+    {
+      "assetId": 4068437.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-12-26",
+      "dealAmount": 2115000,
+      "parcelNum": "3694-318-26",
+      "dealNature": "דירה",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26438,
+      "row_id": 55
+    },
+    {
+      "assetId": 40166346.0,
+      "addressId": 68399851,
+      "polygonId": "52515586",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "סירני 44",
+      "dealDate": "2021-12-08",
+      "dealAmount": 1980000,
+      "parcelNum": "3694-316-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 94.91,
+      "yearBuilt": 1998,
+      "streetCode": 84000505,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-02-19",
+          "dealAmount": 1629000
+        }
+      ],
+      "trend": {
+        "rate": 21.5,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 21064,
+      "row_id": 56
+    },
+    {
+      "assetId": 40166348.0,
+      "addressId": 68399851,
+      "polygonId": "52515586",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "סירני 44",
+      "dealDate": "2021-11-30",
+      "dealAmount": 1980000,
+      "parcelNum": "3694-316-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 103.18,
+      "yearBuilt": 1998,
+      "streetCode": 84000505,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-02-02",
+          "dealAmount": 753000
+        }
+      ],
+      "trend": {
+        "rate": 162.9,
+        "years": 23.8
+      },
+      "ownership": [],
+      "priceSM": 19223,
+      "row_id": 57
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-11-25",
+      "dealAmount": 2750000,
+      "parcelNum": "3694-318-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 104.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-25",
+          "dealAmount": 2605000
+        },
+        {
+          "dealDate": "2021-11-25",
+          "dealAmount": 2130000
+        },
+        {
+          "dealDate": "2021-11-25",
+          "dealAmount": 4380000
+        }
+      ],
+      "trend": {
+        "rate": 5.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 26442,
+      "row_id": 58
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-11-21",
+      "dealAmount": 3435000,
+      "parcelNum": "3694-318-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שניה",
+      "assetArea": 143.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-21",
+          "dealAmount": 3450000
+        }
+      ],
+      "trend": {
+        "rate": -0.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 24021,
+      "row_id": 59
+    },
+    {
+      "assetId": 40166204.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2021-11-02",
+      "dealAmount": 2335000,
+      "parcelNum": "3694-313-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.5,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-09-19",
+          "dealAmount": 823000
+        }
+      ],
+      "trend": {
+        "rate": 183.7,
+        "years": 14.1
+      },
+      "ownership": [],
+      "priceSM": 25944,
+      "row_id": 60
+    },
+    {
+      "assetId": 40166155.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2021-10-18",
+      "dealAmount": 2050000,
+      "parcelNum": "3694-311-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 89.75,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-09-08",
+          "dealAmount": 1600000
+        },
+        {
+          "dealDate": "2004-04-04",
+          "dealAmount": 830000
+        }
+      ],
+      "trend": {
+        "rate": 28.1,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 23034,
+      "row_id": 61
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-09-29",
+      "dealAmount": 3250000,
+      "parcelNum": "3694-318-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "רביעית",
+      "assetArea": 143.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22727,
+      "row_id": 62
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-09-19",
+      "dealAmount": 3240000,
+      "parcelNum": "3694-318-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "חמישית",
+      "assetArea": 143.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22657,
+      "row_id": 63
+    },
+    {
+      "assetId": 40166219.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2021-09-09",
+      "dealAmount": 2480000,
+      "parcelNum": "3694-313-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 105.55,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23496,
+      "row_id": 64
+    },
+    {
+      "assetId": 40166335.0,
+      "addressId": 68399851,
+      "polygonId": "52515586",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "סירני 44",
+      "dealDate": "2021-08-26",
+      "dealAmount": 1650000,
+      "parcelNum": "3694-316-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.13,
+      "yearBuilt": 1998,
+      "streetCode": 84000505,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-13",
+          "dealAmount": 720000
+        }
+      ],
+      "trend": {
+        "rate": 129.2,
+        "years": 12.0
+      },
+      "ownership": [],
+      "priceSM": 22000,
+      "row_id": 65
+    },
+    {
+      "assetId": 40166168.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2021-08-11",
+      "dealAmount": 1900000,
+      "parcelNum": "3694-312-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 89.75,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21170,
+      "row_id": 66
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-08-11",
+      "dealAmount": 3275000,
+      "parcelNum": "3694-318-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שביעית",
+      "assetArea": 143.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-08-11",
+          "dealAmount": 3270000
+        }
+      ],
+      "trend": {
+        "rate": 0.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 22902,
+      "row_id": 67
+    },
+    {
+      "assetId": 40166161.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2021-07-25",
+      "dealAmount": 2000000,
+      "parcelNum": "3694-311-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 100.37,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19926,
+      "row_id": 68
+    },
+    {
+      "assetId": 40166181.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2021-07-25",
+      "dealAmount": 1630000,
+      "parcelNum": "3694-312-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 74.51,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21876,
+      "row_id": 69
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-07-22",
+      "dealAmount": 4300000,
+      "parcelNum": "3694-318-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 169.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-07-22",
+          "dealAmount": 3900000
+        }
+      ],
+      "trend": {
+        "rate": 10.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 25444,
+      "row_id": 70
+    },
+    {
+      "assetId": 4068541.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-07-14",
+      "dealAmount": 3250000,
+      "parcelNum": "3694-318-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שמינית",
+      "assetArea": 143.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22727,
+      "row_id": 71
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-07-12",
+      "dealAmount": 4570000,
+      "parcelNum": "3694-318-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 183.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24973,
+      "row_id": 72
+    },
+    {
+      "assetId": 4068517.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-07-12",
+      "dealAmount": 4050000,
+      "parcelNum": "3694-318-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 160.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25312,
+      "row_id": 73
+    },
+    {
+      "assetId": 4068534.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-07-12",
+      "dealAmount": 2550000,
+      "parcelNum": "3694-318-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 105.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24286,
+      "row_id": 74
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-07-08",
+      "dealAmount": 3480000,
+      "parcelNum": "3694-318-64",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27619,
+      "row_id": 75
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2021-06-22",
+      "dealAmount": 3000000,
+      "parcelNum": "3694-318-65",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 104.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28846,
+      "row_id": 76
+    },
+    {
+      "assetId": 40166180.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2021-06-11",
+      "dealAmount": 2040000,
+      "parcelNum": "3694-312-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 90.5,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-13",
+          "dealAmount": 1400000
+        },
+        {
+          "dealDate": "2005-02-27",
+          "dealAmount": 785000
+        }
+      ],
+      "trend": {
+        "rate": 45.7,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 22667,
+      "row_id": 77
+    },
+    {
+      "assetId": 40166077.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2021-06-09",
+      "dealAmount": 850000,
+      "parcelNum": "3694-309-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 75.11,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-26",
+          "dealAmount": 475000
+        },
+        {
+          "dealDate": "1998-02-13",
+          "dealAmount": 633000
+        }
+      ],
+      "trend": {
+        "rate": 78.9,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 11333,
+      "row_id": 78
+    },
+    {
+      "assetId": 40166351.0,
+      "addressId": 68399851,
+      "polygonId": "52515586",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "סירני 44",
+      "dealDate": "2021-06-07",
+      "dealAmount": 1595000,
+      "parcelNum": "3694-316-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 70.08,
+      "yearBuilt": 1998,
+      "streetCode": 84000505,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-18",
+          "dealAmount": 880000
+        }
+      ],
+      "trend": {
+        "rate": 81.2,
+        "years": 11.8
+      },
+      "ownership": [],
+      "priceSM": 22786,
+      "row_id": 79
+    },
+    {
+      "assetId": 40166194.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2021-06-04",
+      "dealAmount": 2050000,
+      "parcelNum": "3694-312-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 102.04,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-10-27",
+          "dealAmount": 1577000
+        },
+        {
+          "dealDate": "2009-08-02",
+          "dealAmount": 1300000
+        }
+      ],
+      "trend": {
+        "rate": 30.0,
+        "years": 7.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 1025000
+        },
+        {
+          "proportion": "50",
+          "price": 1025000
+        }
+      ],
+      "priceSM": 20098,
+      "row_id": 80
+    },
+    {
+      "assetId": 40166001.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2021-05-31",
+      "dealAmount": 1880000,
+      "parcelNum": "3694-306-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-01-30",
+          "dealAmount": 759000
+        },
+        {
+          "dealDate": "1998-01-13",
+          "dealAmount": 708000
+        }
+      ],
+      "trend": {
+        "rate": 147.7,
+        "years": 16.3
+      },
+      "ownership": [],
+      "priceSM": 20889,
+      "row_id": 81
+    },
+    {
+      "assetId": 40166216.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2021-04-18",
+      "dealAmount": 1980000,
+      "parcelNum": "3694-313-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 90.5,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21878,
+      "row_id": 82
+    },
+    {
+      "assetId": 40165979.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2021-03-25",
+      "dealAmount": 1770000,
+      "parcelNum": "3694-306-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 76.27,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-05",
+          "dealAmount": 1200000
+        },
+        {
+          "dealDate": "1998-10-23",
+          "dealAmount": 640000
+        }
+      ],
+      "trend": {
+        "rate": 47.5,
+        "years": 10.6
+      },
+      "ownership": [],
+      "priceSM": 23289,
+      "row_id": 83
+    },
+    {
+      "assetId": 40166013.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2020-10-05",
+      "dealAmount": 2050000,
+      "parcelNum": "3694-306-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-02",
+          "dealAmount": 1425000
+        },
+        {
+          "dealDate": "2008-07-17",
+          "dealAmount": 970000
+        }
+      ],
+      "trend": {
+        "rate": 43.9,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 22778,
+      "row_id": 84
+    },
+    {
+      "assetId": 40165982.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2020-09-15",
+      "dealAmount": 2295000,
+      "parcelNum": "3694-306-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 108.5,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21152,
+      "row_id": 85
+    },
+    {
+      "assetId": 40166198.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2020-09-11",
+      "dealAmount": 2050000,
+      "parcelNum": "3694-312-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 100.37,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-16",
+          "dealAmount": 1535000
+        },
+        {
+          "dealDate": "2003-07-29",
+          "dealAmount": 851000
+        }
+      ],
+      "trend": {
+        "rate": 33.6,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 20500,
+      "row_id": 86
+    },
+    {
+      "assetId": 40166104.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2020-09-06",
+      "dealAmount": 2100000,
+      "parcelNum": "3694-310-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 108.59,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19339,
+      "row_id": 87
+    },
+    {
+      "assetId": 40165971.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2020-08-06",
+      "dealAmount": 1732000,
+      "parcelNum": "3694-306-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 76.27,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-18",
+          "dealAmount": 1340000
+        },
+        {
+          "dealDate": "2012-12-26",
+          "dealAmount": 1072000
+        },
+        {
+          "dealDate": "2007-09-09",
+          "dealAmount": 668000
+        }
+      ],
+      "trend": {
+        "rate": 29.3,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 22789,
+      "row_id": 88
+    },
+    {
+      "assetId": 4068730.0,
+      "addressId": 0,
+      "polygonId": "3694-318",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "0",
+      "dealDate": "2020-06-30",
+      "dealAmount": 29640000,
+      "parcelNum": "3694-318-66",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 3174.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9338,
+      "row_id": 89
+    },
+    {
+      "assetId": 40166125.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2020-06-17",
+      "dealAmount": 1780000,
+      "parcelNum": "3694-310-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 92.23,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-11-14",
+          "dealAmount": 793000
+        }
+      ],
+      "trend": {
+        "rate": 124.5,
+        "years": 19.6
+      },
+      "ownership": [],
+      "priceSM": 19348,
+      "row_id": 90
+    },
+    {
+      "assetId": 40165985.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2020-06-11",
+      "dealAmount": 1845000,
+      "parcelNum": "3694-306-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 90.31,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-09-10",
+          "dealAmount": 744000
+        },
+        {
+          "dealDate": "1998-06-12",
+          "dealAmount": 736000
+        }
+      ],
+      "trend": {
+        "rate": 148.0,
+        "years": 18.8
+      },
+      "ownership": [],
+      "priceSM": 20500,
+      "row_id": 91
+    },
+    {
+      "assetId": 40166018.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2020-06-04",
+      "dealAmount": 1665000,
+      "parcelNum": "3694-306-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 75.0,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-09-15",
+          "dealAmount": 1150000
+        },
+        {
+          "dealDate": "2005-11-27",
+          "dealAmount": 784000
+        },
+        {
+          "dealDate": "1998-11-01",
+          "dealAmount": 673000
+        }
+      ],
+      "trend": {
+        "rate": 44.8,
+        "years": 9.7
+      },
+      "ownership": [],
+      "priceSM": 22200,
+      "row_id": 92
+    },
+    {
+      "assetId": 40165990.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2020-05-06",
+      "dealAmount": 2300000,
+      "parcelNum": "3694-306-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 108.5,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-08-14",
+          "dealAmount": 894000
+        }
+      ],
+      "trend": {
+        "rate": 157.3,
+        "years": 21.7
+      },
+      "ownership": [],
+      "priceSM": 21296,
+      "row_id": 93
+    },
+    {
+      "assetId": 40166118.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2020-04-26",
+      "dealAmount": 381000,
+      "parcelNum": "3694-310-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 76.21,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4999,
+      "row_id": 94
+    },
+    {
+      "assetId": 40166230.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2020-02-16",
+      "dealAmount": 1840000,
+      "parcelNum": "3694-313-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שביעית",
+      "assetArea": 83.0,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-04-01",
+          "dealAmount": 770000
+        }
+      ],
+      "trend": {
+        "rate": 139.0,
+        "years": 12.9
+      },
+      "ownership": [],
+      "priceSM": 22169,
+      "row_id": 95
+    },
+    {
+      "assetId": 40165988.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2020-02-06",
+      "dealAmount": 1640000,
+      "parcelNum": "3694-306-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 76.41,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-28",
+          "dealAmount": 1240000
+        },
+        {
+          "dealDate": "1998-12-22",
+          "dealAmount": 695000
+        }
+      ],
+      "trend": {
+        "rate": 32.3,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 21579,
+      "row_id": 96
+    },
+    {
+      "assetId": 40166170.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2019-11-03",
+      "dealAmount": 2100000,
+      "parcelNum": "3694-312-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 102.04,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-02-04",
+          "dealAmount": 1420000
+        },
+        {
+          "dealDate": "2007-03-14",
+          "dealAmount": 919000
+        }
+      ],
+      "trend": {
+        "rate": 47.9,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 20588,
+      "row_id": 97
+    },
+    {
+      "assetId": 40166285.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2019-10-17",
+      "dealAmount": 1900000,
+      "parcelNum": "3694-314-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשירית",
+      "assetArea": 97.7,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-21",
+          "dealAmount": 1250000
+        }
+      ],
+      "trend": {
+        "rate": 52.0,
+        "years": 10.1
+      },
+      "ownership": [],
+      "priceSM": 19588,
+      "row_id": 98
+    },
+    {
+      "assetId": 40166321.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2019-08-29",
+      "dealAmount": 1840000,
+      "parcelNum": "3694-315-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 88.2,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-02-08",
+          "dealAmount": 1150000
+        }
+      ],
+      "trend": {
+        "rate": 60.0,
+        "years": 10.6
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 607200
+        },
+        {
+          "proportion": "33",
+          "price": 607200
+        },
+        {
+          "proportion": "33",
+          "price": 607200
+        }
+      ],
+      "priceSM": 20909,
+      "row_id": 99
+    },
+    {
+      "assetId": 40166227.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2019-07-04",
+      "dealAmount": 1899000,
+      "parcelNum": "3694-313-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 105.55,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-12",
+          "dealAmount": 1555000
+        }
+      ],
+      "trend": {
+        "rate": 22.1,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 18086,
+      "row_id": 102
+    },
+    {
+      "assetId": 40166354.0,
+      "addressId": 68399851,
+      "polygonId": "52515586",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "סירני 44",
+      "dealDate": "2019-03-06",
+      "dealAmount": 1700000,
+      "parcelNum": "3694-316-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 95.32,
+      "yearBuilt": 1998,
+      "streetCode": 84000505,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17835,
+      "row_id": 103
+    },
+    {
+      "assetId": 40166113.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2019-01-22",
+      "dealAmount": 1830000,
+      "parcelNum": "3694-310-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 90.9,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-12",
+          "dealAmount": 1350000
+        }
+      ],
+      "trend": {
+        "rate": 35.6,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 20333,
+      "row_id": 105
+    },
+    {
+      "assetId": 40166112.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2018-11-23",
+      "dealAmount": 2050000,
+      "parcelNum": "3694-310-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 108.59,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-09-16",
+          "dealAmount": 937000
+        }
+      ],
+      "trend": {
+        "rate": 118.8,
+        "years": 17.2
+      },
+      "ownership": [],
+      "priceSM": 18981,
+      "row_id": 106
+    },
+    {
+      "assetId": 40166162.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2018-11-07",
+      "dealAmount": 2950000,
+      "parcelNum": "3694-311-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.5,
+      "floor": "תשיעית",
+      "assetArea": 151.04,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19531,
+      "row_id": 107
+    },
+    {
+      "assetId": 40166228.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2018-10-16",
+      "dealAmount": 1699000,
+      "parcelNum": "3694-313-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 90.5,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-13",
+          "dealAmount": 1505000
+        }
+      ],
+      "trend": {
+        "rate": 12.9,
+        "years": 3.9
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 849500
+        },
+        {
+          "proportion": "50",
+          "price": 849500
+        }
+      ],
+      "priceSM": 18878,
+      "row_id": 108
+    },
+    {
+      "assetId": 40166044.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2018-10-16",
+      "dealAmount": 1639000,
+      "parcelNum": "3694-306-77",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 76.41,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21450,
+      "row_id": 109
+    },
+    {
+      "assetId": 40166185.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2018-09-16",
+      "dealAmount": 1680000,
+      "parcelNum": "3694-312-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "חמישית",
+      "assetArea": 73.82,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22758,
+      "row_id": 110
+    },
+    {
+      "assetId": 40166322.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2018-09-12",
+      "dealAmount": 1700000,
+      "parcelNum": "3694-315-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שמינית",
+      "assetArea": 83.0,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-02-29",
+          "dealAmount": 1230000
+        }
+      ],
+      "trend": {
+        "rate": 38.2,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 20482,
+      "row_id": 111
+    },
+    {
+      "assetId": 40166021.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2018-07-16",
+      "dealAmount": 1815000,
+      "parcelNum": "3694-306-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-04-01",
+          "dealAmount": 1500000
+        },
+        {
+          "dealDate": "2009-03-05",
+          "dealAmount": 1140000
+        },
+        {
+          "dealDate": "1998-08-14",
+          "dealAmount": 720000
+        }
+      ],
+      "trend": {
+        "rate": 21.0,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 20167,
+      "row_id": 112
+    },
+    {
+      "assetId": 40166265.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2018-07-12",
+      "dealAmount": 1835000,
+      "parcelNum": "3694-314-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 88.2,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-05",
+          "dealAmount": 1400000
+        }
+      ],
+      "trend": {
+        "rate": 31.1,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 20852,
+      "row_id": 113
+    },
+    {
+      "assetId": 40166157.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2018-06-24",
+      "dealAmount": 2050000,
+      "parcelNum": "3694-311-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 102.04,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-04-23",
+          "dealAmount": 1470000
+        },
+        {
+          "dealDate": "2005-06-20",
+          "dealAmount": 976000
+        }
+      ],
+      "trend": {
+        "rate": 39.5,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 20098,
+      "row_id": 114
+    },
+    {
+      "assetId": 40166160.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2018-02-15",
+      "dealAmount": 1600000,
+      "parcelNum": "3694-311-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 74.51,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21474,
+      "row_id": 115
+    },
+    {
+      "assetId": 40166144.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2018-01-04",
+      "dealAmount": 1635000,
+      "parcelNum": "3694-311-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 74.51,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21943,
+      "row_id": 117
+    },
+    {
+      "assetId": 40166005.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2017-08-09",
+      "dealAmount": 1715000,
+      "parcelNum": "3694-306-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-07-31",
+          "dealAmount": 965000
+        }
+      ],
+      "trend": {
+        "rate": 77.7,
+        "years": 9.0
+      },
+      "ownership": [],
+      "priceSM": 19056,
+      "row_id": 118
+    },
+    {
+      "assetId": 40166124.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2017-07-23",
+      "dealAmount": 2200000,
+      "parcelNum": "3694-310-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 109.35,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20119,
+      "row_id": 119
+    },
+    {
+      "assetId": 40166101.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2017-04-28",
+      "dealAmount": 1810000,
+      "parcelNum": "3694-310-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 92.23,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-07-08",
+          "dealAmount": 829000
+        }
+      ],
+      "trend": {
+        "rate": 118.3,
+        "years": 11.8
+      },
+      "ownership": [],
+      "priceSM": 19674,
+      "row_id": 120
+    },
+    {
+      "assetId": 40166305.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2017-02-22",
+      "dealAmount": 1860000,
+      "parcelNum": "3694-315-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 88.2,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-02-22",
+          "dealAmount": 796000
+        }
+      ],
+      "trend": {
+        "rate": 133.7,
+        "years": 15.0
+      },
+      "ownership": [],
+      "priceSM": 21136,
+      "row_id": 121
+    },
+    {
+      "assetId": 40166114.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2017-02-09",
+      "dealAmount": 1599000,
+      "parcelNum": "3694-310-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 76.21,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-07-22",
+          "dealAmount": 1390000
+        },
+        {
+          "dealDate": "2000-11-27",
+          "dealAmount": 656000
+        }
+      ],
+      "trend": {
+        "rate": 15.0,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 21039,
+      "row_id": 122
+    },
+    {
+      "assetId": 40166145.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2017-02-07",
+      "dealAmount": 1965000,
+      "parcelNum": "3694-311-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 100.37,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-25",
+          "dealAmount": 1355000
+        },
+        {
+          "dealDate": "2002-01-30",
+          "dealAmount": 953000
+        }
+      ],
+      "trend": {
+        "rate": 45.0,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 19650,
+      "row_id": 123
+    },
+    {
+      "assetId": 40166039.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2017-02-06",
+      "dealAmount": 1720000,
+      "parcelNum": "3694-306-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 90.31,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19046,
+      "row_id": 124
+    },
+    {
+      "assetId": 40166263.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2016-11-24",
+      "dealAmount": 1960000,
+      "parcelNum": "3694-314-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 105.55,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18569,
+      "row_id": 125
+    },
+    {
+      "assetId": 40166304.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2016-11-16",
+      "dealAmount": 1810000,
+      "parcelNum": "3694-315-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 90.5,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-10-18",
+          "dealAmount": 900000
+        }
+      ],
+      "trend": {
+        "rate": 101.1,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 20111,
+      "row_id": 126
+    },
+    {
+      "assetId": 40166313.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2016-09-11",
+      "dealAmount": 1820000,
+      "parcelNum": "3694-315-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 88.2,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-05-12",
+          "dealAmount": 1160000
+        }
+      ],
+      "trend": {
+        "rate": 56.9,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 20682,
+      "row_id": 127
+    },
+    {
+      "assetId": 40166191.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2016-08-10",
+      "dealAmount": 1855000,
+      "parcelNum": "3694-312-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 87.72,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-02",
+          "dealAmount": 1140000
+        },
+        {
+          "dealDate": "2000-12-01",
+          "dealAmount": 738000
+        }
+      ],
+      "trend": {
+        "rate": 62.7,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 21322,
+      "row_id": 128
+    },
+    {
+      "assetId": 40166267.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2016-07-14",
+      "dealAmount": 1950000,
+      "parcelNum": "3694-314-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 105.55,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-22",
+          "dealAmount": 1300000
+        }
+      ],
+      "trend": {
+        "rate": 50.0,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 18571,
+      "row_id": 129
+    },
+    {
+      "assetId": 40166148.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2016-04-04",
+      "dealAmount": 1400000,
+      "parcelNum": "3694-311-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 73.82,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-02-27",
+          "dealAmount": 825000
+        }
+      ],
+      "trend": {
+        "rate": 69.7,
+        "years": 8.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 700000
+        },
+        {
+          "proportion": "50",
+          "price": 700000
+        }
+      ],
+      "priceSM": 19178,
+      "row_id": 130
+    },
+    {
+      "assetId": 40166098.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2016-04-03",
+      "dealAmount": 1470000,
+      "parcelNum": "3694-310-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 76.21,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-26",
+          "dealAmount": 1250000
+        },
+        {
+          "dealDate": "2003-09-03",
+          "dealAmount": 721000
+        }
+      ],
+      "trend": {
+        "rate": 17.6,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 19342,
+      "row_id": 131
+    },
+    {
+      "assetId": 80417641.0,
+      "addressId": 72639759,
+      "polygonId": "52560520",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "גורודיסקי 29",
+      "dealDate": "2016-03-16",
+      "dealAmount": 1700000,
+      "parcelNum": "3694-244-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 95.49,
+      "yearBuilt": 2005,
+      "streetCode": 84000481,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-03",
+          "dealAmount": 1425000
+        },
+        {
+          "dealDate": "2008-04-17",
+          "dealAmount": 850000
+        }
+      ],
+      "trend": {
+        "rate": 19.3,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 17895,
+      "row_id": 132
+    },
+    {
+      "assetId": 40166152.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2016-01-20",
+      "dealAmount": 1374000,
+      "parcelNum": "3694-311-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 74.51,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18440,
+      "row_id": 133
+    },
+    {
+      "assetId": 40166205.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2015-11-10",
+      "dealAmount": 1555000,
+      "parcelNum": "3694-313-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.2,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-06-15",
+          "dealAmount": 829000
+        }
+      ],
+      "trend": {
+        "rate": 87.6,
+        "years": 9.4
+      },
+      "ownership": [],
+      "priceSM": 17670,
+      "row_id": 134
+    },
+    {
+      "assetId": 40166248.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2015-10-25",
+      "dealAmount": 1580000,
+      "parcelNum": "3694-314-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.5,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-02",
+          "dealAmount": 1240000
+        },
+        {
+          "dealDate": "2002-03-03",
+          "dealAmount": 795000
+        }
+      ],
+      "trend": {
+        "rate": 27.4,
+        "years": 5.7
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 790000
+        },
+        {
+          "proportion": "50",
+          "price": 790000
+        }
+      ],
+      "priceSM": 17556,
+      "row_id": 135
+    },
+    {
+      "assetId": 40166067.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2015-07-17",
+      "dealAmount": 1510000,
+      "parcelNum": "3694-309-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 92.23,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-22",
+          "dealAmount": 1300000
+        }
+      ],
+      "trend": {
+        "rate": 16.2,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 16413,
+      "row_id": 136
+    },
+    {
+      "assetId": 40166249.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2015-06-12",
+      "dealAmount": 1530000,
+      "parcelNum": "3694-314-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.2,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17347,
+      "row_id": 137
+    },
+    {
+      "assetId": 40166015.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2015-06-01",
+      "dealAmount": 1530000,
+      "parcelNum": "3694-306-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-02-28",
+          "dealAmount": 890000
+        },
+        {
+          "dealDate": "1998-08-31",
+          "dealAmount": 701000
+        }
+      ],
+      "trend": {
+        "rate": 71.9,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 17000,
+      "row_id": 138
+    },
+    {
+      "assetId": 40166233.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2015-01-27",
+      "dealAmount": 1440000,
+      "parcelNum": "3694-313-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 88.2,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16327,
+      "row_id": 139
+    },
+    {
+      "assetId": 40165973.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2015-01-12",
+      "dealAmount": 1445000,
+      "parcelNum": "3694-306-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.31,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-11-06",
+          "dealAmount": 840000
+        }
+      ],
+      "trend": {
+        "rate": 72.0,
+        "years": 12.2
+      },
+      "ownership": [],
+      "priceSM": 16056,
+      "row_id": 140
+    },
+    {
+      "assetId": 40166252.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2014-12-03",
+      "dealAmount": 1490000,
+      "parcelNum": "3694-314-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.5,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16464,
+      "row_id": 141
+    },
+    {
+      "assetId": 40166076.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2014-11-24",
+      "dealAmount": 1275000,
+      "parcelNum": "3694-309-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 76.21,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16730,
+      "row_id": 142
+    },
+    {
+      "assetId": 80417650.0,
+      "addressId": 72639759,
+      "polygonId": "52560520",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "גורודיסקי 29",
+      "dealDate": "2014-07-31",
+      "dealAmount": 1520000,
+      "parcelNum": "3694-244-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 109.11,
+      "yearBuilt": 2005,
+      "streetCode": 84000481,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13931,
+      "row_id": 143
+    },
+    {
+      "assetId": 40166178.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2014-07-11",
+      "dealAmount": 1542000,
+      "parcelNum": "3694-312-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 102.04,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-22",
+          "dealAmount": 1398000
+        }
+      ],
+      "trend": {
+        "rate": 10.3,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 15118,
+      "row_id": 144
+    },
+    {
+      "assetId": 40166034.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2014-06-19",
+      "dealAmount": 1650000,
+      "parcelNum": "3694-306-67",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 108.5,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-02-05",
+          "dealAmount": 765000
+        }
+      ],
+      "trend": {
+        "rate": 115.7,
+        "years": 13.4
+      },
+      "ownership": [],
+      "priceSM": 15278,
+      "row_id": 145
+    },
+    {
+      "assetId": 40166193.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2014-02-11",
+      "dealAmount": 1300000,
+      "parcelNum": "3694-312-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 73.82,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-03-29",
+          "dealAmount": 717000
+        }
+      ],
+      "trend": {
+        "rate": 81.3,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 17808,
+      "row_id": 146
+    },
+    {
+      "assetId": 40165980.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2014-02-05",
+      "dealAmount": 1272000,
+      "parcelNum": "3694-306-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 76.41,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-14",
+          "dealAmount": 950000
+        },
+        {
+          "dealDate": "1998-09-15",
+          "dealAmount": 650000
+        }
+      ],
+      "trend": {
+        "rate": 33.9,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 16737,
+      "row_id": 147
+    },
+    {
+      "assetId": 40165981.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2013-12-02",
+      "dealAmount": 1505000,
+      "parcelNum": "3694-306-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 90.31,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-06-06",
+          "dealAmount": 978000
+        },
+        {
+          "dealDate": "2004-08-31",
+          "dealAmount": 830000
+        }
+      ],
+      "trend": {
+        "rate": 53.9,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 16722,
+      "row_id": 148
+    },
+    {
+      "assetId": 40166296.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2013-11-17",
+      "dealAmount": 1440000,
+      "parcelNum": "3694-315-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.5,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15912,
+      "row_id": 149
+    },
+    {
+      "assetId": 40166217.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2013-11-08",
+      "dealAmount": 1425000,
+      "parcelNum": "3694-313-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 88.2,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16156,
+      "row_id": 150
+    },
+    {
+      "assetId": 40166055.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2013-05-07",
+      "dealAmount": 1449000,
+      "parcelNum": "3694-306-88",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 90.31,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-06-28",
+          "dealAmount": 1185000
+        }
+      ],
+      "trend": {
+        "rate": 22.3,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 16100,
+      "row_id": 151
+    },
+    {
+      "assetId": 40166317.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2013-02-06",
+      "dealAmount": 1432000,
+      "parcelNum": "3694-315-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 88.2,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-09-09",
+          "dealAmount": 989000
+        }
+      ],
+      "trend": {
+        "rate": 44.8,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 16273,
+      "row_id": 152
+    },
+    {
+      "assetId": 40166309.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2012-12-31",
+      "dealAmount": 1370000,
+      "parcelNum": "3694-315-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 88.2,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15533,
+      "row_id": 153
+    },
+    {
+      "assetId": 40166176.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2012-10-28",
+      "dealAmount": 1370000,
+      "parcelNum": "3694-312-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 89.75,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-01-13",
+          "dealAmount": 794000
+        }
+      ],
+      "trend": {
+        "rate": 72.5,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 15393,
+      "row_id": 154
+    },
+    {
+      "assetId": 40165977.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2012-08-13",
+      "dealAmount": 1345000,
+      "parcelNum": "3694-306-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 90.31,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-05-30",
+          "dealAmount": 824000
+        }
+      ],
+      "trend": {
+        "rate": 63.2,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 14944,
+      "row_id": 155
+    },
+    {
+      "assetId": 40166300.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2012-07-08",
+      "dealAmount": 1235000,
+      "parcelNum": "3694-315-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 90.5,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-04-09",
+          "dealAmount": 972000
+        },
+        {
+          "dealDate": "2002-03-19",
+          "dealAmount": 809000
+        },
+        {
+          "dealDate": "2002-03-13",
+          "dealAmount": 999000
+        },
+        {
+          "dealDate": "2002-03-07",
+          "dealAmount": 824000
+        },
+        {
+          "dealDate": "2002-03-03",
+          "dealAmount": 837000
+        },
+        {
+          "dealDate": "2002-03-03",
+          "dealAmount": 832000
+        },
+        {
+          "dealDate": "2002-03-03",
+          "dealAmount": 752000
+        },
+        {
+          "dealDate": "2002-02-24",
+          "dealAmount": 861000
+        },
+        {
+          "dealDate": "2002-02-05",
+          "dealAmount": 835000
+        }
+      ],
+      "trend": {
+        "rate": 27.1,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 13722,
+      "row_id": 156
+    },
+    {
+      "assetId": 40166312.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2012-03-15",
+      "dealAmount": 1450000,
+      "parcelNum": "3694-315-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 90.5,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16022,
+      "row_id": 157
+    },
+    {
+      "assetId": 40166146.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2012-01-11",
+      "dealAmount": 1300000,
+      "parcelNum": "3694-311-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 87.72,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14820,
+      "row_id": 158
+    },
+    {
+      "assetId": 40165992.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2011-12-19",
+      "dealAmount": 1160000,
+      "parcelNum": "3694-306-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 76.41,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-08-19",
+          "dealAmount": 652000
+        }
+      ],
+      "trend": {
+        "rate": 77.9,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 15263,
+      "row_id": 159
+    },
+    {
+      "assetId": 40165991.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2011-12-15",
+      "dealAmount": 1000000,
+      "parcelNum": "3694-306-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 76.27,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-08-26",
+          "dealAmount": 721000
+        }
+      ],
+      "trend": {
+        "rate": 38.7,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 13158,
+      "row_id": 160
+    },
+    {
+      "assetId": 40166307.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2011-11-28",
+      "dealAmount": 1500000,
+      "parcelNum": "3694-315-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 105.55,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-12-09",
+          "dealAmount": 510000
+        }
+      ],
+      "trend": {
+        "rate": 194.1,
+        "years": 8.0
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 375000
+        },
+        {
+          "proportion": "25",
+          "price": 375000
+        },
+        {
+          "proportion": "50",
+          "price": 750000
+        }
+      ],
+      "priceSM": 14286,
+      "row_id": 161
+    },
+    {
+      "assetId": 40166306.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2011-10-30",
+      "dealAmount": 1230000,
+      "parcelNum": "3694-315-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 83.0,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-09-21",
+          "dealAmount": 802000
+        }
+      ],
+      "trend": {
+        "rate": 53.4,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 14819,
+      "row_id": 162
+    },
+    {
+      "assetId": 40166325.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2011-10-23",
+      "dealAmount": 1350000,
+      "parcelNum": "3694-315-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשיעית",
+      "assetArea": 88.2,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-10-08",
+          "dealAmount": 950000
+        },
+        {
+          "dealDate": "2002-02-13",
+          "dealAmount": 843000
+        }
+      ],
+      "trend": {
+        "rate": 42.1,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 15341,
+      "row_id": 163
+    },
+    {
+      "assetId": 40166352.0,
+      "addressId": 68399851,
+      "polygonId": "52515586",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "סירני 44",
+      "dealDate": "2011-10-05",
+      "dealAmount": 1250000,
+      "parcelNum": "3694-316-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 98.25,
+      "yearBuilt": 1998,
+      "streetCode": 84000505,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-11-14",
+          "dealAmount": 739000
+        }
+      ],
+      "trend": {
+        "rate": 69.1,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 12755,
+      "row_id": 164
+    },
+    {
+      "assetId": 40166211.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2011-09-07",
+      "dealAmount": 1600000,
+      "parcelNum": "3694-313-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 105.55,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15159,
+      "row_id": 165
+    },
+    {
+      "assetId": 40166188.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2011-07-15",
+      "dealAmount": 1385000,
+      "parcelNum": "3694-312-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 90.5,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-03-29",
+          "dealAmount": 775000
+        }
+      ],
+      "trend": {
+        "rate": 78.7,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 15389,
+      "row_id": 166
+    },
+    {
+      "assetId": 40166326.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2011-07-01",
+      "dealAmount": 1345000,
+      "parcelNum": "3694-315-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשיעית",
+      "assetArea": 83.0,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-02-27",
+          "dealAmount": 789000
+        }
+      ],
+      "trend": {
+        "rate": 70.5,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 16205,
+      "row_id": 167
+    },
+    {
+      "assetId": 40166257.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2011-06-20",
+      "dealAmount": 1420000,
+      "parcelNum": "3694-314-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 88.2,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-05-26",
+          "dealAmount": 833000
+        }
+      ],
+      "trend": {
+        "rate": 70.5,
+        "years": 11.1
+      },
+      "ownership": [],
+      "priceSM": 16136,
+      "row_id": 168
+    },
+    {
+      "assetId": 80417645.0,
+      "addressId": 72639759,
+      "polygonId": "52560520",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "גורודיסקי 29",
+      "dealDate": "2010-12-02",
+      "dealAmount": 1350000,
+      "parcelNum": "3694-244-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 95.49,
+      "yearBuilt": 2005,
+      "streetCode": 84000481,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14138,
+      "row_id": 169
+    },
+    {
+      "assetId": 40166075.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2010-10-24",
+      "dealAmount": 1200000,
+      "parcelNum": "3694-309-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 92.23,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13011,
+      "row_id": 170
+    },
+    {
+      "assetId": 40166153.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2010-09-26",
+      "dealAmount": 1460000,
+      "parcelNum": "3694-311-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 100.37,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14546,
+      "row_id": 171
+    },
+    {
+      "assetId": 40166189.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2010-08-29",
+      "dealAmount": 850000,
+      "parcelNum": "3694-312-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 74.51,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11408,
+      "row_id": 172
+    },
+    {
+      "assetId": 80417644.0,
+      "addressId": 72639759,
+      "polygonId": "52560520",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "גורודיסקי 29",
+      "dealDate": "2010-07-21",
+      "dealAmount": 1100000,
+      "parcelNum": "3694-244-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 109.11,
+      "yearBuilt": 2005,
+      "streetCode": 84000481,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10082,
+      "row_id": 173
+    },
+    {
+      "assetId": 40166123.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2010-07-14",
+      "dealAmount": 1170000,
+      "parcelNum": "3694-310-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 76.5,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15294,
+      "row_id": 174
+    },
+    {
+      "assetId": 40166222.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2010-06-30",
+      "dealAmount": 1320000,
+      "parcelNum": "3694-313-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "חמישית",
+      "assetArea": 83.0,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15904,
+      "row_id": 175
+    },
+    {
+      "assetId": 40166349.0,
+      "addressId": 68399851,
+      "polygonId": "52515586",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "סירני 44",
+      "dealDate": "2010-06-30",
+      "dealAmount": 1340000,
+      "parcelNum": "3694-316-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "רביעית",
+      "assetArea": 105.36,
+      "yearBuilt": 1998,
+      "streetCode": 84000505,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12718,
+      "row_id": 176
+    },
+    {
+      "assetId": 40166281.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2010-06-04",
+      "dealAmount": 1400000,
+      "parcelNum": "3694-314-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשיעית",
+      "assetArea": 88.2,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15873,
+      "row_id": 177
+    },
+    {
+      "assetId": 40166003.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2010-04-22",
+      "dealAmount": 1100000,
+      "parcelNum": "3694-306-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-01",
+          "dealAmount": 679000
+        }
+      ],
+      "trend": {
+        "rate": 62.0,
+        "years": 11.6
+      },
+      "ownership": [],
+      "priceSM": 12222,
+      "row_id": 178
+    },
+    {
+      "assetId": 40166278.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2010-04-16",
+      "dealAmount": 1250000,
+      "parcelNum": "3694-314-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שמינית",
+      "assetArea": 83.0,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15060,
+      "row_id": 179
+    },
+    {
+      "assetId": 40166051.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2009-11-22",
+      "dealAmount": 1220000,
+      "parcelNum": "3694-306-84",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 90.31,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13509,
+      "row_id": 180
+    },
+    {
+      "assetId": 40166256.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2009-09-24",
+      "dealAmount": 1225000,
+      "parcelNum": "3694-314-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 90.5,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13536,
+      "row_id": 181
+    },
+    {
+      "assetId": 40166316.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2009-08-13",
+      "dealAmount": 1000000,
+      "parcelNum": "3694-315-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 90.5,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-02-17",
+          "dealAmount": 863000
+        }
+      ],
+      "trend": {
+        "rate": 15.9,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 11111,
+      "row_id": 182
+    },
+    {
+      "assetId": 40166033.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2009-07-12",
+      "dealAmount": 900000,
+      "parcelNum": "3694-306-66",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 76.27,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11800,
+      "row_id": 183
+    },
+    {
+      "assetId": 40166254.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2009-06-28",
+      "dealAmount": 950000,
+      "parcelNum": "3694-314-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 83.0,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11446,
+      "row_id": 184
+    },
+    {
+      "assetId": 40166047.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2009-04-17",
+      "dealAmount": 1130000,
+      "parcelNum": "3694-306-80",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 90.31,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-09-21",
+          "dealAmount": 855000
+        }
+      ],
+      "trend": {
+        "rate": 32.2,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 12556,
+      "row_id": 185
+    },
+    {
+      "assetId": 40166241.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2009-03-11",
+      "dealAmount": 1150000,
+      "parcelNum": "3694-313-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשירית",
+      "assetArea": 97.7,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11771,
+      "row_id": 186
+    },
+    {
+      "assetId": 40165999.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2009-02-15",
+      "dealAmount": 930000,
+      "parcelNum": "3694-306-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-25",
+          "dealAmount": 688000
+        }
+      ],
+      "trend": {
+        "rate": 35.2,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 10333,
+      "row_id": 187
+    },
+    {
+      "assetId": 40166226.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2009-02-04",
+      "dealAmount": 945000,
+      "parcelNum": "3694-313-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שישית",
+      "assetArea": 83.0,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11386,
+      "row_id": 188
+    },
+    {
+      "assetId": 40166242.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2009-01-27",
+      "dealAmount": 980000,
+      "parcelNum": "3694-313-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "עשירית",
+      "assetArea": 93.4,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-10-18",
+          "dealAmount": 765000
+        }
+      ],
+      "trend": {
+        "rate": 28.1,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 10538,
+      "row_id": 189
+    },
+    {
+      "assetId": 40166272.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2008-12-16",
+      "dealAmount": 1150000,
+      "parcelNum": "3694-314-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 90.5,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12707,
+      "row_id": 190
+    },
+    {
+      "assetId": 40166074.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2008-10-07",
+      "dealAmount": 1250000,
+      "parcelNum": "3694-309-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 109.35,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11431,
+      "row_id": 191
+    },
+    {
+      "assetId": 40166141.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2008-10-06",
+      "dealAmount": 1095000,
+      "parcelNum": "3694-311-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 102.4,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10693,
+      "row_id": 192
+    },
+    {
+      "assetId": 40165969.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2008-10-02",
+      "dealAmount": 1050000,
+      "parcelNum": "3694-306-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.31,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11627,
+      "row_id": 193
+    },
+    {
+      "assetId": 40166139.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2008-09-10",
+      "dealAmount": 1050000,
+      "parcelNum": "3694-311-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 89.75,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11699,
+      "row_id": 194
+    },
+    {
+      "assetId": 40165978.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2008-09-01",
+      "dealAmount": 1130000,
+      "parcelNum": "3694-306-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 108.5,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-05-01",
+          "dealAmount": 804000
+        }
+      ],
+      "trend": {
+        "rate": 40.5,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 10463,
+      "row_id": 195
+    },
+    {
+      "assetId": 40166080.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2008-07-09",
+      "dealAmount": 730000,
+      "parcelNum": "3694-309-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 76.21,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9579,
+      "row_id": 196
+    },
+    {
+      "assetId": 40166154.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2008-04-30",
+      "dealAmount": 925000,
+      "parcelNum": "3694-311-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 87.72,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10545,
+      "row_id": 197
+    },
+    {
+      "assetId": 40166110.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2008-04-06",
+      "dealAmount": 790000,
+      "parcelNum": "3694-310-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 76.21,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10366,
+      "row_id": 198
+    },
+    {
+      "assetId": 40165976.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2008-03-30",
+      "dealAmount": 740000,
+      "parcelNum": "3694-306-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 76.41,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9685,
+      "row_id": 199
+    },
+    {
+      "assetId": 40166318.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2008-02-21",
+      "dealAmount": 600000,
+      "parcelNum": "3694-315-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שביעית",
+      "assetArea": 83.0,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-02-24",
+          "dealAmount": 769000
+        }
+      ],
+      "trend": {
+        "rate": -22.0,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 7229,
+      "row_id": 201
+    },
+    {
+      "assetId": 80417648.0,
+      "addressId": 72639759,
+      "polygonId": "52560520",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "גורודיסקי 29",
+      "dealDate": "2008-02-12",
+      "dealAmount": 919000,
+      "parcelNum": "3694-244-8",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 109.11,
+      "yearBuilt": 2005,
+      "streetCode": 84000481,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8423,
+      "row_id": 202
+    },
+    {
+      "assetId": 40166119.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2008-02-07",
+      "dealAmount": 720000,
+      "parcelNum": "3694-310-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 75.11,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9586,
+      "row_id": 203
+    },
+    {
+      "assetId": 80417646.0,
+      "addressId": 72639759,
+      "polygonId": "52560520",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "גורודיסקי 29",
+      "dealDate": "2007-12-17",
+      "dealAmount": 915000,
+      "parcelNum": "3694-244-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 109.11,
+      "yearBuilt": 2005,
+      "streetCode": 84000481,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8386,
+      "row_id": 204
+    },
+    {
+      "assetId": 40166024.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2007-11-29",
+      "dealAmount": 900000,
+      "parcelNum": "3694-306-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9963,
+      "row_id": 205
+    },
+    {
+      "assetId": 40166085.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2007-06-12",
+      "dealAmount": 711000,
+      "parcelNum": "3694-309-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 75.11,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9466,
+      "row_id": 206
+    },
+    {
+      "assetId": 40166323.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2007-06-11",
+      "dealAmount": 1060000,
+      "parcelNum": "3694-315-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 105.55,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10043,
+      "row_id": 207
+    },
+    {
+      "assetId": 40166340.0,
+      "addressId": 68399851,
+      "polygonId": "52515586",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "סירני 44",
+      "dealDate": "2007-05-07",
+      "dealAmount": 820000,
+      "parcelNum": "3694-316-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שניה",
+      "assetArea": 98.25,
+      "yearBuilt": 1998,
+      "streetCode": 84000505,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-12-14",
+          "dealAmount": 786000
+        }
+      ],
+      "trend": {
+        "rate": 4.3,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 8367,
+      "row_id": 208
+    },
+    {
+      "assetId": 40166017.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2007-04-18",
+      "dealAmount": 834000,
+      "parcelNum": "3694-306-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9233,
+      "row_id": 209
+    },
+    {
+      "assetId": 40166336.0,
+      "addressId": 68399851,
+      "polygonId": "52515586",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "סירני 44",
+      "dealDate": "2007-02-23",
+      "dealAmount": 750000,
+      "parcelNum": "3694-316-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "ראשונה",
+      "assetArea": 102.18,
+      "yearBuilt": 1998,
+      "streetCode": 84000505,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7340,
+      "row_id": 210
+    },
+    {
+      "assetId": 40166328.0,
+      "addressId": 53823677,
+      "polygonId": "52396661",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 11",
+      "dealDate": "2007-02-19",
+      "dealAmount": 892000,
+      "parcelNum": "3694-315-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשירית",
+      "assetArea": 103.7,
+      "yearBuilt": 2002,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8602,
+      "row_id": 211
+    },
+    {
+      "assetId": 80417651.0,
+      "addressId": 72639759,
+      "polygonId": "52560520",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "גורודיסקי 29",
+      "dealDate": "2007-01-30",
+      "dealAmount": 1095000,
+      "parcelNum": "3694-244-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית, שביעית",
+      "assetArea": 118.21,
+      "yearBuilt": 2005,
+      "streetCode": 84000481,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9263,
+      "row_id": 212
+    },
+    {
+      "assetId": 40165994.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2007-01-03",
+      "dealAmount": 954000,
+      "parcelNum": "3694-306-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 108.5,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8793,
+      "row_id": 213
+    },
+    {
+      "assetId": 40166090.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2006-12-31",
+      "dealAmount": 954000,
+      "parcelNum": "3694-309-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 109.35,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8724,
+      "row_id": 214
+    },
+    {
+      "assetId": 40166004.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2006-07-20",
+      "dealAmount": 818000,
+      "parcelNum": "3694-306-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-03-31",
+          "dealAmount": 664000
+        }
+      ],
+      "trend": {
+        "rate": 23.2,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 9089,
+      "row_id": 215
+    },
+    {
+      "assetId": 40166208.0,
+      "addressId": 53930681,
+      "polygonId": "52412949",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 7",
+      "dealDate": "2006-07-11",
+      "dealAmount": 864000,
+      "parcelNum": "3694-313-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.5,
+      "yearBuilt": 2000,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9547,
+      "row_id": 216
+    },
+    {
+      "assetId": 40166029.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2006-07-07",
+      "dealAmount": 695000,
+      "parcelNum": "3694-306-62",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 76.27,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9112,
+      "row_id": 217
+    },
+    {
+      "assetId": 40166109.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2006-05-21",
+      "dealAmount": 850000,
+      "parcelNum": "3694-310-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 92.23,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9216,
+      "row_id": 218
+    },
+    {
+      "assetId": 40166019.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2006-03-29",
+      "dealAmount": 877000,
+      "parcelNum": "3694-306-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 90.33,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-09-15",
+          "dealAmount": 709000
+        }
+      ],
+      "trend": {
+        "rate": 23.7,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 9744,
+      "row_id": 219
+    },
+    {
+      "assetId": 40166084.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2006-02-15",
+      "dealAmount": 779000,
+      "parcelNum": "3694-309-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 76.21,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10222,
+      "row_id": 220
+    },
+    {
+      "assetId": 80417642.0,
+      "addressId": 72639759,
+      "polygonId": "52560520",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "גורודיסקי 29",
+      "dealDate": "2005-08-24",
+      "dealAmount": 920000,
+      "parcelNum": "3694-244-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 109.11,
+      "yearBuilt": 2005,
+      "streetCode": 84000481,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8432,
+      "row_id": 221
+    },
+    {
+      "assetId": 40166179.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2005-08-15",
+      "dealAmount": 793000,
+      "parcelNum": "3694-312-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 85.93,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9228,
+      "row_id": 222
+    },
+    {
+      "assetId": 40166127.0,
+      "addressId": 53808566,
+      "polygonId": "52527618",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 4",
+      "dealDate": "2005-06-20",
+      "dealAmount": 1702000,
+      "parcelNum": "3694-310-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שמינית",
+      "assetArea": 154.17,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-02-15",
+          "dealAmount": 1440000
+        }
+      ],
+      "trend": {
+        "rate": 18.2,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 11052,
+      "row_id": 223
+    },
+    {
+      "assetId": 40166260.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2005-04-14",
+      "dealAmount": 930000,
+      "parcelNum": "3694-314-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 90.5,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10276,
+      "row_id": 224
+    },
+    {
+      "assetId": 4068513.0,
+      "addressId": 53927177,
+      "polygonId": "53345650",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 8",
+      "dealDate": "2004-07-04",
+      "dealAmount": 1418000,
+      "parcelNum": "3694-308-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שמינית",
+      "assetArea": 134.0,
+      "yearBuilt": 0,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10582,
+      "row_id": 225
+    },
+    {
+      "assetId": 40166088.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2004-06-23",
+      "dealAmount": 685000,
+      "parcelNum": "3694-309-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 76.21,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8988,
+      "row_id": 226
+    },
+    {
+      "assetId": 40166137.0,
+      "addressId": 53829022,
+      "polygonId": "52548952",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 3",
+      "dealDate": "2004-06-10",
+      "dealAmount": 1040000,
+      "parcelNum": "3694-311-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 100.37,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10362,
+      "row_id": 227
+    },
+    {
+      "assetId": 40166027.0,
+      "addressId": 53928741,
+      "polygonId": "52547551",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 12",
+      "dealDate": "2004-06-07",
+      "dealAmount": 1472000,
+      "parcelNum": "3694-306-60",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שמינית",
+      "assetArea": 127.58,
+      "yearBuilt": 1998,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11538,
+      "row_id": 228
+    },
+    {
+      "assetId": 40166255.0,
+      "addressId": 53820703,
+      "polygonId": "52536841",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 9",
+      "dealDate": "2004-05-19",
+      "dealAmount": 844000,
+      "parcelNum": "3694-314-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 105.55,
+      "yearBuilt": 2001,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 11,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7996,
+      "row_id": 229
+    },
+    {
+      "assetId": 40166069.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2004-01-25",
+      "dealAmount": 710000,
+      "parcelNum": "3694-309-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 75.11,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-03-07",
+          "dealAmount": 803000
+        }
+      ],
+      "trend": {
+        "rate": -11.6,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 9467,
+      "row_id": 231
+    },
+    {
+      "assetId": 40166356.0,
+      "addressId": 68399851,
+      "polygonId": "52515586",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "סירני 44",
+      "dealDate": "2004-01-12",
+      "dealAmount": 762000,
+      "parcelNum": "3694-316-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 95.0,
+      "yearBuilt": 1998,
+      "streetCode": 84000505,
+      "settlmentID": 8400,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8021,
+      "row_id": 232
+    },
+    {
+      "assetId": 40166196.0,
+      "addressId": 53823298,
+      "polygonId": "52525140",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 1",
+      "dealDate": "2003-08-14",
+      "dealAmount": 809000,
+      "parcelNum": "3694-312-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 90.5,
+      "yearBuilt": 1996,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8939,
+      "row_id": 233
+    },
+    {
+      "assetId": 40166066.0,
+      "addressId": 53775335,
+      "polygonId": "53337008",
+      "neighborhoodName": "אזורי ויצמן",
+      "neighborhoodId": 65210937,
+      "address": "יחיאל פלדי 6",
+      "dealDate": "2003-07-31",
+      "dealAmount": 956000,
+      "parcelNum": "3694-309-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 109.35,
+      "yearBuilt": 1997,
+      "streetCode": 84000117,
+      "settlmentID": 8400,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8743,
+      "row_id": 234
+    }
+  ]
+}

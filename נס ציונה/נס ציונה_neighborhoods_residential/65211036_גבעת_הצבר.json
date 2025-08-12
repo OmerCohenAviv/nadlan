@@ -1,0 +1,4194 @@
+{
+  "neighborhood_name": "גבעת הצבר",
+  "city_name": "נס ציונה",
+  "transaction_count": 134,
+  "transactions": [
+    {
+      "assetId": 40156883.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2025-03-18",
+      "dealAmount": 2300000,
+      "parcelNum": "3644-152-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 88.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26048,
+      "row_id": 1
+    },
+    {
+      "assetId": 40156852.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2025-02-20",
+      "dealAmount": 2160000,
+      "parcelNum": "3644-151-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 75.7,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-22",
+          "dealAmount": 1300000
+        }
+      ],
+      "trend": {
+        "rate": 66.2,
+        "years": 9.7
+      },
+      "ownership": [],
+      "priceSM": 28800,
+      "row_id": 2
+    },
+    {
+      "assetId": 40156900.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2025-02-05",
+      "dealAmount": 515000,
+      "parcelNum": "3644-152-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 88.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5832,
+      "row_id": 3
+    },
+    {
+      "assetId": 40156780.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2024-07-07",
+      "dealAmount": 1800000,
+      "parcelNum": "3644-150-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 75.4,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23873,
+      "row_id": 4
+    },
+    {
+      "assetId": 40156758.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2024-06-24",
+      "dealAmount": 2130000,
+      "parcelNum": "3644-150-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 70.3,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-12-18",
+          "dealAmount": 636000
+        }
+      ],
+      "trend": {
+        "rate": 234.9,
+        "years": 21.5
+      },
+      "ownership": [],
+      "priceSM": 30429,
+      "row_id": 5
+    },
+    {
+      "assetId": 4462577.0,
+      "addressId": 53826499,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 6",
+      "dealDate": "2024-03-25",
+      "dealAmount": 975000,
+      "parcelNum": "3644-147-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14552,
+      "row_id": 6
+    },
+    {
+      "assetId": 40156804.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2024-01-17",
+      "dealAmount": 2080000,
+      "parcelNum": "3644-151-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 71.2,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-06-26",
+          "dealAmount": 1570000
+        },
+        {
+          "dealDate": "2013-05-30",
+          "dealAmount": 1100000
+        },
+        {
+          "dealDate": "2003-02-17",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 32.5,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 29296,
+      "row_id": 7
+    },
+    {
+      "assetId": 40156836.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2024-01-14",
+      "dealAmount": 633000,
+      "parcelNum": "3644-151-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 70.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-07-27",
+          "dealAmount": 1810000
+        },
+        {
+          "dealDate": "2004-06-02",
+          "dealAmount": 582000
+        }
+      ],
+      "trend": {
+        "rate": -65.0,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 9043,
+      "row_id": 8
+    },
+    {
+      "assetId": 40156775.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2023-09-21",
+      "dealAmount": 2050000,
+      "parcelNum": "3644-150-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 76.2,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26903,
+      "row_id": 9
+    },
+    {
+      "assetId": 40156901.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2023-09-13",
+      "dealAmount": 1150000,
+      "parcelNum": "3644-152-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 70.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-22",
+          "dealAmount": 1870000
+        }
+      ],
+      "trend": {
+        "rate": -38.5,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 16429,
+      "row_id": 10
+    },
+    {
+      "assetId": 4441510.0,
+      "addressId": 53829523,
+      "polygonId": "52355262",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 3",
+      "dealDate": "2022-10-21",
+      "dealAmount": 566000,
+      "parcelNum": "3644-149-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.0,
+      "yearBuilt": 1980,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10107,
+      "row_id": 11
+    },
+    {
+      "assetId": 40156917.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2022-08-04",
+      "dealAmount": 2200000,
+      "parcelNum": "3644-152-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 75.7,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-07-21",
+          "dealAmount": 1430000
+        },
+        {
+          "dealDate": "2013-06-09",
+          "dealAmount": 1100000
+        }
+      ],
+      "trend": {
+        "rate": 53.8,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 29333,
+      "row_id": 12
+    },
+    {
+      "assetId": 40156920.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2022-07-14",
+      "dealAmount": 3200000,
+      "parcelNum": "3644-152-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 104.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30681,
+      "row_id": 13
+    },
+    {
+      "assetId": 40156910.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2022-05-22",
+      "dealAmount": 2100000,
+      "parcelNum": "3644-152-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-14",
+          "dealAmount": 650000
+        }
+      ],
+      "trend": {
+        "rate": 223.1,
+        "years": 14.0
+      },
+      "ownership": [],
+      "priceSM": 30000,
+      "row_id": 14
+    },
+    {
+      "assetId": 40156773.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2022-04-14",
+      "dealAmount": 2250000,
+      "parcelNum": "3644-150-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 95.8,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23486,
+      "row_id": 15
+    },
+    {
+      "assetId": 40156818.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2022-03-20",
+      "dealAmount": 1970000,
+      "parcelNum": "3644-151-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 75.4,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26127,
+      "row_id": 16
+    },
+    {
+      "assetId": 40156745.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2022-02-27",
+      "dealAmount": 2000000,
+      "parcelNum": "3644-150-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 86.6,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-01-03",
+          "dealAmount": 1000000
+        }
+      ],
+      "trend": {
+        "rate": 100.0,
+        "years": 12.2
+      },
+      "ownership": [],
+      "priceSM": 23256,
+      "row_id": 17
+    },
+    {
+      "assetId": 40156807.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2021-07-19",
+      "dealAmount": 1730000,
+      "parcelNum": "3644-151-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 76.2,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-10",
+          "dealAmount": 1020000
+        }
+      ],
+      "trend": {
+        "rate": 69.6,
+        "years": 10.5
+      },
+      "ownership": [],
+      "priceSM": 22763,
+      "row_id": 18
+    },
+    {
+      "assetId": 40156777.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2021-04-19",
+      "dealAmount": 2090000,
+      "parcelNum": "3644-150-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 95.8,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21816,
+      "row_id": 19
+    },
+    {
+      "assetId": 4462576.0,
+      "addressId": 53826499,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 6",
+      "dealDate": "2021-02-15",
+      "dealAmount": 1600000,
+      "parcelNum": "3644-147-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 66.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24242,
+      "row_id": 20
+    },
+    {
+      "assetId": 40156878.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2020-12-06",
+      "dealAmount": 1665000,
+      "parcelNum": "3644-152-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23684,
+      "row_id": 21
+    },
+    {
+      "assetId": 4441512.0,
+      "addressId": 53829523,
+      "polygonId": "52355262",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 3",
+      "dealDate": "2020-11-26",
+      "dealAmount": 1400000,
+      "parcelNum": "3644-149-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 68.0,
+      "yearBuilt": 1980,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20588,
+      "row_id": 22
+    },
+    {
+      "assetId": 4462575.0,
+      "addressId": 53826499,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 6",
+      "dealDate": "2020-11-11",
+      "dealAmount": 1430000,
+      "parcelNum": "3644-147-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22000,
+      "row_id": 23
+    },
+    {
+      "assetId": 4441510.0,
+      "addressId": 53829523,
+      "polygonId": "52355262",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 3",
+      "dealDate": "2020-11-11",
+      "dealAmount": 1330000,
+      "parcelNum": "3644-149-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20462,
+      "row_id": 24
+    },
+    {
+      "assetId": 40156767.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2020-08-27",
+      "dealAmount": 1760000,
+      "parcelNum": "3644-150-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 76.2,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-03",
+          "dealAmount": 1285000
+        }
+      ],
+      "trend": {
+        "rate": 37.0,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 23158,
+      "row_id": 25
+    },
+    {
+      "assetId": 4462578.0,
+      "addressId": 53931471,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 2",
+      "dealDate": "2020-06-22",
+      "dealAmount": 1600000,
+      "parcelNum": "3644-147-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שניה",
+      "assetArea": 105.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15238,
+      "row_id": 26
+    },
+    {
+      "assetId": 40156909.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2020-03-12",
+      "dealAmount": 1750000,
+      "parcelNum": "3644-152-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.7,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-09",
+          "dealAmount": 1100000
+        },
+        {
+          "dealDate": "2010-02-18",
+          "dealAmount": 970000
+        },
+        {
+          "dealDate": "2006-01-25",
+          "dealAmount": 625000
+        }
+      ],
+      "trend": {
+        "rate": 59.1,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 23333,
+      "row_id": 27
+    },
+    {
+      "assetId": 40156824.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2020-03-08",
+      "dealAmount": 1700000,
+      "parcelNum": "3644-151-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-11-19",
+          "dealAmount": 1100000
+        },
+        {
+          "dealDate": "2009-06-24",
+          "dealAmount": 805000
+        }
+      ],
+      "trend": {
+        "rate": 54.5,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 24286,
+      "row_id": 28
+    },
+    {
+      "assetId": 40156921.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2020-02-25",
+      "dealAmount": 1695000,
+      "parcelNum": "3644-152-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-11",
+          "dealAmount": 1142000
+        },
+        {
+          "dealDate": "2008-02-04",
+          "dealAmount": 625000
+        }
+      ],
+      "trend": {
+        "rate": 48.4,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 24214,
+      "row_id": 29
+    },
+    {
+      "assetId": 40156839.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2020-02-10",
+      "dealAmount": 1840000,
+      "parcelNum": "3644-151-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 86.6,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-14",
+          "dealAmount": 1080000
+        }
+      ],
+      "trend": {
+        "rate": 70.4,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 21395,
+      "row_id": 30
+    },
+    {
+      "assetId": 40156912.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2019-07-04",
+      "dealAmount": 1785000,
+      "parcelNum": "3644-152-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 86.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-08-28",
+          "dealAmount": 746000
+        }
+      ],
+      "trend": {
+        "rate": 139.3,
+        "years": 18.9
+      },
+      "ownership": [],
+      "priceSM": 20756,
+      "row_id": 31
+    },
+    {
+      "assetId": 40156906.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2019-04-30",
+      "dealAmount": 2200000,
+      "parcelNum": "3644-152-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 104.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-02-01",
+          "dealAmount": 874000
+        }
+      ],
+      "trend": {
+        "rate": 151.7,
+        "years": 15.3
+      },
+      "ownership": [],
+      "priceSM": 21154,
+      "row_id": 32
+    },
+    {
+      "assetId": 40156926.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2019-04-03",
+      "dealAmount": 1608000,
+      "parcelNum": "3644-152-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 75.7,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21242,
+      "row_id": 33
+    },
+    {
+      "assetId": 4441506.0,
+      "addressId": 53829523,
+      "polygonId": "52355262",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 3",
+      "dealDate": "2019-02-27",
+      "dealAmount": 1200000,
+      "parcelNum": "3644-149-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 84.0,
+      "yearBuilt": 1980,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14286,
+      "row_id": 34
+    },
+    {
+      "assetId": 40156914.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2018-12-20",
+      "dealAmount": 1620000,
+      "parcelNum": "3644-152-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 70.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-03-19",
+          "dealAmount": 611000
+        }
+      ],
+      "trend": {
+        "rate": 165.1,
+        "years": 14.8
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 405000
+        },
+        {
+          "proportion": "25",
+          "price": 405000
+        },
+        {
+          "proportion": "25",
+          "price": 405000
+        },
+        {
+          "proportion": "25",
+          "price": 405000
+        }
+      ],
+      "priceSM": 23143,
+      "row_id": 35
+    },
+    {
+      "assetId": 4441511.0,
+      "addressId": 53829523,
+      "polygonId": "52355262",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 3",
+      "dealDate": "2018-11-11",
+      "dealAmount": 462000,
+      "parcelNum": "3644-149-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 75.0,
+      "yearBuilt": 1980,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6160,
+      "row_id": 36
+    },
+    {
+      "assetId": 40156884.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2018-10-25",
+      "dealAmount": 1780000,
+      "parcelNum": "3644-152-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 86.6,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20554,
+      "row_id": 37
+    },
+    {
+      "assetId": 40156764.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2018-10-24",
+      "dealAmount": 2100000,
+      "parcelNum": "3644-150-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 109.3,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-03-06",
+          "dealAmount": 913000
+        }
+      ],
+      "trend": {
+        "rate": 130.0,
+        "years": 12.6
+      },
+      "ownership": [],
+      "priceSM": 19266,
+      "row_id": 38
+    },
+    {
+      "assetId": 40156877.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2018-05-18",
+      "dealAmount": 1470000,
+      "parcelNum": "3644-152-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.7,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-10-27",
+          "dealAmount": 609000
+        }
+      ],
+      "trend": {
+        "rate": 141.4,
+        "years": 11.6
+      },
+      "ownership": [],
+      "priceSM": 19600,
+      "row_id": 40
+    },
+    {
+      "assetId": 4462582.0,
+      "addressId": 53931471,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 2",
+      "dealDate": "2018-05-10",
+      "dealAmount": 1300000,
+      "parcelNum": "3644-147-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 72.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18056,
+      "row_id": 41
+    },
+    {
+      "assetId": 40156754.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2018-05-03",
+      "dealAmount": 1500000,
+      "parcelNum": "3644-150-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.3,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-01-16",
+          "dealAmount": 589000
+        }
+      ],
+      "trend": {
+        "rate": 154.7,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 21429,
+      "row_id": 42
+    },
+    {
+      "assetId": 40156905.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2018-02-15",
+      "dealAmount": 1635000,
+      "parcelNum": "3644-152-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 70.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-11-25",
+          "dealAmount": 1050000
+        },
+        {
+          "dealDate": "2010-05-06",
+          "dealAmount": 965000
+        }
+      ],
+      "trend": {
+        "rate": 55.7,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 23357,
+      "row_id": 43
+    },
+    {
+      "assetId": 40156856.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2018-02-01",
+      "dealAmount": 1980000,
+      "parcelNum": "3644-151-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 104.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18984,
+      "row_id": 44
+    },
+    {
+      "assetId": 4441508.0,
+      "addressId": 53829523,
+      "polygonId": "52355262",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 3",
+      "dealDate": "2017-12-27",
+      "dealAmount": 1180000,
+      "parcelNum": "3644-149-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 75.0,
+      "yearBuilt": 1980,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15733,
+      "row_id": 45
+    },
+    {
+      "assetId": 40156833.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2017-12-11",
+      "dealAmount": 1600000,
+      "parcelNum": "3644-151-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 75.7,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-08-08",
+          "dealAmount": 624000
+        }
+      ],
+      "trend": {
+        "rate": 156.4,
+        "years": 11.4
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 800000
+        },
+        {
+          "proportion": "50",
+          "price": 800000
+        }
+      ],
+      "priceSM": 21333,
+      "row_id": 46
+    },
+    {
+      "assetId": 40156751.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2017-11-26",
+      "dealAmount": 1700000,
+      "parcelNum": "3644-150-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 95.8,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17745,
+      "row_id": 47
+    },
+    {
+      "assetId": 4441510.0,
+      "addressId": 53829523,
+      "polygonId": "52355262",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 3",
+      "dealDate": "2017-11-07",
+      "dealAmount": 1250000,
+      "parcelNum": "3644-149-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 74.0,
+      "yearBuilt": 1980,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16892,
+      "row_id": 48
+    },
+    {
+      "assetId": 40156803.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2017-07-09",
+      "dealAmount": 1500000,
+      "parcelNum": "3644-151-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 76.2,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-25",
+          "dealAmount": 1040000
+        },
+        {
+          "dealDate": "2000-05-15",
+          "dealAmount": 614000
+        }
+      ],
+      "trend": {
+        "rate": 44.2,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 19737,
+      "row_id": 49
+    },
+    {
+      "assetId": 4462580.0,
+      "addressId": 53923893,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 4",
+      "dealDate": "2017-06-27",
+      "dealAmount": 1145000,
+      "parcelNum": "3644-147-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 68.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16838,
+      "row_id": 50
+    },
+    {
+      "assetId": 40156762.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2017-06-19",
+      "dealAmount": 1620000,
+      "parcelNum": "3644-150-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 70.3,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23044,
+      "row_id": 51
+    },
+    {
+      "assetId": 4441504.0,
+      "addressId": 53829523,
+      "polygonId": "52355262",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 3",
+      "dealDate": "2017-03-22",
+      "dealAmount": 1200000,
+      "parcelNum": "3644-149-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "חמישית",
+      "assetArea": 73.0,
+      "yearBuilt": 1980,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16438,
+      "row_id": 52
+    },
+    {
+      "assetId": 40156823.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2017-03-02",
+      "dealAmount": 1535000,
+      "parcelNum": "3644-151-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17384,
+      "row_id": 53
+    },
+    {
+      "assetId": 40156806.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2017-01-24",
+      "dealAmount": 1550000,
+      "parcelNum": "3644-151-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.4,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-04-07",
+          "dealAmount": 1050000
+        }
+      ],
+      "trend": {
+        "rate": 47.6,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 20667,
+      "row_id": 54
+    },
+    {
+      "assetId": 40156832.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2016-12-22",
+      "dealAmount": 1450000,
+      "parcelNum": "3644-151-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 70.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-22",
+          "dealAmount": 1053000
+        },
+        {
+          "dealDate": "2007-09-19",
+          "dealAmount": 614000
+        }
+      ],
+      "trend": {
+        "rate": 37.7,
+        "years": 4.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 725000
+        },
+        {
+          "proportion": "50",
+          "price": 725000
+        }
+      ],
+      "priceSM": 20714,
+      "row_id": 55
+    },
+    {
+      "assetId": 40156897.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2016-11-14",
+      "dealAmount": 1450000,
+      "parcelNum": "3644-152-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 70.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-05-15",
+          "dealAmount": 820000
+        }
+      ],
+      "trend": {
+        "rate": 76.8,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 20714,
+      "row_id": 56
+    },
+    {
+      "assetId": 40156911.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2016-11-08",
+      "dealAmount": 1840000,
+      "parcelNum": "3644-152-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-03-26",
+          "dealAmount": 585000
+        }
+      ],
+      "trend": {
+        "rate": 214.5,
+        "years": 15.6
+      },
+      "ownership": [],
+      "priceSM": 20909,
+      "row_id": 57
+    },
+    {
+      "assetId": 40156825.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2016-10-10",
+      "dealAmount": 1400000,
+      "parcelNum": "3644-151-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 75.7,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-15",
+          "dealAmount": 1030000
+        },
+        {
+          "dealDate": "2001-12-24",
+          "dealAmount": 671000
+        }
+      ],
+      "trend": {
+        "rate": 35.9,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 18667,
+      "row_id": 58
+    },
+    {
+      "assetId": 40156757.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2016-01-26",
+      "dealAmount": 1249000,
+      "parcelNum": "3644-150-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 76.2,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16391,
+      "row_id": 59
+    },
+    {
+      "assetId": 4462581.0,
+      "addressId": 53931471,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 2",
+      "dealDate": "2015-12-17",
+      "dealAmount": 900000,
+      "parcelNum": "3644-147-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 66.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13636,
+      "row_id": 60
+    },
+    {
+      "assetId": 40156870.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2015-08-06",
+      "dealAmount": 1320000,
+      "parcelNum": "3644-151-68",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 76.2,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-12-16",
+          "dealAmount": 805000
+        }
+      ],
+      "trend": {
+        "rate": 64.0,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 17368,
+      "row_id": 61
+    },
+    {
+      "assetId": 40156861.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2015-06-21",
+      "dealAmount": 390000,
+      "parcelNum": "3644-151-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 71.2,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-06-14",
+          "dealAmount": 615000
+        }
+      ],
+      "trend": {
+        "rate": -36.6,
+        "years": 9.0
+      },
+      "ownership": [],
+      "priceSM": 5493,
+      "row_id": 62
+    },
+    {
+      "assetId": 40156895.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2015-06-19",
+      "dealAmount": 1570000,
+      "parcelNum": "3644-152-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 86.6,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18129,
+      "row_id": 63
+    },
+    {
+      "assetId": 4441507.0,
+      "addressId": 53829523,
+      "polygonId": "52355262",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 3",
+      "dealDate": "2015-06-14",
+      "dealAmount": 1035000,
+      "parcelNum": "3644-149-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12778,
+      "row_id": 64
+    },
+    {
+      "assetId": 4462584.0,
+      "addressId": 53923893,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 4",
+      "dealDate": "2015-06-08",
+      "dealAmount": 1295000,
+      "parcelNum": "3644-147-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שניה",
+      "assetArea": 107.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12103,
+      "row_id": 65
+    },
+    {
+      "assetId": 40156840.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2014-11-09",
+      "dealAmount": 1265000,
+      "parcelNum": "3644-151-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.7,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-08",
+          "dealAmount": 947000
+        }
+      ],
+      "trend": {
+        "rate": 33.6,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 16867,
+      "row_id": 66
+    },
+    {
+      "assetId": 40156834.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2014-08-28",
+      "dealAmount": 1359000,
+      "parcelNum": "3644-151-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 86.6,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-12-02",
+          "dealAmount": 740000
+        }
+      ],
+      "trend": {
+        "rate": 83.6,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 15802,
+      "row_id": 67
+    },
+    {
+      "assetId": 40156931.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2014-08-19",
+      "dealAmount": 1340000,
+      "parcelNum": "3644-152-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 86.6,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15473,
+      "row_id": 68
+    },
+    {
+      "assetId": 40156786.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2014-07-27",
+      "dealAmount": 1145000,
+      "parcelNum": "3644-150-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-11-06",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 90.8,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 16357,
+      "row_id": 69
+    },
+    {
+      "assetId": 40156808.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2014-07-08",
+      "dealAmount": 1150000,
+      "parcelNum": "3644-151-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 71.2,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16152,
+      "row_id": 70
+    },
+    {
+      "assetId": 40156846.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2014-07-07",
+      "dealAmount": 1365000,
+      "parcelNum": "3644-151-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 88.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15459,
+      "row_id": 71
+    },
+    {
+      "assetId": 4441503.0,
+      "addressId": 53829523,
+      "polygonId": "52355262",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 3",
+      "dealDate": "2014-07-05",
+      "dealAmount": 900000,
+      "parcelNum": "3644-149-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 100.0,
+      "yearBuilt": 1980,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9000,
+      "row_id": 72
+    },
+    {
+      "assetId": 40156923.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2014-01-30",
+      "dealAmount": 1280000,
+      "parcelNum": "3644-152-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 86.6,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14781,
+      "row_id": 75
+    },
+    {
+      "assetId": 4462583.0,
+      "addressId": 53826499,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 6",
+      "dealDate": "2014-01-26",
+      "dealAmount": 770000,
+      "parcelNum": "3644-147-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11493,
+      "row_id": 76
+    },
+    {
+      "assetId": 40156894.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2014-01-20",
+      "dealAmount": 1000000,
+      "parcelNum": "3644-152-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 75.7,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-02-01",
+          "dealAmount": 1000000
+        },
+        {
+          "dealDate": "2005-04-18",
+          "dealAmount": 578000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 13333,
+      "row_id": 77
+    },
+    {
+      "assetId": 40156755.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2013-10-28",
+      "dealAmount": 1320000,
+      "parcelNum": "3644-150-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 95.8,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-05-15",
+          "dealAmount": 697000
+        }
+      ],
+      "trend": {
+        "rate": 89.4,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 13895,
+      "row_id": 78
+    },
+    {
+      "assetId": 40156859.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2013-10-23",
+      "dealAmount": 1140000,
+      "parcelNum": "3644-151-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.4,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15119,
+      "row_id": 79
+    },
+    {
+      "assetId": 40156794.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2013-09-01",
+      "dealAmount": 1080000,
+      "parcelNum": "3644-150-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 70.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-22",
+          "dealAmount": 750000
+        }
+      ],
+      "trend": {
+        "rate": 44.0,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 15429,
+      "row_id": 80
+    },
+    {
+      "assetId": 40156798.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2013-08-29",
+      "dealAmount": 1050000,
+      "parcelNum": "3644-150-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 70.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-02-26",
+          "dealAmount": 780000
+        },
+        {
+          "dealDate": "2001-08-12",
+          "dealAmount": 614000
+        }
+      ],
+      "trend": {
+        "rate": 34.6,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 81
+    },
+    {
+      "assetId": 40156748.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2013-08-29",
+      "dealAmount": 1530000,
+      "parcelNum": "3644-150-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 108.7,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14075,
+      "row_id": 82
+    },
+    {
+      "assetId": 4462579.0,
+      "addressId": 53826499,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 6",
+      "dealDate": "2013-08-19",
+      "dealAmount": 1045000,
+      "parcelNum": "3644-147-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 79.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13228,
+      "row_id": 83
+    },
+    {
+      "assetId": 40156837.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2013-07-29",
+      "dealAmount": 1650000,
+      "parcelNum": "3644-151-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 104.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-02",
+          "dealAmount": 1325000
+        }
+      ],
+      "trend": {
+        "rate": 24.5,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 15865,
+      "row_id": 84
+    },
+    {
+      "assetId": 4462573.0,
+      "addressId": 53931471,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 2",
+      "dealDate": "2013-07-03",
+      "dealAmount": 840000,
+      "parcelNum": "3644-147-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14237,
+      "row_id": 85
+    },
+    {
+      "assetId": 40156747.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2013-05-13",
+      "dealAmount": 1050000,
+      "parcelNum": "3644-150-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 75.7,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-03-19",
+          "dealAmount": 720000
+        },
+        {
+          "dealDate": "2003-11-16",
+          "dealAmount": 553000
+        }
+      ],
+      "trend": {
+        "rate": 45.8,
+        "years": 5.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 525000
+        },
+        {
+          "proportion": "50",
+          "price": 525000
+        }
+      ],
+      "priceSM": 14000,
+      "row_id": 86
+    },
+    {
+      "assetId": 40156781.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2012-12-25",
+      "dealAmount": 1500000,
+      "parcelNum": "3644-150-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 106.7,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-28",
+          "dealAmount": 1330000
+        },
+        {
+          "dealDate": "2005-03-06",
+          "dealAmount": 846000
+        }
+      ],
+      "trend": {
+        "rate": 12.8,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 14151,
+      "row_id": 87
+    },
+    {
+      "assetId": 40156847.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2012-06-13",
+      "dealAmount": 1100000,
+      "parcelNum": "3644-151-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 86.6,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12702,
+      "row_id": 88
+    },
+    {
+      "assetId": 40156765.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2012-05-29",
+      "dealAmount": 1200000,
+      "parcelNum": "3644-150-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 95.8,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12526,
+      "row_id": 89
+    },
+    {
+      "assetId": 40156821.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2012-05-23",
+      "dealAmount": 1022000,
+      "parcelNum": "3644-151-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.7,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-07-28",
+          "dealAmount": 622000
+        }
+      ],
+      "trend": {
+        "rate": 64.3,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 13627,
+      "row_id": 90
+    },
+    {
+      "assetId": 40156844.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2012-05-09",
+      "dealAmount": 1050000,
+      "parcelNum": "3644-151-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 75.7,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-07-28",
+          "dealAmount": 639000
+        }
+      ],
+      "trend": {
+        "rate": 64.3,
+        "years": 12.8
+      },
+      "ownership": [],
+      "priceSM": 14000,
+      "row_id": 91
+    },
+    {
+      "assetId": 40156886.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2012-02-27",
+      "dealAmount": 1035000,
+      "parcelNum": "3644-152-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 70.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-02-05",
+          "dealAmount": 615000
+        },
+        {
+          "dealDate": "2004-06-16",
+          "dealAmount": 584000
+        }
+      ],
+      "trend": {
+        "rate": 68.3,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 14786,
+      "row_id": 92
+    },
+    {
+      "assetId": 4462577.0,
+      "addressId": 53931471,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 2",
+      "dealDate": "2011-11-17",
+      "dealAmount": 800000,
+      "parcelNum": "3644-147-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 76.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10526,
+      "row_id": 93
+    },
+    {
+      "assetId": 40156850.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2011-11-04",
+      "dealAmount": 1190000,
+      "parcelNum": "3644-151-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 88.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13477,
+      "row_id": 94
+    },
+    {
+      "assetId": 40156784.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2011-06-17",
+      "dealAmount": 1150000,
+      "parcelNum": "3644-150-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 86.6,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13279,
+      "row_id": 95
+    },
+    {
+      "assetId": 40156891.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2011-05-12",
+      "dealAmount": 1100000,
+      "parcelNum": "3644-152-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 86.6,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12702,
+      "row_id": 96
+    },
+    {
+      "assetId": 40156863.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2010-11-11",
+      "dealAmount": 970000,
+      "parcelNum": "3644-151-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 75.4,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12865,
+      "row_id": 97
+    },
+    {
+      "assetId": 40156826.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2010-11-02",
+      "dealAmount": 1165000,
+      "parcelNum": "3644-151-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 86.6,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13453,
+      "row_id": 98
+    },
+    {
+      "assetId": 40156752.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2010-10-31",
+      "dealAmount": 1000000,
+      "parcelNum": "3644-150-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.4,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-03-19",
+          "dealAmount": 638000
+        }
+      ],
+      "trend": {
+        "rate": 56.7,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 13333,
+      "row_id": 99
+    },
+    {
+      "assetId": 40156855.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2010-10-28",
+      "dealAmount": 1600000,
+      "parcelNum": "3644-151-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 108.7,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14719,
+      "row_id": 100
+    },
+    {
+      "assetId": 40156814.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2010-08-12",
+      "dealAmount": 1000000,
+      "parcelNum": "3644-151-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 75.4,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13263,
+      "row_id": 101
+    },
+    {
+      "assetId": 40156851.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2010-06-01",
+      "dealAmount": 1150000,
+      "parcelNum": "3644-151-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 86.6,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-05-09",
+          "dealAmount": 695000
+        }
+      ],
+      "trend": {
+        "rate": 65.5,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 13372,
+      "row_id": 102
+    },
+    {
+      "assetId": 40156800.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2010-05-13",
+      "dealAmount": 1200000,
+      "parcelNum": "3644-150-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 104.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11505,
+      "row_id": 103
+    },
+    {
+      "assetId": 40156769.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2010-02-14",
+      "dealAmount": 1150000,
+      "parcelNum": "3644-150-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 95.8,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12004,
+      "row_id": 104
+    },
+    {
+      "assetId": 40156782.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2010-02-09",
+      "dealAmount": 1263000,
+      "parcelNum": "3644-150-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 109.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11555,
+      "row_id": 105
+    },
+    {
+      "assetId": 40156881.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2010-01-25",
+      "dealAmount": 930000,
+      "parcelNum": "3644-152-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 75.7,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-03-20",
+          "dealAmount": 670000
+        }
+      ],
+      "trend": {
+        "rate": 38.8,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 12400,
+      "row_id": 106
+    },
+    {
+      "assetId": 40156787.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2009-11-22",
+      "dealAmount": 950000,
+      "parcelNum": "3644-150-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 88.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-05-31",
+          "dealAmount": 728000
+        }
+      ],
+      "trend": {
+        "rate": 30.5,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 10795,
+      "row_id": 107
+    },
+    {
+      "assetId": 40156879.0,
+      "addressId": 53794658,
+      "polygonId": "52503155",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 33",
+      "dealDate": "2009-11-15",
+      "dealAmount": 1090000,
+      "parcelNum": "3644-152-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12344,
+      "row_id": 108
+    },
+    {
+      "assetId": 40156864.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2009-09-03",
+      "dealAmount": 1080000,
+      "parcelNum": "3644-151-62",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 95.8,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11273,
+      "row_id": 109
+    },
+    {
+      "assetId": 40156869.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2009-07-06",
+      "dealAmount": 825000,
+      "parcelNum": "3644-151-67",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 71.2,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-11-13",
+          "dealAmount": 610000
+        }
+      ],
+      "trend": {
+        "rate": 35.2,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 11620,
+      "row_id": 110
+    },
+    {
+      "assetId": 40156872.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2009-06-24",
+      "dealAmount": 970000,
+      "parcelNum": "3644-151-70",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 95.8,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-01-29",
+          "dealAmount": 760000
+        }
+      ],
+      "trend": {
+        "rate": 27.6,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 10211,
+      "row_id": 111
+    },
+    {
+      "assetId": 40156809.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2009-06-01",
+      "dealAmount": 880000,
+      "parcelNum": "3644-151-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 95.8,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9186,
+      "row_id": 112
+    },
+    {
+      "assetId": 40156740.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2009-05-07",
+      "dealAmount": 835000,
+      "parcelNum": "3644-150-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.7,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-04-06",
+          "dealAmount": 567000
+        }
+      ],
+      "trend": {
+        "rate": 47.3,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 11133,
+      "row_id": 113
+    },
+    {
+      "assetId": 40156742.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2009-04-28",
+      "dealAmount": 1000000,
+      "parcelNum": "3644-150-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 88.3,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-02-21",
+          "dealAmount": 657000
+        },
+        {
+          "dealDate": "2004-02-26",
+          "dealAmount": 806000
+        }
+      ],
+      "trend": {
+        "rate": 52.2,
+        "years": 3.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 500000
+        },
+        {
+          "proportion": "50",
+          "price": 500000
+        }
+      ],
+      "priceSM": 11364,
+      "row_id": 114
+    },
+    {
+      "assetId": 40156805.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2009-04-26",
+      "dealAmount": 1015000,
+      "parcelNum": "3644-151-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 95.8,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-05-15",
+          "dealAmount": 704000
+        }
+      ],
+      "trend": {
+        "rate": 44.2,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 10684,
+      "row_id": 115
+    },
+    {
+      "assetId": 40156845.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2009-01-28",
+      "dealAmount": 760000,
+      "parcelNum": "3644-151-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 70.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-04-12",
+          "dealAmount": 567000
+        }
+      ],
+      "trend": {
+        "rate": 34.0,
+        "years": 9.8
+      },
+      "ownership": [
+        {
+          "proportion": "11",
+          "price": 83600
+        },
+        {
+          "proportion": "11",
+          "price": 83600
+        },
+        {
+          "proportion": "11",
+          "price": 83600
+        },
+        {
+          "proportion": "33",
+          "price": 250800
+        },
+        {
+          "proportion": "33",
+          "price": 250800
+        }
+      ],
+      "priceSM": 10857,
+      "row_id": 116
+    },
+    {
+      "assetId": 40156853.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2009-01-22",
+      "dealAmount": 800000,
+      "parcelNum": "3644-151-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 70.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11380,
+      "row_id": 117
+    },
+    {
+      "assetId": 40156770.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2008-11-05",
+      "dealAmount": 800000,
+      "parcelNum": "3644-150-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 71.2,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11236,
+      "row_id": 118
+    },
+    {
+      "assetId": 40156854.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2008-08-18",
+      "dealAmount": 915000,
+      "parcelNum": "3644-151-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 88.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10362,
+      "row_id": 119
+    },
+    {
+      "assetId": 40156800.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2008-07-24",
+      "dealAmount": 715000,
+      "parcelNum": "3644-150-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 70.0,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10214,
+      "row_id": 120
+    },
+    {
+      "assetId": 40156766.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2008-05-13",
+      "dealAmount": 685000,
+      "parcelNum": "3644-150-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 71.2,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-02-08",
+          "dealAmount": 584000
+        }
+      ],
+      "trend": {
+        "rate": 17.3,
+        "years": 1.3
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 342500
+        },
+        {
+          "proportion": "50",
+          "price": 342500
+        }
+      ],
+      "priceSM": 9648,
+      "row_id": 121
+    },
+    {
+      "assetId": 40156746.0,
+      "addressId": 53830674,
+      "polygonId": "52488103",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 17",
+      "dealDate": "2008-01-20",
+      "dealAmount": 650000,
+      "parcelNum": "3644-150-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 70.3,
+      "yearBuilt": 1997,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9246,
+      "row_id": 122
+    },
+    {
+      "assetId": 40156928.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2007-12-20",
+      "dealAmount": 808000,
+      "parcelNum": "3644-152-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 88.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9151,
+      "row_id": 123
+    },
+    {
+      "assetId": 4441513.0,
+      "addressId": 53829523,
+      "polygonId": "52355262",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 3",
+      "dealDate": "2007-12-16",
+      "dealAmount": 381000,
+      "parcelNum": "3644-149-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.0,
+      "yearBuilt": 1980,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6804,
+      "row_id": 124
+    },
+    {
+      "assetId": 40156838.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2007-11-05",
+      "dealAmount": 958000,
+      "parcelNum": "3644-151-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 108.7,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8813,
+      "row_id": 125
+    },
+    {
+      "assetId": 40156771.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2007-04-18",
+      "dealAmount": 576000,
+      "parcelNum": "3644-150-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 76.2,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7559,
+      "row_id": 126
+    },
+    {
+      "assetId": 40156783.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2007-04-16",
+      "dealAmount": 679000,
+      "parcelNum": "3644-150-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7690,
+      "row_id": 127
+    },
+    {
+      "assetId": 4462574.0,
+      "addressId": 53931471,
+      "polygonId": "52503137",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 2",
+      "dealDate": "2007-04-15",
+      "dealAmount": 406000,
+      "parcelNum": "3644-147-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 72.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5639,
+      "row_id": 128
+    },
+    {
+      "assetId": 40156817.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2006-05-24",
+      "dealAmount": 735000,
+      "parcelNum": "3644-151-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 95.8,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7672,
+      "row_id": 129
+    },
+    {
+      "assetId": 40156827.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2006-03-24",
+      "dealAmount": 719000,
+      "parcelNum": "3644-151-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 88.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8143,
+      "row_id": 130
+    },
+    {
+      "assetId": 40156867.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2006-02-13",
+      "dealAmount": 635000,
+      "parcelNum": "3644-151-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 75.4,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8422,
+      "row_id": 131
+    },
+    {
+      "assetId": 40156924.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2006-01-25",
+      "dealAmount": 678000,
+      "parcelNum": "3644-152-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7678,
+      "row_id": 132
+    },
+    {
+      "assetId": 40156768.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2004-09-12",
+      "dealAmount": 585000,
+      "parcelNum": "3644-150-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.4,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-03-22",
+          "dealAmount": 601000
+        }
+      ],
+      "trend": {
+        "rate": -2.7,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 7800,
+      "row_id": 133
+    },
+    {
+      "assetId": 40156799.0,
+      "addressId": 53932092,
+      "polygonId": "52506825",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 11",
+      "dealDate": "2004-08-05",
+      "dealAmount": 901000,
+      "parcelNum": "3644-150-62",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 108.7,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8289,
+      "row_id": 134
+    },
+    {
+      "assetId": 40156841.0,
+      "addressId": 53930725,
+      "polygonId": "52477636",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 21",
+      "dealDate": "2004-05-24",
+      "dealAmount": 584000,
+      "parcelNum": "3644-151-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-03-26",
+          "dealAmount": 586000
+        }
+      ],
+      "trend": {
+        "rate": -0.3,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 8343,
+      "row_id": 135
+    },
+    {
+      "assetId": 40156937.0,
+      "addressId": 53828964,
+      "polygonId": "52484191",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 31",
+      "dealDate": "2004-03-09",
+      "dealAmount": 899000,
+      "parcelNum": "3644-152-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 104.3,
+      "yearBuilt": 1996,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8619,
+      "row_id": 136
+    },
+    {
+      "assetId": 40156828.0,
+      "addressId": 53830080,
+      "polygonId": "52559657",
+      "neighborhoodName": "גבעת הצבר",
+      "neighborhoodId": 65211036,
+      "address": "מאיר הרמן 23",
+      "dealDate": "2001-11-22",
+      "dealAmount": 134000,
+      "parcelNum": "3644-151-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 70.3,
+      "yearBuilt": 1995,
+      "streetCode": 72000105,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1906,
+      "row_id": 142
+    }
+  ]
+}

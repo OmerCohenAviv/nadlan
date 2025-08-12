@@ -1,0 +1,7124 @@
+{
+  "neighborhood_name": "עינות",
+  "city_name": "ערד",
+  "transaction_count": 222,
+  "transactions": [
+    {
+      "assetId": 50180607.0,
+      "addressId": 53844162,
+      "polygonId": "52840424",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 4",
+      "dealDate": "2025-07-24",
+      "dealAmount": 915000,
+      "parcelNum": "38223-13-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-01-15",
+          "dealAmount": 420000
+        },
+        {
+          "dealDate": "2016-06-26",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 117.9,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 11296,
+      "row_id": 1
+    },
+    {
+      "assetId": 50180697.0,
+      "addressId": 53461628,
+      "polygonId": "52995257",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 2",
+      "dealDate": "2025-06-24",
+      "dealAmount": 700000,
+      "parcelNum": "38223-20-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-10-27",
+          "dealAmount": 370000
+        }
+      ],
+      "trend": {
+        "rate": 89.2,
+        "years": 13.7
+      },
+      "ownership": [],
+      "priceSM": 9459,
+      "row_id": 2
+    },
+    {
+      "assetId": 50180605.0,
+      "addressId": 53844162,
+      "polygonId": "52840424",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 4",
+      "dealDate": "2025-06-05",
+      "dealAmount": 830000,
+      "parcelNum": "38223-13-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-03-05",
+          "dealAmount": 354000
+        }
+      ],
+      "trend": {
+        "rate": 134.5,
+        "years": 22.3
+      },
+      "ownership": [],
+      "priceSM": 10247,
+      "row_id": 3
+    },
+    {
+      "assetId": 50180593.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2025-05-08",
+      "dealAmount": 930000,
+      "parcelNum": "38223-12-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 102.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-01-10",
+          "dealAmount": 690000
+        },
+        {
+          "dealDate": "2016-09-25",
+          "dealAmount": 580000
+        }
+      ],
+      "trend": {
+        "rate": 34.8,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 9118,
+      "row_id": 4
+    },
+    {
+      "assetId": 50180589.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2025-03-06",
+      "dealAmount": 1010000,
+      "parcelNum": "38223-12-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 102.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-01-11",
+          "dealAmount": 680000
+        },
+        {
+          "dealDate": "2012-09-12",
+          "dealAmount": 535000
+        },
+        {
+          "dealDate": "2005-12-04",
+          "dealAmount": 395000
+        }
+      ],
+      "trend": {
+        "rate": 48.5,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 9902,
+      "row_id": 5
+    },
+    {
+      "assetId": 50180511.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2025-02-02",
+      "dealAmount": 850000,
+      "parcelNum": "38223-9-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.4,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12074,
+      "row_id": 6
+    },
+    {
+      "assetId": 50180641.0,
+      "addressId": 53459910,
+      "polygonId": "52800321",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 10",
+      "dealDate": "2025-01-20",
+      "dealAmount": 660000,
+      "parcelNum": "38223-16-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 83.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-03-08",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2014-11-26",
+          "dealAmount": 540000
+        },
+        {
+          "dealDate": "2011-02-14",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": 20.0,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 7952,
+      "row_id": 7
+    },
+    {
+      "assetId": 50180616.0,
+      "addressId": 53934885,
+      "polygonId": "52996245",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 6",
+      "dealDate": "2025-01-15",
+      "dealAmount": 740000,
+      "parcelNum": "38223-14-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 83.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-07-05",
+          "dealAmount": 470000
+        },
+        {
+          "dealDate": "2004-09-02",
+          "dealAmount": 213000
+        },
+        {
+          "dealDate": "1998-01-14",
+          "dealAmount": 358000
+        }
+      ],
+      "trend": {
+        "rate": 57.4,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 8916,
+      "row_id": 8
+    },
+    {
+      "assetId": 50180502.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2024-12-01",
+      "dealAmount": 1020000,
+      "parcelNum": "38223-9-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 94.0,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-10-18",
+          "dealAmount": 900000
+        },
+        {
+          "dealDate": "2018-09-13",
+          "dealAmount": 732000
+        },
+        {
+          "dealDate": "2017-11-16",
+          "dealAmount": 594000
+        },
+        {
+          "dealDate": "1998-02-26",
+          "dealAmount": 486000
+        }
+      ],
+      "trend": {
+        "rate": 13.3,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 10851,
+      "row_id": 9
+    },
+    {
+      "assetId": 50180679.0,
+      "addressId": 53842842,
+      "polygonId": "52927825",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 14",
+      "dealDate": "2024-11-25",
+      "dealAmount": 820000,
+      "parcelNum": "38223-18-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 104.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7885,
+      "row_id": 10
+    },
+    {
+      "assetId": 50180649.0,
+      "addressId": 53459910,
+      "polygonId": "52800321",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 10",
+      "dealDate": "2024-11-14",
+      "dealAmount": 560000,
+      "parcelNum": "38223-16-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-12-30",
+          "dealAmount": 465000
+        },
+        {
+          "dealDate": "2010-09-07",
+          "dealAmount": 220000
+        },
+        {
+          "dealDate": "2009-03-11",
+          "dealAmount": 185000
+        }
+      ],
+      "trend": {
+        "rate": 20.4,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 8235,
+      "row_id": 11
+    },
+    {
+      "assetId": 50180702.0,
+      "addressId": 53461628,
+      "polygonId": "52995257",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 2",
+      "dealDate": "2024-11-07",
+      "dealAmount": 750000,
+      "parcelNum": "38223-20-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9259,
+      "row_id": 12
+    },
+    {
+      "assetId": 50178823.0,
+      "addressId": 53459279,
+      "polygonId": "52974665",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 20",
+      "dealDate": "2024-10-01",
+      "dealAmount": 1650000,
+      "parcelNum": "38212-8-1",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 113.5,
+      "yearBuilt": 1950,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14537,
+      "row_id": 13
+    },
+    {
+      "assetId": 50180572.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2024-10-01",
+      "dealAmount": 850000,
+      "parcelNum": "38223-12-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-01-21",
+          "dealAmount": 740000
+        },
+        {
+          "dealDate": "2018-08-05",
+          "dealAmount": 560000
+        }
+      ],
+      "trend": {
+        "rate": 14.9,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 10494,
+      "row_id": 14
+    },
+    {
+      "assetId": 4491750.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2024-10-01",
+      "dealAmount": 940000,
+      "parcelNum": "38223-3-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10444,
+      "row_id": 15
+    },
+    {
+      "assetId": 50180557.0,
+      "addressId": 53460346,
+      "polygonId": "53434481",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 1",
+      "dealDate": "2024-09-30",
+      "dealAmount": 320000,
+      "parcelNum": "38223-10-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 39.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8205,
+      "row_id": 16
+    },
+    {
+      "assetId": 4491748.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2024-09-17",
+      "dealAmount": 850000,
+      "parcelNum": "38223-3-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9444,
+      "row_id": 17
+    },
+    {
+      "assetId": 50180603.0,
+      "addressId": 53844162,
+      "polygonId": "52840424",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 4",
+      "dealDate": "2024-09-01",
+      "dealAmount": 600000,
+      "parcelNum": "38223-13-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8824,
+      "row_id": 18
+    },
+    {
+      "assetId": 50180413.0,
+      "addressId": 53461063,
+      "polygonId": "52799769",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 14",
+      "dealDate": "2024-08-28",
+      "dealAmount": 609000,
+      "parcelNum": "38223-1-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-04-28",
+          "dealAmount": 460000
+        }
+      ],
+      "trend": {
+        "rate": 32.4,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 9984,
+      "row_id": 19
+    },
+    {
+      "assetId": 50180544.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2024-08-18",
+      "dealAmount": 850000,
+      "parcelNum": "38223-9-82",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 81.0,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-18",
+          "dealAmount": 430000
+        }
+      ],
+      "trend": {
+        "rate": 97.7,
+        "years": 12.7
+      },
+      "ownership": [],
+      "priceSM": 10494,
+      "row_id": 20
+    },
+    {
+      "assetId": 50180587.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2024-08-01",
+      "dealAmount": 810000,
+      "parcelNum": "38223-12-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 21
+    },
+    {
+      "assetId": 50180645.0,
+      "addressId": 53459910,
+      "polygonId": "52800321",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 10",
+      "dealDate": "2024-07-18",
+      "dealAmount": 880000,
+      "parcelNum": "38223-16-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 83.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-06-18",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2011-12-27",
+          "dealAmount": 390000
+        },
+        {
+          "dealDate": "1999-08-11",
+          "dealAmount": 344000
+        }
+      ],
+      "trend": {
+        "rate": 39.7,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 10602,
+      "row_id": 22
+    },
+    {
+      "assetId": 50180629.0,
+      "addressId": 53461161,
+      "polygonId": "53391534",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 8",
+      "dealDate": "2024-07-16",
+      "dealAmount": 775000,
+      "parcelNum": "38223-15-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-26",
+          "dealAmount": 521000
+        },
+        {
+          "dealDate": "2013-06-27",
+          "dealAmount": 485000
+        },
+        {
+          "dealDate": "1999-08-24",
+          "dealAmount": 315000
+        }
+      ],
+      "trend": {
+        "rate": 48.8,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 9568,
+      "row_id": 23
+    },
+    {
+      "assetId": 50180404.0,
+      "addressId": 53461063,
+      "polygonId": "52799769",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 14",
+      "dealDate": "2024-07-10",
+      "dealAmount": 775000,
+      "parcelNum": "38223-1-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 77.6,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9987,
+      "row_id": 24
+    },
+    {
+      "assetId": 50180699.0,
+      "addressId": 53461628,
+      "polygonId": "52995257",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 2",
+      "dealDate": "2024-06-27",
+      "dealAmount": 800000,
+      "parcelNum": "38223-20-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-06-07",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "2001-12-20",
+          "dealAmount": 307000
+        }
+      ],
+      "trend": {
+        "rate": 110.5,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 9877,
+      "row_id": 25
+    },
+    {
+      "assetId": 50180455.0,
+      "addressId": 53459734,
+      "polygonId": "52884512",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 10",
+      "dealDate": "2024-05-29",
+      "dealAmount": 560000,
+      "parcelNum": "38223-8-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-01-03",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2012-11-12",
+          "dealAmount": 230000
+        }
+      ],
+      "trend": {
+        "rate": 40.0,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 9180,
+      "row_id": 26
+    },
+    {
+      "assetId": 50180586.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2024-05-26",
+      "dealAmount": 1175000,
+      "parcelNum": "38223-12-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 100.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-07-28",
+          "dealAmount": 620000
+        },
+        {
+          "dealDate": "2002-04-15",
+          "dealAmount": 407000
+        }
+      ],
+      "trend": {
+        "rate": 89.5,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 11750,
+      "row_id": 27
+    },
+    {
+      "assetId": 50180407.0,
+      "addressId": 53461063,
+      "polygonId": "52799769",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 14",
+      "dealDate": "2024-04-17",
+      "dealAmount": 790000,
+      "parcelNum": "38223-1-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 77.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-31",
+          "dealAmount": 290000
+        }
+      ],
+      "trend": {
+        "rate": 172.4,
+        "years": 13.6
+      },
+      "ownership": [],
+      "priceSM": 10260,
+      "row_id": 29
+    },
+    {
+      "assetId": 50178821.0,
+      "addressId": 53459465,
+      "polygonId": "53058899",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 18",
+      "dealDate": "2024-04-03",
+      "dealAmount": 1300000,
+      "parcelNum": "38212-7-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12207,
+      "row_id": 30
+    },
+    {
+      "assetId": 50180685.0,
+      "addressId": 53843559,
+      "polygonId": "52953648",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 16",
+      "dealDate": "2024-03-14",
+      "dealAmount": 810000,
+      "parcelNum": "38223-19-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 31
+    },
+    {
+      "assetId": 4478322.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2024-03-13",
+      "dealAmount": 750000,
+      "parcelNum": "38223-4-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 107.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7009,
+      "row_id": 32
+    },
+    {
+      "assetId": 50180635.0,
+      "addressId": 53461161,
+      "polygonId": "53391534",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 8",
+      "dealDate": "2024-03-05",
+      "dealAmount": 750000,
+      "parcelNum": "38223-15-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-05-07",
+          "dealAmount": 292000
+        }
+      ],
+      "trend": {
+        "rate": 156.8,
+        "years": 21.8
+      },
+      "ownership": [],
+      "priceSM": 9259,
+      "row_id": 33
+    },
+    {
+      "assetId": 50180504.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2024-02-07",
+      "dealAmount": 800000,
+      "parcelNum": "38223-9-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 70.4,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-09-01",
+          "dealAmount": 311000
+        }
+      ],
+      "trend": {
+        "rate": 157.2,
+        "years": 20.4
+      },
+      "ownership": [],
+      "priceSM": 11429,
+      "row_id": 34
+    },
+    {
+      "assetId": 50180598.0,
+      "addressId": 53844162,
+      "polygonId": "52840424",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 4",
+      "dealDate": "2024-02-04",
+      "dealAmount": 745000,
+      "parcelNum": "38223-13-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-03-12",
+          "dealAmount": 445000
+        },
+        {
+          "dealDate": "2001-09-25",
+          "dealAmount": 268000
+        }
+      ],
+      "trend": {
+        "rate": 67.4,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 10068,
+      "row_id": 35
+    },
+    {
+      "assetId": 50180491.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2024-01-22",
+      "dealAmount": 915000,
+      "parcelNum": "38223-9-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 81.7,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11200,
+      "row_id": 36
+    },
+    {
+      "assetId": 4478322.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2024-01-01",
+      "dealAmount": 800000,
+      "parcelNum": "38223-4-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 112.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7143,
+      "row_id": 37
+    },
+    {
+      "assetId": 50180435.0,
+      "addressId": 53843612,
+      "polygonId": "53044008",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 12",
+      "dealDate": "2023-12-18",
+      "dealAmount": 540000,
+      "parcelNum": "38223-5-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-24",
+          "dealAmount": 530000
+        },
+        {
+          "dealDate": "2014-03-17",
+          "dealAmount": 380000
+        }
+      ],
+      "trend": {
+        "rate": 1.9,
+        "years": 1.7
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 270000
+        },
+        {
+          "proportion": "50",
+          "price": 270000
+        }
+      ],
+      "priceSM": 8852,
+      "row_id": 38
+    },
+    {
+      "assetId": 50180608.0,
+      "addressId": 53844162,
+      "polygonId": "52840424",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 4",
+      "dealDate": "2023-10-11",
+      "dealAmount": 600000,
+      "parcelNum": "38223-13-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7407,
+      "row_id": 39
+    },
+    {
+      "assetId": 50180426.0,
+      "addressId": 53843612,
+      "polygonId": "53044008",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 12",
+      "dealDate": "2023-10-01",
+      "dealAmount": 565000,
+      "parcelNum": "38223-5-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-11-01",
+          "dealAmount": 349000
+        },
+        {
+          "dealDate": "2009-09-29",
+          "dealAmount": 190000
+        }
+      ],
+      "trend": {
+        "rate": 61.9,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 9262,
+      "row_id": 40
+    },
+    {
+      "assetId": 50180663.0,
+      "addressId": 53459911,
+      "polygonId": "53386622",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 12",
+      "dealDate": "2023-08-29",
+      "dealAmount": 590000,
+      "parcelNum": "38223-17-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-04-27",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2008-10-23",
+          "dealAmount": 198000
+        }
+      ],
+      "trend": {
+        "rate": 96.7,
+        "years": 12.3
+      },
+      "ownership": [],
+      "priceSM": 7284,
+      "row_id": 41
+    },
+    {
+      "assetId": 50180564.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2023-08-13",
+      "dealAmount": 680000,
+      "parcelNum": "38223-12-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-07",
+          "dealAmount": 616000
+        }
+      ],
+      "trend": {
+        "rate": 10.4,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 8395,
+      "row_id": 42
+    },
+    {
+      "assetId": 50180703.0,
+      "addressId": 53461628,
+      "polygonId": "52995257",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 2",
+      "dealDate": "2023-08-03",
+      "dealAmount": 740000,
+      "parcelNum": "38223-20-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-08-23",
+          "dealAmount": 334000
+        }
+      ],
+      "trend": {
+        "rate": 121.6,
+        "years": 22.0
+      },
+      "ownership": [],
+      "priceSM": 9136,
+      "row_id": 43
+    },
+    {
+      "assetId": 50180628.0,
+      "addressId": 53461161,
+      "polygonId": "53391534",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 8",
+      "dealDate": "2023-07-18",
+      "dealAmount": 600000,
+      "parcelNum": "38223-15-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-04-16",
+          "dealAmount": 184000
+        },
+        {
+          "dealDate": "2003-03-24",
+          "dealAmount": 242000
+        }
+      ],
+      "trend": {
+        "rate": 226.1,
+        "years": 15.3
+      },
+      "ownership": [
+        {
+          "proportion": "12",
+          "price": 72000
+        },
+        {
+          "proportion": "12",
+          "price": 72000
+        },
+        {
+          "proportion": "12",
+          "price": 72000
+        },
+        {
+          "proportion": "12",
+          "price": 72000
+        },
+        {
+          "proportion": "50",
+          "price": 300000
+        }
+      ],
+      "priceSM": 8824,
+      "row_id": 44
+    },
+    {
+      "assetId": 50180449.0,
+      "addressId": 53459734,
+      "polygonId": "52884512",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 10",
+      "dealDate": "2023-07-03",
+      "dealAmount": 775000,
+      "parcelNum": "38223-8-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 77.6,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9987,
+      "row_id": 45
+    },
+    {
+      "assetId": 50180674.0,
+      "addressId": 53842842,
+      "polygonId": "52927825",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 14",
+      "dealDate": "2023-06-13",
+      "dealAmount": 700000,
+      "parcelNum": "38223-18-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-20",
+          "dealAmount": 430000
+        },
+        {
+          "dealDate": "2014-05-19",
+          "dealAmount": 429000
+        }
+      ],
+      "trend": {
+        "rate": 62.8,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 10294,
+      "row_id": 46
+    },
+    {
+      "assetId": 4478326.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2023-05-15",
+      "dealAmount": 900000,
+      "parcelNum": "38223-4-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 102.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8824,
+      "row_id": 47
+    },
+    {
+      "assetId": 50180701.0,
+      "addressId": 53461628,
+      "polygonId": "52995257",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 2",
+      "dealDate": "2023-05-04",
+      "dealAmount": 720000,
+      "parcelNum": "38223-20-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10588,
+      "row_id": 48
+    },
+    {
+      "assetId": 50180614.0,
+      "addressId": 53934885,
+      "polygonId": "52996245",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 6",
+      "dealDate": "2023-05-03",
+      "dealAmount": 840000,
+      "parcelNum": "38223-14-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 83.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10120,
+      "row_id": 49
+    },
+    {
+      "assetId": 50180543.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2023-03-23",
+      "dealAmount": 965000,
+      "parcelNum": "38223-9-81",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 94.0,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-05-18",
+          "dealAmount": 470000
+        },
+        {
+          "dealDate": "1999-03-17",
+          "dealAmount": 446000
+        }
+      ],
+      "trend": {
+        "rate": 105.3,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 10266,
+      "row_id": 50
+    },
+    {
+      "assetId": 50180661.0,
+      "addressId": 53459911,
+      "polygonId": "53386622",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 12",
+      "dealDate": "2023-03-03",
+      "dealAmount": 720000,
+      "parcelNum": "38223-17-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-01-14",
+          "dealAmount": 660000
+        }
+      ],
+      "trend": {
+        "rate": 9.1,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 8889,
+      "row_id": 51
+    },
+    {
+      "assetId": 50180450.0,
+      "addressId": 53459734,
+      "polygonId": "52884512",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 10",
+      "dealDate": "2023-02-16",
+      "dealAmount": 562000,
+      "parcelNum": "38223-8-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9213,
+      "row_id": 52
+    },
+    {
+      "assetId": 50180567.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2023-02-02",
+      "dealAmount": 820000,
+      "parcelNum": "38223-12-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-06-23",
+          "dealAmount": 560000
+        },
+        {
+          "dealDate": "2013-06-18",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 46.4,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 10123,
+      "row_id": 53
+    },
+    {
+      "assetId": 50180619.0,
+      "addressId": 53934885,
+      "polygonId": "52996245",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 6",
+      "dealDate": "2022-12-21",
+      "dealAmount": 830000,
+      "parcelNum": "38223-14-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 91.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-28",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "1999-12-23",
+          "dealAmount": 339000
+        }
+      ],
+      "trend": {
+        "rate": 176.7,
+        "years": 12.5
+      },
+      "ownership": [],
+      "priceSM": 9121,
+      "row_id": 54
+    },
+    {
+      "assetId": 50178811.0,
+      "addressId": 53770393,
+      "polygonId": "53151283",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 14",
+      "dealDate": "2022-12-13",
+      "dealAmount": 1400000,
+      "parcelNum": "38212-5-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1980,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-08-12",
+          "dealAmount": 830000
+        }
+      ],
+      "trend": {
+        "rate": 68.7,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 13208,
+      "row_id": 55
+    },
+    {
+      "assetId": 50178805.0,
+      "addressId": 53460674,
+      "polygonId": "53048278",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 12",
+      "dealDate": "2022-10-26",
+      "dealAmount": 687000,
+      "parcelNum": "38212-4-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1980,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-01-18",
+          "dealAmount": 760000
+        },
+        {
+          "dealDate": "2004-10-31",
+          "dealAmount": 294000
+        }
+      ],
+      "trend": {
+        "rate": -9.6,
+        "years": 7.8
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 343500
+        },
+        {
+          "proportion": "50",
+          "price": 343500
+        }
+      ],
+      "priceSM": 6481,
+      "row_id": 56
+    },
+    {
+      "assetId": 50180600.0,
+      "addressId": 53844162,
+      "polygonId": "52840424",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 4",
+      "dealDate": "2022-09-18",
+      "dealAmount": 620000,
+      "parcelNum": "38223-13-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-10-26",
+          "dealAmount": 384000
+        },
+        {
+          "dealDate": "2015-10-11",
+          "dealAmount": 398000
+        },
+        {
+          "dealDate": "2012-09-13",
+          "dealAmount": 390000
+        }
+      ],
+      "trend": {
+        "rate": 61.5,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 9118,
+      "row_id": 57
+    },
+    {
+      "assetId": 50180678.0,
+      "addressId": 53842842,
+      "polygonId": "52927825",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 14",
+      "dealDate": "2022-08-18",
+      "dealAmount": 600000,
+      "parcelNum": "38223-18-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 91.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6593,
+      "row_id": 58
+    },
+    {
+      "assetId": 50180580.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2022-08-08",
+      "dealAmount": 290000,
+      "parcelNum": "38223-12-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3580,
+      "row_id": 59
+    },
+    {
+      "assetId": 50180677.0,
+      "addressId": 53842842,
+      "polygonId": "52927825",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 14",
+      "dealDate": "2022-08-04",
+      "dealAmount": 300000,
+      "parcelNum": "38223-18-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-09-13",
+          "dealAmount": 194000
+        }
+      ],
+      "trend": {
+        "rate": 54.6,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 4412,
+      "row_id": 60
+    },
+    {
+      "assetId": 50180495.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2022-06-27",
+      "dealAmount": 790000,
+      "parcelNum": "38223-9-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 70.4,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-10-27",
+          "dealAmount": 258000
+        }
+      ],
+      "trend": {
+        "rate": 206.2,
+        "years": 17.7
+      },
+      "ownership": [],
+      "priceSM": 11286,
+      "row_id": 61
+    },
+    {
+      "assetId": 50180545.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2022-06-14",
+      "dealAmount": 775000,
+      "parcelNum": "38223-9-83",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 70.4,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-06-25",
+          "dealAmount": 612000
+        },
+        {
+          "dealDate": "2014-03-20",
+          "dealAmount": 473000
+        }
+      ],
+      "trend": {
+        "rate": 26.6,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 11071,
+      "row_id": 62
+    },
+    {
+      "assetId": 50180550.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2022-06-08",
+      "dealAmount": 800000,
+      "parcelNum": "38223-9-88",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 70.4,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11364,
+      "row_id": 63
+    },
+    {
+      "assetId": 50180591.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2022-05-03",
+      "dealAmount": 860000,
+      "parcelNum": "38223-12-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10617,
+      "row_id": 64
+    },
+    {
+      "assetId": 4478321.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2022-03-24",
+      "dealAmount": 850000,
+      "parcelNum": "38223-4-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 102.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 65
+    },
+    {
+      "assetId": 50180590.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2022-03-10",
+      "dealAmount": 180000,
+      "parcelNum": "38223-12-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 100.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-10-19",
+          "dealAmount": 510000
+        }
+      ],
+      "trend": {
+        "rate": -64.7,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 1800,
+      "row_id": 66
+    },
+    {
+      "assetId": 50180679.0,
+      "addressId": 53842842,
+      "polygonId": "52927825",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 14",
+      "dealDate": "2022-02-16",
+      "dealAmount": 830000,
+      "parcelNum": "38223-18-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 91.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-09-15",
+          "dealAmount": 365000
+        },
+        {
+          "dealDate": "2003-06-30",
+          "dealAmount": 271000
+        }
+      ],
+      "trend": {
+        "rate": 127.4,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 9121,
+      "row_id": 67
+    },
+    {
+      "assetId": 50178826.0,
+      "addressId": 53459279,
+      "polygonId": "52974665",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 20",
+      "dealDate": "2022-01-03",
+      "dealAmount": 1480000,
+      "parcelNum": "38212-8-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 128.5,
+      "yearBuilt": 1950,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-09-20",
+          "dealAmount": 549000
+        },
+        {
+          "dealDate": "2005-12-21",
+          "dealAmount": 492000
+        }
+      ],
+      "trend": {
+        "rate": 169.6,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 11562,
+      "row_id": 68
+    },
+    {
+      "assetId": 50178804.0,
+      "addressId": 53460674,
+      "polygonId": "53048278",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 12",
+      "dealDate": "2021-12-23",
+      "dealAmount": 1150000,
+      "parcelNum": "38212-4-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1980,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10798,
+      "row_id": 69
+    },
+    {
+      "assetId": 4477939.0,
+      "addressId": 53459383,
+      "polygonId": "52806748",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "אחווה 28",
+      "dealDate": "2021-12-13",
+      "dealAmount": 895000,
+      "parcelNum": "38212-9-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 126.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600106,
+      "settlmentID": 2560,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7103,
+      "row_id": 70
+    },
+    {
+      "assetId": 50180418.0,
+      "addressId": 53461063,
+      "polygonId": "52799769",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 14",
+      "dealDate": "2021-12-06",
+      "dealAmount": 500000,
+      "parcelNum": "38223-1-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-11-14",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2016-05-31",
+          "dealAmount": 290000
+        }
+      ],
+      "trend": {
+        "rate": 47.1,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 8197,
+      "row_id": 71
+    },
+    {
+      "assetId": 50180515.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2021-11-18",
+      "dealAmount": 730000,
+      "parcelNum": "38223-9-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 70.4,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-12-01",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2015-07-05",
+          "dealAmount": 525000
+        }
+      ],
+      "trend": {
+        "rate": 21.7,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 10429,
+      "row_id": 72
+    },
+    {
+      "assetId": 50180566.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2021-11-14",
+      "dealAmount": 960000,
+      "parcelNum": "38223-12-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-11",
+          "dealAmount": 375000
+        }
+      ],
+      "trend": {
+        "rate": 156.0,
+        "years": 11.4
+      },
+      "ownership": [],
+      "priceSM": 9600,
+      "row_id": 73
+    },
+    {
+      "assetId": 50180627.0,
+      "addressId": 53461161,
+      "polygonId": "53391534",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 8",
+      "dealDate": "2021-11-07",
+      "dealAmount": 585000,
+      "parcelNum": "38223-15-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7905,
+      "row_id": 74
+    },
+    {
+      "assetId": 50178794.0,
+      "addressId": 53771505,
+      "polygonId": "53041397",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 8",
+      "dealDate": "2021-10-14",
+      "dealAmount": 1050000,
+      "parcelNum": "38212-2-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-21",
+          "dealAmount": 1000000
+        },
+        {
+          "dealDate": "2010-12-30",
+          "dealAmount": 560000
+        }
+      ],
+      "trend": {
+        "rate": 5.0,
+        "years": 1.1
+      },
+      "ownership": [],
+      "priceSM": 9906,
+      "row_id": 75
+    },
+    {
+      "assetId": 50180689.0,
+      "addressId": 53843559,
+      "polygonId": "52953648",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 16",
+      "dealDate": "2021-08-18",
+      "dealAmount": 735000,
+      "parcelNum": "38223-19-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-04-17",
+          "dealAmount": 224000
+        }
+      ],
+      "trend": {
+        "rate": 228.1,
+        "years": 12.3
+      },
+      "ownership": [],
+      "priceSM": 9074,
+      "row_id": 76
+    },
+    {
+      "assetId": 50180537.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2021-08-05",
+      "dealAmount": 850000,
+      "parcelNum": "38223-9-75",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 81.7,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-12-18",
+          "dealAmount": 640000
+        }
+      ],
+      "trend": {
+        "rate": 32.8,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 10494,
+      "row_id": 77
+    },
+    {
+      "assetId": 4491750.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2021-08-04",
+      "dealAmount": 380000,
+      "parcelNum": "38223-3-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 59.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6441,
+      "row_id": 78
+    },
+    {
+      "assetId": 50180526.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2021-07-12",
+      "dealAmount": 650000,
+      "parcelNum": "38223-9-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 70.4,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-12",
+          "dealAmount": 480000
+        },
+        {
+          "dealDate": "2005-03-27",
+          "dealAmount": 247000
+        }
+      ],
+      "trend": {
+        "rate": 35.4,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 9286,
+      "row_id": 79
+    },
+    {
+      "assetId": 50180676.0,
+      "addressId": 53842842,
+      "polygonId": "52927825",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 14",
+      "dealDate": "2021-07-04",
+      "dealAmount": 650000,
+      "parcelNum": "38223-18-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 91.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-10-20",
+          "dealAmount": 480000
+        },
+        {
+          "dealDate": "2002-04-21",
+          "dealAmount": 393000
+        }
+      ],
+      "trend": {
+        "rate": 35.4,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 7143,
+      "row_id": 80
+    },
+    {
+      "assetId": 50180682.0,
+      "addressId": 53843559,
+      "polygonId": "52953648",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 16",
+      "dealDate": "2021-06-17",
+      "dealAmount": 580000,
+      "parcelNum": "38223-19-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7838,
+      "row_id": 81
+    },
+    {
+      "assetId": 50180640.0,
+      "addressId": 53459910,
+      "polygonId": "52800321",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 10",
+      "dealDate": "2021-05-13",
+      "dealAmount": 560000,
+      "parcelNum": "38223-16-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8235,
+      "row_id": 82
+    },
+    {
+      "assetId": 50180446.0,
+      "addressId": 53459734,
+      "polygonId": "52884512",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 10",
+      "dealDate": "2021-05-10",
+      "dealAmount": 625000,
+      "parcelNum": "38223-8-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10246,
+      "row_id": 83
+    },
+    {
+      "assetId": 50180522.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2021-05-02",
+      "dealAmount": 835000,
+      "parcelNum": "38223-9-60",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.7,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10220,
+      "row_id": 84
+    },
+    {
+      "assetId": 50180470.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2021-04-26",
+      "dealAmount": 690000,
+      "parcelNum": "38223-9-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 70.4,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-06-07",
+          "dealAmount": 303000
+        }
+      ],
+      "trend": {
+        "rate": 127.7,
+        "years": 22.9
+      },
+      "ownership": [],
+      "priceSM": 9857,
+      "row_id": 85
+    },
+    {
+      "assetId": 50178809.0,
+      "addressId": 53770393,
+      "polygonId": "53151283",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 14",
+      "dealDate": "2021-04-04",
+      "dealAmount": 1200000,
+      "parcelNum": "38212-5-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1980,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-02-15",
+          "dealAmount": 490000
+        },
+        {
+          "dealDate": "2010-02-18",
+          "dealAmount": 367000
+        }
+      ],
+      "trend": {
+        "rate": 144.9,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 11321,
+      "row_id": 86
+    },
+    {
+      "assetId": 50180660.0,
+      "addressId": 53459911,
+      "polygonId": "53386622",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 12",
+      "dealDate": "2021-03-25",
+      "dealAmount": 550000,
+      "parcelNum": "38223-17-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-05",
+          "dealAmount": 420000
+        },
+        {
+          "dealDate": "2010-08-24",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 31.0,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 6790,
+      "row_id": 87
+    },
+    {
+      "assetId": 50180668.0,
+      "addressId": 53842842,
+      "polygonId": "52927825",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 14",
+      "dealDate": "2021-03-17",
+      "dealAmount": 520000,
+      "parcelNum": "38223-18-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-03-28",
+          "dealAmount": 379000
+        }
+      ],
+      "trend": {
+        "rate": 37.2,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 7647,
+      "row_id": 88
+    },
+    {
+      "assetId": 50180518.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2021-03-10",
+      "dealAmount": 900000,
+      "parcelNum": "38223-9-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 94.0,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9574,
+      "row_id": 89
+    },
+    {
+      "assetId": 50180683.0,
+      "addressId": 53843559,
+      "polygonId": "52953648",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 16",
+      "dealDate": "2021-03-08",
+      "dealAmount": 550000,
+      "parcelNum": "38223-19-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7432,
+      "row_id": 90
+    },
+    {
+      "assetId": 50180618.0,
+      "addressId": 53934885,
+      "polygonId": "52996245",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 6",
+      "dealDate": "2021-01-19",
+      "dealAmount": 520000,
+      "parcelNum": "38223-14-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7647,
+      "row_id": 91
+    },
+    {
+      "assetId": 50180584.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2020-12-13",
+      "dealAmount": 620000,
+      "parcelNum": "38223-12-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-06-22",
+          "dealAmount": 365000
+        }
+      ],
+      "trend": {
+        "rate": 69.9,
+        "years": 20.5
+      },
+      "ownership": [],
+      "priceSM": 7654,
+      "row_id": 92
+    },
+    {
+      "assetId": 50180604.0,
+      "addressId": 53844162,
+      "polygonId": "52840424",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 4",
+      "dealDate": "2020-12-03",
+      "dealAmount": 550000,
+      "parcelNum": "38223-13-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-10-27",
+          "dealAmount": 375000
+        }
+      ],
+      "trend": {
+        "rate": 46.7,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 6790,
+      "row_id": 93
+    },
+    {
+      "assetId": 50180458.0,
+      "addressId": 53459734,
+      "polygonId": "52884512",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 10",
+      "dealDate": "2020-11-19",
+      "dealAmount": 390000,
+      "parcelNum": "38223-8-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6393,
+      "row_id": 94
+    },
+    {
+      "assetId": 50180636.0,
+      "addressId": 53461161,
+      "polygonId": "53391534",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 8",
+      "dealDate": "2020-10-29",
+      "dealAmount": 485000,
+      "parcelNum": "38223-15-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5988,
+      "row_id": 95
+    },
+    {
+      "assetId": 50178814.0,
+      "addressId": 53459055,
+      "polygonId": "52778147",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 16",
+      "dealDate": "2020-10-28",
+      "dealAmount": 940000,
+      "parcelNum": "38212-6-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8826,
+      "row_id": 96
+    },
+    {
+      "assetId": 50180578.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2020-10-22",
+      "dealAmount": 801000,
+      "parcelNum": "38223-12-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 100.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-12-17",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "1999-01-27",
+          "dealAmount": 459000
+        }
+      ],
+      "trend": {
+        "rate": 33.5,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 8010,
+      "row_id": 97
+    },
+    {
+      "assetId": 50180408.0,
+      "addressId": 53461063,
+      "polygonId": "52799769",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 14",
+      "dealDate": "2020-10-20",
+      "dealAmount": 530000,
+      "parcelNum": "38223-1-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 77.6,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-01-29",
+          "dealAmount": 560000
+        },
+        {
+          "dealDate": "2014-02-24",
+          "dealAmount": 499000
+        }
+      ],
+      "trend": {
+        "rate": -5.4,
+        "years": 0.7
+      },
+      "ownership": [],
+      "priceSM": 6883,
+      "row_id": 98
+    },
+    {
+      "assetId": 50180553.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2020-10-11",
+      "dealAmount": 700000,
+      "parcelNum": "38223-9-91",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 94.0,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-09-07",
+          "dealAmount": 506000
+        }
+      ],
+      "trend": {
+        "rate": 38.3,
+        "years": 13.1
+      },
+      "ownership": [],
+      "priceSM": 7447,
+      "row_id": 99
+    },
+    {
+      "assetId": 50178799.0,
+      "addressId": 53771506,
+      "polygonId": "53421701",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 10",
+      "dealDate": "2020-10-01",
+      "dealAmount": 1010000,
+      "parcelNum": "38212-3-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9484,
+      "row_id": 100
+    },
+    {
+      "assetId": 4491749.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2020-09-25",
+      "dealAmount": 400000,
+      "parcelNum": "38223-3-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6667,
+      "row_id": 101
+    },
+    {
+      "assetId": 4478323.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2020-09-06",
+      "dealAmount": 480000,
+      "parcelNum": "38223-4-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5333,
+      "row_id": 102
+    },
+    {
+      "assetId": 50180499.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2020-08-17",
+      "dealAmount": 595000,
+      "parcelNum": "38223-9-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 70.4,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8452,
+      "row_id": 103
+    },
+    {
+      "assetId": 50180415.0,
+      "addressId": 53461063,
+      "polygonId": "52799769",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 14",
+      "dealDate": "2020-08-06",
+      "dealAmount": 425000,
+      "parcelNum": "38223-1-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 77.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5484,
+      "row_id": 104
+    },
+    {
+      "assetId": 50180709.0,
+      "addressId": 0,
+      "polygonId": "38223-22",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "0",
+      "dealDate": "2020-07-16",
+      "dealAmount": 465000,
+      "parcelNum": "38223-22-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 77.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6039,
+      "row_id": 105
+    },
+    {
+      "assetId": 50180489.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2020-06-17",
+      "dealAmount": 640000,
+      "parcelNum": "38223-9-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 70.4,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-05-15",
+          "dealAmount": 381000
+        }
+      ],
+      "trend": {
+        "rate": 68.0,
+        "years": 18.1
+      },
+      "ownership": [],
+      "priceSM": 9143,
+      "row_id": 106
+    },
+    {
+      "assetId": 50180692.0,
+      "addressId": 53843559,
+      "polygonId": "52953648",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 16",
+      "dealDate": "2020-03-30",
+      "dealAmount": 390000,
+      "parcelNum": "38223-19-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4815,
+      "row_id": 107
+    },
+    {
+      "assetId": 50180648.0,
+      "addressId": 53459910,
+      "polygonId": "52800321",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 10",
+      "dealDate": "2020-03-15",
+      "dealAmount": 585000,
+      "parcelNum": "38223-16-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 91.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6429,
+      "row_id": 108
+    },
+    {
+      "assetId": 50180490.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2020-01-19",
+      "dealAmount": 615000,
+      "parcelNum": "38223-9-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 70.4,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-04-11",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 53.8,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 8786,
+      "row_id": 109
+    },
+    {
+      "assetId": 50180409.0,
+      "addressId": 53461063,
+      "polygonId": "52799769",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 14",
+      "dealDate": "2020-01-01",
+      "dealAmount": 545000,
+      "parcelNum": "38223-1-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-07-13",
+          "dealAmount": 307000
+        }
+      ],
+      "trend": {
+        "rate": 77.5,
+        "years": 18.5
+      },
+      "ownership": [],
+      "priceSM": 8934,
+      "row_id": 110
+    },
+    {
+      "assetId": 50180662.0,
+      "addressId": 53459911,
+      "polygonId": "53386622",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 12",
+      "dealDate": "2019-12-03",
+      "dealAmount": 553000,
+      "parcelNum": "38223-17-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-13",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 176.5,
+        "years": 10.2
+      },
+      "ownership": [],
+      "priceSM": 8132,
+      "row_id": 111
+    },
+    {
+      "assetId": 50180650.0,
+      "addressId": 53459910,
+      "polygonId": "52800321",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 10",
+      "dealDate": "2019-11-18",
+      "dealAmount": 499000,
+      "parcelNum": "38223-16-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 91.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-06-14",
+          "dealAmount": 499000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 5484,
+      "row_id": 112
+    },
+    {
+      "assetId": 50178813.0,
+      "addressId": 53459055,
+      "polygonId": "52778147",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 16",
+      "dealDate": "2019-11-17",
+      "dealAmount": 950000,
+      "parcelNum": "38212-6-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 113.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-01",
+          "dealAmount": 1000000
+        }
+      ],
+      "trend": {
+        "rate": -5.0,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 8407,
+      "row_id": 113
+    },
+    {
+      "assetId": 4491744.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2019-11-13",
+      "dealAmount": 235000,
+      "parcelNum": "38223-3-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 82.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2866,
+      "row_id": 114
+    },
+    {
+      "assetId": 4476562.0,
+      "addressId": 53459736,
+      "polygonId": "52779146",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "אחווה 32",
+      "dealDate": "2019-11-11",
+      "dealAmount": 1179000,
+      "parcelNum": "38212-11-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": null,
+      "assetArea": 260.0,
+      "yearBuilt": 1978,
+      "streetCode": 25600106,
+      "settlmentID": 2560,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4535,
+      "row_id": 115
+    },
+    {
+      "assetId": 50180573.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2019-09-24",
+      "dealAmount": 690000,
+      "parcelNum": "38223-12-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 102.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6765,
+      "row_id": 116
+    },
+    {
+      "assetId": 50180657.0,
+      "addressId": 53459911,
+      "polygonId": "53386622",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 12",
+      "dealDate": "2019-07-02",
+      "dealAmount": 450000,
+      "parcelNum": "38223-17-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-07-24",
+          "dealAmount": 280000
+        }
+      ],
+      "trend": {
+        "rate": 60.7,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 5556,
+      "row_id": 117
+    },
+    {
+      "assetId": 4491741.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2019-05-19",
+      "dealAmount": 455000,
+      "parcelNum": "38223-3-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 82.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5549,
+      "row_id": 118
+    },
+    {
+      "assetId": 50180454.0,
+      "addressId": 53459734,
+      "polygonId": "52884512",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 10",
+      "dealDate": "2019-05-15",
+      "dealAmount": 410000,
+      "parcelNum": "38223-8-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6721,
+      "row_id": 119
+    },
+    {
+      "assetId": 50180471.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2019-05-02",
+      "dealAmount": 760000,
+      "parcelNum": "38223-9-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.7,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-09-29",
+          "dealAmount": 620000
+        }
+      ],
+      "trend": {
+        "rate": 22.6,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 9383,
+      "row_id": 120
+    },
+    {
+      "assetId": 50180465.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2019-04-08",
+      "dealAmount": 590000,
+      "parcelNum": "38223-9-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.4,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-09-23",
+          "dealAmount": 227000
+        }
+      ],
+      "trend": {
+        "rate": 159.9,
+        "years": 10.5
+      },
+      "ownership": [],
+      "priceSM": 8429,
+      "row_id": 121
+    },
+    {
+      "assetId": 50180542.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2019-03-13",
+      "dealAmount": 375000,
+      "parcelNum": "38223-9-80",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 81.7,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-07-25",
+          "dealAmount": 249200
+        }
+      ],
+      "trend": {
+        "rate": 50.5,
+        "years": 10.6
+      },
+      "ownership": [],
+      "priceSM": 4630,
+      "row_id": 122
+    },
+    {
+      "assetId": 50180693.0,
+      "addressId": 53843559,
+      "polygonId": "52953648",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 16",
+      "dealDate": "2019-02-24",
+      "dealAmount": 435000,
+      "parcelNum": "38223-19-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 68.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6397,
+      "row_id": 123
+    },
+    {
+      "assetId": 50180592.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2019-02-17",
+      "dealAmount": 570000,
+      "parcelNum": "38223-12-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-07-17",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "2007-06-01",
+          "dealAmount": 255000
+        }
+      ],
+      "trend": {
+        "rate": 50.0,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 7037,
+      "row_id": 124
+    },
+    {
+      "assetId": 50180655.0,
+      "addressId": 53459911,
+      "polygonId": "53386622",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 12",
+      "dealDate": "2019-02-14",
+      "dealAmount": 550000,
+      "parcelNum": "38223-17-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7432,
+      "row_id": 125
+    },
+    {
+      "assetId": 50180634.0,
+      "addressId": 53461161,
+      "polygonId": "53391534",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 8",
+      "dealDate": "2019-01-31",
+      "dealAmount": 405000,
+      "parcelNum": "38223-15-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5956,
+      "row_id": 126
+    },
+    {
+      "assetId": 4490107.0,
+      "addressId": 53460010,
+      "polygonId": "53062505",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "אחווה 46",
+      "dealDate": "2018-12-18",
+      "dealAmount": 1175000,
+      "parcelNum": "38212-18-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 112.0,
+      "yearBuilt": 1985,
+      "streetCode": 25600106,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10491,
+      "row_id": 127
+    },
+    {
+      "assetId": 50180659.0,
+      "addressId": 53459911,
+      "polygonId": "53386622",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 12",
+      "dealDate": "2018-12-16",
+      "dealAmount": 460000,
+      "parcelNum": "38223-17-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-02",
+          "dealAmount": 370000
+        },
+        {
+          "dealDate": "2011-07-11",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 24.3,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 6765,
+      "row_id": 128
+    },
+    {
+      "assetId": 50180476.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2018-12-03",
+      "dealAmount": 730000,
+      "parcelNum": "38223-9-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.7,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-04-09",
+          "dealAmount": 485000
+        }
+      ],
+      "trend": {
+        "rate": 50.5,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 9012,
+      "row_id": 129
+    },
+    {
+      "assetId": 50180513.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2018-11-05",
+      "dealAmount": 750000,
+      "parcelNum": "38223-9-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 94.0,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-09",
+          "dealAmount": 464000
+        }
+      ],
+      "trend": {
+        "rate": 61.6,
+        "years": 15.6
+      },
+      "ownership": [],
+      "priceSM": 7979,
+      "row_id": 130
+    },
+    {
+      "assetId": 50180452.0,
+      "addressId": 53459734,
+      "polygonId": "52884512",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 10",
+      "dealDate": "2018-08-15",
+      "dealAmount": 450000,
+      "parcelNum": "38223-8-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 77.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-09-06",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 5844,
+      "row_id": 131
+    },
+    {
+      "assetId": 50180565.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2018-08-02",
+      "dealAmount": 600000,
+      "parcelNum": "38223-12-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 102.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5882,
+      "row_id": 132
+    },
+    {
+      "assetId": 50178800.0,
+      "addressId": 53771506,
+      "polygonId": "53421701",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 10",
+      "dealDate": "2018-07-08",
+      "dealAmount": 900000,
+      "parcelNum": "38212-3-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-09-20",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 125.0,
+        "years": 7.8
+      },
+      "ownership": [],
+      "priceSM": 8491,
+      "row_id": 133
+    },
+    {
+      "assetId": 50180601.0,
+      "addressId": 53844162,
+      "polygonId": "52840424",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 4",
+      "dealDate": "2018-06-18",
+      "dealAmount": 465000,
+      "parcelNum": "38223-13-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-09-14",
+          "dealAmount": 126000
+        }
+      ],
+      "trend": {
+        "rate": 269.0,
+        "years": 7.8
+      },
+      "ownership": [],
+      "priceSM": 5741,
+      "row_id": 134
+    },
+    {
+      "assetId": 4491750.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2018-05-28",
+      "dealAmount": 458000,
+      "parcelNum": "38223-3-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 82.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5585,
+      "row_id": 135
+    },
+    {
+      "assetId": 4491745.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2018-05-06",
+      "dealAmount": 480000,
+      "parcelNum": "38223-3-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 82.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5854,
+      "row_id": 136
+    },
+    {
+      "assetId": 50180579.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2018-04-23",
+      "dealAmount": 590000,
+      "parcelNum": "38223-12-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-03",
+          "dealAmount": 390000
+        }
+      ],
+      "trend": {
+        "rate": 51.3,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 7284,
+      "row_id": 137
+    },
+    {
+      "assetId": 50180548.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2018-04-15",
+      "dealAmount": 775000,
+      "parcelNum": "38223-9-86",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשיעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-26",
+          "dealAmount": 525000
+        },
+        {
+          "dealDate": "2008-01-21",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 47.6,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 9568,
+      "row_id": 138
+    },
+    {
+      "assetId": 50180534.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2018-04-12",
+      "dealAmount": 665000,
+      "parcelNum": "38223-9-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-25",
+          "dealAmount": 245000
+        }
+      ],
+      "trend": {
+        "rate": 171.4,
+        "years": 9.9
+      },
+      "ownership": [],
+      "priceSM": 8210,
+      "row_id": 139
+    },
+    {
+      "assetId": 4491746.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2018-03-29",
+      "dealAmount": 440000,
+      "parcelNum": "38223-3-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 98.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4490,
+      "row_id": 140
+    },
+    {
+      "assetId": 50180451.0,
+      "addressId": 53459734,
+      "polygonId": "52884512",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 10",
+      "dealDate": "2018-02-01",
+      "dealAmount": 440000,
+      "parcelNum": "38223-8-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-08",
+          "dealAmount": 410000
+        },
+        {
+          "dealDate": "2004-01-06",
+          "dealAmount": 174000
+        }
+      ],
+      "trend": {
+        "rate": 7.3,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 7213,
+      "row_id": 141
+    },
+    {
+      "assetId": 50180438.0,
+      "addressId": 53843612,
+      "polygonId": "53044008",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 12",
+      "dealDate": "2018-01-04",
+      "dealAmount": 330000,
+      "parcelNum": "38223-5-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-12-06",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2012-04-15",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": -5.7,
+        "years": 1.1
+      },
+      "ownership": [],
+      "priceSM": 5410,
+      "row_id": 142
+    },
+    {
+      "assetId": 50180609.0,
+      "addressId": 53844162,
+      "polygonId": "52840424",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 4",
+      "dealDate": "2017-10-23",
+      "dealAmount": 290000,
+      "parcelNum": "38223-13-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-09-02",
+          "dealAmount": 270000
+        },
+        {
+          "dealDate": "2009-12-01",
+          "dealAmount": 190000
+        },
+        {
+          "dealDate": "2009-08-05",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2000-12-25",
+          "dealAmount": 247000
+        }
+      ],
+      "trend": {
+        "rate": 7.4,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 4265,
+      "row_id": 143
+    },
+    {
+      "assetId": 4491750.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2017-09-05",
+      "dealAmount": 455000,
+      "parcelNum": "38223-3-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 82.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5549,
+      "row_id": 144
+    },
+    {
+      "assetId": 50180541.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2017-08-28",
+      "dealAmount": 540000,
+      "parcelNum": "38223-9-79",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 70.4,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-07",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 50.0,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 7714,
+      "row_id": 145
+    },
+    {
+      "assetId": 50180412.0,
+      "addressId": 53461063,
+      "polygonId": "52799769",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 14",
+      "dealDate": "2017-06-26",
+      "dealAmount": 430000,
+      "parcelNum": "38223-1-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 77.6,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5541,
+      "row_id": 146
+    },
+    {
+      "assetId": 4478322.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2017-05-21",
+      "dealAmount": 480000,
+      "parcelNum": "38223-4-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 100.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4800,
+      "row_id": 147
+    },
+    {
+      "assetId": 50180480.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2017-04-19",
+      "dealAmount": 479000,
+      "parcelNum": "38223-9-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 70.4,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-08-02",
+          "dealAmount": 399000
+        }
+      ],
+      "trend": {
+        "rate": 20.1,
+        "years": 0.7
+      },
+      "ownership": [],
+      "priceSM": 6843,
+      "row_id": 148
+    },
+    {
+      "assetId": 50180433.0,
+      "addressId": 53843612,
+      "polygonId": "53044008",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 12",
+      "dealDate": "2017-03-29",
+      "dealAmount": 420000,
+      "parcelNum": "38223-5-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 77.6,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-04-30",
+          "dealAmount": 380000
+        }
+      ],
+      "trend": {
+        "rate": 10.5,
+        "years": 14.9
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 210000
+        },
+        {
+          "proportion": "50",
+          "price": 210000
+        }
+      ],
+      "priceSM": 5455,
+      "row_id": 149
+    },
+    {
+      "assetId": 50180620.0,
+      "addressId": 53934885,
+      "polygonId": "52996245",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 6",
+      "dealDate": "2017-03-08",
+      "dealAmount": 475000,
+      "parcelNum": "38223-14-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 91.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5220,
+      "row_id": 150
+    },
+    {
+      "assetId": 50180521.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2017-03-05",
+      "dealAmount": 500000,
+      "parcelNum": "38223-9-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 70.4,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7102,
+      "row_id": 151
+    },
+    {
+      "assetId": 4478322.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2016-11-22",
+      "dealAmount": 430000,
+      "parcelNum": "38223-4-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 107.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4019,
+      "row_id": 152
+    },
+    {
+      "assetId": 50180675.0,
+      "addressId": 53842842,
+      "polygonId": "52927825",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 14",
+      "dealDate": "2016-10-27",
+      "dealAmount": 420000,
+      "parcelNum": "38223-18-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 91.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4615,
+      "row_id": 153
+    },
+    {
+      "assetId": 4491742.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2016-10-13",
+      "dealAmount": 439000,
+      "parcelNum": "38223-3-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4878,
+      "row_id": 154
+    },
+    {
+      "assetId": 50180416.0,
+      "addressId": 53461063,
+      "polygonId": "52799769",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 14",
+      "dealDate": "2016-08-19",
+      "dealAmount": 395000,
+      "parcelNum": "38223-1-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 77.6,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-01-05",
+          "dealAmount": 275000
+        },
+        {
+          "dealDate": "2008-07-12",
+          "dealAmount": 110000
+        }
+      ],
+      "trend": {
+        "rate": 43.6,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 5130,
+      "row_id": 155
+    },
+    {
+      "assetId": 4478322.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2016-08-16",
+      "dealAmount": 470000,
+      "parcelNum": "38223-4-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 104.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4519,
+      "row_id": 156
+    },
+    {
+      "assetId": 50180453.0,
+      "addressId": 53459734,
+      "polygonId": "52884512",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 10",
+      "dealDate": "2016-08-12",
+      "dealAmount": 454000,
+      "parcelNum": "38223-8-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 77.6,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-10",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 81.6,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 5896,
+      "row_id": 157
+    },
+    {
+      "assetId": 50180496.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2016-07-17",
+      "dealAmount": 570000,
+      "parcelNum": "38223-9-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 81.7,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-09-24",
+          "dealAmount": 387000
+        }
+      ],
+      "trend": {
+        "rate": 47.3,
+        "years": 14.8
+      },
+      "ownership": [],
+      "priceSM": 7037,
+      "row_id": 158
+    },
+    {
+      "assetId": 50180698.0,
+      "addressId": 53461628,
+      "polygonId": "52995257",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 2",
+      "dealDate": "2016-06-30",
+      "dealAmount": 250000,
+      "parcelNum": "38223-20-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-10-19",
+          "dealAmount": 171000
+        }
+      ],
+      "trend": {
+        "rate": 46.2,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 3676,
+      "row_id": 159
+    },
+    {
+      "assetId": 50180417.0,
+      "addressId": 53461063,
+      "polygonId": "52799769",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 14",
+      "dealDate": "2016-05-16",
+      "dealAmount": 352000,
+      "parcelNum": "38223-1-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-08",
+          "dealAmount": 290000
+        },
+        {
+          "dealDate": "2002-09-01",
+          "dealAmount": 184000
+        }
+      ],
+      "trend": {
+        "rate": 21.4,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 5770,
+      "row_id": 160
+    },
+    {
+      "assetId": 4491752.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2016-05-11",
+      "dealAmount": 270000,
+      "parcelNum": "38223-3-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שישית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5625,
+      "row_id": 161
+    },
+    {
+      "assetId": 50180525.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2016-04-06",
+      "dealAmount": 538000,
+      "parcelNum": "38223-9-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 70.4,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-09-12",
+          "dealAmount": 341000
+        }
+      ],
+      "trend": {
+        "rate": 57.8,
+        "years": 13.6
+      },
+      "ownership": [],
+      "priceSM": 7686,
+      "row_id": 162
+    },
+    {
+      "assetId": 50178801.0,
+      "addressId": 53771506,
+      "polygonId": "53421701",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 10",
+      "dealDate": "2016-03-28",
+      "dealAmount": 700000,
+      "parcelNum": "38212-3-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-06-01",
+          "dealAmount": 359000
+        }
+      ],
+      "trend": {
+        "rate": 95.0,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 6604,
+      "row_id": 163
+    },
+    {
+      "assetId": 50178803.0,
+      "addressId": 53460674,
+      "polygonId": "53048278",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 12",
+      "dealDate": "2016-03-13",
+      "dealAmount": 700000,
+      "parcelNum": "38212-4-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1980,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-06-20",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 75.0,
+        "years": 7.7
+      },
+      "ownership": [],
+      "priceSM": 6604,
+      "row_id": 164
+    },
+    {
+      "assetId": 50180623.0,
+      "addressId": 53934885,
+      "polygonId": "52996245",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 6",
+      "dealDate": "2015-10-12",
+      "dealAmount": 310000,
+      "parcelNum": "38223-14-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 91.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3407,
+      "row_id": 165
+    },
+    {
+      "assetId": 50180540.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2015-06-21",
+      "dealAmount": 490000,
+      "parcelNum": "38223-9-78",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 70.4,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-03-21",
+          "dealAmount": 430000
+        }
+      ],
+      "trend": {
+        "rate": 14.0,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 7000,
+      "row_id": 166
+    },
+    {
+      "assetId": 50180527.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2015-06-08",
+      "dealAmount": 600000,
+      "parcelNum": "38223-9-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.7,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-10-02",
+          "dealAmount": 440000
+        }
+      ],
+      "trend": {
+        "rate": 36.4,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 7407,
+      "row_id": 167
+    },
+    {
+      "assetId": 50180599.0,
+      "addressId": 53844162,
+      "polygonId": "52840424",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 4",
+      "dealDate": "2015-02-05",
+      "dealAmount": 400000,
+      "parcelNum": "38223-13-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 74.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-07-23",
+          "dealAmount": 321000
+        }
+      ],
+      "trend": {
+        "rate": 24.6,
+        "years": 13.5
+      },
+      "ownership": [],
+      "priceSM": 5405,
+      "row_id": 168
+    },
+    {
+      "assetId": 4477960.0,
+      "addressId": 53843627,
+      "polygonId": "52806890",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "אחווה 34",
+      "dealDate": "2014-11-05",
+      "dealAmount": 1200000,
+      "parcelNum": "38212-12-1",
+      "dealNature": "בית בודד",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 265.0,
+      "yearBuilt": 1975,
+      "streetCode": 25600106,
+      "settlmentID": 2560,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4528,
+      "row_id": 169
+    },
+    {
+      "assetId": 50180551.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2014-11-02",
+      "dealAmount": 500000,
+      "parcelNum": "38223-9-89",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 70.4,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7102,
+      "row_id": 170
+    },
+    {
+      "assetId": 50180514.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2014-09-22",
+      "dealAmount": 589000,
+      "parcelNum": "38223-9-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.0,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-10-26",
+          "dealAmount": 440000
+        },
+        {
+          "dealDate": "2002-06-05",
+          "dealAmount": 435000
+        }
+      ],
+      "trend": {
+        "rate": 33.9,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 7272,
+      "row_id": 171
+    },
+    {
+      "assetId": 50180637.0,
+      "addressId": 53461161,
+      "polygonId": "53391534",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 8",
+      "dealDate": "2014-08-31",
+      "dealAmount": 365000,
+      "parcelNum": "38223-15-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-29",
+          "dealAmount": 245000
+        }
+      ],
+      "trend": {
+        "rate": 49.0,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 5368,
+      "row_id": 172
+    },
+    {
+      "assetId": 50180440.0,
+      "addressId": 53843612,
+      "polygonId": "53044008",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 12",
+      "dealDate": "2014-07-18",
+      "dealAmount": 349000,
+      "parcelNum": "38223-5-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 77.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-05-30",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 16.3,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 4532,
+      "row_id": 173
+    },
+    {
+      "assetId": 50180646.0,
+      "addressId": 53459910,
+      "polygonId": "52800321",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 10",
+      "dealDate": "2014-05-27",
+      "dealAmount": 421000,
+      "parcelNum": "38223-16-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-10-04",
+          "dealAmount": 235000
+        },
+        {
+          "dealDate": "2005-04-20",
+          "dealAmount": 214000
+        },
+        {
+          "dealDate": "1998-10-29",
+          "dealAmount": 317000
+        }
+      ],
+      "trend": {
+        "rate": 79.1,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 6191,
+      "row_id": 174
+    },
+    {
+      "assetId": 4491750.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2014-04-08",
+      "dealAmount": 199000,
+      "parcelNum": "38223-3-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 82.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2427,
+      "row_id": 175
+    },
+    {
+      "assetId": 4478322.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2014-03-23",
+      "dealAmount": 410000,
+      "parcelNum": "38223-4-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 121.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3388,
+      "row_id": 176
+    },
+    {
+      "assetId": 50180588.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2014-02-10",
+      "dealAmount": 480000,
+      "parcelNum": "38223-12-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-25",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 45.5,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 5926,
+      "row_id": 177
+    },
+    {
+      "assetId": 50178796.0,
+      "addressId": 53771505,
+      "polygonId": "53041397",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 8",
+      "dealDate": "2014-02-04",
+      "dealAmount": 620000,
+      "parcelNum": "38212-2-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5822,
+      "row_id": 178
+    },
+    {
+      "assetId": 50180630.0,
+      "addressId": 53461161,
+      "polygonId": "53391534",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 8",
+      "dealDate": "2013-12-16",
+      "dealAmount": 520000,
+      "parcelNum": "38223-15-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-03",
+          "dealAmount": 405000
+        },
+        {
+          "dealDate": "2010-08-19",
+          "dealAmount": 295000
+        }
+      ],
+      "trend": {
+        "rate": 28.4,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 6420,
+      "row_id": 179
+    },
+    {
+      "assetId": 50180539.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2013-11-03",
+      "dealAmount": 580000,
+      "parcelNum": "38223-9-77",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-12",
+          "dealAmount": 405000
+        }
+      ],
+      "trend": {
+        "rate": 43.2,
+        "years": 1.9
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 290000
+        },
+        {
+          "proportion": "50",
+          "price": 290000
+        }
+      ],
+      "priceSM": 7160,
+      "row_id": 180
+    },
+    {
+      "assetId": 50180406.0,
+      "addressId": 53461063,
+      "polygonId": "52799769",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 14",
+      "dealDate": "2013-08-15",
+      "dealAmount": 330000,
+      "parcelNum": "38223-1-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5410,
+      "row_id": 181
+    },
+    {
+      "assetId": 50180606.0,
+      "addressId": 53844162,
+      "polygonId": "52840424",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 4",
+      "dealDate": "2013-08-13",
+      "dealAmount": 400000,
+      "parcelNum": "38223-13-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-02-05",
+          "dealAmount": 140000
+        }
+      ],
+      "trend": {
+        "rate": 185.7,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 5882,
+      "row_id": 182
+    },
+    {
+      "assetId": 50180594.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2013-07-29",
+      "dealAmount": 579000,
+      "parcelNum": "38223-12-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 100.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-01-12",
+          "dealAmount": 337000
+        }
+      ],
+      "trend": {
+        "rate": 71.8,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 5790,
+      "row_id": 183
+    },
+    {
+      "assetId": 50180547.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2013-05-29",
+      "dealAmount": 330000,
+      "parcelNum": "38223-9-85",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 81.7,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4039,
+      "row_id": 184
+    },
+    {
+      "assetId": 4478325.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2013-04-15",
+      "dealAmount": 349000,
+      "parcelNum": "38223-4-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 99.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3525,
+      "row_id": 185
+    },
+    {
+      "assetId": 50180411.0,
+      "addressId": 53461063,
+      "polygonId": "52799769",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 14",
+      "dealDate": "2013-04-14",
+      "dealAmount": 385000,
+      "parcelNum": "38223-1-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 77.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4968,
+      "row_id": 186
+    },
+    {
+      "assetId": 50180447.0,
+      "addressId": 53459734,
+      "polygonId": "52884512",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 10",
+      "dealDate": "2013-03-11",
+      "dealAmount": 340000,
+      "parcelNum": "38223-8-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-08",
+          "dealAmount": 275000
+        }
+      ],
+      "trend": {
+        "rate": 23.6,
+        "years": 0.8
+      },
+      "ownership": [],
+      "priceSM": 5574,
+      "row_id": 187
+    },
+    {
+      "assetId": 50180478.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2013-01-07",
+      "dealAmount": 550000,
+      "parcelNum": "38223-9-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-03-08",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "1999-10-17",
+          "dealAmount": 401000
+        }
+      ],
+      "trend": {
+        "rate": 10.0,
+        "years": 0.8
+      },
+      "ownership": [],
+      "priceSM": 6790,
+      "row_id": 188
+    },
+    {
+      "assetId": 50180552.0,
+      "addressId": 53460668,
+      "polygonId": "52807723",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 8",
+      "dealDate": "2012-12-04",
+      "dealAmount": 450000,
+      "parcelNum": "38223-9-90",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשיעית",
+      "assetArea": 81.7,
+      "yearBuilt": 1993,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-09-23",
+          "dealAmount": 434000
+        }
+      ],
+      "trend": {
+        "rate": 3.7,
+        "years": 10.2
+      },
+      "ownership": [],
+      "priceSM": 5556,
+      "row_id": 189
+    },
+    {
+      "assetId": 50180595.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2012-12-03",
+      "dealAmount": 510000,
+      "parcelNum": "38223-12-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6296,
+      "row_id": 190
+    },
+    {
+      "assetId": 50180583.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2012-11-14",
+      "dealAmount": 439000,
+      "parcelNum": "38223-12-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-04-04",
+          "dealAmount": 355000
+        }
+      ],
+      "trend": {
+        "rate": 23.7,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 5420,
+      "row_id": 191
+    },
+    {
+      "assetId": 50180430.0,
+      "addressId": 53843612,
+      "polygonId": "53044008",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 12",
+      "dealDate": "2012-11-09",
+      "dealAmount": 330000,
+      "parcelNum": "38223-5-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-25",
+          "dealAmount": 135000
+        }
+      ],
+      "trend": {
+        "rate": 144.4,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 5410,
+      "row_id": 192
+    },
+    {
+      "assetId": 50180665.0,
+      "addressId": 53459911,
+      "polygonId": "53386622",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 12",
+      "dealDate": "2012-10-30",
+      "dealAmount": 240000,
+      "parcelNum": "38223-17-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-02-12",
+          "dealAmount": 114000
+        }
+      ],
+      "trend": {
+        "rate": 110.5,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 3529,
+      "row_id": 193
+    },
+    {
+      "assetId": 50180483.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2012-08-01",
+      "dealAmount": 445000,
+      "parcelNum": "38223-9-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5494,
+      "row_id": 194
+    },
+    {
+      "assetId": 4491747.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2012-07-30",
+      "dealAmount": 340000,
+      "parcelNum": "38223-3-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 82.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4146,
+      "row_id": 195
+    },
+    {
+      "assetId": 50180493.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2012-07-11",
+      "dealAmount": 490000,
+      "parcelNum": "38223-9-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-20",
+          "dealAmount": 371000
+        }
+      ],
+      "trend": {
+        "rate": 32.1,
+        "years": 12.7
+      },
+      "ownership": [],
+      "priceSM": 6049,
+      "row_id": 196
+    },
+    {
+      "assetId": 50180631.0,
+      "addressId": 53461161,
+      "polygonId": "53391534",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 8",
+      "dealDate": "2012-06-14",
+      "dealAmount": 310000,
+      "parcelNum": "38223-15-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 68.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-01-24",
+          "dealAmount": 153000
+        }
+      ],
+      "trend": {
+        "rate": 102.6,
+        "years": 0.4
+      },
+      "ownership": [],
+      "priceSM": 4559,
+      "row_id": 197
+    },
+    {
+      "assetId": 50178795.0,
+      "addressId": 53771505,
+      "polygonId": "53041397",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 8",
+      "dealDate": "2012-05-20",
+      "dealAmount": 595000,
+      "parcelNum": "38212-2-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1970,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5587,
+      "row_id": 198
+    },
+    {
+      "assetId": 50180466.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2012-05-14",
+      "dealAmount": 425000,
+      "parcelNum": "38223-9-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.7,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5202,
+      "row_id": 199
+    },
+    {
+      "assetId": 50180439.0,
+      "addressId": 53843612,
+      "polygonId": "53044008",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 12",
+      "dealDate": "2012-05-09",
+      "dealAmount": 270000,
+      "parcelNum": "38223-5-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 61.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-07-12",
+          "dealAmount": 266000
+        }
+      ],
+      "trend": {
+        "rate": 1.5,
+        "years": 12.8
+      },
+      "ownership": [],
+      "priceSM": 4426,
+      "row_id": 200
+    },
+    {
+      "assetId": 50178825.0,
+      "addressId": 53459279,
+      "polygonId": "52974665",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "הגלעד 20",
+      "dealDate": "2012-05-08",
+      "dealAmount": 500000,
+      "parcelNum": "38212-8-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 106.5,
+      "yearBuilt": 1950,
+      "streetCode": 25600104,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-12-18",
+          "dealAmount": 432000
+        }
+      ],
+      "trend": {
+        "rate": 15.7,
+        "years": 10.4
+      },
+      "ownership": [],
+      "priceSM": 4717,
+      "row_id": 201
+    },
+    {
+      "assetId": 50180568.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2012-04-23",
+      "dealAmount": 420000,
+      "parcelNum": "38223-12-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-04-18",
+          "dealAmount": 402000
+        },
+        {
+          "dealDate": "1998-03-08",
+          "dealAmount": 373000
+        }
+      ],
+      "trend": {
+        "rate": 4.5,
+        "years": 10.0
+      },
+      "ownership": [],
+      "priceSM": 5185,
+      "row_id": 202
+    },
+    {
+      "assetId": 50180575.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2012-02-15",
+      "dealAmount": 335000,
+      "parcelNum": "38223-12-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-13",
+          "dealAmount": 363000
+        }
+      ],
+      "trend": {
+        "rate": -7.7,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 4136,
+      "row_id": 203
+    },
+    {
+      "assetId": 4478320.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2011-11-23",
+      "dealAmount": 340000,
+      "parcelNum": "38223-4-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 70.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4857,
+      "row_id": 204
+    },
+    {
+      "assetId": 4478322.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2011-08-26",
+      "dealAmount": 450000,
+      "parcelNum": "38223-4-14",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 85.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5294,
+      "row_id": 205
+    },
+    {
+      "assetId": 50180487.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2011-08-18",
+      "dealAmount": 505000,
+      "parcelNum": "38223-9-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 94.0,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5372,
+      "row_id": 206
+    },
+    {
+      "assetId": 50180688.0,
+      "addressId": 53843559,
+      "polygonId": "52953648",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 16",
+      "dealDate": "2011-08-01",
+      "dealAmount": 320000,
+      "parcelNum": "38223-19-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-09-28",
+          "dealAmount": 299000
+        }
+      ],
+      "trend": {
+        "rate": 7.0,
+        "years": 12.8
+      },
+      "ownership": [],
+      "priceSM": 3951,
+      "row_id": 207
+    },
+    {
+      "assetId": 4491750.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2011-07-27",
+      "dealAmount": 240000,
+      "parcelNum": "38223-3-18",
+      "dealNature": "דירת גן",
+      "roomNum": 2.0,
+      "floor": null,
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 208
+    },
+    {
+      "assetId": 4476560.0,
+      "addressId": 53459736,
+      "polygonId": "52779146",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "אחווה 32",
+      "dealDate": "2011-07-21",
+      "dealAmount": 830000,
+      "parcelNum": "38212-11-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 1.0,
+      "floor": null,
+      "assetArea": 304.0,
+      "yearBuilt": 1978,
+      "streetCode": 25600106,
+      "settlmentID": 2560,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2730,
+      "row_id": 209
+    },
+    {
+      "assetId": 50180498.0,
+      "addressId": 53459445,
+      "polygonId": "53387452",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "עינות 6",
+      "dealDate": "2011-05-05",
+      "dealAmount": 450000,
+      "parcelNum": "38223-9-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 81.0,
+      "yearBuilt": 1992,
+      "streetCode": 25600117,
+      "settlmentID": 2560,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-03",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 5556,
+      "row_id": 210
+    },
+    {
+      "assetId": 4491750.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2011-04-01",
+      "dealAmount": 310000,
+      "parcelNum": "38223-3-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3100,
+      "row_id": 212
+    },
+    {
+      "assetId": 4478322.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2011-02-13",
+      "dealAmount": 390000,
+      "parcelNum": "38223-4-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4333,
+      "row_id": 213
+    },
+    {
+      "assetId": 50180576.0,
+      "addressId": 53458978,
+      "polygonId": "53139466",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 2",
+      "dealDate": "2010-10-21",
+      "dealAmount": 350000,
+      "parcelNum": "38223-12-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1980,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-09-13",
+          "dealAmount": 280000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 4321,
+      "row_id": 214
+    },
+    {
+      "assetId": 4491750.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2010-10-13",
+      "dealAmount": 200000,
+      "parcelNum": "38223-3-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 90.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2222,
+      "row_id": 215
+    },
+    {
+      "assetId": 50180664.0,
+      "addressId": 53459911,
+      "polygonId": "53386622",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 12",
+      "dealDate": "2010-09-06",
+      "dealAmount": 267600,
+      "parcelNum": "38223-17-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3304,
+      "row_id": 216
+    },
+    {
+      "assetId": 50180647.0,
+      "addressId": 53459910,
+      "polygonId": "52800321",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "מואב 10",
+      "dealDate": "2010-08-26",
+      "dealAmount": 293000,
+      "parcelNum": "38223-16-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 91.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600101,
+      "settlmentID": 2560,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-07-05",
+          "dealAmount": 247000
+        }
+      ],
+      "trend": {
+        "rate": 18.6,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 3220,
+      "row_id": 217
+    },
+    {
+      "assetId": 4491743.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2010-07-01",
+      "dealAmount": 280000,
+      "parcelNum": "38223-3-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 100.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2800,
+      "row_id": 218
+    },
+    {
+      "assetId": 4478322.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2010-06-04",
+      "dealAmount": 265000,
+      "parcelNum": "38223-4-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 104.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2548,
+      "row_id": 219
+    },
+    {
+      "assetId": 4491751.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2009-09-16",
+      "dealAmount": 195000,
+      "parcelNum": "38223-3-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 86.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2267,
+      "row_id": 220
+    },
+    {
+      "assetId": 50180709.0,
+      "addressId": 0,
+      "polygonId": "38223-22",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "0",
+      "dealDate": "2009-07-19",
+      "dealAmount": 200000,
+      "parcelNum": "38223-22-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2560,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2000,
+      "row_id": 221
+    },
+    {
+      "assetId": 4491750.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2008-05-07",
+      "dealAmount": 70000,
+      "parcelNum": "38223-3-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 40.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1750,
+      "row_id": 222
+    },
+    {
+      "assetId": 4491753.0,
+      "addressId": 53842862,
+      "polygonId": "53082214",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 17",
+      "dealDate": "2008-03-24",
+      "dealAmount": 160000,
+      "parcelNum": "38223-3-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 90.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1778,
+      "row_id": 223
+    },
+    {
+      "assetId": 4478327.0,
+      "addressId": 53460789,
+      "polygonId": "52817977",
+      "neighborhoodName": "עינות",
+      "neighborhoodId": 65210164,
+      "address": "יהודה 15",
+      "dealDate": "2007-06-24",
+      "dealAmount": 260000,
+      "parcelNum": "38223-4-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 1970,
+      "streetCode": 25600201,
+      "settlmentID": 2560,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3250,
+      "row_id": 224
+    }
+  ]
+}
