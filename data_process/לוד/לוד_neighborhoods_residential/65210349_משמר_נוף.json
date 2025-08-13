@@ -1,0 +1,2218 @@
+{
+  "neighborhood_name": "משמר נוף",
+  "city_name": "לוד",
+  "transaction_count": 70,
+  "transactions": [
+    {
+      "assetId": 10006165.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2025-06-26",
+      "dealAmount": 1090000,
+      "parcelNum": "4016-160-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26585,
+      "row_id": 1
+    },
+    {
+      "assetId": 10006330.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2025-06-12",
+      "dealAmount": 1207000,
+      "parcelNum": "4016-160-209",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21554,
+      "row_id": 2
+    },
+    {
+      "assetId": 10006299.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2025-04-07",
+      "dealAmount": 575000,
+      "parcelNum": "4016-160-178",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9746,
+      "row_id": 3
+    },
+    {
+      "assetId": 10006261.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2024-12-16",
+      "dealAmount": 1220000,
+      "parcelNum": "4016-160-140",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-02-24",
+          "dealAmount": 358000
+        }
+      ],
+      "trend": {
+        "rate": 240.8,
+        "years": 15.8
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 610000
+        },
+        {
+          "proportion": "50",
+          "price": 610000
+        }
+      ],
+      "priceSM": 20678,
+      "row_id": 4
+    },
+    {
+      "assetId": 10006190.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2024-10-27",
+      "dealAmount": 1375000,
+      "parcelNum": "4016-160-69",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 71.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-05-16",
+          "dealAmount": 1250000
+        }
+      ],
+      "trend": {
+        "rate": 10.0,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 19366,
+      "row_id": 5
+    },
+    {
+      "assetId": 10006274.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2024-09-30",
+      "dealAmount": 1180000,
+      "parcelNum": "4016-160-153",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-12",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2012-10-22",
+          "dealAmount": 545000
+        }
+      ],
+      "trend": {
+        "rate": 87.3,
+        "years": 10.8
+      },
+      "ownership": [],
+      "priceSM": 21071,
+      "row_id": 6
+    },
+    {
+      "assetId": 10006322.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2024-06-26",
+      "dealAmount": 1060000,
+      "parcelNum": "4016-160-201",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 41.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25854,
+      "row_id": 7
+    },
+    {
+      "assetId": 10006250.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2024-06-24",
+      "dealAmount": 335000,
+      "parcelNum": "4016-160-129",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4589,
+      "row_id": 8
+    },
+    {
+      "assetId": 10006278.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2024-04-17",
+      "dealAmount": 1030000,
+      "parcelNum": "4016-160-157",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 41.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25122,
+      "row_id": 9
+    },
+    {
+      "assetId": 10006146.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2024-01-21",
+      "dealAmount": 1380000,
+      "parcelNum": "4016-160-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-22",
+          "dealAmount": 1012000
+        },
+        {
+          "dealDate": "2021-09-30",
+          "dealAmount": 1080000
+        }
+      ],
+      "trend": {
+        "rate": 36.4,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 18904,
+      "row_id": 10
+    },
+    {
+      "assetId": 10006228.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2023-10-01",
+      "dealAmount": 1390000,
+      "parcelNum": "4016-160-107",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19041,
+      "row_id": 11
+    },
+    {
+      "assetId": 10006338.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2023-08-15",
+      "dealAmount": 1230000,
+      "parcelNum": "4016-160-217",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-01",
+          "dealAmount": 738000
+        }
+      ],
+      "trend": {
+        "rate": 66.7,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 20847,
+      "row_id": 12
+    },
+    {
+      "assetId": 10006185.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2023-08-08",
+      "dealAmount": 1450000,
+      "parcelNum": "4016-160-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 71.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-11-06",
+          "dealAmount": 825000
+        }
+      ],
+      "trend": {
+        "rate": 75.8,
+        "years": 7.8
+      },
+      "ownership": [],
+      "priceSM": 20423,
+      "row_id": 13
+    },
+    {
+      "assetId": 10006317.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2023-07-30",
+      "dealAmount": 1180000,
+      "parcelNum": "4016-160-196",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-27",
+          "dealAmount": 735000
+        }
+      ],
+      "trend": {
+        "rate": 60.5,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 21071,
+      "row_id": 14
+    },
+    {
+      "assetId": 10006229.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2023-06-01",
+      "dealAmount": 1300000,
+      "parcelNum": "4016-160-108",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17808,
+      "row_id": 15
+    },
+    {
+      "assetId": 10006257.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2023-05-24",
+      "dealAmount": 1392000,
+      "parcelNum": "4016-160-136",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-03-22",
+          "dealAmount": 1160000
+        }
+      ],
+      "trend": {
+        "rate": 20.0,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 19068,
+      "row_id": 16
+    },
+    {
+      "assetId": 10006220.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2023-04-19",
+      "dealAmount": 1170000,
+      "parcelNum": "4016-160-99",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-05-03",
+          "dealAmount": 880000
+        }
+      ],
+      "trend": {
+        "rate": 33.0,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 20893,
+      "row_id": 17
+    },
+    {
+      "assetId": 10006142.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2023-02-08",
+      "dealAmount": 1265000,
+      "parcelNum": "4016-160-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-18",
+          "dealAmount": 735000
+        },
+        {
+          "dealDate": "2006-12-27",
+          "dealAmount": 312000
+        }
+      ],
+      "trend": {
+        "rate": 72.1,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 17329,
+      "row_id": 18
+    },
+    {
+      "assetId": 10006198.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2022-12-14",
+      "dealAmount": 600000,
+      "parcelNum": "4016-160-77",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10714,
+      "row_id": 19
+    },
+    {
+      "assetId": 10006329.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2022-11-29",
+      "dealAmount": 1160000,
+      "parcelNum": "4016-160-208",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-23",
+          "dealAmount": 635000
+        },
+        {
+          "dealDate": "2007-02-07",
+          "dealAmount": 199000
+        }
+      ],
+      "trend": {
+        "rate": 82.7,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 20714,
+      "row_id": 20
+    },
+    {
+      "assetId": 10006301.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2022-11-16",
+      "dealAmount": 1075000,
+      "parcelNum": "4016-160-180",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 59.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18220,
+      "row_id": 21
+    },
+    {
+      "assetId": 10006283.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2022-11-14",
+      "dealAmount": 1060000,
+      "parcelNum": "4016-160-162",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 41.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-03-14",
+          "dealAmount": 773000
+        }
+      ],
+      "trend": {
+        "rate": 37.1,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 25854,
+      "row_id": 22
+    },
+    {
+      "assetId": 10006326.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2022-10-02",
+      "dealAmount": 895000,
+      "parcelNum": "4016-160-205",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 41.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21829,
+      "row_id": 23
+    },
+    {
+      "assetId": 10006150.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2022-08-09",
+      "dealAmount": 1280000,
+      "parcelNum": "4016-160-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-16",
+          "dealAmount": 520000
+        }
+      ],
+      "trend": {
+        "rate": 146.2,
+        "years": 12.4
+      },
+      "ownership": [],
+      "priceSM": 17534,
+      "row_id": 24
+    },
+    {
+      "assetId": 10006335.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2022-03-21",
+      "dealAmount": 1000000,
+      "parcelNum": "4016-160-214",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-12",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 122.2,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 17857,
+      "row_id": 25
+    },
+    {
+      "assetId": 10006267.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2022-02-06",
+      "dealAmount": 361000,
+      "parcelNum": "4016-160-146",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-07-18",
+          "dealAmount": 930000
+        },
+        {
+          "dealDate": "2001-07-16",
+          "dealAmount": 315000
+        }
+      ],
+      "trend": {
+        "rate": -61.2,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 6446,
+      "row_id": 26
+    },
+    {
+      "assetId": 10006219.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2021-11-25",
+      "dealAmount": 1080000,
+      "parcelNum": "4016-160-98",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-08-04",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2002-07-21",
+          "dealAmount": 319000
+        }
+      ],
+      "trend": {
+        "rate": 71.4,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 19286,
+      "row_id": 27
+    },
+    {
+      "assetId": 10006176.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2021-11-03",
+      "dealAmount": 1080000,
+      "parcelNum": "4016-160-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-02-04",
+          "dealAmount": 480000
+        },
+        {
+          "dealDate": "2013-06-25",
+          "dealAmount": 655000
+        },
+        {
+          "dealDate": "2001-07-08",
+          "dealAmount": 318000
+        }
+      ],
+      "trend": {
+        "rate": 125.0,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 19286,
+      "row_id": 28
+    },
+    {
+      "assetId": 10006238.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2021-11-02",
+      "dealAmount": 1160000,
+      "parcelNum": "4016-160-117",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-12-31",
+          "dealAmount": 1085000
+        }
+      ],
+      "trend": {
+        "rate": 6.9,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 15890,
+      "row_id": 29
+    },
+    {
+      "assetId": 10006161.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2021-10-19",
+      "dealAmount": 1075000,
+      "parcelNum": "4016-160-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19196,
+      "row_id": 30
+    },
+    {
+      "assetId": 10006163.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2021-07-21",
+      "dealAmount": 1050000,
+      "parcelNum": "4016-160-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-12-22",
+          "dealAmount": 740000
+        },
+        {
+          "dealDate": "2000-08-12",
+          "dealAmount": 334000
+        }
+      ],
+      "trend": {
+        "rate": 41.9,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 18750,
+      "row_id": 31
+    },
+    {
+      "assetId": 10006133.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2021-06-28",
+      "dealAmount": 1050000,
+      "parcelNum": "4016-160-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-02-13",
+          "dealAmount": 335000
+        }
+      ],
+      "trend": {
+        "rate": 213.4,
+        "years": 12.4
+      },
+      "ownership": [],
+      "priceSM": 18750,
+      "row_id": 32
+    },
+    {
+      "assetId": 10006323.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2020-09-02",
+      "dealAmount": 725000,
+      "parcelNum": "4016-160-202",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 41.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17683,
+      "row_id": 33
+    },
+    {
+      "assetId": 10006233.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2019-12-23",
+      "dealAmount": 1060000,
+      "parcelNum": "4016-160-112",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14521,
+      "row_id": 34
+    },
+    {
+      "assetId": 10006260.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2019-12-11",
+      "dealAmount": 1036000,
+      "parcelNum": "4016-160-139",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 59.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17559,
+      "row_id": 35
+    },
+    {
+      "assetId": 10006123.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2019-11-20",
+      "dealAmount": 1190000,
+      "parcelNum": "4016-160-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-03-18",
+          "dealAmount": 420000
+        },
+        {
+          "dealDate": "2012-02-06",
+          "dealAmount": 520000
+        },
+        {
+          "dealDate": "2011-11-20",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2008-07-03",
+          "dealAmount": 210000
+        },
+        {
+          "dealDate": "2001-02-08",
+          "dealAmount": 316000
+        }
+      ],
+      "trend": {
+        "rate": 183.3,
+        "years": 7.7
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 392700
+        },
+        {
+          "proportion": "66",
+          "price": 785400
+        }
+      ],
+      "priceSM": 16301,
+      "row_id": 36
+    },
+    {
+      "assetId": 10006327.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2019-09-19",
+      "dealAmount": 995000,
+      "parcelNum": "4016-160-206",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17768,
+      "row_id": 37
+    },
+    {
+      "assetId": 10006277.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2018-03-13",
+      "dealAmount": 375000,
+      "parcelNum": "4016-160-156",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9146,
+      "row_id": 39
+    },
+    {
+      "assetId": 10006188.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2018-02-27",
+      "dealAmount": 1070000,
+      "parcelNum": "4016-160-67",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 71.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15070,
+      "row_id": 40
+    },
+    {
+      "assetId": 10006279.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2017-09-03",
+      "dealAmount": 200000,
+      "parcelNum": "4016-160-158",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 41.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4878,
+      "row_id": 41
+    },
+    {
+      "assetId": 10006336.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2017-07-06",
+      "dealAmount": 870000,
+      "parcelNum": "4016-160-215",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-12",
+          "dealAmount": 700000
+        }
+      ],
+      "trend": {
+        "rate": 24.3,
+        "years": 2.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 435000
+        },
+        {
+          "proportion": "50",
+          "price": 435000
+        }
+      ],
+      "priceSM": 15536,
+      "row_id": 42
+    },
+    {
+      "assetId": 10006195.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2017-02-22",
+      "dealAmount": 465000,
+      "parcelNum": "4016-160-74",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 71.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-26",
+          "dealAmount": 780000
+        }
+      ],
+      "trend": {
+        "rate": -40.4,
+        "years": 1.7
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 232500
+        },
+        {
+          "proportion": "50",
+          "price": 232500
+        }
+      ],
+      "priceSM": 6549,
+      "row_id": 43
+    },
+    {
+      "assetId": 10006217.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2016-12-29",
+      "dealAmount": 745000,
+      "parcelNum": "4016-160-96",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-03-28",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 24.2,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 13304,
+      "row_id": 44
+    },
+    {
+      "assetId": 10006206.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2016-12-20",
+      "dealAmount": 840000,
+      "parcelNum": "4016-160-85",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-08-20",
+          "dealAmount": 640000
+        },
+        {
+          "dealDate": "2000-06-23",
+          "dealAmount": 368000
+        }
+      ],
+      "trend": {
+        "rate": 31.2,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 45
+    },
+    {
+      "assetId": 10006263.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2016-07-28",
+      "dealAmount": 815000,
+      "parcelNum": "4016-160-142",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13814,
+      "row_id": 46
+    },
+    {
+      "assetId": 10006275.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2016-05-06",
+      "dealAmount": 790000,
+      "parcelNum": "4016-160-154",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14107,
+      "row_id": 47
+    },
+    {
+      "assetId": 10006193.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2016-04-17",
+      "dealAmount": 890000,
+      "parcelNum": "4016-160-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 71.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12535,
+      "row_id": 48
+    },
+    {
+      "assetId": 10006207.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2016-03-06",
+      "dealAmount": 760000,
+      "parcelNum": "4016-160-86",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-02-19",
+          "dealAmount": 585000
+        }
+      ],
+      "trend": {
+        "rate": 29.9,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 13571,
+      "row_id": 49
+    },
+    {
+      "assetId": 10006226.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2016-02-22",
+      "dealAmount": 835000,
+      "parcelNum": "4016-160-105",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11438,
+      "row_id": 50
+    },
+    {
+      "assetId": 10006239.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2016-02-10",
+      "dealAmount": 825000,
+      "parcelNum": "4016-160-118",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-06-09",
+          "dealAmount": 730000
+        }
+      ],
+      "trend": {
+        "rate": 13.0,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 11301,
+      "row_id": 51
+    },
+    {
+      "assetId": 10006141.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2016-02-02",
+      "dealAmount": 740000,
+      "parcelNum": "4016-160-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10137,
+      "row_id": 52
+    },
+    {
+      "assetId": 10006138.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2015-09-17",
+      "dealAmount": 720000,
+      "parcelNum": "4016-160-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-04",
+          "dealAmount": 720000
+        },
+        {
+          "dealDate": "2003-02-03",
+          "dealAmount": 341000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 0.1
+      },
+      "ownership": [],
+      "priceSM": 12857,
+      "row_id": 53
+    },
+    {
+      "assetId": 10006213.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2015-09-06",
+      "dealAmount": 570000,
+      "parcelNum": "4016-160-92",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 41.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13902,
+      "row_id": 54
+    },
+    {
+      "assetId": 10006132.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2015-07-03",
+      "dealAmount": 750000,
+      "parcelNum": "4016-160-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13393,
+      "row_id": 55
+    },
+    {
+      "assetId": 10006169.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2015-02-12",
+      "dealAmount": 439000,
+      "parcelNum": "4016-160-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 41.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10707,
+      "row_id": 56
+    },
+    {
+      "assetId": 10006241.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2014-09-30",
+      "dealAmount": 690000,
+      "parcelNum": "4016-160-120",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-29",
+          "dealAmount": 510000
+        }
+      ],
+      "trend": {
+        "rate": 35.3,
+        "years": 0.7
+      },
+      "ownership": [],
+      "priceSM": 12321,
+      "row_id": 57
+    },
+    {
+      "assetId": 10006333.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2014-04-07",
+      "dealAmount": 740000,
+      "parcelNum": "4016-160-212",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-11-21",
+          "dealAmount": 550000
+        }
+      ],
+      "trend": {
+        "rate": 34.5,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 13214,
+      "row_id": 58
+    },
+    {
+      "assetId": 10006284.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2014-02-24",
+      "dealAmount": 639000,
+      "parcelNum": "4016-160-163",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11411,
+      "row_id": 59
+    },
+    {
+      "assetId": 10006315.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2013-12-18",
+      "dealAmount": 570000,
+      "parcelNum": "4016-160-194",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10179,
+      "row_id": 60
+    },
+    {
+      "assetId": 10006276.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2013-10-09",
+      "dealAmount": 510000,
+      "parcelNum": "4016-160-155",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12439,
+      "row_id": 61
+    },
+    {
+      "assetId": 10006253.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2013-08-29",
+      "dealAmount": 740000,
+      "parcelNum": "4016-160-132",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10137,
+      "row_id": 62
+    },
+    {
+      "assetId": 10006255.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2013-06-04",
+      "dealAmount": 735000,
+      "parcelNum": "4016-160-134",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10068,
+      "row_id": 63
+    },
+    {
+      "assetId": 10006289.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2013-05-09",
+      "dealAmount": 500000,
+      "parcelNum": "4016-160-168",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-25",
+          "dealAmount": 435000
+        }
+      ],
+      "trend": {
+        "rate": 14.9,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 8929,
+      "row_id": 64
+    },
+    {
+      "assetId": 10006122.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2011-10-04",
+      "dealAmount": 520000,
+      "parcelNum": "4016-160-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7123,
+      "row_id": 65
+    },
+    {
+      "assetId": 10006126.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2011-09-26",
+      "dealAmount": 535000,
+      "parcelNum": "4016-160-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 73.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7329,
+      "row_id": 66
+    },
+    {
+      "assetId": 4099191.0,
+      "addressId": 0,
+      "polygonId": "4016-161",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "0",
+      "dealDate": "2010-05-25",
+      "dealAmount": 415000,
+      "parcelNum": "4016-161-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 62.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 7000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6694,
+      "row_id": 67
+    },
+    {
+      "assetId": 10006265.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2009-02-10",
+      "dealAmount": 310000,
+      "parcelNum": "4016-160-144",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 59.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5254,
+      "row_id": 68
+    },
+    {
+      "assetId": 10006318.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2008-07-08",
+      "dealAmount": 374000,
+      "parcelNum": "4016-160-197",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6679,
+      "row_id": 69
+    },
+    {
+      "assetId": 10006316.0,
+      "addressId": 53706583,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 11",
+      "dealDate": "2008-06-04",
+      "dealAmount": 387000,
+      "parcelNum": "4016-160-195",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6911,
+      "row_id": 70
+    },
+    {
+      "assetId": 10006168.0,
+      "addressId": 53708589,
+      "polygonId": "52540075",
+      "neighborhoodName": "משמר נוף",
+      "neighborhoodId": 65210349,
+      "address": "אריה רובין 10",
+      "dealDate": "2007-01-31",
+      "dealAmount": 195000,
+      "parcelNum": "4016-160-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 41.0,
+      "yearBuilt": 1992,
+      "streetCode": 70000329,
+      "settlmentID": 7000,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4756,
+      "row_id": 71
+    }
+  ]
+}

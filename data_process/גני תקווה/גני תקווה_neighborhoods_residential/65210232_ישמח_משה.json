@@ -1,0 +1,2822 @@
+{
+  "neighborhood_name": "ישמח משה",
+  "city_name": "גני תקווה",
+  "transaction_count": 90,
+  "transactions": [
+    {
+      "assetId": 81217596.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2025-04-02",
+      "dealAmount": 2680000,
+      "parcelNum": "6720-707-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קומה ‎0‏",
+      "assetArea": 97.0,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-16",
+          "dealAmount": 2220000
+        }
+      ],
+      "trend": {
+        "rate": 20.7,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 27629,
+      "row_id": 1
+    },
+    {
+      "assetId": 81217596.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2024-11-21",
+      "dealAmount": 2400000,
+      "parcelNum": "6720-707-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 100.0,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24000,
+      "row_id": 2
+    },
+    {
+      "assetId": 80236123.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2024-11-18",
+      "dealAmount": 3800000,
+      "parcelNum": "6720-707-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 150.0,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25333,
+      "row_id": 3
+    },
+    {
+      "assetId": 81217596.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2024-11-18",
+      "dealAmount": 2900000,
+      "parcelNum": "6720-707-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 120.0,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24167,
+      "row_id": 4
+    },
+    {
+      "assetId": 81217596.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2024-09-18",
+      "dealAmount": 2400000,
+      "parcelNum": "6720-707-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 105.0,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22857,
+      "row_id": 5
+    },
+    {
+      "assetId": 80236791.0,
+      "addressId": 53622506,
+      "polygonId": "53446618",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 67",
+      "dealDate": "2024-07-30",
+      "dealAmount": 1850000,
+      "parcelNum": "6720-784-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 108.7,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-01-01",
+          "dealAmount": 1400000
+        }
+      ],
+      "trend": {
+        "rate": 32.1,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 17130,
+      "row_id": 6
+    },
+    {
+      "assetId": 80236770.0,
+      "addressId": 53621299,
+      "polygonId": "53446618",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 71",
+      "dealDate": "2024-05-19",
+      "dealAmount": 1722000,
+      "parcelNum": "6720-784-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 90.2,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-05-29",
+          "dealAmount": 1700000
+        },
+        {
+          "dealDate": "2020-03-11",
+          "dealAmount": 1450000
+        },
+        {
+          "dealDate": "2007-02-11",
+          "dealAmount": 549000
+        },
+        {
+          "dealDate": "2005-06-30",
+          "dealAmount": 251000
+        }
+      ],
+      "trend": {
+        "rate": 1.3,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 19133,
+      "row_id": 7
+    },
+    {
+      "assetId": 80236121.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2024-04-14",
+      "dealAmount": 1960000,
+      "parcelNum": "6720-707-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 67.2,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29167,
+      "row_id": 8
+    },
+    {
+      "assetId": 80236106.0,
+      "addressId": 53621935,
+      "polygonId": "52293289",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 4",
+      "dealDate": "2024-02-11",
+      "dealAmount": 1800000,
+      "parcelNum": "6720-706-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 68.4,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-06-02",
+          "dealAmount": 1460000
+        },
+        {
+          "dealDate": "2009-02-05",
+          "dealAmount": 610000
+        },
+        {
+          "dealDate": "2008-01-31",
+          "dealAmount": 485000
+        },
+        {
+          "dealDate": "2000-09-19",
+          "dealAmount": 394000
+        }
+      ],
+      "trend": {
+        "rate": 23.3,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 26471,
+      "row_id": 9
+    },
+    {
+      "assetId": 80236919.0,
+      "addressId": 53621941,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 70",
+      "dealDate": "2023-08-03",
+      "dealAmount": 1720000,
+      "parcelNum": "6720-812-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 90.8,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18943,
+      "row_id": 10
+    },
+    {
+      "assetId": 80236932.0,
+      "addressId": 53622213,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 66",
+      "dealDate": "2023-03-26",
+      "dealAmount": 450000,
+      "parcelNum": "6720-812-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 102.6,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4386,
+      "row_id": 11
+    },
+    {
+      "assetId": 80236759.0,
+      "addressId": 53621298,
+      "polygonId": "53446618",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 73",
+      "dealDate": "2022-10-25",
+      "dealAmount": 1600000,
+      "parcelNum": "6720-784-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 75.5,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21192,
+      "row_id": 12
+    },
+    {
+      "assetId": 80235984.0,
+      "addressId": 53621353,
+      "polygonId": "52367316",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 64",
+      "dealDate": "2022-08-23",
+      "dealAmount": 2100000,
+      "parcelNum": "6720-661-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 82.1,
+      "yearBuilt": 1970,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-04-06",
+          "dealAmount": 1100000
+        }
+      ],
+      "trend": {
+        "rate": 90.9,
+        "years": 11.4
+      },
+      "ownership": [],
+      "priceSM": 25610,
+      "row_id": 13
+    },
+    {
+      "assetId": 80236926.0,
+      "addressId": 53621416,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 68",
+      "dealDate": "2022-02-23",
+      "dealAmount": 1550000,
+      "parcelNum": "6720-812-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 94.8,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16350,
+      "row_id": 14
+    },
+    {
+      "assetId": 80236916.0,
+      "addressId": 53621941,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 70",
+      "dealDate": "2022-01-17",
+      "dealAmount": 1560000,
+      "parcelNum": "6720-812-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 98.3,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-04",
+          "dealAmount": 1200000
+        }
+      ],
+      "trend": {
+        "rate": 30.0,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 15918,
+      "row_id": 15
+    },
+    {
+      "assetId": 80236921.0,
+      "addressId": 53621416,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 68",
+      "dealDate": "2022-01-16",
+      "dealAmount": 880000,
+      "parcelNum": "6720-812-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 91.7,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9597,
+      "row_id": 16
+    },
+    {
+      "assetId": 80239208.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2022-01-15",
+      "dealAmount": 1400000,
+      "parcelNum": "6720-1072-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 64.1,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-02-08",
+          "dealAmount": 1200000
+        },
+        {
+          "dealDate": "2005-09-25",
+          "dealAmount": 435000
+        }
+      ],
+      "trend": {
+        "rate": 16.7,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 21875,
+      "row_id": 17
+    },
+    {
+      "assetId": 80236917.0,
+      "addressId": 53621941,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 70",
+      "dealDate": "2021-11-29",
+      "dealAmount": 172000,
+      "parcelNum": "6720-812-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 94.8,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1814,
+      "row_id": 18
+    },
+    {
+      "assetId": 80236112.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2020-12-20",
+      "dealAmount": 675000,
+      "parcelNum": "6720-707-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 69.4,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-01-25",
+          "dealAmount": 611000
+        }
+      ],
+      "trend": {
+        "rate": 10.5,
+        "years": 21.9
+      },
+      "ownership": [
+        {
+          "proportion": "10",
+          "price": 67500
+        },
+        {
+          "proportion": "10",
+          "price": 67500
+        },
+        {
+          "proportion": "10",
+          "price": 67500
+        },
+        {
+          "proportion": "10",
+          "price": 67500
+        },
+        {
+          "proportion": "10",
+          "price": 67500
+        },
+        {
+          "proportion": "50",
+          "price": 337500
+        }
+      ],
+      "priceSM": 9783,
+      "row_id": 20
+    },
+    {
+      "assetId": 80236737.0,
+      "addressId": 53621756,
+      "polygonId": "52242651",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 75",
+      "dealDate": "2020-10-18",
+      "dealAmount": 1650000,
+      "parcelNum": "6720-783-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 109.0,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-02-25",
+          "dealAmount": 505000
+        }
+      ],
+      "trend": {
+        "rate": 226.7,
+        "years": 20.7
+      },
+      "ownership": [],
+      "priceSM": 15138,
+      "row_id": 21
+    },
+    {
+      "assetId": 80236936.0,
+      "addressId": 53622213,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 66",
+      "dealDate": "2019-09-27",
+      "dealAmount": 1440000,
+      "parcelNum": "6720-812-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 94.5,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15238,
+      "row_id": 22
+    },
+    {
+      "assetId": 80236915.0,
+      "addressId": 53621941,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 70",
+      "dealDate": "2019-07-16",
+      "dealAmount": 1655000,
+      "parcelNum": "6720-812-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 98.3,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-08-13",
+          "dealAmount": 593000
+        }
+      ],
+      "trend": {
+        "rate": 179.1,
+        "years": 14.9
+      },
+      "ownership": [],
+      "priceSM": 16888,
+      "row_id": 23
+    },
+    {
+      "assetId": 80236116.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2019-04-17",
+      "dealAmount": 1520000,
+      "parcelNum": "6720-707-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 68.4,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-10-07",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2007-02-07",
+          "dealAmount": 340000
+        }
+      ],
+      "trend": {
+        "rate": 166.7,
+        "years": 10.5
+      },
+      "ownership": [],
+      "priceSM": 22353,
+      "row_id": 24
+    },
+    {
+      "assetId": 80236952.0,
+      "addressId": 53881997,
+      "polygonId": "52189874",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 74",
+      "dealDate": "2019-02-11",
+      "dealAmount": 1200000,
+      "parcelNum": "6720-813-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 48.3,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24845,
+      "row_id": 25
+    },
+    {
+      "assetId": 80236094.0,
+      "addressId": 53621935,
+      "polygonId": "52293289",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 4",
+      "dealDate": "2019-01-20",
+      "dealAmount": 1680000,
+      "parcelNum": "6720-706-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שניה",
+      "assetArea": 82.1,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-02-29",
+          "dealAmount": 1290000
+        }
+      ],
+      "trend": {
+        "rate": 30.2,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 20488,
+      "row_id": 26
+    },
+    {
+      "assetId": 80236726.0,
+      "addressId": 53621352,
+      "polygonId": "52242651",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 77",
+      "dealDate": "2019-01-10",
+      "dealAmount": 1210000,
+      "parcelNum": "6720-783-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "קרקע",
+      "assetArea": 48.3,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-09-12",
+          "dealAmount": 860000
+        }
+      ],
+      "trend": {
+        "rate": 40.7,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 25208,
+      "row_id": 27
+    },
+    {
+      "assetId": 80235975.0,
+      "addressId": 53620345,
+      "polygonId": "52367316",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 62",
+      "dealDate": "2018-12-13",
+      "dealAmount": 1720000,
+      "parcelNum": "6720-661-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 82.1,
+      "yearBuilt": 1970,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20950,
+      "row_id": 28
+    },
+    {
+      "assetId": 80236105.0,
+      "addressId": 53621935,
+      "polygonId": "52293289",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 4",
+      "dealDate": "2018-10-14",
+      "dealAmount": 1550000,
+      "parcelNum": "6720-706-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.1,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-23",
+          "dealAmount": 780000
+        }
+      ],
+      "trend": {
+        "rate": 98.7,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 19136,
+      "row_id": 29
+    },
+    {
+      "assetId": 80239198.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2018-08-12",
+      "dealAmount": 1290000,
+      "parcelNum": "6720-1072-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 63.6,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-31",
+          "dealAmount": 910000
+        },
+        {
+          "dealDate": "2003-07-06",
+          "dealAmount": 430000
+        }
+      ],
+      "trend": {
+        "rate": 41.8,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 20476,
+      "row_id": 30
+    },
+    {
+      "assetId": 80239207.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2018-08-01",
+      "dealAmount": 1325000,
+      "parcelNum": "6720-1072-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 69.8,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18983,
+      "row_id": 31
+    },
+    {
+      "assetId": 80235987.0,
+      "addressId": 53621353,
+      "polygonId": "52367316",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 64",
+      "dealDate": "2018-05-28",
+      "dealAmount": 1290000,
+      "parcelNum": "6720-661-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 68.4,
+      "yearBuilt": 1970,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-07-05",
+          "dealAmount": 720000
+        }
+      ],
+      "trend": {
+        "rate": 79.2,
+        "years": 8.9
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 645000
+        },
+        {
+          "proportion": "50",
+          "price": 645000
+        }
+      ],
+      "priceSM": 18971,
+      "row_id": 32
+    },
+    {
+      "assetId": 80236798.0,
+      "addressId": 72621023,
+      "polygonId": "51665469",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 65",
+      "dealDate": "2018-05-07",
+      "dealAmount": 1950000,
+      "parcelNum": "6720-785-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 115.3,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-24",
+          "dealAmount": 1200000
+        }
+      ],
+      "trend": {
+        "rate": 62.5,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 16957,
+      "row_id": 33
+    },
+    {
+      "assetId": 80239197.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2018-01-14",
+      "dealAmount": 1300000,
+      "parcelNum": "6720-1072-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 70.31,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-02-26",
+          "dealAmount": 880000
+        },
+        {
+          "dealDate": "2011-12-13",
+          "dealAmount": 830000
+        },
+        {
+          "dealDate": "2010-07-28",
+          "dealAmount": 800000
+        },
+        {
+          "dealDate": "2010-02-02",
+          "dealAmount": 393000
+        }
+      ],
+      "trend": {
+        "rate": 47.7,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 18571,
+      "row_id": 34
+    },
+    {
+      "assetId": 80236093.0,
+      "addressId": 53621935,
+      "polygonId": "52293289",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 4",
+      "dealDate": "2017-11-12",
+      "dealAmount": 1420000,
+      "parcelNum": "6720-706-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 69.2,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-12-23",
+          "dealAmount": 444000
+        }
+      ],
+      "trend": {
+        "rate": 219.8,
+        "years": 14.9
+      },
+      "ownership": [],
+      "priceSM": 20580,
+      "row_id": 35
+    },
+    {
+      "assetId": 80235982.0,
+      "addressId": 53621353,
+      "polygonId": "52367316",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 64",
+      "dealDate": "2017-04-06",
+      "dealAmount": 1450000,
+      "parcelNum": "6720-661-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 83.1,
+      "yearBuilt": 1970,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17449,
+      "row_id": 36
+    },
+    {
+      "assetId": 80236945.0,
+      "addressId": 53880872,
+      "polygonId": "52189874",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 76",
+      "dealDate": "2017-03-21",
+      "dealAmount": 1550000,
+      "parcelNum": "6720-813-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 109.5,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14155,
+      "row_id": 37
+    },
+    {
+      "assetId": 80236097.0,
+      "addressId": 53621935,
+      "polygonId": "52293289",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 4",
+      "dealDate": "2016-10-07",
+      "dealAmount": 1200000,
+      "parcelNum": "6720-706-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.2,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-25",
+          "dealAmount": 1050000
+        },
+        {
+          "dealDate": "2001-03-06",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 14.3,
+        "years": 2.8
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 600000
+        },
+        {
+          "proportion": "50",
+          "price": 600000
+        }
+      ],
+      "priceSM": 17910,
+      "row_id": 38
+    },
+    {
+      "assetId": 80236914.0,
+      "addressId": 53621941,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 70",
+      "dealDate": "2016-09-04",
+      "dealAmount": 1700000,
+      "parcelNum": "6720-812-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 91.7,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-03-27",
+          "dealAmount": 690000
+        },
+        {
+          "dealDate": "2002-03-11",
+          "dealAmount": 746000
+        }
+      ],
+      "trend": {
+        "rate": 146.4,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 18681,
+      "row_id": 39
+    },
+    {
+      "assetId": 80239190.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2016-09-04",
+      "dealAmount": 1200000,
+      "parcelNum": "6720-1072-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.1,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17884,
+      "row_id": 40
+    },
+    {
+      "assetId": 80236935.0,
+      "addressId": 53622213,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 66",
+      "dealDate": "2016-05-18",
+      "dealAmount": 1350000,
+      "parcelNum": "6720-812-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 90.8,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-07-04",
+          "dealAmount": 425000
+        }
+      ],
+      "trend": {
+        "rate": 217.6,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 42
+    },
+    {
+      "assetId": 80236790.0,
+      "addressId": 53622506,
+      "polygonId": "53446618",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 67",
+      "dealDate": "2016-05-04",
+      "dealAmount": 1050000,
+      "parcelNum": "6720-784-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 92.7,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-04-15",
+          "dealAmount": 1000000
+        }
+      ],
+      "trend": {
+        "rate": 5.0,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 11413,
+      "row_id": 43
+    },
+    {
+      "assetId": 80239210.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2016-04-17",
+      "dealAmount": 1030000,
+      "parcelNum": "6720-1072-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.7,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-01-10",
+          "dealAmount": 750000
+        },
+        {
+          "dealDate": "2003-04-09",
+          "dealAmount": 416000
+        }
+      ],
+      "trend": {
+        "rate": 37.3,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 16094,
+      "row_id": 44
+    },
+    {
+      "assetId": 80239223.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2016-04-13",
+      "dealAmount": 1049000,
+      "parcelNum": "6720-1072-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 72.7,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14429,
+      "row_id": 45
+    },
+    {
+      "assetId": 80236799.0,
+      "addressId": 72621023,
+      "polygonId": "51665469",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 65",
+      "dealDate": "2016-01-26",
+      "dealAmount": 1500000,
+      "parcelNum": "6720-785-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 114.6,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-11",
+          "dealAmount": 1350000
+        }
+      ],
+      "trend": {
+        "rate": 11.1,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 13158,
+      "row_id": 47
+    },
+    {
+      "assetId": 80239186.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2016-01-18",
+      "dealAmount": 1150000,
+      "parcelNum": "6720-1072-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.5,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15862,
+      "row_id": 48
+    },
+    {
+      "assetId": 80235988.0,
+      "addressId": 53621353,
+      "polygonId": "52367316",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 64",
+      "dealDate": "2015-12-22",
+      "dealAmount": 1225000,
+      "parcelNum": "6720-661-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "רביעית",
+      "assetArea": 81.1,
+      "yearBuilt": 1970,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-01-24",
+          "dealAmount": 455000
+        }
+      ],
+      "trend": {
+        "rate": 169.2,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 15123,
+      "row_id": 49
+    },
+    {
+      "assetId": 80235979.0,
+      "addressId": 53620345,
+      "polygonId": "52367316",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 62",
+      "dealDate": "2015-11-25",
+      "dealAmount": 1300000,
+      "parcelNum": "6720-661-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.1,
+      "yearBuilt": 1970,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-15",
+          "dealAmount": 800000
+        }
+      ],
+      "trend": {
+        "rate": 62.5,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 16049,
+      "row_id": 50
+    },
+    {
+      "assetId": 80236800.0,
+      "addressId": 72621023,
+      "polygonId": "51665469",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 65",
+      "dealDate": "2015-10-27",
+      "dealAmount": 1680000,
+      "parcelNum": "6720-785-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 114.6,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14660,
+      "row_id": 51
+    },
+    {
+      "assetId": 80236934.0,
+      "addressId": 53622213,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 66",
+      "dealDate": "2015-07-30",
+      "dealAmount": 1260000,
+      "parcelNum": "6720-812-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 94.5,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13333,
+      "row_id": 52
+    },
+    {
+      "assetId": 80236951.0,
+      "addressId": 53881997,
+      "polygonId": "52189874",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 74",
+      "dealDate": "2015-02-09",
+      "dealAmount": 800000,
+      "parcelNum": "6720-813-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 49.8,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-05-13",
+          "dealAmount": 374000
+        }
+      ],
+      "trend": {
+        "rate": 113.9,
+        "years": 10.8
+      },
+      "ownership": [],
+      "priceSM": 16327,
+      "row_id": 54
+    },
+    {
+      "assetId": 80236767.0,
+      "addressId": 53621299,
+      "polygonId": "53446618",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 71",
+      "dealDate": "2015-02-09",
+      "dealAmount": 1300000,
+      "parcelNum": "6720-784-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 94.0,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13830,
+      "row_id": 55
+    },
+    {
+      "assetId": 80239221.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2014-12-15",
+      "dealAmount": 850000,
+      "parcelNum": "6720-1072-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 69.1,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12301,
+      "row_id": 56
+    },
+    {
+      "assetId": 80236911.0,
+      "addressId": 53621939,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 72",
+      "dealDate": "2014-10-19",
+      "dealAmount": 885000,
+      "parcelNum": "6720-812-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 94.5,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-02-28",
+          "dealAmount": 517000
+        }
+      ],
+      "trend": {
+        "rate": 71.2,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 9415,
+      "row_id": 57
+    },
+    {
+      "assetId": 80235977.0,
+      "addressId": 53620345,
+      "polygonId": "52367316",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 62",
+      "dealDate": "2014-06-11",
+      "dealAmount": 1163000,
+      "parcelNum": "6720-661-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.1,
+      "yearBuilt": 1970,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14340,
+      "row_id": 58
+    },
+    {
+      "assetId": 80236928.0,
+      "addressId": 53621416,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 68",
+      "dealDate": "2014-05-13",
+      "dealAmount": 1074000,
+      "parcelNum": "6720-812-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 90.8,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11828,
+      "row_id": 59
+    },
+    {
+      "assetId": 80236949.0,
+      "addressId": 53881997,
+      "polygonId": "52189874",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 74",
+      "dealDate": "2013-12-29",
+      "dealAmount": 825000,
+      "parcelNum": "6720-813-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 52.5,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-21",
+          "dealAmount": 86000
+        },
+        {
+          "dealDate": "2010-08-25",
+          "dealAmount": 152000
+        }
+      ],
+      "trend": {
+        "rate": 859.3,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 15865,
+      "row_id": 60
+    },
+    {
+      "assetId": 80236755.0,
+      "addressId": 53621298,
+      "polygonId": "53446618",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 73",
+      "dealDate": "2013-06-18",
+      "dealAmount": 1180000,
+      "parcelNum": "6720-784-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 76.9,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-08-01",
+          "dealAmount": 529000
+        },
+        {
+          "dealDate": "2000-04-09",
+          "dealAmount": 475000
+        }
+      ],
+      "trend": {
+        "rate": 123.1,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 15526,
+      "row_id": 61
+    },
+    {
+      "assetId": 80239202.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2013-04-30",
+      "dealAmount": 815000,
+      "parcelNum": "6720-1072-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.7,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12998,
+      "row_id": 62
+    },
+    {
+      "assetId": 80239189.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2013-03-05",
+      "dealAmount": 825000,
+      "parcelNum": "6720-1072-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12538,
+      "row_id": 63
+    },
+    {
+      "assetId": 80236941.0,
+      "addressId": 53880872,
+      "polygonId": "52189874",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 76",
+      "dealDate": "2013-01-31",
+      "dealAmount": 350000,
+      "parcelNum": "6720-813-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 48.3,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7246,
+      "row_id": 64
+    },
+    {
+      "assetId": 80236771.0,
+      "addressId": 53621299,
+      "polygonId": "53446618",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 71",
+      "dealDate": "2013-01-03",
+      "dealAmount": 1049000,
+      "parcelNum": "6720-784-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 88.6,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11840,
+      "row_id": 65
+    },
+    {
+      "assetId": 80239203.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2012-10-15",
+      "dealAmount": 845000,
+      "parcelNum": "6720-1072-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "רביעית",
+      "assetArea": 63.3,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13349,
+      "row_id": 66
+    },
+    {
+      "assetId": 80236122.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2011-06-28",
+      "dealAmount": 910000,
+      "parcelNum": "6720-707-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 68.4,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13304,
+      "row_id": 67
+    },
+    {
+      "assetId": 80236784.0,
+      "addressId": 53618501,
+      "polygonId": "53446618",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 69",
+      "dealDate": "2010-03-18",
+      "dealAmount": 880000,
+      "parcelNum": "6720-784-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 85.3,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10317,
+      "row_id": 69
+    },
+    {
+      "assetId": 80239215.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2010-02-08",
+      "dealAmount": 650000,
+      "parcelNum": "6720-1072-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 71.4,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9104,
+      "row_id": 70
+    },
+    {
+      "assetId": 80239212.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2009-10-28",
+      "dealAmount": 720000,
+      "parcelNum": "6720-1072-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 69.3,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-09-06",
+          "dealAmount": 429000
+        }
+      ],
+      "trend": {
+        "rate": 67.8,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 10435,
+      "row_id": 71
+    },
+    {
+      "assetId": 80236736.0,
+      "addressId": 53621756,
+      "polygonId": "52242651",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 75",
+      "dealDate": "2009-09-02",
+      "dealAmount": 520000,
+      "parcelNum": "6720-783-12",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 49.8,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10442,
+      "row_id": 72
+    },
+    {
+      "assetId": 80236103.0,
+      "addressId": 53621935,
+      "polygonId": "52293289",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 4",
+      "dealDate": "2009-05-11",
+      "dealAmount": 645000,
+      "parcelNum": "6720-706-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 82.1,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7856,
+      "row_id": 73
+    },
+    {
+      "assetId": 80236781.0,
+      "addressId": 53618501,
+      "polygonId": "53446618",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 69",
+      "dealDate": "2008-11-18",
+      "dealAmount": 720000,
+      "parcelNum": "6720-784-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 92.9,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7750,
+      "row_id": 74
+    },
+    {
+      "assetId": 80236102.0,
+      "addressId": 53621935,
+      "polygonId": "52293289",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 4",
+      "dealDate": "2008-09-21",
+      "dealAmount": 510000,
+      "parcelNum": "6720-706-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 69.4,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7349,
+      "row_id": 75
+    },
+    {
+      "assetId": 80235981.0,
+      "addressId": 53621353,
+      "polygonId": "52367316",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 64",
+      "dealDate": "2008-08-20",
+      "dealAmount": 700000,
+      "parcelNum": "6720-661-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.4,
+      "yearBuilt": 1970,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-11-18",
+          "dealAmount": 447000
+        }
+      ],
+      "trend": {
+        "rate": 56.6,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 76
+    },
+    {
+      "assetId": 80236107.0,
+      "addressId": 53621935,
+      "polygonId": "52293289",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 4",
+      "dealDate": "2008-01-01",
+      "dealAmount": 475000,
+      "parcelNum": "6720-706-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.1,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-03-28",
+          "dealAmount": 387000
+        }
+      ],
+      "trend": {
+        "rate": 22.7,
+        "years": 7.8
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 237500
+        },
+        {
+          "proportion": "50",
+          "price": 237500
+        }
+      ],
+      "priceSM": 5864,
+      "row_id": 77
+    },
+    {
+      "assetId": 80236119.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2007-12-07",
+      "dealAmount": 580000,
+      "parcelNum": "6720-707-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 68.2,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8504,
+      "row_id": 78
+    },
+    {
+      "assetId": 80236129.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2007-11-21",
+      "dealAmount": 550000,
+      "parcelNum": "6720-707-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.2,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8185,
+      "row_id": 79
+    },
+    {
+      "assetId": 80236126.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2007-09-18",
+      "dealAmount": 687000,
+      "parcelNum": "6720-707-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 83.1,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8267,
+      "row_id": 80
+    },
+    {
+      "assetId": 80236115.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2007-07-26",
+      "dealAmount": 335000,
+      "parcelNum": "6720-707-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 58.7,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5707,
+      "row_id": 81
+    },
+    {
+      "assetId": 80236101.0,
+      "addressId": 53621935,
+      "polygonId": "52293289",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 4",
+      "dealDate": "2007-07-18",
+      "dealAmount": 739000,
+      "parcelNum": "6720-706-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 83.1,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8893,
+      "row_id": 82
+    },
+    {
+      "assetId": 80239188.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2007-06-28",
+      "dealAmount": 640000,
+      "parcelNum": "6720-1072-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 124.5,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5141,
+      "row_id": 83
+    },
+    {
+      "assetId": 80235978.0,
+      "addressId": 53620345,
+      "polygonId": "52367316",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 62",
+      "dealDate": "2007-02-13",
+      "dealAmount": 491000,
+      "parcelNum": "6720-661-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 67.2,
+      "yearBuilt": 1970,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-07-12",
+          "dealAmount": 588000
+        }
+      ],
+      "trend": {
+        "rate": -16.5,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 7328,
+      "row_id": 84
+    },
+    {
+      "assetId": 80236782.0,
+      "addressId": 53618501,
+      "polygonId": "53446618",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 69",
+      "dealDate": "2006-11-21",
+      "dealAmount": 258000,
+      "parcelNum": "6720-784-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 88.6,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2912,
+      "row_id": 85
+    },
+    {
+      "assetId": 80236940.0,
+      "addressId": 53880872,
+      "polygonId": "52189874",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 76",
+      "dealDate": "2006-11-05",
+      "dealAmount": 398000,
+      "parcelNum": "6720-813-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 52.5,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7581,
+      "row_id": 86
+    },
+    {
+      "assetId": 80239223.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2006-10-31",
+      "dealAmount": 358000,
+      "parcelNum": "6720-1072-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 64.0,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5594,
+      "row_id": 87
+    },
+    {
+      "assetId": 80236743.0,
+      "addressId": 53621756,
+      "polygonId": "52242651",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 75",
+      "dealDate": "2006-04-07",
+      "dealAmount": 557000,
+      "parcelNum": "6720-783-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 101.8,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5472,
+      "row_id": 88
+    },
+    {
+      "assetId": 80236778.0,
+      "addressId": 53618501,
+      "polygonId": "53446618",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 69",
+      "dealDate": "2006-03-23",
+      "dealAmount": 560000,
+      "parcelNum": "6720-784-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 94.0,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5957,
+      "row_id": 89
+    },
+    {
+      "assetId": 80236120.0,
+      "addressId": 53620968,
+      "polygonId": "52285474",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין חנוך 8",
+      "dealDate": "2006-02-12",
+      "dealAmount": 657000,
+      "parcelNum": "6720-707-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 69.4,
+      "yearBuilt": 1970,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9467,
+      "row_id": 90
+    },
+    {
+      "assetId": 80236792.0,
+      "addressId": 53622506,
+      "polygonId": "53446618",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 67",
+      "dealDate": "2005-10-02",
+      "dealAmount": 396000,
+      "parcelNum": "6720-784-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 91.1,
+      "yearBuilt": 1960,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4347,
+      "row_id": 91
+    },
+    {
+      "assetId": 80236929.0,
+      "addressId": 53622213,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 66",
+      "dealDate": "2005-02-16",
+      "dealAmount": 305000,
+      "parcelNum": "6720-812-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 91.7,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3326,
+      "row_id": 92
+    },
+    {
+      "assetId": 80236946.0,
+      "addressId": 53880872,
+      "polygonId": "52189874",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 76",
+      "dealDate": "2004-05-02",
+      "dealAmount": 637000,
+      "parcelNum": "6720-813-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 106.0,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6009,
+      "row_id": 93
+    },
+    {
+      "assetId": 80236927.0,
+      "addressId": 53621416,
+      "polygonId": "53294462",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "הרי יהודה 68",
+      "dealDate": "2003-09-02",
+      "dealAmount": 410000,
+      "parcelNum": "6720-812-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 94.8,
+      "yearBuilt": 1965,
+      "streetCode": 2290120,
+      "settlmentID": 229,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4325,
+      "row_id": 94
+    },
+    {
+      "assetId": 80239187.0,
+      "addressId": 53882315,
+      "polygonId": "52366038",
+      "neighborhoodName": "ישמח משה",
+      "neighborhoodId": 65210232,
+      "address": "עין גנים 30",
+      "dealDate": "2003-07-20",
+      "dealAmount": 466000,
+      "parcelNum": "6720-1072-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 50.0,
+      "yearBuilt": 1960,
+      "streetCode": 2290210,
+      "settlmentID": 229,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9320,
+      "row_id": 95
+    }
+  ]
+}

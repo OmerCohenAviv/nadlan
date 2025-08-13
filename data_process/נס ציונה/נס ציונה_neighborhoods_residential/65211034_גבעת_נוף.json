@@ -1,0 +1,4173 @@
+{
+  "neighborhood_name": "גבעת נוף",
+  "city_name": "נס ציונה",
+  "transaction_count": 134,
+  "transactions": [
+    {
+      "assetId": 40212432.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2025-02-24",
+      "dealAmount": 2215000,
+      "parcelNum": "3851-115-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 79.7,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-02-27",
+          "dealAmount": 716000
+        }
+      ],
+      "trend": {
+        "rate": 209.4,
+        "years": 19.0
+      },
+      "ownership": [],
+      "priceSM": 28038,
+      "row_id": 1
+    },
+    {
+      "assetId": 40212233.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2025-01-16",
+      "dealAmount": 2500000,
+      "parcelNum": "3851-108-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קומה ‎1‏",
+      "assetArea": 122.33,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20437,
+      "row_id": 2
+    },
+    {
+      "assetId": 40212313.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2024-07-16",
+      "dealAmount": 2230000,
+      "parcelNum": "3851-112-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 80.62,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-02-22",
+          "dealAmount": 1480000
+        }
+      ],
+      "trend": {
+        "rate": 50.7,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 27875,
+      "row_id": 3
+    },
+    {
+      "assetId": 40212302.0,
+      "addressId": 72663254,
+      "polygonId": "52508592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 117",
+      "dealDate": "2024-05-29",
+      "dealAmount": 1600000,
+      "parcelNum": "3851-111-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 91.93,
+      "yearBuilt": 1988,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-01",
+          "dealAmount": 1960000
+        }
+      ],
+      "trend": {
+        "rate": -18.4,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 17582,
+      "row_id": 4
+    },
+    {
+      "assetId": 40212338.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2024-04-04",
+      "dealAmount": 2180000,
+      "parcelNum": "3851-112-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 91.55,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-07-02",
+          "dealAmount": 945000
+        }
+      ],
+      "trend": {
+        "rate": 130.7,
+        "years": 15.8
+      },
+      "ownership": [],
+      "priceSM": 23956,
+      "row_id": 5
+    },
+    {
+      "assetId": 40212321.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2024-03-28",
+      "dealAmount": 2275000,
+      "parcelNum": "3851-112-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 80.62,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-01-12",
+          "dealAmount": 1580000
+        }
+      ],
+      "trend": {
+        "rate": 44.0,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 28438,
+      "row_id": 6
+    },
+    {
+      "assetId": 40212409.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2024-03-05",
+      "dealAmount": 2410000,
+      "parcelNum": "3851-115-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 86.8,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-08-20",
+          "dealAmount": 728000
+        },
+        {
+          "dealDate": "1999-12-30",
+          "dealAmount": 755000
+        }
+      ],
+      "trend": {
+        "rate": 231.0,
+        "years": 17.6
+      },
+      "ownership": [],
+      "priceSM": 28023,
+      "row_id": 7
+    },
+    {
+      "assetId": 40212356.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2023-12-25",
+      "dealAmount": 2510000,
+      "parcelNum": "3851-113-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 91.55,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-03-12",
+          "dealAmount": 1325000
+        }
+      ],
+      "trend": {
+        "rate": 89.4,
+        "years": 10.8
+      },
+      "ownership": [],
+      "priceSM": 27582,
+      "row_id": 8
+    },
+    {
+      "assetId": 4456624.0,
+      "addressId": 72661540,
+      "polygonId": "52451639",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "ההדרים 17",
+      "dealDate": "2023-10-02",
+      "dealAmount": 3900000,
+      "parcelNum": "3851-79-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 111.0,
+      "yearBuilt": 1950,
+      "streetCode": 72000133,
+      "settlmentID": 7200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 35135,
+      "row_id": 9
+    },
+    {
+      "assetId": 40212332.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2023-08-31",
+      "dealAmount": 1034000,
+      "parcelNum": "3851-112-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 80.62,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12826,
+      "row_id": 10
+    },
+    {
+      "assetId": 4463842.0,
+      "addressId": 53826610,
+      "polygonId": "52516466",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "בן גוריון 42",
+      "dealDate": "2023-05-17",
+      "dealAmount": 4600000,
+      "parcelNum": "3851-72-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 129.0,
+      "yearBuilt": 0,
+      "streetCode": 72000134,
+      "settlmentID": 7200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 35659,
+      "row_id": 11
+    },
+    {
+      "assetId": 4651246.0,
+      "addressId": 72661545,
+      "polygonId": "72655179",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "ההדרים 23",
+      "dealDate": "2022-12-25",
+      "dealAmount": 547000,
+      "parcelNum": "3851-82-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 166.0,
+      "yearBuilt": 1970,
+      "streetCode": 72000133,
+      "settlmentID": 7200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3295,
+      "row_id": 12
+    },
+    {
+      "assetId": 40212355.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2022-12-06",
+      "dealAmount": 2400000,
+      "parcelNum": "3851-113-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 80.62,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-05-17",
+          "dealAmount": 1750000
+        },
+        {
+          "dealDate": "2015-06-16",
+          "dealAmount": 1370000
+        },
+        {
+          "dealDate": "2009-02-12",
+          "dealAmount": 935000
+        }
+      ],
+      "trend": {
+        "rate": 37.1,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 30000,
+      "row_id": 13
+    },
+    {
+      "assetId": 81032370.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2022-02-11",
+      "dealAmount": 2900000,
+      "parcelNum": "3851-108-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 128.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22656,
+      "row_id": 14
+    },
+    {
+      "assetId": 4651258.0,
+      "addressId": 72661424,
+      "polygonId": "72655215",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "ההדרים 21",
+      "dealDate": "2022-01-09",
+      "dealAmount": 500000,
+      "parcelNum": "3851-81-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 125.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000133,
+      "settlmentID": 7200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4000,
+      "row_id": 15
+    },
+    {
+      "assetId": 81032374.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2021-12-22",
+      "dealAmount": 2225000,
+      "parcelNum": "3851-108-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 322.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6910,
+      "row_id": 16
+    },
+    {
+      "assetId": 40212256.0,
+      "addressId": 53822350,
+      "polygonId": "53134496",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 111",
+      "dealDate": "2021-11-16",
+      "dealAmount": 1840000,
+      "parcelNum": "3851-109-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 100.06,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-08",
+          "dealAmount": 1100000
+        },
+        {
+          "dealDate": "2005-09-06",
+          "dealAmount": 592000
+        }
+      ],
+      "trend": {
+        "rate": 67.3,
+        "years": 11.7
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 920000
+        },
+        {
+          "proportion": "50",
+          "price": 920000
+        }
+      ],
+      "priceSM": 18400,
+      "row_id": 17
+    },
+    {
+      "assetId": 40212314.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2021-09-12",
+      "dealAmount": 1975000,
+      "parcelNum": "3851-112-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.55,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-08-28",
+          "dealAmount": 653000
+        }
+      ],
+      "trend": {
+        "rate": 202.5,
+        "years": 21.1
+      },
+      "ownership": [],
+      "priceSM": 21703,
+      "row_id": 18
+    },
+    {
+      "assetId": 4460553.0,
+      "addressId": 53830840,
+      "polygonId": "52486045",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "ההדרים 19",
+      "dealDate": "2021-07-08",
+      "dealAmount": 5400000,
+      "parcelNum": "3851-80-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 168.0,
+      "yearBuilt": 0,
+      "streetCode": 72000133,
+      "settlmentID": 7200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32143,
+      "row_id": 19
+    },
+    {
+      "assetId": 4651330.0,
+      "addressId": 53830406,
+      "polygonId": "72654675",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הפרטיזנים 11",
+      "dealDate": "2021-07-06",
+      "dealAmount": 4100000,
+      "parcelNum": "3851-60-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 236.0,
+      "yearBuilt": 1950,
+      "streetCode": 72000141,
+      "settlmentID": 7200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17373,
+      "row_id": 20
+    },
+    {
+      "assetId": 40212305.0,
+      "addressId": 72663254,
+      "polygonId": "52508592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 117",
+      "dealDate": "2021-06-18",
+      "dealAmount": 2100000,
+      "parcelNum": "3851-111-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 91.93,
+      "yearBuilt": 1988,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-07-16",
+          "dealAmount": 1120000
+        }
+      ],
+      "trend": {
+        "rate": 87.5,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 23077,
+      "row_id": 21
+    },
+    {
+      "assetId": 40212391.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2021-06-08",
+      "dealAmount": 1770000,
+      "parcelNum": "3851-114-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 79.64,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22225,
+      "row_id": 24
+    },
+    {
+      "assetId": 40212251.0,
+      "addressId": 53822350,
+      "polygonId": "53134496",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 111",
+      "dealDate": "2021-05-05",
+      "dealAmount": 1850000,
+      "parcelNum": "3851-109-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 100.06,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-09-15",
+          "dealAmount": 1645000
+        }
+      ],
+      "trend": {
+        "rate": 12.5,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 18500,
+      "row_id": 25
+    },
+    {
+      "assetId": 40212340.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2021-04-29",
+      "dealAmount": 2520000,
+      "parcelNum": "3851-112-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 122.74,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-06-15",
+          "dealAmount": 1400000
+        },
+        {
+          "dealDate": "2000-07-18",
+          "dealAmount": 1063000
+        }
+      ],
+      "trend": {
+        "rate": 80.0,
+        "years": 12.9
+      },
+      "ownership": [],
+      "priceSM": 20656,
+      "row_id": 26
+    },
+    {
+      "assetId": 4513014.0,
+      "addressId": 53823560,
+      "polygonId": "53315343",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הפרטיזנים 13",
+      "dealDate": "2021-04-28",
+      "dealAmount": 300000,
+      "parcelNum": "3851-58-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 72000141,
+      "settlmentID": 7200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3061,
+      "row_id": 27
+    },
+    {
+      "assetId": 40212396.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2021-04-08",
+      "dealAmount": 2060000,
+      "parcelNum": "3851-114-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 90.14,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-02-11",
+          "dealAmount": 707000
+        }
+      ],
+      "trend": {
+        "rate": 191.4,
+        "years": 19.2
+      },
+      "ownership": [],
+      "priceSM": 22889,
+      "row_id": 28
+    },
+    {
+      "assetId": 40212326.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2021-04-08",
+      "dealAmount": 2060000,
+      "parcelNum": "3851-112-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 91.55,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-17",
+          "dealAmount": 1710000
+        }
+      ],
+      "trend": {
+        "rate": 20.5,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 22637,
+      "row_id": 29
+    },
+    {
+      "assetId": 81032366.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2020-11-18",
+      "dealAmount": 2240000,
+      "parcelNum": "3851-108-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 116.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19310,
+      "row_id": 30
+    },
+    {
+      "assetId": 40212430.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2020-07-08",
+      "dealAmount": 2000000,
+      "parcelNum": "3851-115-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 86.8,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-08-22",
+          "dealAmount": 1315000
+        },
+        {
+          "dealDate": "2005-07-07",
+          "dealAmount": 725000
+        }
+      ],
+      "trend": {
+        "rate": 52.1,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 23256,
+      "row_id": 31
+    },
+    {
+      "assetId": 40212320.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2020-06-14",
+      "dealAmount": 1700000,
+      "parcelNum": "3851-112-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 80.62,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-11-04",
+          "dealAmount": 662000
+        }
+      ],
+      "trend": {
+        "rate": 156.8,
+        "years": 16.6
+      },
+      "ownership": [],
+      "priceSM": 21250,
+      "row_id": 32
+    },
+    {
+      "assetId": 40212270.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2020-05-27",
+      "dealAmount": 1700000,
+      "parcelNum": "3851-110-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-06-27",
+          "dealAmount": 689000
+        },
+        {
+          "dealDate": "2005-02-20",
+          "dealAmount": 588000
+        }
+      ],
+      "trend": {
+        "rate": 146.7,
+        "years": 12.9
+      },
+      "ownership": [],
+      "priceSM": 17708,
+      "row_id": 33
+    },
+    {
+      "assetId": 81032370.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2020-03-01",
+      "dealAmount": 2475000,
+      "parcelNum": "3851-108-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 116.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21336,
+      "row_id": 34
+    },
+    {
+      "assetId": 81032369.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2020-02-12",
+      "dealAmount": 2475000,
+      "parcelNum": "3851-108-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 116.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21336,
+      "row_id": 35
+    },
+    {
+      "assetId": 81032373.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2019-11-26",
+      "dealAmount": 2400000,
+      "parcelNum": "3851-108-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 107.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22430,
+      "row_id": 36
+    },
+    {
+      "assetId": 81032365.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2019-11-21",
+      "dealAmount": 2460000,
+      "parcelNum": "3851-108-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 116.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21207,
+      "row_id": 37
+    },
+    {
+      "assetId": 40212359.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2019-09-03",
+      "dealAmount": 1760000,
+      "parcelNum": "3851-113-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 80.62,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21831,
+      "row_id": 38
+    },
+    {
+      "assetId": 40212254.0,
+      "addressId": 53822350,
+      "polygonId": "53134496",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 111",
+      "dealDate": "2019-08-22",
+      "dealAmount": 1700000,
+      "parcelNum": "3851-109-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 100.06,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-11-15",
+          "dealAmount": 1160000
+        }
+      ],
+      "trend": {
+        "rate": 46.6,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 17000,
+      "row_id": 39
+    },
+    {
+      "assetId": 81032371.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2019-05-15",
+      "dealAmount": 2550000,
+      "parcelNum": "3851-108-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 118.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21610,
+      "row_id": 40
+    },
+    {
+      "assetId": 40212318.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2019-03-26",
+      "dealAmount": 1940000,
+      "parcelNum": "3851-112-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 91.55,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-06-03",
+          "dealAmount": 751000
+        }
+      ],
+      "trend": {
+        "rate": 158.3,
+        "years": 11.8
+      },
+      "ownership": [],
+      "priceSM": 21319,
+      "row_id": 41
+    },
+    {
+      "assetId": 40212364.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2019-03-26",
+      "dealAmount": 1950000,
+      "parcelNum": "3851-113-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 91.55,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-10-07",
+          "dealAmount": 1455000
+        },
+        {
+          "dealDate": "2007-05-10",
+          "dealAmount": 763000
+        },
+        {
+          "dealDate": "1998-11-15",
+          "dealAmount": 741000
+        }
+      ],
+      "trend": {
+        "rate": 34.0,
+        "years": 4.5
+      },
+      "ownership": [
+        {
+          "proportion": "15",
+          "price": 292500
+        },
+        {
+          "proportion": "85",
+          "price": 1657500
+        }
+      ],
+      "priceSM": 21429,
+      "row_id": 42
+    },
+    {
+      "assetId": 40212290.0,
+      "addressId": 72663254,
+      "polygonId": "52508592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 117",
+      "dealDate": "2018-12-12",
+      "dealAmount": 1900000,
+      "parcelNum": "3851-111-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 91.93,
+      "yearBuilt": 1988,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-09-09",
+          "dealAmount": 1550000
+        }
+      ],
+      "trend": {
+        "rate": 22.6,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 20879,
+      "row_id": 43
+    },
+    {
+      "assetId": 81032368.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2018-08-02",
+      "dealAmount": 2510000,
+      "parcelNum": "3851-108-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 118.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21271,
+      "row_id": 44
+    },
+    {
+      "assetId": 40212319.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2018-07-27",
+      "dealAmount": 1830000,
+      "parcelNum": "3851-112-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 91.55,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-29",
+          "dealAmount": 1295000
+        },
+        {
+          "dealDate": "2003-12-26",
+          "dealAmount": 726000
+        }
+      ],
+      "trend": {
+        "rate": 41.3,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 20110,
+      "row_id": 45
+    },
+    {
+      "assetId": 81032372.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2018-06-12",
+      "dealAmount": 2530000,
+      "parcelNum": "3851-108-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 118.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21441,
+      "row_id": 46
+    },
+    {
+      "assetId": 81032367.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2018-03-22",
+      "dealAmount": 2450000,
+      "parcelNum": "3851-108-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 130.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-03",
+          "dealAmount": 1425000
+        }
+      ],
+      "trend": {
+        "rate": 71.9,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 18846,
+      "row_id": 47
+    },
+    {
+      "assetId": 81032374.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2018-03-12",
+      "dealAmount": 3600000,
+      "parcelNum": "3851-108-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 281.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12811,
+      "row_id": 48
+    },
+    {
+      "assetId": 4635429.0,
+      "addressId": 53831967,
+      "polygonId": "67952407",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הפרטיזנים 7",
+      "dealDate": "2017-09-26",
+      "dealAmount": 2300000,
+      "parcelNum": "3851-64-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1950,
+      "streetCode": 72000141,
+      "settlmentID": 7200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23000,
+      "row_id": 49
+    },
+    {
+      "assetId": 40212269.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2017-07-09",
+      "dealAmount": 1600000,
+      "parcelNum": "3851-110-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16598,
+      "row_id": 50
+    },
+    {
+      "assetId": 40212379.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2017-03-30",
+      "dealAmount": 1665000,
+      "parcelNum": "3851-114-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 79.64,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-17",
+          "dealAmount": 1290000
+        },
+        {
+          "dealDate": "2002-05-08",
+          "dealAmount": 652000
+        }
+      ],
+      "trend": {
+        "rate": 29.1,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 21076,
+      "row_id": 51
+    },
+    {
+      "assetId": 40212267.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2017-03-14",
+      "dealAmount": 1620000,
+      "parcelNum": "3851-110-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-24",
+          "dealAmount": 1070000
+        },
+        {
+          "dealDate": "2005-05-18",
+          "dealAmount": 596000
+        }
+      ],
+      "trend": {
+        "rate": 51.4,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 16875,
+      "row_id": 52
+    },
+    {
+      "assetId": 40212308.0,
+      "addressId": 72663254,
+      "polygonId": "52508592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 117",
+      "dealDate": "2017-01-24",
+      "dealAmount": 2500000,
+      "parcelNum": "3851-111-25",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 110.67,
+      "yearBuilt": 1988,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-02-28",
+          "dealAmount": 1374000
+        }
+      ],
+      "trend": {
+        "rate": 82.0,
+        "years": 10.9
+      },
+      "ownership": [],
+      "priceSM": 22727,
+      "row_id": 53
+    },
+    {
+      "assetId": 40212390.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2017-01-01",
+      "dealAmount": 1500000,
+      "parcelNum": "3851-114-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "חמישית",
+      "assetArea": 79.64,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-26",
+          "dealAmount": 1050000
+        },
+        {
+          "dealDate": "2003-07-11",
+          "dealAmount": 610000
+        },
+        {
+          "dealDate": "2001-05-16",
+          "dealAmount": 564000
+        }
+      ],
+      "trend": {
+        "rate": 42.9,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 18987,
+      "row_id": 54
+    },
+    {
+      "assetId": 40212295.0,
+      "addressId": 72663254,
+      "polygonId": "52508592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 117",
+      "dealDate": "2016-08-15",
+      "dealAmount": 1500000,
+      "parcelNum": "3851-111-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 80.89,
+      "yearBuilt": 1988,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-10",
+          "dealAmount": 1100000
+        }
+      ],
+      "trend": {
+        "rate": 36.4,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 18750,
+      "row_id": 55
+    },
+    {
+      "assetId": 40212272.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2016-08-03",
+      "dealAmount": 1580000,
+      "parcelNum": "3851-110-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-09",
+          "dealAmount": 1450000
+        },
+        {
+          "dealDate": "2012-02-23",
+          "dealAmount": 1195000
+        }
+      ],
+      "trend": {
+        "rate": 9.0,
+        "years": 1.2
+      },
+      "ownership": [],
+      "priceSM": 16458,
+      "row_id": 56
+    },
+    {
+      "assetId": 4451040.0,
+      "addressId": 53830404,
+      "polygonId": "52396592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הפרטיזנים 6",
+      "dealDate": "2016-05-25",
+      "dealAmount": 4100000,
+      "parcelNum": "3851-65-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 241.0,
+      "yearBuilt": 2000,
+      "streetCode": 72000141,
+      "settlmentID": 7200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17012,
+      "row_id": 57
+    },
+    {
+      "assetId": 40212264.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2016-05-10",
+      "dealAmount": 1580000,
+      "parcelNum": "3851-110-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-10-02",
+          "dealAmount": 666000
+        }
+      ],
+      "trend": {
+        "rate": 137.2,
+        "years": 10.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 790000
+        },
+        {
+          "proportion": "50",
+          "price": 790000
+        }
+      ],
+      "priceSM": 16458,
+      "row_id": 58
+    },
+    {
+      "assetId": 40212405.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2016-04-20",
+      "dealAmount": 1540000,
+      "parcelNum": "3851-115-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 86.8,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-08-12",
+          "dealAmount": 1340000
+        },
+        {
+          "dealDate": "2003-12-31",
+          "dealAmount": 690000
+        }
+      ],
+      "trend": {
+        "rate": 14.9,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 17907,
+      "row_id": 59
+    },
+    {
+      "assetId": 40212239.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2016-01-24",
+      "dealAmount": 1605000,
+      "parcelNum": "3851-108-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קומה ‎2‏",
+      "assetArea": 99.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16212,
+      "row_id": 60
+    },
+    {
+      "assetId": 40212420.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2015-06-07",
+      "dealAmount": 625000,
+      "parcelNum": "3851-115-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 79.7,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-10",
+          "dealAmount": 1100000
+        },
+        {
+          "dealDate": "2008-07-15",
+          "dealAmount": 740000
+        }
+      ],
+      "trend": {
+        "rate": -43.2,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 7911,
+      "row_id": 61
+    },
+    {
+      "assetId": 40212246.0,
+      "addressId": 53822350,
+      "polygonId": "53134496",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 111",
+      "dealDate": "2015-03-23",
+      "dealAmount": 1400000,
+      "parcelNum": "3851-109-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.06,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-24",
+          "dealAmount": 1160000
+        },
+        {
+          "dealDate": "1998-12-04",
+          "dealAmount": 712000
+        }
+      ],
+      "trend": {
+        "rate": 20.7,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 14000,
+      "row_id": 62
+    },
+    {
+      "assetId": 40212345.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2014-12-10",
+      "dealAmount": 1360000,
+      "parcelNum": "3851-113-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.55,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-02-15",
+          "dealAmount": 698000
+        }
+      ],
+      "trend": {
+        "rate": 94.8,
+        "years": 7.8
+      },
+      "ownership": [],
+      "priceSM": 14945,
+      "row_id": 63
+    },
+    {
+      "assetId": 4089572.0,
+      "addressId": 0,
+      "polygonId": "3851-78",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "0",
+      "dealDate": "2014-11-07",
+      "dealAmount": 2000000,
+      "parcelNum": "3851-78-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 64.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 7200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31250,
+      "row_id": 64
+    },
+    {
+      "assetId": 40212393.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2014-10-14",
+      "dealAmount": 1485000,
+      "parcelNum": "3851-114-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 90.14,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-07-09",
+          "dealAmount": 867000
+        }
+      ],
+      "trend": {
+        "rate": 71.3,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 16500,
+      "row_id": 65
+    },
+    {
+      "assetId": 4651342.0,
+      "addressId": 53831342,
+      "polygonId": "72655520",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הצנחנים 3",
+      "dealDate": "2014-10-02",
+      "dealAmount": 2270000,
+      "parcelNum": "3851-54-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 111.0,
+      "yearBuilt": 1950,
+      "streetCode": 72000140,
+      "settlmentID": 7200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20450,
+      "row_id": 66
+    },
+    {
+      "assetId": 40212426.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2014-05-01",
+      "dealAmount": 1299000,
+      "parcelNum": "3851-115-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 86.8,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14965,
+      "row_id": 67
+    },
+    {
+      "assetId": 40212248.0,
+      "addressId": 53822350,
+      "polygonId": "53134496",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 111",
+      "dealDate": "2014-03-18",
+      "dealAmount": 1200000,
+      "parcelNum": "3851-109-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.06,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-04-22",
+          "dealAmount": 669000
+        }
+      ],
+      "trend": {
+        "rate": 79.4,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 12000,
+      "row_id": 68
+    },
+    {
+      "assetId": 40212401.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2014-03-06",
+      "dealAmount": 1420000,
+      "parcelNum": "3851-114-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 90.14,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-02-25",
+          "dealAmount": 745000
+        }
+      ],
+      "trend": {
+        "rate": 90.6,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 15778,
+      "row_id": 69
+    },
+    {
+      "assetId": 40212344.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2014-01-28",
+      "dealAmount": 1370000,
+      "parcelNum": "3851-113-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.55,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-07-29",
+          "dealAmount": 720000
+        }
+      ],
+      "trend": {
+        "rate": 90.3,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 15055,
+      "row_id": 71
+    },
+    {
+      "assetId": 40212377.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2013-10-29",
+      "dealAmount": 1300000,
+      "parcelNum": "3851-114-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.14,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-24",
+          "dealAmount": 1190000
+        }
+      ],
+      "trend": {
+        "rate": 9.2,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 14444,
+      "row_id": 72
+    },
+    {
+      "assetId": 40212307.0,
+      "addressId": 72663254,
+      "polygonId": "52508592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 117",
+      "dealDate": "2013-07-16",
+      "dealAmount": 1199000,
+      "parcelNum": "3851-111-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 80.98,
+      "yearBuilt": 1988,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-08-04",
+          "dealAmount": 590000
+        }
+      ],
+      "trend": {
+        "rate": 103.2,
+        "years": 12.0
+      },
+      "ownership": [],
+      "priceSM": 14988,
+      "row_id": 73
+    },
+    {
+      "assetId": 40212421.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2013-07-10",
+      "dealAmount": 1370000,
+      "parcelNum": "3851-115-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 86.8,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-08-30",
+          "dealAmount": 754000
+        }
+      ],
+      "trend": {
+        "rate": 81.7,
+        "years": 13.9
+      },
+      "ownership": [],
+      "priceSM": 15930,
+      "row_id": 74
+    },
+    {
+      "assetId": 40212402.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2013-07-10",
+      "dealAmount": 1900000,
+      "parcelNum": "3851-114-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 94.14,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20183,
+      "row_id": 75
+    },
+    {
+      "assetId": 40212336.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2013-06-27",
+      "dealAmount": 1230000,
+      "parcelNum": "3851-112-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שביעית",
+      "assetArea": 80.62,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-08-12",
+          "dealAmount": 920000
+        },
+        {
+          "dealDate": "1999-11-24",
+          "dealAmount": 697000
+        }
+      ],
+      "trend": {
+        "rate": 33.7,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 15375,
+      "row_id": 76
+    },
+    {
+      "assetId": 40212333.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2013-06-27",
+      "dealAmount": 1120000,
+      "parcelNum": "3851-112-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 80.62,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13892,
+      "row_id": 77
+    },
+    {
+      "assetId": 40212422.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2013-06-24",
+      "dealAmount": 1325000,
+      "parcelNum": "3851-115-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 86.8,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-10-20",
+          "dealAmount": 1130000
+        }
+      ],
+      "trend": {
+        "rate": 17.3,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 15407,
+      "row_id": 78
+    },
+    {
+      "assetId": 40212343.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2013-06-20",
+      "dealAmount": 1200000,
+      "parcelNum": "3851-113-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 80.62,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14885,
+      "row_id": 79
+    },
+    {
+      "assetId": 40212362.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2013-06-19",
+      "dealAmount": 1125000,
+      "parcelNum": "3851-113-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "חמישית",
+      "assetArea": 80.62,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13954,
+      "row_id": 80
+    },
+    {
+      "assetId": 40212249.0,
+      "addressId": 53822350,
+      "polygonId": "53134496",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 111",
+      "dealDate": "2013-06-17",
+      "dealAmount": 1280000,
+      "parcelNum": "3851-109-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.06,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-10-26",
+          "dealAmount": 1025000
+        },
+        {
+          "dealDate": "2000-12-28",
+          "dealAmount": 680000
+        }
+      ],
+      "trend": {
+        "rate": 24.9,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 12800,
+      "row_id": 81
+    },
+    {
+      "assetId": 40212257.0,
+      "addressId": 53822350,
+      "polygonId": "53134496",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 111",
+      "dealDate": "2013-05-09",
+      "dealAmount": 1215000,
+      "parcelNum": "3851-109-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 100.06,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-04-10",
+          "dealAmount": 590000
+        },
+        {
+          "dealDate": "2001-11-22",
+          "dealAmount": 549000
+        }
+      ],
+      "trend": {
+        "rate": 105.9,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 12150,
+      "row_id": 82
+    },
+    {
+      "assetId": 40212240.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2013-02-28",
+      "dealAmount": 1200000,
+      "parcelNum": "3851-108-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קומה ‎2‏",
+      "assetArea": 99.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12121,
+      "row_id": 83
+    },
+    {
+      "assetId": 4452895.0,
+      "addressId": 53930890,
+      "polygonId": "52417862",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הפרטיזנים 12",
+      "dealDate": "2013-01-14",
+      "dealAmount": 2600000,
+      "parcelNum": "3851-59-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 58.0,
+      "yearBuilt": 1978,
+      "streetCode": 72000141,
+      "settlmentID": 7200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 44828,
+      "row_id": 84
+    },
+    {
+      "assetId": 40212275.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2012-09-05",
+      "dealAmount": 1175000,
+      "parcelNum": "3851-110-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-07-14",
+          "dealAmount": 709000
+        },
+        {
+          "dealDate": "2000-11-28",
+          "dealAmount": 623000
+        }
+      ],
+      "trend": {
+        "rate": 65.7,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 12240,
+      "row_id": 85
+    },
+    {
+      "assetId": 40212296.0,
+      "addressId": 72663254,
+      "polygonId": "52508592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 117",
+      "dealDate": "2012-08-29",
+      "dealAmount": 1225000,
+      "parcelNum": "3851-111-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 80.89,
+      "yearBuilt": 1988,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15144,
+      "row_id": 86
+    },
+    {
+      "assetId": 40212280.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2012-06-20",
+      "dealAmount": 1095000,
+      "parcelNum": "3851-110-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11359,
+      "row_id": 87
+    },
+    {
+      "assetId": 4456625.0,
+      "addressId": 72661540,
+      "polygonId": "52451639",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "ההדרים 17",
+      "dealDate": "2012-05-08",
+      "dealAmount": 1750000,
+      "parcelNum": "3851-79-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 85.0,
+      "yearBuilt": 1950,
+      "streetCode": 72000133,
+      "settlmentID": 7200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20588,
+      "row_id": 88
+    },
+    {
+      "assetId": 40212387.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2012-04-29",
+      "dealAmount": 1050000,
+      "parcelNum": "3851-114-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 79.64,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13184,
+      "row_id": 89
+    },
+    {
+      "assetId": 40212261.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2011-12-14",
+      "dealAmount": 1170000,
+      "parcelNum": "3851-110-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12137,
+      "row_id": 90
+    },
+    {
+      "assetId": 40212298.0,
+      "addressId": 72663254,
+      "polygonId": "52508592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 117",
+      "dealDate": "2011-06-05",
+      "dealAmount": 1347000,
+      "parcelNum": "3851-111-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 91.93,
+      "yearBuilt": 1988,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-01-18",
+          "dealAmount": 704000
+        }
+      ],
+      "trend": {
+        "rate": 91.3,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 14802,
+      "row_id": 91
+    },
+    {
+      "assetId": 40212252.0,
+      "addressId": 53822350,
+      "polygonId": "53134496",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 111",
+      "dealDate": "2011-05-17",
+      "dealAmount": 1175000,
+      "parcelNum": "3851-109-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 100.06,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-25",
+          "dealAmount": 950000
+        }
+      ],
+      "trend": {
+        "rate": 23.7,
+        "years": 0.3
+      },
+      "ownership": [],
+      "priceSM": 11750,
+      "row_id": 92
+    },
+    {
+      "assetId": 40212349.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2011-03-10",
+      "dealAmount": 1320000,
+      "parcelNum": "3851-113-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 91.55,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14418,
+      "row_id": 93
+    },
+    {
+      "assetId": 40212428.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2011-01-19",
+      "dealAmount": 1237000,
+      "parcelNum": "3851-115-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שישית",
+      "assetArea": 79.7,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-03-18",
+          "dealAmount": 752000
+        },
+        {
+          "dealDate": "2004-05-23",
+          "dealAmount": 584000
+        }
+      ],
+      "trend": {
+        "rate": 64.5,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 15658,
+      "row_id": 94
+    },
+    {
+      "assetId": 40212238.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2010-12-21",
+      "dealAmount": 1130000,
+      "parcelNum": "3851-108-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "קומה ‎2‏",
+      "assetArea": 121.17,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-03-29",
+          "dealAmount": 662000
+        }
+      ],
+      "trend": {
+        "rate": 70.7,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 9339,
+      "row_id": 95
+    },
+    {
+      "assetId": 40212294.0,
+      "addressId": 72663254,
+      "polygonId": "52508592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 117",
+      "dealDate": "2010-11-10",
+      "dealAmount": 1340000,
+      "parcelNum": "3851-111-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 91.93,
+      "yearBuilt": 1988,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-10-18",
+          "dealAmount": 705000
+        }
+      ],
+      "trend": {
+        "rate": 90.1,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 14725,
+      "row_id": 96
+    },
+    {
+      "assetId": 40212347.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2010-11-03",
+      "dealAmount": 1115000,
+      "parcelNum": "3851-113-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 80.62,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-06-15",
+          "dealAmount": 577000
+        }
+      ],
+      "trend": {
+        "rate": 93.2,
+        "years": 11.4
+      },
+      "ownership": [],
+      "priceSM": 13938,
+      "row_id": 97
+    },
+    {
+      "assetId": 40212247.0,
+      "addressId": 53822350,
+      "polygonId": "53134496",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 111",
+      "dealDate": "2010-10-11",
+      "dealAmount": 950000,
+      "parcelNum": "3851-109-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 100.06,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9494,
+      "row_id": 98
+    },
+    {
+      "assetId": 40212368.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2010-10-10",
+      "dealAmount": 1350000,
+      "parcelNum": "3851-113-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 91.55,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-02-24",
+          "dealAmount": 744000
+        }
+      ],
+      "trend": {
+        "rate": 81.5,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 14835,
+      "row_id": 99
+    },
+    {
+      "assetId": 40212235.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2010-09-13",
+      "dealAmount": 1150000,
+      "parcelNum": "3851-108-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קומה ‎1‏",
+      "assetArea": 99.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11616,
+      "row_id": 100
+    },
+    {
+      "assetId": 40212279.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2009-12-31",
+      "dealAmount": 1060000,
+      "parcelNum": "3851-110-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10996,
+      "row_id": 101
+    },
+    {
+      "assetId": 4651259.0,
+      "addressId": 72661424,
+      "polygonId": "72655215",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "ההדרים 21",
+      "dealDate": "2009-12-01",
+      "dealAmount": 1900000,
+      "parcelNum": "3851-81-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.5,
+      "floor": null,
+      "assetArea": 200.0,
+      "yearBuilt": 1982,
+      "streetCode": 72000133,
+      "settlmentID": 7200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9500,
+      "row_id": 102
+    },
+    {
+      "assetId": 40212397.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2009-10-20",
+      "dealAmount": 1175000,
+      "parcelNum": "3851-114-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 90.14,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13035,
+      "row_id": 103
+    },
+    {
+      "assetId": 40212263.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2009-09-03",
+      "dealAmount": 1050000,
+      "parcelNum": "3851-110-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10892,
+      "row_id": 104
+    },
+    {
+      "assetId": 40212358.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2009-08-30",
+      "dealAmount": 1000000,
+      "parcelNum": "3851-113-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 80.62,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12404,
+      "row_id": 105
+    },
+    {
+      "assetId": 40212412.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2009-08-14",
+      "dealAmount": 930000,
+      "parcelNum": "3851-115-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 79.7,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-07-24",
+          "dealAmount": 630000
+        }
+      ],
+      "trend": {
+        "rate": 47.6,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 11772,
+      "row_id": 106
+    },
+    {
+      "assetId": 40212236.0,
+      "addressId": 53813925,
+      "polygonId": "52484083",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 109",
+      "dealDate": "2009-06-25",
+      "dealAmount": 1100000,
+      "parcelNum": "3851-108-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קומה ‎1‏",
+      "assetArea": 99.0,
+      "yearBuilt": 2019,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-02-17",
+          "dealAmount": 850000
+        }
+      ],
+      "trend": {
+        "rate": 29.4,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 11111,
+      "row_id": 107
+    },
+    {
+      "assetId": 40212300.0,
+      "addressId": 72663254,
+      "polygonId": "52508592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 117",
+      "dealDate": "2009-06-24",
+      "dealAmount": 900000,
+      "parcelNum": "3851-111-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 80.98,
+      "yearBuilt": 1988,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11114,
+      "row_id": 108
+    },
+    {
+      "assetId": 4651285.0,
+      "addressId": 53831341,
+      "polygonId": "72655311",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הצנחנים 5",
+      "dealDate": "2009-06-01",
+      "dealAmount": 1500000,
+      "parcelNum": "3851-55-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 2.0,
+      "floor": null,
+      "assetArea": 60.0,
+      "yearBuilt": 1952,
+      "streetCode": 72000140,
+      "settlmentID": 7200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25000,
+      "row_id": 109
+    },
+    {
+      "assetId": 40212385.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2009-05-06",
+      "dealAmount": 1000000,
+      "parcelNum": "3851-114-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 90.14,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-09-24",
+          "dealAmount": 719000
+        }
+      ],
+      "trend": {
+        "rate": 39.1,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 11111,
+      "row_id": 110
+    },
+    {
+      "assetId": 40212424.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2009-04-12",
+      "dealAmount": 700000,
+      "parcelNum": "3851-115-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 79.7,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8783,
+      "row_id": 111
+    },
+    {
+      "assetId": 40212250.0,
+      "addressId": 53822350,
+      "polygonId": "53134496",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 111",
+      "dealDate": "2008-09-22",
+      "dealAmount": 724000,
+      "parcelNum": "3851-109-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 100.06,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7236,
+      "row_id": 113
+    },
+    {
+      "assetId": 40212352.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2008-08-18",
+      "dealAmount": 1000000,
+      "parcelNum": "3851-113-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 91.55,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-09-06",
+          "dealAmount": 720000
+        }
+      ],
+      "trend": {
+        "rate": 38.9,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 10989,
+      "row_id": 114
+    },
+    {
+      "assetId": 40212276.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2008-08-17",
+      "dealAmount": 865000,
+      "parcelNum": "3851-110-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8973,
+      "row_id": 115
+    },
+    {
+      "assetId": 40212360.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2008-02-25",
+      "dealAmount": 648000,
+      "parcelNum": "3851-113-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 91.55,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7078,
+      "row_id": 116
+    },
+    {
+      "assetId": 4651331.0,
+      "addressId": 53830406,
+      "polygonId": "72654675",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הפרטיזנים 11",
+      "dealDate": "2007-12-18",
+      "dealAmount": 2000000,
+      "parcelNum": "3851-60-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 146.0,
+      "yearBuilt": 1950,
+      "streetCode": 72000141,
+      "settlmentID": 7200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13699,
+      "row_id": 117
+    },
+    {
+      "assetId": 40212271.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2007-12-06",
+      "dealAmount": 782000,
+      "parcelNum": "3851-110-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8112,
+      "row_id": 118
+    },
+    {
+      "assetId": 40212367.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2007-12-03",
+      "dealAmount": 750000,
+      "parcelNum": "3851-113-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 80.62,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-06-27",
+          "dealAmount": 711000
+        }
+      ],
+      "trend": {
+        "rate": 5.5,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 9375,
+      "row_id": 119
+    },
+    {
+      "assetId": 40212374.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2007-09-17",
+      "dealAmount": 671000,
+      "parcelNum": "3851-114-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 79.64,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8425,
+      "row_id": 120
+    },
+    {
+      "assetId": 4651315.0,
+      "addressId": 53932226,
+      "polygonId": "72655450",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הצנחנים 7",
+      "dealDate": "2007-09-05",
+      "dealAmount": 1132000,
+      "parcelNum": "3851-56-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 90.0,
+      "yearBuilt": 1955,
+      "streetCode": 72000140,
+      "settlmentID": 7200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12578,
+      "row_id": 121
+    },
+    {
+      "assetId": 40212419.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2007-08-02",
+      "dealAmount": 732000,
+      "parcelNum": "3851-115-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 79.7,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9184,
+      "row_id": 122
+    },
+    {
+      "assetId": 40212434.0,
+      "addressId": 72663252,
+      "polygonId": "52510478",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 2",
+      "dealDate": "2007-05-03",
+      "dealAmount": 1041000,
+      "parcelNum": "3851-115-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 115.73,
+      "yearBuilt": 1985,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8995,
+      "row_id": 123
+    },
+    {
+      "assetId": 4463908.0,
+      "addressId": 53823507,
+      "polygonId": "52517388",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "בן גוריון 34",
+      "dealDate": "2007-04-11",
+      "dealAmount": 977000,
+      "parcelNum": "3851-76-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 90.0,
+      "yearBuilt": 1955,
+      "streetCode": 72000134,
+      "settlmentID": 7200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10856,
+      "row_id": 124
+    },
+    {
+      "assetId": 40212357.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2006-09-06",
+      "dealAmount": 740000,
+      "parcelNum": "3851-113-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 91.55,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8083,
+      "row_id": 125
+    },
+    {
+      "assetId": 40212381.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2006-05-11",
+      "dealAmount": 775000,
+      "parcelNum": "3851-114-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.14,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8598,
+      "row_id": 126
+    },
+    {
+      "assetId": 40212329.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2006-03-06",
+      "dealAmount": 713000,
+      "parcelNum": "3851-112-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 80.62,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8844,
+      "row_id": 127
+    },
+    {
+      "assetId": 40212366.0,
+      "addressId": 53812125,
+      "polygonId": "52449654",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 8",
+      "dealDate": "2006-02-08",
+      "dealAmount": 731000,
+      "parcelNum": "3851-113-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 80.62,
+      "yearBuilt": 1988,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9067,
+      "row_id": 128
+    },
+    {
+      "assetId": 40212268.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2006-02-02",
+      "dealAmount": 647000,
+      "parcelNum": "3851-110-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6712,
+      "row_id": 129
+    },
+    {
+      "assetId": 40212399.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2005-11-10",
+      "dealAmount": 705000,
+      "parcelNum": "3851-114-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 79.64,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8852,
+      "row_id": 130
+    },
+    {
+      "assetId": 40212403.0,
+      "addressId": 53829454,
+      "polygonId": "52508699",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 6",
+      "dealDate": "2005-08-15",
+      "dealAmount": 1268000,
+      "parcelNum": "3851-114-30",
+      "dealNature": "דירת גג",
+      "roomNum": 6.0,
+      "floor": "שמינית + תשיעית",
+      "assetArea": 144.58,
+      "yearBuilt": 1986,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8770,
+      "row_id": 131
+    },
+    {
+      "assetId": 40212278.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2005-02-23",
+      "dealAmount": 626000,
+      "parcelNum": "3851-110-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6494,
+      "row_id": 132
+    },
+    {
+      "assetId": 40212304.0,
+      "addressId": 72663254,
+      "polygonId": "52508592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 117",
+      "dealDate": "2004-10-25",
+      "dealAmount": 677000,
+      "parcelNum": "3851-111-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 0.0,
+      "floor": "שישית",
+      "assetArea": 80.89,
+      "yearBuilt": 1988,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8369,
+      "row_id": 133
+    },
+    {
+      "assetId": 40212292.0,
+      "addressId": 72663254,
+      "polygonId": "52508592",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 117",
+      "dealDate": "2004-07-05",
+      "dealAmount": 693000,
+      "parcelNum": "3851-111-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 80.98,
+      "yearBuilt": 1988,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8558,
+      "row_id": 134
+    },
+    {
+      "assetId": 4651286.0,
+      "addressId": 53831341,
+      "polygonId": "72655311",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הצנחנים 5",
+      "dealDate": "2004-06-29",
+      "dealAmount": 819000,
+      "parcelNum": "3851-55-1",
+      "dealNature": "בית בודד",
+      "roomNum": 2.0,
+      "floor": null,
+      "assetArea": 48.0,
+      "yearBuilt": 1952,
+      "streetCode": 72000140,
+      "settlmentID": 7200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17062,
+      "row_id": 135
+    },
+    {
+      "assetId": 40212266.0,
+      "addressId": 53928033,
+      "polygonId": "52487070",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הבנים 113",
+      "dealDate": "2004-06-24",
+      "dealAmount": 707000,
+      "parcelNum": "3851-110-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 96.4,
+      "yearBuilt": 1985,
+      "streetCode": 72000109,
+      "settlmentID": 7200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7334,
+      "row_id": 136
+    },
+    {
+      "assetId": 40212317.0,
+      "addressId": 72661468,
+      "polygonId": "53103544",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "אנילביץ 1",
+      "dealDate": "2003-12-27",
+      "dealAmount": 633000,
+      "parcelNum": "3851-112-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 80.62,
+      "yearBuilt": 1991,
+      "streetCode": 72000146,
+      "settlmentID": 7200,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7852,
+      "row_id": 138
+    },
+    {
+      "assetId": 4651319.0,
+      "addressId": 72663504,
+      "polygonId": "72655462",
+      "neighborhoodName": "גבעת נוף",
+      "neighborhoodId": 65211034,
+      "address": "הצנחנים 2",
+      "dealDate": "2003-10-22",
+      "dealAmount": 959000,
+      "parcelNum": "3851-71-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 200.0,
+      "yearBuilt": 1952,
+      "streetCode": 72000140,
+      "settlmentID": 7200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4795,
+      "row_id": 139
+    }
+  ]
+}

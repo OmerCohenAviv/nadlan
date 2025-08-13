@@ -1,0 +1,5497 @@
+{
+  "neighborhood_name": "הבורסה",
+  "city_name": "רמת גן",
+  "transaction_count": 162,
+  "transactions": [
+    {
+      "assetId": 4368261.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2025-05-22",
+      "dealAmount": 2105000,
+      "parcelNum": "6109-451-104",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": null,
+      "assetArea": 48.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 43854,
+      "row_id": 2
+    },
+    {
+      "assetId": 80481297.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2025-03-02",
+      "dealAmount": 3200000,
+      "parcelNum": "6109-454-173",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 77.27,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-05-21",
+          "dealAmount": 2100000
+        },
+        {
+          "dealDate": "2008-05-18",
+          "dealAmount": 1991000
+        }
+      ],
+      "trend": {
+        "rate": 52.4,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 41558,
+      "row_id": 9
+    },
+    {
+      "assetId": 80986344.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2025-02-11",
+      "dealAmount": 1875000,
+      "parcelNum": "6207-877-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎15‏",
+      "assetArea": 44.55,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-03-01",
+          "dealAmount": 1460000
+        },
+        {
+          "dealDate": "2009-10-30",
+          "dealAmount": 964000
+        }
+      ],
+      "trend": {
+        "rate": 28.4,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 42614,
+      "row_id": 12
+    },
+    {
+      "assetId": 80986509.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2025-02-11",
+      "dealAmount": 2217000,
+      "parcelNum": "6207-877-198",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎29‏",
+      "assetArea": 53.4,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 41517,
+      "row_id": 13
+    },
+    {
+      "assetId": 80986439.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2025-01-13",
+      "dealAmount": 2515000,
+      "parcelNum": "6207-877-128",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎23‏",
+      "assetArea": 64.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 38842,
+      "row_id": 17
+    },
+    {
+      "assetId": 80986515.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2024-12-01",
+      "dealAmount": 3550000,
+      "parcelNum": "6207-877-204",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קומה ‎30‏",
+      "assetArea": 105.55,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-07-28",
+          "dealAmount": 2500000
+        },
+        {
+          "dealDate": "2007-10-15",
+          "dealAmount": 1891000
+        }
+      ],
+      "trend": {
+        "rate": 42.0,
+        "years": 13.4
+      },
+      "ownership": [],
+      "priceSM": 33810,
+      "row_id": 25
+    },
+    {
+      "assetId": 4040104.0,
+      "addressId": 0,
+      "polygonId": "6207-225",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "0",
+      "dealDate": "2024-11-05",
+      "dealAmount": 772000,
+      "parcelNum": "6207-225-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "עשירית",
+      "assetArea": 50.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15440,
+      "row_id": 31
+    },
+    {
+      "assetId": 80986504.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2024-10-29",
+      "dealAmount": 1200000,
+      "parcelNum": "6207-877-193",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎29‏",
+      "assetArea": 59.15,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-01-26",
+          "dealAmount": 1033000
+        },
+        {
+          "dealDate": "2004-02-12",
+          "dealAmount": 661000
+        }
+      ],
+      "trend": {
+        "rate": 16.2,
+        "years": 18.8
+      },
+      "ownership": [],
+      "priceSM": 20339,
+      "row_id": 32
+    },
+    {
+      "assetId": 80481299.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2024-10-08",
+      "dealAmount": 1750000,
+      "parcelNum": "6109-454-175",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשע עשרה",
+      "assetArea": 63.91,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-21",
+          "dealAmount": 2400000
+        },
+        {
+          "dealDate": "2010-10-27",
+          "dealAmount": 1650000
+        },
+        {
+          "dealDate": "2007-12-27",
+          "dealAmount": 1465000
+        }
+      ],
+      "trend": {
+        "rate": -27.1,
+        "years": 11.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 875000
+        },
+        {
+          "proportion": "50",
+          "price": 875000
+        }
+      ],
+      "priceSM": 27778,
+      "row_id": 34
+    },
+    {
+      "assetId": 4039938.0,
+      "addressId": 0,
+      "polygonId": "6207-924",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "0",
+      "dealDate": "2024-08-27",
+      "dealAmount": 1808000,
+      "parcelNum": "6207-924-1",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 38
+    },
+    {
+      "assetId": 80986491.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2024-08-01",
+      "dealAmount": 2330000,
+      "parcelNum": "6207-877-180",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎28‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-01",
+          "dealAmount": 1729000
+        }
+      ],
+      "trend": {
+        "rate": 34.8,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 56829,
+      "row_id": 41
+    },
+    {
+      "assetId": 80986480.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2024-07-22",
+      "dealAmount": 2500000,
+      "parcelNum": "6207-877-169",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎26‏",
+      "assetArea": 65.2,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-12-03",
+          "dealAmount": 1775000
+        },
+        {
+          "dealDate": "2007-12-26",
+          "dealAmount": 1436000
+        },
+        {
+          "dealDate": "2007-10-15",
+          "dealAmount": 1337000
+        }
+      ],
+      "trend": {
+        "rate": 40.8,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 38462,
+      "row_id": 43
+    },
+    {
+      "assetId": 80986423.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2024-07-10",
+      "dealAmount": 1850000,
+      "parcelNum": "6207-877-112",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎21‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-07-07",
+          "dealAmount": 860000
+        }
+      ],
+      "trend": {
+        "rate": 115.1,
+        "years": 21.0
+      },
+      "ownership": [],
+      "priceSM": 45122,
+      "row_id": 45
+    },
+    {
+      "assetId": 80986375.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2024-07-07",
+      "dealAmount": 2015000,
+      "parcelNum": "6207-877-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎17‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-02-23",
+          "dealAmount": 1200000
+        },
+        {
+          "dealDate": "2001-08-12",
+          "dealAmount": 896000
+        }
+      ],
+      "trend": {
+        "rate": 67.9,
+        "years": 12.4
+      },
+      "ownership": [],
+      "priceSM": 49146,
+      "row_id": 47
+    },
+    {
+      "assetId": 80986465.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2024-04-03",
+      "dealAmount": 2000000,
+      "parcelNum": "6207-877-154",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎25‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 48368,
+      "row_id": 59
+    },
+    {
+      "assetId": 80481278.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2024-03-19",
+      "dealAmount": 4000000,
+      "parcelNum": "6109-454-154",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 92.78,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-10-16",
+          "dealAmount": 2373000
+        }
+      ],
+      "trend": {
+        "rate": 68.6,
+        "years": 16.4
+      },
+      "ownership": [],
+      "priceSM": 43478,
+      "row_id": 62
+    },
+    {
+      "assetId": 80986411.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2024-03-12",
+      "dealAmount": 1900000,
+      "parcelNum": "6207-877-100",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎20‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-01-24",
+          "dealAmount": 980000
+        }
+      ],
+      "trend": {
+        "rate": 93.9,
+        "years": 16.1
+      },
+      "ownership": [],
+      "priceSM": 46341,
+      "row_id": 63
+    },
+    {
+      "assetId": 120928.0,
+      "addressId": 72884541,
+      "polygonId": "52980116",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "תובל 18",
+      "dealDate": "2023-12-21",
+      "dealAmount": 4040000,
+      "parcelNum": "6207-669-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 111.0,
+      "yearBuilt": 1970,
+      "streetCode": 86000404,
+      "settlmentID": 8600,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 36396,
+      "row_id": 82
+    },
+    {
+      "assetId": 80986475.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2023-09-18",
+      "dealAmount": 2583000,
+      "parcelNum": "6207-877-164",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎26‏",
+      "assetArea": 64.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 39892,
+      "row_id": 95
+    },
+    {
+      "assetId": 80481283.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2023-09-18",
+      "dealAmount": 3200000,
+      "parcelNum": "6109-454-159",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמש עשרה",
+      "assetArea": 63.91,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 50070,
+      "row_id": 96
+    },
+    {
+      "assetId": 80986454.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2023-08-10",
+      "dealAmount": 2075000,
+      "parcelNum": "6207-877-143",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎24‏",
+      "assetArea": 48.25,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-22",
+          "dealAmount": 1450000
+        },
+        {
+          "dealDate": "2011-04-14",
+          "dealAmount": 1125000
+        },
+        {
+          "dealDate": "2004-02-03",
+          "dealAmount": 786000
+        }
+      ],
+      "trend": {
+        "rate": 43.1,
+        "years": 8.1
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 684750
+        },
+        {
+          "proportion": "33",
+          "price": 684750
+        },
+        {
+          "proportion": "33",
+          "price": 684750
+        }
+      ],
+      "priceSM": 43229,
+      "row_id": 102
+    },
+    {
+      "assetId": 80986397.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2023-08-08",
+      "dealAmount": 2050000,
+      "parcelNum": "6207-877-86",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎19‏",
+      "assetArea": 53.4,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-06-01",
+          "dealAmount": 1325000
+        },
+        {
+          "dealDate": "2007-12-27",
+          "dealAmount": 1007000
+        }
+      ],
+      "trend": {
+        "rate": 54.7,
+        "years": 12.2
+      },
+      "ownership": [],
+      "priceSM": 38679,
+      "row_id": 103
+    },
+    {
+      "assetId": 4368261.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2023-08-03",
+      "dealAmount": 1709000,
+      "parcelNum": "6109-451-105",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": null,
+      "assetArea": 63.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27127,
+      "row_id": 104
+    },
+    {
+      "assetId": 80986432.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2023-08-01",
+      "dealAmount": 1600000,
+      "parcelNum": "6207-877-121",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎22‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-31",
+          "dealAmount": 1150000
+        },
+        {
+          "dealDate": "2012-03-15",
+          "dealAmount": 1300000
+        },
+        {
+          "dealDate": "2011-08-28",
+          "dealAmount": 1270000
+        },
+        {
+          "dealDate": "2007-02-11",
+          "dealAmount": 1005000
+        }
+      ],
+      "trend": {
+        "rate": 39.1,
+        "years": 10.8
+      },
+      "ownership": [],
+      "priceSM": 39024,
+      "row_id": 105
+    },
+    {
+      "assetId": 80481292.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2023-07-17",
+      "dealAmount": 2820000,
+      "parcelNum": "6109-454-168",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 66.34,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-06-04",
+          "dealAmount": 2580000
+        },
+        {
+          "dealDate": "2018-09-04",
+          "dealAmount": 2305000
+        },
+        {
+          "dealDate": "2007-08-15",
+          "dealAmount": 1993000
+        }
+      ],
+      "trend": {
+        "rate": 9.3,
+        "years": 4.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 1410000
+        },
+        {
+          "proportion": "50",
+          "price": 1410000
+        }
+      ],
+      "priceSM": 42727,
+      "row_id": 110
+    },
+    {
+      "assetId": 80481133.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2023-05-23",
+      "dealAmount": 2450000,
+      "parcelNum": "6109-454-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.25,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-08-31",
+          "dealAmount": 1096000
+        }
+      ],
+      "trend": {
+        "rate": 123.5,
+        "years": 16.7
+      },
+      "ownership": [],
+      "priceSM": 39516,
+      "row_id": 119
+    },
+    {
+      "assetId": 120922.0,
+      "addressId": 72884541,
+      "polygonId": "52980116",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "תובל 18",
+      "dealDate": "2023-05-18",
+      "dealAmount": 3600000,
+      "parcelNum": "6207-669-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 111.0,
+      "yearBuilt": 1970,
+      "streetCode": 86000404,
+      "settlmentID": 8600,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32432,
+      "row_id": 121
+    },
+    {
+      "assetId": 4368255.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2023-03-29",
+      "dealAmount": 2050000,
+      "parcelNum": "6109-451-98",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": null,
+      "assetArea": 62.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 33065,
+      "row_id": 128
+    },
+    {
+      "assetId": 80481318.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2023-02-23",
+      "dealAmount": 3940000,
+      "parcelNum": "6109-454-194",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשרים ושלוש",
+      "assetArea": 92.99,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-12",
+          "dealAmount": 2325000
+        },
+        {
+          "dealDate": "2007-12-30",
+          "dealAmount": 2770000
+        }
+      ],
+      "trend": {
+        "rate": 69.5,
+        "years": 9.8
+      },
+      "ownership": [],
+      "priceSM": 42826,
+      "row_id": 138
+    },
+    {
+      "assetId": 80481184.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2023-02-06",
+      "dealAmount": 3223000,
+      "parcelNum": "6109-454-60",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמש עשרה",
+      "assetArea": 77.11,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-22",
+          "dealAmount": 1910000
+        }
+      ],
+      "trend": {
+        "rate": 68.7,
+        "years": 11.1
+      },
+      "ownership": [],
+      "priceSM": 41857,
+      "row_id": 141
+    },
+    {
+      "assetId": 80481197.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2022-12-29",
+      "dealAmount": 2310000,
+      "parcelNum": "6109-454-73",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשע עשרה",
+      "assetArea": 77.4,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-18",
+          "dealAmount": 110000
+        }
+      ],
+      "trend": {
+        "rate": 2000.0,
+        "years": 12.4
+      },
+      "ownership": [],
+      "priceSM": 30000,
+      "row_id": 144
+    },
+    {
+      "assetId": 80986476.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2022-12-28",
+      "dealAmount": 3875000,
+      "parcelNum": "6207-877-165",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קומה ‎26‏",
+      "assetArea": 91.3,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-16",
+          "dealAmount": 1400000
+        },
+        {
+          "dealDate": "2007-10-15",
+          "dealAmount": 1827000
+        }
+      ],
+      "trend": {
+        "rate": 176.8,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 42582,
+      "row_id": 145
+    },
+    {
+      "assetId": 4368249.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2022-11-27",
+      "dealAmount": 2850000,
+      "parcelNum": "6109-451-97",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": null,
+      "assetArea": 67.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 42537,
+      "row_id": 151
+    },
+    {
+      "assetId": 80986350.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2022-07-24",
+      "dealAmount": 1880000,
+      "parcelNum": "6207-877-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎15‏",
+      "assetArea": 44.55,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 42200,
+      "row_id": 172
+    },
+    {
+      "assetId": 80986425.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2022-06-30",
+      "dealAmount": 2500000,
+      "parcelNum": "6207-877-114",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎21‏",
+      "assetArea": 48.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-01-24",
+          "dealAmount": 1580000
+        },
+        {
+          "dealDate": "2015-12-16",
+          "dealAmount": 1499000
+        }
+      ],
+      "trend": {
+        "rate": 58.2,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 52083,
+      "row_id": 181
+    },
+    {
+      "assetId": 80481276.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2022-06-23",
+      "dealAmount": 2940000,
+      "parcelNum": "6109-454-152",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 66.34,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 44317,
+      "row_id": 182
+    },
+    {
+      "assetId": 80986348.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2022-06-12",
+      "dealAmount": 1720000,
+      "parcelNum": "6207-877-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎15‏",
+      "assetArea": 28.1,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 61210,
+      "row_id": 183
+    },
+    {
+      "assetId": 80986346.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2022-06-06",
+      "dealAmount": 1880000,
+      "parcelNum": "6207-877-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎15‏",
+      "assetArea": 44.55,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-05-08",
+          "dealAmount": 1089000
+        }
+      ],
+      "trend": {
+        "rate": 72.6,
+        "years": 19.1
+      },
+      "ownership": [],
+      "priceSM": 42727,
+      "row_id": 188
+    },
+    {
+      "assetId": 80986408.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2022-05-29",
+      "dealAmount": 1850000,
+      "parcelNum": "6207-877-97",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎20‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-02-07",
+          "dealAmount": 1250000
+        },
+        {
+          "dealDate": "2010-07-06",
+          "dealAmount": 1250000
+        },
+        {
+          "dealDate": "2004-06-29",
+          "dealAmount": 787000
+        }
+      ],
+      "trend": {
+        "rate": 48.0,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 45122,
+      "row_id": 191
+    },
+    {
+      "assetId": 4368261.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2022-04-17",
+      "dealAmount": 1850000,
+      "parcelNum": "6109-451-107",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": null,
+      "assetArea": 42.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 44048,
+      "row_id": 198
+    },
+    {
+      "assetId": 80481225.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2022-04-14",
+      "dealAmount": 9650000,
+      "parcelNum": "6109-454-101",
+      "dealNature": "דירת גג",
+      "roomNum": 5.0,
+      "floor": "עשרים ושבע, עשרים ושמונה, עשרים ותשע",
+      "assetArea": 249.48,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-18",
+          "dealAmount": 7500000
+        },
+        {
+          "dealDate": "2011-11-24",
+          "dealAmount": 7800000
+        }
+      ],
+      "trend": {
+        "rate": 28.7,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 38755,
+      "row_id": 199
+    },
+    {
+      "assetId": 4039938.0,
+      "addressId": 0,
+      "polygonId": "6207-924",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "0",
+      "dealDate": "2022-03-31",
+      "dealAmount": 1155000,
+      "parcelNum": "6207-924-2",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 203
+    },
+    {
+      "assetId": 80986414.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2022-03-29",
+      "dealAmount": 1500000,
+      "parcelNum": "6207-877-103",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎21‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-04-12",
+          "dealAmount": 1209000
+        }
+      ],
+      "trend": {
+        "rate": 24.1,
+        "years": 13.0
+      },
+      "ownership": [],
+      "priceSM": 36585,
+      "row_id": 205
+    },
+    {
+      "assetId": 80986326.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2022-03-14",
+      "dealAmount": 1960000,
+      "parcelNum": "6207-877-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎14‏",
+      "assetArea": 44.55,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-04-17",
+          "dealAmount": 1470000
+        },
+        {
+          "dealDate": "2009-08-24",
+          "dealAmount": 970000
+        }
+      ],
+      "trend": {
+        "rate": 33.3,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 44545,
+      "row_id": 211
+    },
+    {
+      "assetId": 4368245.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2022-02-21",
+      "dealAmount": 8300000,
+      "parcelNum": "6109-451-93",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 352.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23580,
+      "row_id": 220
+    },
+    {
+      "assetId": 80986469.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2022-02-13",
+      "dealAmount": 2070000,
+      "parcelNum": "6207-877-158",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎25‏",
+      "assetArea": 53.4,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-02-21",
+          "dealAmount": 1750000
+        }
+      ],
+      "trend": {
+        "rate": 18.3,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 39057,
+      "row_id": 222
+    },
+    {
+      "assetId": 80986493.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2022-02-08",
+      "dealAmount": 2400000,
+      "parcelNum": "6207-877-182",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎28‏",
+      "assetArea": 64.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-12-31",
+          "dealAmount": 1563000
+        }
+      ],
+      "trend": {
+        "rate": 53.6,
+        "years": 19.1
+      },
+      "ownership": [],
+      "priceSM": 37500,
+      "row_id": 223
+    },
+    {
+      "assetId": 80986457.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2022-02-06",
+      "dealAmount": 1590000,
+      "parcelNum": "6207-877-146",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎24‏",
+      "assetArea": 53.4,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-08-31",
+          "dealAmount": 1102000
+        }
+      ],
+      "trend": {
+        "rate": 44.3,
+        "years": 15.4
+      },
+      "ownership": [],
+      "priceSM": 30000,
+      "row_id": 225
+    },
+    {
+      "assetId": 4368240.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2022-02-01",
+      "dealAmount": 2500000,
+      "parcelNum": "6109-451-92",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 80.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31250,
+      "row_id": 227
+    },
+    {
+      "assetId": 80481155.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2022-01-31",
+      "dealAmount": 2800000,
+      "parcelNum": "6109-454-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 77.28,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-31",
+          "dealAmount": 2380000
+        },
+        {
+          "dealDate": "2006-10-19",
+          "dealAmount": 1331000
+        }
+      ],
+      "trend": {
+        "rate": 17.6,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 36364,
+      "row_id": 229
+    },
+    {
+      "assetId": 80986394.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2022-01-13",
+      "dealAmount": 1950000,
+      "parcelNum": "6207-877-83",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎19‏",
+      "assetArea": 48.25,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-05-14",
+          "dealAmount": 1745000
+        }
+      ],
+      "trend": {
+        "rate": 11.7,
+        "years": 1.7
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 975000
+        },
+        {
+          "proportion": "50",
+          "price": 975000
+        }
+      ],
+      "priceSM": 40625,
+      "row_id": 241
+    },
+    {
+      "assetId": 4368242.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2022-01-11",
+      "dealAmount": 1940000,
+      "parcelNum": "6109-451-91",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": null,
+      "assetArea": 64.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30312,
+      "row_id": 246
+    },
+    {
+      "assetId": 80481160.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2022-01-04",
+      "dealAmount": 2500000,
+      "parcelNum": "6109-454-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 77.06,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32442,
+      "row_id": 249
+    },
+    {
+      "assetId": 80481275.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2022-01-04",
+      "dealAmount": 3210000,
+      "parcelNum": "6109-454-151",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 72.45,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-09-09",
+          "dealAmount": 2100000
+        }
+      ],
+      "trend": {
+        "rate": 52.9,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 44583,
+      "row_id": 250
+    },
+    {
+      "assetId": 4429156.0,
+      "addressId": 72884376,
+      "polygonId": "52290634",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "אבא הלל 13",
+      "dealDate": "2021-12-26",
+      "dealAmount": 13800000,
+      "parcelNum": "6109-419-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 257
+    },
+    {
+      "assetId": 4039938.0,
+      "addressId": 0,
+      "polygonId": "6207-924",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "0",
+      "dealDate": "2021-11-30",
+      "dealAmount": 3003000,
+      "parcelNum": "6207-924-3",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 263
+    },
+    {
+      "assetId": 4039941.0,
+      "addressId": 0,
+      "polygonId": "6207-917",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "0",
+      "dealDate": "2021-11-11",
+      "dealAmount": 407686000,
+      "parcelNum": "6207-917-16",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 269
+    },
+    {
+      "assetId": 80481175.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2021-10-21",
+      "dealAmount": 2750000,
+      "parcelNum": "6109-454-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 77.22,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 35613,
+      "row_id": 276
+    },
+    {
+      "assetId": 80481174.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2021-10-05",
+      "dealAmount": 2750000,
+      "parcelNum": "6109-454-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 77.22,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-09-15",
+          "dealAmount": 1930000
+        },
+        {
+          "dealDate": "2006-04-27",
+          "dealAmount": 1370000
+        }
+      ],
+      "trend": {
+        "rate": 42.5,
+        "years": 7.1
+      },
+      "ownership": [],
+      "priceSM": 35714,
+      "row_id": 282
+    },
+    {
+      "assetId": 80986428.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-08-24",
+      "dealAmount": 1750000,
+      "parcelNum": "6207-877-117",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎22‏",
+      "assetArea": 64.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27027,
+      "row_id": 291
+    },
+    {
+      "assetId": 80481268.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2021-08-22",
+      "dealAmount": 2800000,
+      "parcelNum": "6109-454-144",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "אחת עשרה",
+      "assetArea": 77.53,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-04-25",
+          "dealAmount": 1631000
+        }
+      ],
+      "trend": {
+        "rate": 71.7,
+        "years": 14.3
+      },
+      "ownership": [],
+      "priceSM": 36364,
+      "row_id": 297
+    },
+    {
+      "assetId": 4039938.0,
+      "addressId": 0,
+      "polygonId": "6207-924",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "0",
+      "dealDate": "2021-08-19",
+      "dealAmount": 540773000,
+      "parcelNum": "6207-924-4",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 298
+    },
+    {
+      "assetId": 80986379.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-08-11",
+      "dealAmount": 2750000,
+      "parcelNum": "6207-877-68",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎18‏",
+      "assetArea": 64.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-08-01",
+          "dealAmount": 1664000
+        },
+        {
+          "dealDate": "2011-06-09",
+          "dealAmount": 1750000
+        }
+      ],
+      "trend": {
+        "rate": 65.3,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 42969,
+      "row_id": 301
+    },
+    {
+      "assetId": 80986513.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-08-10",
+      "dealAmount": 2250000,
+      "parcelNum": "6207-877-202",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎30‏",
+      "assetArea": 51.55,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-02-18",
+          "dealAmount": 1725000
+        },
+        {
+          "dealDate": "2009-12-03",
+          "dealAmount": 1570000
+        }
+      ],
+      "trend": {
+        "rate": 30.4,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 44118,
+      "row_id": 303
+    },
+    {
+      "assetId": 80481126.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2021-08-08",
+      "dealAmount": 2550000,
+      "parcelNum": "6109-454-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 77.31,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-08-13",
+          "dealAmount": 2520000
+        },
+        {
+          "dealDate": "2010-07-21",
+          "dealAmount": 1680000
+        },
+        {
+          "dealDate": "2007-02-13",
+          "dealAmount": 1235000
+        }
+      ],
+      "trend": {
+        "rate": 1.2,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 33117,
+      "row_id": 306
+    },
+    {
+      "assetId": 4368250.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2021-08-04",
+      "dealAmount": 2500000,
+      "parcelNum": "6109-451-90",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 94.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26596,
+      "row_id": 308
+    },
+    {
+      "assetId": 80986442.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-07-12",
+      "dealAmount": 1900000,
+      "parcelNum": "6207-877-131",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎23‏",
+      "assetArea": 48.25,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-05-17",
+          "dealAmount": 1022000
+        },
+        {
+          "dealDate": "2004-03-30",
+          "dealAmount": 789000
+        }
+      ],
+      "trend": {
+        "rate": 85.9,
+        "years": 14.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 950000
+        },
+        {
+          "proportion": "50",
+          "price": 950000
+        }
+      ],
+      "priceSM": 39583,
+      "row_id": 319
+    },
+    {
+      "assetId": 80986531.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-06-23",
+      "dealAmount": 7800000,
+      "parcelNum": "6207-877-220",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קומה ‎34‏, קומה ‎35‏",
+      "assetArea": 194.95,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-03-27",
+          "dealAmount": 3764000
+        }
+      ],
+      "trend": {
+        "rate": 107.2,
+        "years": 23.3
+      },
+      "ownership": [
+        {
+          "proportion": "10",
+          "price": 780000
+        },
+        {
+          "proportion": "10",
+          "price": 780000
+        },
+        {
+          "proportion": "10",
+          "price": 780000
+        },
+        {
+          "proportion": "10",
+          "price": 780000
+        },
+        {
+          "proportion": "60",
+          "price": 4680000
+        }
+      ],
+      "priceSM": 40206,
+      "row_id": 327
+    },
+    {
+      "assetId": 80986381.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-06-09",
+      "dealAmount": 1700000,
+      "parcelNum": "6207-877-70",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎18‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-04",
+          "dealAmount": 1700000
+        },
+        {
+          "dealDate": "2007-11-14",
+          "dealAmount": 982000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 41463,
+      "row_id": 332
+    },
+    {
+      "assetId": 80986380.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-06-09",
+      "dealAmount": 1900000,
+      "parcelNum": "6207-877-69",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎18‏",
+      "assetArea": 64.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-12-12",
+          "dealAmount": 1344000
+        },
+        {
+          "dealDate": "1999-12-30",
+          "dealAmount": 1453000
+        }
+      ],
+      "trend": {
+        "rate": 41.4,
+        "years": 14.5
+      },
+      "ownership": [],
+      "priceSM": 29688,
+      "row_id": 333
+    },
+    {
+      "assetId": 80986392.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-05-23",
+      "dealAmount": 2275000,
+      "parcelNum": "6207-877-81",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎19‏",
+      "assetArea": 64.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-01-15",
+          "dealAmount": 1567000
+        }
+      ],
+      "trend": {
+        "rate": 45.2,
+        "years": 14.4
+      },
+      "ownership": [],
+      "priceSM": 35547,
+      "row_id": 339
+    },
+    {
+      "assetId": 80986402.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-05-20",
+      "dealAmount": 1850000,
+      "parcelNum": "6207-877-91",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎20‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-09-03",
+          "dealAmount": 1675000
+        },
+        {
+          "dealDate": "2012-01-19",
+          "dealAmount": 1260000
+        },
+        {
+          "dealDate": "2006-12-07",
+          "dealAmount": 1049000
+        }
+      ],
+      "trend": {
+        "rate": 10.4,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 45122,
+      "row_id": 340
+    },
+    {
+      "assetId": 80986382.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-05-05",
+      "dealAmount": 1800000,
+      "parcelNum": "6207-877-71",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎18‏",
+      "assetArea": 48.3,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-13",
+          "dealAmount": 1120000
+        },
+        {
+          "dealDate": "2000-05-22",
+          "dealAmount": 1055000
+        }
+      ],
+      "trend": {
+        "rate": 60.7,
+        "years": 13.0
+      },
+      "ownership": [],
+      "priceSM": 37500,
+      "row_id": 345
+    },
+    {
+      "assetId": 80481240.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2021-04-27",
+      "dealAmount": 2300000,
+      "parcelNum": "6109-454-116",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 77.28,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-01-04",
+          "dealAmount": 1210000
+        }
+      ],
+      "trend": {
+        "rate": 90.1,
+        "years": 14.3
+      },
+      "ownership": [],
+      "priceSM": 29870,
+      "row_id": 346
+    },
+    {
+      "assetId": 80481193.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2021-04-26",
+      "dealAmount": 2500000,
+      "parcelNum": "6109-454-69",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 61.84,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-15",
+          "dealAmount": 1930000
+        },
+        {
+          "dealDate": "2007-07-17",
+          "dealAmount": 1741000
+        }
+      ],
+      "trend": {
+        "rate": 29.5,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 40984,
+      "row_id": 347
+    },
+    {
+      "assetId": 4368239.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2021-04-26",
+      "dealAmount": 3750000,
+      "parcelNum": "6109-451-89",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 128.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29297,
+      "row_id": 348
+    },
+    {
+      "assetId": 80481183.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2021-04-04",
+      "dealAmount": 2700000,
+      "parcelNum": "6109-454-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמש עשרה",
+      "assetArea": 77.53,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-25",
+          "dealAmount": 2300000
+        },
+        {
+          "dealDate": "2006-03-27",
+          "dealAmount": 1398000
+        }
+      ],
+      "trend": {
+        "rate": 17.4,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 35065,
+      "row_id": 355
+    },
+    {
+      "assetId": 80986403.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-03-18",
+      "dealAmount": 2000000,
+      "parcelNum": "6207-877-92",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎20‏",
+      "assetArea": 64.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-10-15",
+          "dealAmount": 1151000
+        }
+      ],
+      "trend": {
+        "rate": 73.8,
+        "years": 13.4
+      },
+      "ownership": [],
+      "priceSM": 31250,
+      "row_id": 357
+    },
+    {
+      "assetId": 80481191.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2021-01-19",
+      "dealAmount": 2840000,
+      "parcelNum": "6109-454-67",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 77.22,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-07-17",
+          "dealAmount": 2600000
+        }
+      ],
+      "trend": {
+        "rate": 9.2,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 36883,
+      "row_id": 371
+    },
+    {
+      "assetId": 80986502.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-01-13",
+      "dealAmount": 1755000,
+      "parcelNum": "6207-877-191",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎28‏",
+      "assetArea": 48.15,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-11-03",
+          "dealAmount": 1650000
+        },
+        {
+          "dealDate": "2013-11-18",
+          "dealAmount": 1470000
+        },
+        {
+          "dealDate": "2004-08-19",
+          "dealAmount": 995000
+        }
+      ],
+      "trend": {
+        "rate": 6.4,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 36562,
+      "row_id": 372
+    },
+    {
+      "assetId": 80986345.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-01-04",
+      "dealAmount": 1900000,
+      "parcelNum": "6207-877-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎15‏",
+      "assetArea": 51.6,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-11-05",
+          "dealAmount": 1875000
+        },
+        {
+          "dealDate": "2016-11-23",
+          "dealAmount": 1499000
+        },
+        {
+          "dealDate": "2009-10-30",
+          "dealAmount": 1102000
+        }
+      ],
+      "trend": {
+        "rate": 1.3,
+        "years": 1.2
+      },
+      "ownership": [],
+      "priceSM": 37255,
+      "row_id": 374
+    },
+    {
+      "assetId": 80986416.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2021-01-03",
+      "dealAmount": 1600000,
+      "parcelNum": "6207-877-105",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎21‏",
+      "assetArea": 64.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-01-27",
+          "dealAmount": 1650000
+        },
+        {
+          "dealDate": "2007-10-26",
+          "dealAmount": 1329000
+        }
+      ],
+      "trend": {
+        "rate": -3.0,
+        "years": 10.9
+      },
+      "ownership": [],
+      "priceSM": 25000,
+      "row_id": 375
+    },
+    {
+      "assetId": 80986353.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2020-12-11",
+      "dealAmount": 1230000,
+      "parcelNum": "6207-877-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎15‏",
+      "assetArea": 44.55,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27609,
+      "row_id": 382
+    },
+    {
+      "assetId": 80481252.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2020-11-10",
+      "dealAmount": 2530000,
+      "parcelNum": "6109-454-128",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 77.53,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-15",
+          "dealAmount": 1920000
+        },
+        {
+          "dealDate": "2007-02-22",
+          "dealAmount": 1449000
+        }
+      ],
+      "trend": {
+        "rate": 31.8,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 32857,
+      "row_id": 390
+    },
+    {
+      "assetId": 80481316.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2020-10-18",
+      "dealAmount": 2630000,
+      "parcelNum": "6109-454-192",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים ושלוש",
+      "assetArea": 65.93,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-09-30",
+          "dealAmount": 2275000
+        }
+      ],
+      "trend": {
+        "rate": 15.6,
+        "years": 13.1
+      },
+      "ownership": [],
+      "priceSM": 40462,
+      "row_id": 394
+    },
+    {
+      "assetId": 80481307.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2020-08-02",
+      "dealAmount": 2038000,
+      "parcelNum": "6109-454-183",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים ואחת",
+      "assetArea": 72.45,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28130,
+      "row_id": 402
+    },
+    {
+      "assetId": 80481308.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2020-08-02",
+      "dealAmount": 2262000,
+      "parcelNum": "6109-454-184",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים ואחת",
+      "assetArea": 66.34,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 34097,
+      "row_id": 403
+    },
+    {
+      "assetId": 80986395.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2020-07-12",
+      "dealAmount": 1750000,
+      "parcelNum": "6207-877-84",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎19‏",
+      "assetArea": 48.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-08",
+          "dealAmount": 1142000
+        }
+      ],
+      "trend": {
+        "rate": 53.2,
+        "years": 9.4
+      },
+      "ownership": [],
+      "priceSM": 36458,
+      "row_id": 406
+    },
+    {
+      "assetId": 4368243.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2020-04-02",
+      "dealAmount": 3175000,
+      "parcelNum": "6109-451-87",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 176.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18040,
+      "row_id": 416
+    },
+    {
+      "assetId": 80986514.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2020-02-07",
+      "dealAmount": 1447000,
+      "parcelNum": "6207-877-203",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎30‏",
+      "assetArea": 54.0,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-02-06",
+          "dealAmount": 1447000
+        },
+        {
+          "dealDate": "2020-02-06",
+          "dealAmount": 1085000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 26796,
+      "row_id": 429
+    },
+    {
+      "assetId": 4039938.0,
+      "addressId": 0,
+      "polygonId": "6207-924",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "0",
+      "dealDate": "2019-10-31",
+      "dealAmount": 2904000,
+      "parcelNum": "6207-924-5",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 8026.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-10-31",
+          "dealAmount": 8713000
+        }
+      ],
+      "trend": {
+        "rate": -66.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 362,
+      "row_id": 467
+    },
+    {
+      "assetId": 4368261.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2019-10-23",
+      "dealAmount": 2044000,
+      "parcelNum": "6109-451-111",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": null,
+      "assetArea": 68.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30059,
+      "row_id": 469
+    },
+    {
+      "assetId": 80986521.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2019-09-26",
+      "dealAmount": 1825000,
+      "parcelNum": "6207-877-210",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎31‏",
+      "assetArea": 51.55,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-18",
+          "dealAmount": 2000000
+        },
+        {
+          "dealDate": "2003-12-30",
+          "dealAmount": 535000
+        }
+      ],
+      "trend": {
+        "rate": -8.8,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 35784,
+      "row_id": 472
+    },
+    {
+      "assetId": 4368261.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2019-09-25",
+      "dealAmount": 2000000,
+      "parcelNum": "6109-451-112",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": null,
+      "assetArea": 65.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30769,
+      "row_id": 473
+    },
+    {
+      "assetId": 80986404.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2019-09-08",
+      "dealAmount": 2000000,
+      "parcelNum": "6207-877-93",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎20‏",
+      "assetArea": 64.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30888,
+      "row_id": 481
+    },
+    {
+      "assetId": 80986407.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2019-08-01",
+      "dealAmount": 1548000,
+      "parcelNum": "6207-877-96",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎20‏",
+      "assetArea": 48.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-20",
+          "dealAmount": 1420000
+        },
+        {
+          "dealDate": "2004-06-29",
+          "dealAmount": 805000
+        }
+      ],
+      "trend": {
+        "rate": 9.0,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 32250,
+      "row_id": 484
+    },
+    {
+      "assetId": 80986362.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2019-08-01",
+      "dealAmount": 1500000,
+      "parcelNum": "6207-877-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎16‏",
+      "assetArea": 53.4,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28090,
+      "row_id": 485
+    },
+    {
+      "assetId": 80986478.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2019-06-07",
+      "dealAmount": 1450000,
+      "parcelNum": "6207-877-167",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎26‏",
+      "assetArea": 53.4,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-24",
+          "dealAmount": 1394000
+        },
+        {
+          "dealDate": "2007-08-06",
+          "dealAmount": 1351000
+        }
+      ],
+      "trend": {
+        "rate": 4.0,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 27358,
+      "row_id": 502
+    },
+    {
+      "assetId": 120925.0,
+      "addressId": 72884541,
+      "polygonId": "52980116",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "תובל 18",
+      "dealDate": "2019-04-23",
+      "dealAmount": 860000,
+      "parcelNum": "6207-669-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 0.0,
+      "floor": "רביעית",
+      "assetArea": 42.0,
+      "yearBuilt": 1970,
+      "streetCode": 86000404,
+      "settlmentID": 8600,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20476,
+      "row_id": 514
+    },
+    {
+      "assetId": 80481303.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2019-04-18",
+      "dealAmount": 2700000,
+      "parcelNum": "6109-454-179",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים",
+      "assetArea": 77.2,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-08",
+          "dealAmount": 2800000
+        },
+        {
+          "dealDate": "2011-11-24",
+          "dealAmount": 1500000
+        }
+      ],
+      "trend": {
+        "rate": -3.6,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 35065,
+      "row_id": 515
+    },
+    {
+      "assetId": 80481301.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2019-03-24",
+      "dealAmount": 2425000,
+      "parcelNum": "6109-454-177",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשע עשרה",
+      "assetArea": 77.48,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-07-30",
+          "dealAmount": 2109000
+        }
+      ],
+      "trend": {
+        "rate": 15.0,
+        "years": 11.7
+      },
+      "ownership": [],
+      "priceSM": 31494,
+      "row_id": 521
+    },
+    {
+      "assetId": 80481237.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2019-02-21",
+      "dealAmount": 2500000,
+      "parcelNum": "6109-454-113",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 77.53,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-23",
+          "dealAmount": 1829000
+        },
+        {
+          "dealDate": "2007-05-15",
+          "dealAmount": 1440000
+        }
+      ],
+      "trend": {
+        "rate": 36.7,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 32468,
+      "row_id": 528
+    },
+    {
+      "assetId": 80986496.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2019-02-20",
+      "dealAmount": 1600000,
+      "parcelNum": "6207-877-185",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎28‏",
+      "assetArea": 48.05,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-25",
+          "dealAmount": 1490000
+        },
+        {
+          "dealDate": "2012-01-19",
+          "dealAmount": 1525000
+        },
+        {
+          "dealDate": "2004-02-01",
+          "dealAmount": 778000
+        }
+      ],
+      "trend": {
+        "rate": 7.4,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 33333,
+      "row_id": 530
+    },
+    {
+      "assetId": 80986532.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2019-01-13",
+      "dealAmount": 9050000,
+      "parcelNum": "6207-877-221",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "קומה ‎34‏, קומה ‎35‏",
+      "assetArea": 376.9,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-12-28",
+          "dealAmount": 60000
+        }
+      ],
+      "trend": {
+        "rate": 14983.3,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 24069,
+      "row_id": 539
+    },
+    {
+      "assetId": 80986370.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2018-12-26",
+      "dealAmount": 1800000,
+      "parcelNum": "6207-877-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎17‏",
+      "assetArea": 48.25,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-07-06",
+          "dealAmount": 958000
+        }
+      ],
+      "trend": {
+        "rate": 87.9,
+        "years": 18.5
+      },
+      "ownership": [],
+      "priceSM": 37500,
+      "row_id": 545
+    },
+    {
+      "assetId": 80481281.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2018-11-13",
+      "dealAmount": 2400000,
+      "parcelNum": "6109-454-157",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 77.27,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-03-11",
+          "dealAmount": 1798000
+        }
+      ],
+      "trend": {
+        "rate": 33.5,
+        "years": 10.7
+      },
+      "ownership": [],
+      "priceSM": 31169,
+      "row_id": 562
+    },
+    {
+      "assetId": 80481256.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2018-09-04",
+      "dealAmount": 2100000,
+      "parcelNum": "6109-454-132",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 66.54,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-30",
+          "dealAmount": 1920000
+        },
+        {
+          "dealDate": "2007-05-16",
+          "dealAmount": 1352000
+        }
+      ],
+      "trend": {
+        "rate": 9.4,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 31818,
+      "row_id": 577
+    },
+    {
+      "assetId": 80481254.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2018-06-21",
+      "dealAmount": 2400000,
+      "parcelNum": "6109-454-130",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 77.11,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-05-24",
+          "dealAmount": 1650000
+        }
+      ],
+      "trend": {
+        "rate": 45.5,
+        "years": 11.1
+      },
+      "ownership": [],
+      "priceSM": 31169,
+      "row_id": 599
+    },
+    {
+      "assetId": 80986367.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2018-05-17",
+      "dealAmount": 1700000,
+      "parcelNum": "6207-877-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎17‏",
+      "assetArea": 66.0,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25758,
+      "row_id": 614
+    },
+    {
+      "assetId": 80986368.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2018-05-17",
+      "dealAmount": 1600000,
+      "parcelNum": "6207-877-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "קומה ‎17‏",
+      "assetArea": 33.9,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-29",
+          "dealAmount": 1675000
+        }
+      ],
+      "trend": {
+        "rate": -4.5,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 48485,
+      "row_id": 615
+    },
+    {
+      "assetId": 4038028.0,
+      "addressId": 72884712,
+      "polygonId": "6207-886",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "היצירה 15",
+      "dealDate": "2018-03-26",
+      "dealAmount": 2300000,
+      "parcelNum": "6207-886-2",
+      "dealNature": "מסחרי + מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 1346.0,
+      "yearBuilt": 0,
+      "streetCode": 86000518,
+      "settlmentID": 8600,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1709,
+      "row_id": 625
+    },
+    {
+      "assetId": 80986337.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2018-03-13",
+      "dealAmount": 1450000,
+      "parcelNum": "6207-877-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎14‏",
+      "assetArea": 44.55,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-03-14",
+          "dealAmount": 1170000
+        },
+        {
+          "dealDate": "2009-10-29",
+          "dealAmount": 945000
+        }
+      ],
+      "trend": {
+        "rate": 23.9,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 32955,
+      "row_id": 635
+    },
+    {
+      "assetId": 4368230.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2018-02-21",
+      "dealAmount": 1579000,
+      "parcelNum": "6109-451-78",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": null,
+      "assetArea": 46.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 34326,
+      "row_id": 641
+    },
+    {
+      "assetId": 80986409.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2017-12-04",
+      "dealAmount": 1610000,
+      "parcelNum": "6207-877-98",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎20‏",
+      "assetArea": 53.4,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-18",
+          "dealAmount": 1569000
+        },
+        {
+          "dealDate": "2009-09-23",
+          "dealAmount": 1250000
+        },
+        {
+          "dealDate": "2007-08-06",
+          "dealAmount": 1081000
+        }
+      ],
+      "trend": {
+        "rate": 2.6,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 30377,
+      "row_id": 658
+    },
+    {
+      "assetId": 80986498.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2017-11-30",
+      "dealAmount": 1800000,
+      "parcelNum": "6207-877-187",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎28‏",
+      "assetArea": 53.4,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-31",
+          "dealAmount": 1515000
+        },
+        {
+          "dealDate": "2004-02-29",
+          "dealAmount": 902000
+        }
+      ],
+      "trend": {
+        "rate": 18.8,
+        "years": 7.1
+      },
+      "ownership": [],
+      "priceSM": 33962,
+      "row_id": 659
+    },
+    {
+      "assetId": 80481173.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2017-11-29",
+      "dealAmount": 2380000,
+      "parcelNum": "6109-454-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 77.17,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30841,
+      "row_id": 660
+    },
+    {
+      "assetId": 80481202.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2017-09-14",
+      "dealAmount": 2120000,
+      "parcelNum": "6109-454-78",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים",
+      "assetArea": 65.89,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-09-21",
+          "dealAmount": 1800000
+        }
+      ],
+      "trend": {
+        "rate": 17.8,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 32615,
+      "row_id": 678
+    },
+    {
+      "assetId": 80986374.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2017-09-11",
+      "dealAmount": 1610000,
+      "parcelNum": "6207-877-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎17‏",
+      "assetArea": 53.4,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-25",
+          "dealAmount": 1067000
+        }
+      ],
+      "trend": {
+        "rate": 50.9,
+        "years": 17.9
+      },
+      "ownership": [],
+      "priceSM": 30377,
+      "row_id": 679
+    },
+    {
+      "assetId": 120639.0,
+      "addressId": 72884729,
+      "polygonId": "52317253",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרקון 7",
+      "dealDate": "2017-08-13",
+      "dealAmount": 1276000,
+      "parcelNum": "6207-618-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "רביעית",
+      "assetArea": 152.25,
+      "yearBuilt": 1980,
+      "streetCode": 86000520,
+      "settlmentID": 8600,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-05-22",
+          "dealAmount": 602000
+        }
+      ],
+      "trend": {
+        "rate": 112.0,
+        "years": 15.2
+      },
+      "ownership": [],
+      "priceSM": 8395,
+      "row_id": 684
+    },
+    {
+      "assetId": 80986385.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2017-08-02",
+      "dealAmount": 1599000,
+      "parcelNum": "6207-877-74",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎18‏",
+      "assetArea": 53.4,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-21",
+          "dealAmount": 1320000
+        },
+        {
+          "dealDate": "2009-07-08",
+          "dealAmount": 875000
+        },
+        {
+          "dealDate": "2003-02-27",
+          "dealAmount": 884000
+        }
+      ],
+      "trend": {
+        "rate": 21.1,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 30170,
+      "row_id": 690
+    },
+    {
+      "assetId": 4368222.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2017-07-25",
+      "dealAmount": 2150000,
+      "parcelNum": "6109-451-75",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": null,
+      "assetArea": 62.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 34677,
+      "row_id": 692
+    },
+    {
+      "assetId": 80481226.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2017-07-18",
+      "dealAmount": 9100000,
+      "parcelNum": "6109-454-102",
+      "dealNature": "דירת גג",
+      "roomNum": 5.0,
+      "floor": "עשרים ושבע, עשרים ושמונה, עשרים ותשע",
+      "assetArea": 246.71,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-11-24",
+          "dealAmount": 5700000
+        },
+        {
+          "dealDate": "2008-11-16",
+          "dealAmount": 10500000
+        }
+      ],
+      "trend": {
+        "rate": 59.6,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 36992,
+      "row_id": 694
+    },
+    {
+      "assetId": 80986437.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2017-06-04",
+      "dealAmount": 1400000,
+      "parcelNum": "6207-877-126",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎22‏",
+      "assetArea": 48.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-30",
+          "dealAmount": 1400000
+        },
+        {
+          "dealDate": "2000-05-07",
+          "dealAmount": 1149000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 6.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 700000
+        },
+        {
+          "proportion": "50",
+          "price": 700000
+        }
+      ],
+      "priceSM": 29167,
+      "row_id": 705
+    },
+    {
+      "assetId": 80986360.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2017-05-23",
+      "dealAmount": 1750000,
+      "parcelNum": "6207-877-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎16‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 42322,
+      "row_id": 709
+    },
+    {
+      "assetId": 80986339.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2017-04-27",
+      "dealAmount": 1595000,
+      "parcelNum": "6207-877-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎14‏",
+      "assetArea": 44.55,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-09-07",
+          "dealAmount": 1250000
+        },
+        {
+          "dealDate": "2009-12-31",
+          "dealAmount": 880000
+        }
+      ],
+      "trend": {
+        "rate": 27.6,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 36250,
+      "row_id": 714
+    },
+    {
+      "assetId": 80481148.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2017-04-23",
+      "dealAmount": 2325000,
+      "parcelNum": "6109-454-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 77.06,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-11-27",
+          "dealAmount": 1389000
+        }
+      ],
+      "trend": {
+        "rate": 67.4,
+        "years": 10.4
+      },
+      "ownership": [],
+      "priceSM": 30195,
+      "row_id": 718
+    },
+    {
+      "assetId": 80986430.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2017-03-15",
+      "dealAmount": 1550000,
+      "parcelNum": "6207-877-119",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎22‏",
+      "assetArea": 48.25,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-04-15",
+          "dealAmount": 887000
+        }
+      ],
+      "trend": {
+        "rate": 74.7,
+        "years": 17.9
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 511500
+        },
+        {
+          "proportion": "33",
+          "price": 511500
+        },
+        {
+          "proportion": "33",
+          "price": 511500
+        }
+      ],
+      "priceSM": 32292,
+      "row_id": 724
+    },
+    {
+      "assetId": 80986427.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2017-02-01",
+      "dealAmount": 2000000,
+      "parcelNum": "6207-877-116",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎22‏",
+      "assetArea": 64.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30888,
+      "row_id": 736
+    },
+    {
+      "assetId": 80986447.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2016-09-20",
+      "dealAmount": 1500000,
+      "parcelNum": "6207-877-136",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎23‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-08-10",
+          "dealAmount": 1310000
+        },
+        {
+          "dealDate": "2013-09-17",
+          "dealAmount": 1120000
+        },
+        {
+          "dealDate": "2010-01-06",
+          "dealAmount": 1150000
+        },
+        {
+          "dealDate": "2003-10-30",
+          "dealAmount": 806000
+        }
+      ],
+      "trend": {
+        "rate": 14.5,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 36585,
+      "row_id": 765
+    },
+    {
+      "assetId": 80986482.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2016-09-13",
+      "dealAmount": 1500000,
+      "parcelNum": "6207-877-171",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎27‏",
+      "assetArea": 64.7,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-28",
+          "dealAmount": 1500000
+        },
+        {
+          "dealDate": "2003-12-30",
+          "dealAmount": 1181000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 23438,
+      "row_id": 766
+    },
+    {
+      "assetId": 80986421.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2016-08-10",
+      "dealAmount": 1750000,
+      "parcelNum": "6207-877-110",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎21‏",
+      "assetArea": 53.4,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-18",
+          "dealAmount": 1399000
+        }
+      ],
+      "trend": {
+        "rate": 25.1,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 33019,
+      "row_id": 785
+    },
+    {
+      "assetId": 80986424.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2016-07-26",
+      "dealAmount": 1500000,
+      "parcelNum": "6207-877-113",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎21‏",
+      "assetArea": 48.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31024,
+      "row_id": 788
+    },
+    {
+      "assetId": 80986383.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2016-07-20",
+      "dealAmount": 1590000,
+      "parcelNum": "6207-877-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎18‏",
+      "assetArea": 48.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-07",
+          "dealAmount": 1200000
+        },
+        {
+          "dealDate": "2007-12-26",
+          "dealAmount": 1037000
+        },
+        {
+          "dealDate": "2007-08-06",
+          "dealAmount": 1005000
+        }
+      ],
+      "trend": {
+        "rate": 32.5,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 33125,
+      "row_id": 792
+    },
+    {
+      "assetId": 80481220.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2016-07-07",
+      "dealAmount": 2875000,
+      "parcelNum": "6109-454-96",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשרים וארבע",
+      "assetArea": 85.34,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-07-15",
+          "dealAmount": 1950000
+        }
+      ],
+      "trend": {
+        "rate": 47.4,
+        "years": 7.0
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 1437500
+        },
+        {
+          "proportion": "50",
+          "price": 1437500
+        }
+      ],
+      "priceSM": 33824,
+      "row_id": 793
+    },
+    {
+      "assetId": 80481179.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2016-06-29",
+      "dealAmount": 2410000,
+      "parcelNum": "6109-454-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 77.46,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-09-20",
+          "dealAmount": 1676000
+        }
+      ],
+      "trend": {
+        "rate": 43.8,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 31299,
+      "row_id": 795
+    },
+    {
+      "assetId": 80986466.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2016-05-22",
+      "dealAmount": 1875000,
+      "parcelNum": "6207-877-155",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎25‏",
+      "assetArea": 48.25,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-02-01",
+          "dealAmount": 789000
+        }
+      ],
+      "trend": {
+        "rate": 137.6,
+        "years": 12.3
+      },
+      "ownership": [],
+      "priceSM": 39062,
+      "row_id": 805
+    },
+    {
+      "assetId": 80481194.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2016-03-15",
+      "dealAmount": 2140000,
+      "parcelNum": "6109-454-70",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 77.31,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-11-27",
+          "dealAmount": 1712000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 27792,
+      "row_id": 813
+    },
+    {
+      "assetId": 80481261.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2016-02-23",
+      "dealAmount": 2400000,
+      "parcelNum": "6109-454-137",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 77.22,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31080,
+      "row_id": 821
+    },
+    {
+      "assetId": 80986505.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2016-02-18",
+      "dealAmount": 2050000,
+      "parcelNum": "6207-877-194",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎29‏",
+      "assetArea": 61.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-12-15",
+          "dealAmount": 913000
+        }
+      ],
+      "trend": {
+        "rate": 124.5,
+        "years": 12.2
+      },
+      "ownership": [],
+      "priceSM": 33607,
+      "row_id": 823
+    },
+    {
+      "assetId": 80986378.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2015-12-29",
+      "dealAmount": 1749000,
+      "parcelNum": "6207-877-67",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎18‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-10-25",
+          "dealAmount": 478000
+        }
+      ],
+      "trend": {
+        "rate": 265.9,
+        "years": 15.2
+      },
+      "ownership": [],
+      "priceSM": 42659,
+      "row_id": 850
+    },
+    {
+      "assetId": 80481196.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2015-12-17",
+      "dealAmount": 2535000,
+      "parcelNum": "6109-454-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 92.78,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27323,
+      "row_id": 851
+    },
+    {
+      "assetId": 121786.0,
+      "addressId": 72884715,
+      "polygonId": "53300515",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "בצלאל 5",
+      "dealDate": "2015-11-09",
+      "dealAmount": 700000,
+      "parcelNum": "6207-805-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 75.0,
+      "yearBuilt": 1974,
+      "streetCode": 86000407,
+      "settlmentID": 8600,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9333,
+      "row_id": 864
+    },
+    {
+      "assetId": 80986533.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2015-11-06",
+      "dealAmount": 5289000,
+      "parcelNum": "6207-877-222",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קומה ‎34‏, קומה ‎35‏",
+      "assetArea": 130.0,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 40685,
+      "row_id": 865
+    },
+    {
+      "assetId": 80986410.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2015-09-24",
+      "dealAmount": 1710000,
+      "parcelNum": "6207-877-99",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎20‏",
+      "assetArea": 53.4,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32022,
+      "row_id": 872
+    },
+    {
+      "assetId": 80481259.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2015-07-02",
+      "dealAmount": 2250000,
+      "parcelNum": "6109-454-135",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 77.17,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-10",
+          "dealAmount": 51000
+        },
+        {
+          "dealDate": "2007-02-11",
+          "dealAmount": 1626000
+        }
+      ],
+      "trend": {
+        "rate": 4311.8,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 29221,
+      "row_id": 888
+    },
+    {
+      "assetId": 80986417.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2015-06-22",
+      "dealAmount": 1695000,
+      "parcelNum": "6207-877-106",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎21‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-16",
+          "dealAmount": 1050000
+        }
+      ],
+      "trend": {
+        "rate": 61.4,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 41341,
+      "row_id": 892
+    },
+    {
+      "assetId": 80986435.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2015-05-26",
+      "dealAmount": 1410000,
+      "parcelNum": "6207-877-124",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎22‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-17",
+          "dealAmount": 1200000
+        },
+        {
+          "dealDate": "2002-07-01",
+          "dealAmount": 998000
+        }
+      ],
+      "trend": {
+        "rate": 17.5,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 34390,
+      "row_id": 898
+    },
+    {
+      "assetId": 80986492.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2015-05-17",
+      "dealAmount": 2000000,
+      "parcelNum": "6207-877-181",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎28‏",
+      "assetArea": 64.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-25",
+          "dealAmount": 2000000
+        },
+        {
+          "dealDate": "2005-06-14",
+          "dealAmount": 1360000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 31250,
+      "row_id": 904
+    },
+    {
+      "assetId": 80481313.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2015-05-11",
+      "dealAmount": 2000000,
+      "parcelNum": "6109-454-189",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים ושתים",
+      "assetArea": 77.31,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-03-29",
+          "dealAmount": 1770000
+        }
+      ],
+      "trend": {
+        "rate": 13.0,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 25974,
+      "row_id": 907
+    },
+    {
+      "assetId": 80986393.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2015-04-15",
+      "dealAmount": 1350000,
+      "parcelNum": "6207-877-82",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎19‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-01-21",
+          "dealAmount": 1000000
+        },
+        {
+          "dealDate": "2008-06-05",
+          "dealAmount": 1050000
+        }
+      ],
+      "trend": {
+        "rate": 35.0,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 32927,
+      "row_id": 909
+    },
+    {
+      "assetId": 80986330.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2015-03-03",
+      "dealAmount": 1149000,
+      "parcelNum": "6207-877-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎14‏",
+      "assetArea": 38.8,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-01",
+          "dealAmount": 1050000
+        },
+        {
+          "dealDate": "2012-02-08",
+          "dealAmount": 950000
+        },
+        {
+          "dealDate": "2011-01-13",
+          "dealAmount": 950000
+        }
+      ],
+      "trend": {
+        "rate": 9.4,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 30237,
+      "row_id": 914
+    },
+    {
+      "assetId": 80986388.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2015-02-15",
+      "dealAmount": 1430000,
+      "parcelNum": "6207-877-77",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎18‏",
+      "assetArea": 46.6,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-30",
+          "dealAmount": 1500000
+        },
+        {
+          "dealDate": "2012-02-13",
+          "dealAmount": 2200000
+        }
+      ],
+      "trend": {
+        "rate": -4.7,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 31087,
+      "row_id": 926
+    },
+    {
+      "assetId": 80986341.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2015-02-03",
+      "dealAmount": 1000000,
+      "parcelNum": "6207-877-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎15‏",
+      "assetArea": 39.25,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-08",
+          "dealAmount": 800000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 25641,
+      "row_id": 932
+    },
+    {
+      "assetId": 80986329.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2015-02-03",
+      "dealAmount": 1349000,
+      "parcelNum": "6207-877-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎14‏",
+      "assetArea": 41.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-06-21",
+          "dealAmount": 852000
+        }
+      ],
+      "trend": {
+        "rate": 58.3,
+        "years": 5.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 674500
+        },
+        {
+          "proportion": "50",
+          "price": 674500
+        }
+      ],
+      "priceSM": 32902,
+      "row_id": 933
+    },
+    {
+      "assetId": 4437099.0,
+      "addressId": 72884613,
+      "polygonId": "52333572",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "היצירה 33",
+      "dealDate": "2015-01-04",
+      "dealAmount": 1637000,
+      "parcelNum": "6207-807-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "עשרים וארבע",
+      "assetArea": 47.0,
+      "yearBuilt": 1983,
+      "streetCode": 86000518,
+      "settlmentID": 8600,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 34830,
+      "row_id": 945
+    },
+    {
+      "assetId": 4368210.0,
+      "addressId": 72884437,
+      "polygonId": "51663794",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "ז'בוטינסקי 7",
+      "dealDate": "2015-01-01",
+      "dealAmount": 5900000,
+      "parcelNum": "6109-451-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": null,
+      "assetArea": 350.0,
+      "yearBuilt": 2001,
+      "streetCode": 86000108,
+      "settlmentID": 8600,
+      "buildingFloors": 20,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16857,
+      "row_id": 947
+    },
+    {
+      "assetId": 80986503.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2014-12-09",
+      "dealAmount": 2500000,
+      "parcelNum": "6207-877-192",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קומה ‎29‏",
+      "assetArea": 86.75,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-02-12",
+          "dealAmount": 2028000
+        }
+      ],
+      "trend": {
+        "rate": 23.3,
+        "years": 10.8
+      },
+      "ownership": [],
+      "priceSM": 29070,
+      "row_id": 955
+    },
+    {
+      "assetId": 80986333.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2014-11-05",
+      "dealAmount": 1210000,
+      "parcelNum": "6207-877-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎14‏",
+      "assetArea": 44.55,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-05",
+          "dealAmount": 1140000
+        }
+      ],
+      "trend": {
+        "rate": 6.1,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 27500,
+      "row_id": 970
+    },
+    {
+      "assetId": 80986518.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2014-07-31",
+      "dealAmount": 1304000,
+      "parcelNum": "6207-877-207",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎30‏",
+      "assetArea": 50.8,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-08-31",
+          "dealAmount": 941000
+        }
+      ],
+      "trend": {
+        "rate": 38.6,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 26080,
+      "row_id": 988
+    },
+    {
+      "assetId": 80986467.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2014-07-21",
+      "dealAmount": 1400000,
+      "parcelNum": "6207-877-156",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎25‏",
+      "assetArea": 48.35,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-03-22",
+          "dealAmount": 788000
+        }
+      ],
+      "trend": {
+        "rate": 77.7,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 29167,
+      "row_id": 989
+    },
+    {
+      "assetId": 80481315.0,
+      "addressId": 72884431,
+      "polygonId": "65043989",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "הרי הגלעד 4",
+      "dealDate": "2014-07-13",
+      "dealAmount": 2300000,
+      "parcelNum": "6109-454-191",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים ושלוש",
+      "assetArea": 77.26,
+      "yearBuilt": 2007,
+      "streetCode": 86000408,
+      "settlmentID": 8600,
+      "buildingFloors": 27,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-11-08",
+          "dealAmount": 1839000
+        },
+        {
+          "dealDate": "2007-09-30",
+          "dealAmount": 2135000
+        }
+      ],
+      "trend": {
+        "rate": 25.1,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 29870,
+      "row_id": 990
+    },
+    {
+      "assetId": 80986512.0,
+      "addressId": 72884915,
+      "polygonId": "51663983",
+      "neighborhoodName": "הבורסה",
+      "neighborhoodId": 65210690,
+      "address": "מנחם בגין 3",
+      "dealDate": "2014-07-10",
+      "dealAmount": 1050000,
+      "parcelNum": "6207-877-201",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קומה ‎29‏",
+      "assetArea": 51.7,
+      "yearBuilt": 2000,
+      "streetCode": 86000416,
+      "settlmentID": 8600,
+      "buildingFloors": 24,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-02-29",
+          "dealAmount": 4500000
+        }
+      ],
+      "trend": {
+        "rate": -76.7,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 20588,
+      "row_id": 991
+    }
+  ]
+}

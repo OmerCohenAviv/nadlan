@@ -1,0 +1,5272 @@
+{
+  "neighborhood_name": "ארלוזורוב",
+  "city_name": "כפר סבא",
+  "transaction_count": 169,
+  "transactions": [
+    {
+      "assetId": 80155459.0,
+      "addressId": 53915939,
+      "polygonId": "52288331",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 18",
+      "dealDate": "2025-07-20",
+      "dealAmount": 2570000,
+      "parcelNum": "6426-650-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שביעית",
+      "assetArea": 100.01,
+      "yearBuilt": 1970,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-12-27",
+          "dealAmount": 749000
+        }
+      ],
+      "trend": {
+        "rate": 243.1,
+        "years": 24.6
+      },
+      "ownership": [],
+      "priceSM": 25700,
+      "row_id": 1
+    },
+    {
+      "assetId": 80157173.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2025-01-02",
+      "dealAmount": 3050000,
+      "parcelNum": "6426-984-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.81,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-04-04",
+          "dealAmount": 1100000
+        }
+      ],
+      "trend": {
+        "rate": 177.3,
+        "years": 20.8
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 762500
+        },
+        {
+          "proportion": "25",
+          "price": 762500
+        },
+        {
+          "proportion": "50",
+          "price": 1525000
+        }
+      ],
+      "priceSM": 30500,
+      "row_id": 2
+    },
+    {
+      "assetId": 80154052.0,
+      "addressId": 53759883,
+      "polygonId": "52300940",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 3",
+      "dealDate": "2024-11-19",
+      "dealAmount": 2550000,
+      "parcelNum": "6426-379-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 69.76,
+      "yearBuilt": 1960,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 36554,
+      "row_id": 3
+    },
+    {
+      "assetId": 80154872.0,
+      "addressId": 53747956,
+      "polygonId": "52313652",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 27",
+      "dealDate": "2024-08-19",
+      "dealAmount": 2200000,
+      "parcelNum": "6426-576-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 41.1,
+      "yearBuilt": 1950,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-31",
+          "dealAmount": 954000
+        }
+      ],
+      "trend": {
+        "rate": 130.6,
+        "years": 11.6
+      },
+      "ownership": [],
+      "priceSM": 53659,
+      "row_id": 4
+    },
+    {
+      "assetId": 80155642.0,
+      "addressId": 53762045,
+      "polygonId": "52316375",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 26",
+      "dealDate": "2024-07-23",
+      "dealAmount": 3000000,
+      "parcelNum": "6426-667-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 107.92,
+      "yearBuilt": 1985,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-02-25",
+          "dealAmount": 1725000
+        }
+      ],
+      "trend": {
+        "rate": 73.9,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 28037,
+      "row_id": 5
+    },
+    {
+      "assetId": 80155454.0,
+      "addressId": 53915939,
+      "polygonId": "52288331",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 18",
+      "dealDate": "2024-07-02",
+      "dealAmount": 1185000,
+      "parcelNum": "6426-650-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 88.54,
+      "yearBuilt": 1970,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13384,
+      "row_id": 6
+    },
+    {
+      "assetId": 80155402.0,
+      "addressId": 53789606,
+      "polygonId": "52349346",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 4",
+      "dealDate": "2024-06-27",
+      "dealAmount": 4150000,
+      "parcelNum": "6426-648-26",
+      "dealNature": "דירת גג",
+      "roomNum": 5.5,
+      "floor": "שביעית+גג",
+      "assetArea": 127.0,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-12-29",
+          "dealAmount": 2075000
+        }
+      ],
+      "trend": {
+        "rate": 100.0,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 32677,
+      "row_id": 7
+    },
+    {
+      "assetId": 80154808.0,
+      "addressId": 0,
+      "polygonId": "6426-574",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "0",
+      "dealDate": "2024-06-10",
+      "dealAmount": 4500000,
+      "parcelNum": "6426-574-0",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 6690.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6900,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 673,
+      "row_id": 8
+    },
+    {
+      "assetId": 80157175.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2024-06-10",
+      "dealAmount": 1570000,
+      "parcelNum": "6426-984-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.2,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-30",
+          "dealAmount": 890000
+        },
+        {
+          "dealDate": "2003-11-20",
+          "dealAmount": 1045000
+        }
+      ],
+      "trend": {
+        "rate": 76.4,
+        "years": 10.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 785000
+        },
+        {
+          "proportion": "50",
+          "price": 785000
+        }
+      ],
+      "priceSM": 15700,
+      "row_id": 10
+    },
+    {
+      "assetId": 80154932.0,
+      "addressId": 53922803,
+      "polygonId": "52349694",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "בני ברית 26",
+      "dealDate": "2024-03-28",
+      "dealAmount": 2243000,
+      "parcelNum": "6426-591-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 58.0,
+      "yearBuilt": 1960,
+      "streetCode": 69000541,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-02",
+          "dealAmount": 960000
+        }
+      ],
+      "trend": {
+        "rate": 133.6,
+        "years": 14.4
+      },
+      "ownership": [],
+      "priceSM": 38672,
+      "row_id": 11
+    },
+    {
+      "assetId": 80155657.0,
+      "addressId": 53789068,
+      "polygonId": "52383419",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 30",
+      "dealDate": "2024-03-03",
+      "dealAmount": 3070000,
+      "parcelNum": "6426-668-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 122.37,
+      "yearBuilt": 1986,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-01-01",
+          "dealAmount": 1845000
+        },
+        {
+          "dealDate": "2009-07-02",
+          "dealAmount": 1400000
+        }
+      ],
+      "trend": {
+        "rate": 66.4,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 25164,
+      "row_id": 12
+    },
+    {
+      "assetId": 80155486.0,
+      "addressId": 53772005,
+      "polygonId": "52339984",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 20",
+      "dealDate": "2023-12-14",
+      "dealAmount": 2900000,
+      "parcelNum": "6426-651-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית",
+      "assetArea": 131.12,
+      "yearBuilt": 1990,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-06",
+          "dealAmount": 1700000
+        }
+      ],
+      "trend": {
+        "rate": 70.6,
+        "years": 13.4
+      },
+      "ownership": [],
+      "priceSM": 22137,
+      "row_id": 13
+    },
+    {
+      "assetId": 80155630.0,
+      "addressId": 53762045,
+      "polygonId": "52316375",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 26",
+      "dealDate": "2023-03-13",
+      "dealAmount": 2770000,
+      "parcelNum": "6426-667-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 107.92,
+      "yearBuilt": 1985,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25667,
+      "row_id": 14
+    },
+    {
+      "assetId": 80155636.0,
+      "addressId": 53762045,
+      "polygonId": "52316375",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 26",
+      "dealDate": "2022-12-22",
+      "dealAmount": 233000,
+      "parcelNum": "6426-667-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 107.92,
+      "yearBuilt": 1985,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-12-22",
+          "dealAmount": 2800000
+        }
+      ],
+      "trend": {
+        "rate": -91.7,
+        "years": 0.0
+      },
+      "ownership": [
+        {
+          "proportion": "8",
+          "price": 18640
+        },
+        {
+          "proportion": "8",
+          "price": 18640
+        },
+        {
+          "proportion": "8",
+          "price": 18640
+        },
+        {
+          "proportion": "25",
+          "price": 58250
+        },
+        {
+          "proportion": "50",
+          "price": 116500
+        }
+      ],
+      "priceSM": 2178,
+      "row_id": 15
+    },
+    {
+      "assetId": 80154003.0,
+      "addressId": 53763128,
+      "polygonId": "52317566",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 9",
+      "dealDate": "2022-12-13",
+      "dealAmount": 2300000,
+      "parcelNum": "6426-376-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 53.91,
+      "yearBuilt": 1970,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 42664,
+      "row_id": 16
+    },
+    {
+      "assetId": 80154951.0,
+      "addressId": 53789498,
+      "polygonId": "52086440",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "זאב גלר 19",
+      "dealDate": "2022-08-01",
+      "dealAmount": 1125000,
+      "parcelNum": "6426-592-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ג",
+      "assetArea": 47.0,
+      "yearBuilt": 1964,
+      "streetCode": 69000529,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-02-05",
+          "dealAmount": 1450000
+        }
+      ],
+      "trend": {
+        "rate": -22.4,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 23936,
+      "row_id": 17
+    },
+    {
+      "assetId": 80155606.0,
+      "addressId": 53786978,
+      "polygonId": "52310712",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 6",
+      "dealDate": "2022-07-10",
+      "dealAmount": 3400000,
+      "parcelNum": "6426-666-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ה' ושישית",
+      "assetArea": 133.7,
+      "yearBuilt": 1984,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25430,
+      "row_id": 18
+    },
+    {
+      "assetId": 80154817.0,
+      "addressId": 53789313,
+      "polygonId": "53123276",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 17",
+      "dealDate": "2022-06-20",
+      "dealAmount": 912000,
+      "parcelNum": "6426-574-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 41.1,
+      "yearBuilt": 1960,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22190,
+      "row_id": 19
+    },
+    {
+      "assetId": 80157176.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2022-03-21",
+      "dealAmount": 3000000,
+      "parcelNum": "6426-984-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 101.2,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-09-07",
+          "dealAmount": 1060000
+        }
+      ],
+      "trend": {
+        "rate": 183.0,
+        "years": 18.5
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 750000
+        },
+        {
+          "proportion": "25",
+          "price": 750000
+        },
+        {
+          "proportion": "25",
+          "price": 750000
+        },
+        {
+          "proportion": "25",
+          "price": 750000
+        }
+      ],
+      "priceSM": 29703,
+      "row_id": 20
+    },
+    {
+      "assetId": 80155443.0,
+      "addressId": 53915939,
+      "polygonId": "52288331",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 18",
+      "dealDate": "2022-03-09",
+      "dealAmount": 2300000,
+      "parcelNum": "6426-650-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 100.01,
+      "yearBuilt": 1970,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22998,
+      "row_id": 21
+    },
+    {
+      "assetId": 80155594.0,
+      "addressId": 53786978,
+      "polygonId": "52310712",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 6",
+      "dealDate": "2022-02-02",
+      "dealAmount": 1475000,
+      "parcelNum": "6426-666-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 116.24,
+      "yearBuilt": 1984,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12689,
+      "row_id": 22
+    },
+    {
+      "assetId": 80155753.0,
+      "addressId": 53782985,
+      "polygonId": "52980612",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 28",
+      "dealDate": "2021-12-19",
+      "dealAmount": 2670000,
+      "parcelNum": "6426-671-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 110.41,
+      "yearBuilt": 1981,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-05",
+          "dealAmount": 1800000
+        },
+        {
+          "dealDate": "2005-11-03",
+          "dealAmount": 1074000
+        }
+      ],
+      "trend": {
+        "rate": 48.3,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 24273,
+      "row_id": 23
+    },
+    {
+      "assetId": 80154915.0,
+      "addressId": 53920916,
+      "polygonId": "52979705",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 33",
+      "dealDate": "2021-11-16",
+      "dealAmount": 2200000,
+      "parcelNum": "6426-589-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-06-21",
+          "dealAmount": 723000
+        },
+        {
+          "dealDate": "1998-07-21",
+          "dealAmount": 547000
+        }
+      ],
+      "trend": {
+        "rate": 204.3,
+        "years": 15.4
+      },
+      "ownership": [],
+      "priceSM": 37931,
+      "row_id": 24
+    },
+    {
+      "assetId": 80154946.0,
+      "addressId": 53789498,
+      "polygonId": "52086440",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "זאב גלר 19",
+      "dealDate": "2021-10-19",
+      "dealAmount": 2325000,
+      "parcelNum": "6426-592-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 60.0,
+      "yearBuilt": 1964,
+      "streetCode": 69000529,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-11-23",
+          "dealAmount": 800000
+        },
+        {
+          "dealDate": "2000-07-16",
+          "dealAmount": 635000
+        }
+      ],
+      "trend": {
+        "rate": 190.6,
+        "years": 12.9
+      },
+      "ownership": [],
+      "priceSM": 38750,
+      "row_id": 25
+    },
+    {
+      "assetId": 80155435.0,
+      "addressId": 53915939,
+      "polygonId": "52288331",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 18",
+      "dealDate": "2021-08-17",
+      "dealAmount": 950000,
+      "parcelNum": "6426-650-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.01,
+      "yearBuilt": 1970,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-09-25",
+          "dealAmount": 811000
+        }
+      ],
+      "trend": {
+        "rate": 17.1,
+        "years": 20.9
+      },
+      "ownership": [],
+      "priceSM": 9500,
+      "row_id": 26
+    },
+    {
+      "assetId": 80155670.0,
+      "addressId": 53789068,
+      "polygonId": "52383419",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 30",
+      "dealDate": "2021-07-26",
+      "dealAmount": 2625000,
+      "parcelNum": "6426-668-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית+גג",
+      "assetArea": 127.86,
+      "yearBuilt": 1986,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20530,
+      "row_id": 27
+    },
+    {
+      "assetId": 80154873.0,
+      "addressId": 53747956,
+      "polygonId": "52313652",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 27",
+      "dealDate": "2021-07-06",
+      "dealAmount": 1700000,
+      "parcelNum": "6426-576-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 41.1,
+      "yearBuilt": 1950,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 41363,
+      "row_id": 28
+    },
+    {
+      "assetId": 80155377.0,
+      "addressId": 53789606,
+      "polygonId": "52349346",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 4",
+      "dealDate": "2021-07-04",
+      "dealAmount": 2170000,
+      "parcelNum": "6426-648-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 117.0,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-10-09",
+          "dealAmount": 1850000
+        },
+        {
+          "dealDate": "2011-08-22",
+          "dealAmount": 1275000
+        }
+      ],
+      "trend": {
+        "rate": 17.3,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 18547,
+      "row_id": 29
+    },
+    {
+      "assetId": 80155451.0,
+      "addressId": 53915939,
+      "polygonId": "52288331",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 18",
+      "dealDate": "2021-06-17",
+      "dealAmount": 1950000,
+      "parcelNum": "6426-650-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 100.01,
+      "yearBuilt": 1970,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-06-07",
+          "dealAmount": 1300000
+        }
+      ],
+      "trend": {
+        "rate": 50.0,
+        "years": 12.0
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 487500
+        },
+        {
+          "proportion": "25",
+          "price": 487500
+        },
+        {
+          "proportion": "25",
+          "price": 487500
+        },
+        {
+          "proportion": "25",
+          "price": 487500
+        }
+      ],
+      "priceSM": 19500,
+      "row_id": 30
+    },
+    {
+      "assetId": 80155631.0,
+      "addressId": 53762045,
+      "polygonId": "52316375",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 26",
+      "dealDate": "2021-05-25",
+      "dealAmount": 640000,
+      "parcelNum": "6426-667-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 103.02,
+      "yearBuilt": 1985,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-10-19",
+          "dealAmount": 1230000
+        },
+        {
+          "dealDate": "2002-07-04",
+          "dealAmount": 928000
+        }
+      ],
+      "trend": {
+        "rate": -48.0,
+        "years": 12.6
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 211200
+        },
+        {
+          "proportion": "33",
+          "price": 211200
+        },
+        {
+          "proportion": "33",
+          "price": 211200
+        }
+      ],
+      "priceSM": 6214,
+      "row_id": 31
+    },
+    {
+      "assetId": 80155492.0,
+      "addressId": 53772005,
+      "polygonId": "52339984",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 20",
+      "dealDate": "2021-05-24",
+      "dealAmount": 1668000,
+      "parcelNum": "6426-651-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 131.12,
+      "yearBuilt": 1990,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12721,
+      "row_id": 32
+    },
+    {
+      "assetId": 80154947.0,
+      "addressId": 53789498,
+      "polygonId": "52086440",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "זאב גלר 19",
+      "dealDate": "2021-01-07",
+      "dealAmount": 1600000,
+      "parcelNum": "6426-592-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ב",
+      "assetArea": 47.0,
+      "yearBuilt": 1964,
+      "streetCode": 69000529,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 34043,
+      "row_id": 33
+    },
+    {
+      "assetId": 80154838.0,
+      "addressId": 53921465,
+      "polygonId": "52352040",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 21",
+      "dealDate": "2020-11-17",
+      "dealAmount": 412000,
+      "parcelNum": "6426-574-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 41.1,
+      "yearBuilt": 1950,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10024,
+      "row_id": 34
+    },
+    {
+      "assetId": 80154020.0,
+      "addressId": 53761763,
+      "polygonId": "52304170",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 7",
+      "dealDate": "2020-08-02",
+      "dealAmount": 1650000,
+      "parcelNum": "6426-377-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 71.3,
+      "yearBuilt": 1969,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23142,
+      "row_id": 35
+    },
+    {
+      "assetId": 80155734.0,
+      "addressId": 53762046,
+      "polygonId": "52299147",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 8",
+      "dealDate": "2020-06-18",
+      "dealAmount": 3850000,
+      "parcelNum": "6426-670-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ששית+גג",
+      "assetArea": 175.0,
+      "yearBuilt": 1991,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22000,
+      "row_id": 36
+    },
+    {
+      "assetId": 80154943.0,
+      "addressId": 53789498,
+      "polygonId": "52086440",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "זאב גלר 19",
+      "dealDate": "2020-05-20",
+      "dealAmount": 1725000,
+      "parcelNum": "6426-592-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 47.0,
+      "yearBuilt": 1964,
+      "streetCode": 69000529,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 36702,
+      "row_id": 37
+    },
+    {
+      "assetId": 80154869.0,
+      "addressId": 53747956,
+      "polygonId": "52313652",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 27",
+      "dealDate": "2020-03-04",
+      "dealAmount": 1750000,
+      "parcelNum": "6426-576-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 41.1,
+      "yearBuilt": 1950,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 42579,
+      "row_id": 38
+    },
+    {
+      "assetId": 80154009.0,
+      "addressId": 53763128,
+      "polygonId": "52317566",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 9",
+      "dealDate": "2019-12-13",
+      "dealAmount": 1780000,
+      "parcelNum": "6426-376-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ג",
+      "assetArea": 54.63,
+      "yearBuilt": 1970,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-08-24",
+          "dealAmount": 1415000
+        },
+        {
+          "dealDate": "2009-07-12",
+          "dealAmount": 1025000
+        },
+        {
+          "dealDate": "2007-06-24",
+          "dealAmount": 678000
+        }
+      ],
+      "trend": {
+        "rate": 25.8,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 32963,
+      "row_id": 39
+    },
+    {
+      "assetId": 80155448.0,
+      "addressId": 53915939,
+      "polygonId": "52288331",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 18",
+      "dealDate": "2019-09-08",
+      "dealAmount": 1670000,
+      "parcelNum": "6426-650-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 91.75,
+      "yearBuilt": 1970,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18202,
+      "row_id": 40
+    },
+    {
+      "assetId": 80154941.0,
+      "addressId": 53789498,
+      "polygonId": "52086440",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "זאב גלר 19",
+      "dealDate": "2019-06-11",
+      "dealAmount": 1620000,
+      "parcelNum": "6426-592-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 65.0,
+      "yearBuilt": 1964,
+      "streetCode": 69000529,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-01-19",
+          "dealAmount": 707000
+        }
+      ],
+      "trend": {
+        "rate": 129.1,
+        "years": 13.4
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 810000
+        },
+        {
+          "proportion": "50",
+          "price": 810000
+        }
+      ],
+      "priceSM": 24923,
+      "row_id": 41
+    },
+    {
+      "assetId": 80154916.0,
+      "addressId": 53920916,
+      "polygonId": "52979705",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 33",
+      "dealDate": "2019-06-05",
+      "dealAmount": 1050000,
+      "parcelNum": "6426-589-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-06-28",
+          "dealAmount": 444000
+        },
+        {
+          "dealDate": "2001-09-12",
+          "dealAmount": 728000
+        }
+      ],
+      "trend": {
+        "rate": 136.5,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 18103,
+      "row_id": 42
+    },
+    {
+      "assetId": 80155705.0,
+      "addressId": 53789735,
+      "polygonId": "52359145",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 32",
+      "dealDate": "2019-05-29",
+      "dealAmount": 2230000,
+      "parcelNum": "6426-669-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 119.3,
+      "yearBuilt": 1987,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18692,
+      "row_id": 43
+    },
+    {
+      "assetId": 80155369.0,
+      "addressId": 53769731,
+      "polygonId": "53299338",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 23",
+      "dealDate": "2019-05-27",
+      "dealAmount": 2040000,
+      "parcelNum": "6426-647-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "ששית",
+      "assetArea": 122.49,
+      "yearBuilt": 1980,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16654,
+      "row_id": 44
+    },
+    {
+      "assetId": 80155613.0,
+      "addressId": 53786978,
+      "polygonId": "52310712",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 6",
+      "dealDate": "2019-02-24",
+      "dealAmount": 2040000,
+      "parcelNum": "6426-666-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 107.25,
+      "yearBuilt": 1984,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19021,
+      "row_id": 45
+    },
+    {
+      "assetId": 80155696.0,
+      "addressId": 53789735,
+      "polygonId": "52359145",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 32",
+      "dealDate": "2019-01-23",
+      "dealAmount": 2060000,
+      "parcelNum": "6426-669-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 96.21,
+      "yearBuilt": 1987,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21411,
+      "row_id": 46
+    },
+    {
+      "assetId": 80155697.0,
+      "addressId": 53789735,
+      "polygonId": "52359145",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 32",
+      "dealDate": "2018-11-01",
+      "dealAmount": 2050000,
+      "parcelNum": "6426-669-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 119.3,
+      "yearBuilt": 1987,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17184,
+      "row_id": 47
+    },
+    {
+      "assetId": 80157195.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2018-10-29",
+      "dealAmount": 3100000,
+      "parcelNum": "6426-984-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית + גג",
+      "assetArea": 154.48,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-04-20",
+          "dealAmount": 2825000
+        }
+      ],
+      "trend": {
+        "rate": 9.7,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 20130,
+      "row_id": 48
+    },
+    {
+      "assetId": 80157181.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2018-10-24",
+      "dealAmount": 2350000,
+      "parcelNum": "6426-984-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 100.81,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-03-08",
+          "dealAmount": 1077000
+        }
+      ],
+      "trend": {
+        "rate": 118.2,
+        "years": 14.6
+      },
+      "ownership": [],
+      "priceSM": 23500,
+      "row_id": 49
+    },
+    {
+      "assetId": 80155350.0,
+      "addressId": 53769731,
+      "polygonId": "53299338",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 23",
+      "dealDate": "2018-08-24",
+      "dealAmount": 800000,
+      "parcelNum": "6426-647-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 122.49,
+      "yearBuilt": 1980,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6531,
+      "row_id": 50
+    },
+    {
+      "assetId": 80154833.0,
+      "addressId": 53921465,
+      "polygonId": "52352040",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 21",
+      "dealDate": "2018-05-02",
+      "dealAmount": 1740000,
+      "parcelNum": "6426-574-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "א",
+      "assetArea": 80.0,
+      "yearBuilt": 1950,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21750,
+      "row_id": 51
+    },
+    {
+      "assetId": 80154037.0,
+      "addressId": 53759931,
+      "polygonId": "52321670",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 5",
+      "dealDate": "2018-04-29",
+      "dealAmount": 1615000,
+      "parcelNum": "6426-378-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ב",
+      "assetArea": 78.9,
+      "yearBuilt": 1965,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-04-22",
+          "dealAmount": 691000
+        }
+      ],
+      "trend": {
+        "rate": 133.7,
+        "years": 19.0
+      },
+      "ownership": [],
+      "priceSM": 20705,
+      "row_id": 52
+    },
+    {
+      "assetId": 80155640.0,
+      "addressId": 53762045,
+      "polygonId": "52316375",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 26",
+      "dealDate": "2018-04-17",
+      "dealAmount": 2050000,
+      "parcelNum": "6426-667-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 103.02,
+      "yearBuilt": 1985,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-15",
+          "dealAmount": 1287000
+        },
+        {
+          "dealDate": "2002-07-22",
+          "dealAmount": 857000
+        }
+      ],
+      "trend": {
+        "rate": 59.3,
+        "years": 8.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 1025000
+        },
+        {
+          "proportion": "50",
+          "price": 1025000
+        }
+      ],
+      "priceSM": 19903,
+      "row_id": 53
+    },
+    {
+      "assetId": 80154937.0,
+      "addressId": 53922803,
+      "polygonId": "52349694",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "בני ברית 26",
+      "dealDate": "2018-03-18",
+      "dealAmount": 1430000,
+      "parcelNum": "6426-591-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 54.0,
+      "yearBuilt": 1960,
+      "streetCode": 69000541,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26481,
+      "row_id": 54
+    },
+    {
+      "assetId": 80154860.0,
+      "addressId": 53783611,
+      "polygonId": "52313604",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 25",
+      "dealDate": "2018-02-07",
+      "dealAmount": 1800000,
+      "parcelNum": "6426-576-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 41.1,
+      "yearBuilt": 1960,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-07-10",
+          "dealAmount": 599000
+        }
+      ],
+      "trend": {
+        "rate": 200.5,
+        "years": 12.6
+      },
+      "ownership": [],
+      "priceSM": 43902,
+      "row_id": 55
+    },
+    {
+      "assetId": 80155597.0,
+      "addressId": 53786978,
+      "polygonId": "52310712",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 6",
+      "dealDate": "2017-11-20",
+      "dealAmount": 1925000,
+      "parcelNum": "6426-666-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 116.24,
+      "yearBuilt": 1984,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-03-10",
+          "dealAmount": 948000
+        }
+      ],
+      "trend": {
+        "rate": 103.1,
+        "years": 12.7
+      },
+      "ownership": [],
+      "priceSM": 16595,
+      "row_id": 56
+    },
+    {
+      "assetId": 80154890.0,
+      "addressId": 53789613,
+      "polygonId": "52305558",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "אגרון 19",
+      "dealDate": "2017-10-18",
+      "dealAmount": 1399000,
+      "parcelNum": "6426-577-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 41.1,
+      "yearBuilt": 1960,
+      "streetCode": 69000501,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-01-08",
+          "dealAmount": 790000
+        },
+        {
+          "dealDate": "1998-07-09",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 77.1,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 34122,
+      "row_id": 57
+    },
+    {
+      "assetId": 80154867.0,
+      "addressId": 53747956,
+      "polygonId": "52313652",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 27",
+      "dealDate": "2017-07-02",
+      "dealAmount": 1800000,
+      "parcelNum": "6426-576-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 41.1,
+      "yearBuilt": 1950,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 43796,
+      "row_id": 58
+    },
+    {
+      "assetId": 80155644.0,
+      "addressId": 53762045,
+      "polygonId": "52316375",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 26",
+      "dealDate": "2017-05-08",
+      "dealAmount": 1830000,
+      "parcelNum": "6426-667-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 103.02,
+      "yearBuilt": 1985,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-29",
+          "dealAmount": 1419000
+        }
+      ],
+      "trend": {
+        "rate": 29.0,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 17767,
+      "row_id": 59
+    },
+    {
+      "assetId": 80155381.0,
+      "addressId": 53789606,
+      "polygonId": "52349346",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 4",
+      "dealDate": "2017-01-22",
+      "dealAmount": 1930000,
+      "parcelNum": "6426-648-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 117.0,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16496,
+      "row_id": 60
+    },
+    {
+      "assetId": 80154047.0,
+      "addressId": 53759883,
+      "polygonId": "52300940",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 3",
+      "dealDate": "2017-01-18",
+      "dealAmount": 1750000,
+      "parcelNum": "6426-379-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "א",
+      "assetArea": 70.2,
+      "yearBuilt": 1960,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24929,
+      "row_id": 61
+    },
+    {
+      "assetId": 80154011.0,
+      "addressId": 53763128,
+      "polygonId": "52317566",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 9",
+      "dealDate": "2016-12-07",
+      "dealAmount": 1700000,
+      "parcelNum": "6426-376-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ד",
+      "assetArea": 63.59,
+      "yearBuilt": 1970,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-07-31",
+          "dealAmount": 507000
+        }
+      ],
+      "trend": {
+        "rate": 235.3,
+        "years": 18.4
+      },
+      "ownership": [],
+      "priceSM": 26984,
+      "row_id": 62
+    },
+    {
+      "assetId": 80155695.0,
+      "addressId": 53789735,
+      "polygonId": "52359145",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 32",
+      "dealDate": "2016-08-28",
+      "dealAmount": 1800000,
+      "parcelNum": "6426-669-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 96.21,
+      "yearBuilt": 1987,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-02-02",
+          "dealAmount": 1310000
+        }
+      ],
+      "trend": {
+        "rate": 37.4,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 18750,
+      "row_id": 63
+    },
+    {
+      "assetId": 80155615.0,
+      "addressId": 53786978,
+      "polygonId": "52310712",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 6",
+      "dealDate": "2016-08-22",
+      "dealAmount": 2175000,
+      "parcelNum": "6426-666-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 107.8,
+      "yearBuilt": 1984,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-05-11",
+          "dealAmount": 929000
+        }
+      ],
+      "trend": {
+        "rate": 134.1,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 20327,
+      "row_id": 64
+    },
+    {
+      "assetId": 80154019.0,
+      "addressId": 53761763,
+      "polygonId": "52304170",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 7",
+      "dealDate": "2016-04-10",
+      "dealAmount": 1200000,
+      "parcelNum": "6426-377-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "א",
+      "assetArea": 84.84,
+      "yearBuilt": 1969,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14144,
+      "row_id": 65
+    },
+    {
+      "assetId": 80155471.0,
+      "addressId": 53772005,
+      "polygonId": "52339984",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 20",
+      "dealDate": "2016-04-04",
+      "dealAmount": 1829000,
+      "parcelNum": "6426-651-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 131.12,
+      "yearBuilt": 1990,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13949,
+      "row_id": 66
+    },
+    {
+      "assetId": 80154064.0,
+      "addressId": 53922021,
+      "polygonId": "52351994",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 1",
+      "dealDate": "2016-02-09",
+      "dealAmount": 1560000,
+      "parcelNum": "6426-380-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 82.29,
+      "yearBuilt": 1972,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18957,
+      "row_id": 67
+    },
+    {
+      "assetId": 80154942.0,
+      "addressId": 53789498,
+      "polygonId": "52086440",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "זאב גלר 19",
+      "dealDate": "2016-01-24",
+      "dealAmount": 1500000,
+      "parcelNum": "6426-592-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 60.0,
+      "yearBuilt": 1964,
+      "streetCode": 69000529,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25000,
+      "row_id": 68
+    },
+    {
+      "assetId": 80155430.0,
+      "addressId": 53789656,
+      "polygonId": "52294518",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 6",
+      "dealDate": "2015-11-25",
+      "dealAmount": 2220000,
+      "parcelNum": "6426-649-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שביעית+גג",
+      "assetArea": 125.87,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-07-07",
+          "dealAmount": 1249000
+        }
+      ],
+      "trend": {
+        "rate": 77.7,
+        "years": 10.4
+      },
+      "ownership": [],
+      "priceSM": 17760,
+      "row_id": 69
+    },
+    {
+      "assetId": 80155458.0,
+      "addressId": 53915939,
+      "polygonId": "52288331",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 18",
+      "dealDate": "2015-10-20",
+      "dealAmount": 1545000,
+      "parcelNum": "6426-650-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ששית",
+      "assetArea": 88.54,
+      "yearBuilt": 1970,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17450,
+      "row_id": 70
+    },
+    {
+      "assetId": 80155495.0,
+      "addressId": 53772005,
+      "polygonId": "52339984",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 20",
+      "dealDate": "2015-09-01",
+      "dealAmount": 2535000,
+      "parcelNum": "6426-651-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "תשיעית",
+      "assetArea": 150.04,
+      "yearBuilt": 1990,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-02-03",
+          "dealAmount": 1464000
+        }
+      ],
+      "trend": {
+        "rate": 73.2,
+        "years": 12.6
+      },
+      "ownership": [],
+      "priceSM": 16900,
+      "row_id": 71
+    },
+    {
+      "assetId": 80155452.0,
+      "addressId": 53915939,
+      "polygonId": "52288331",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 18",
+      "dealDate": "2015-07-12",
+      "dealAmount": 1400000,
+      "parcelNum": "6426-650-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 91.75,
+      "yearBuilt": 1970,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-09",
+          "dealAmount": 700000
+        },
+        {
+          "dealDate": "2010-06-23",
+          "dealAmount": 1249000
+        }
+      ],
+      "trend": {
+        "rate": 100.0,
+        "years": 1.3
+      },
+      "ownership": [],
+      "priceSM": 15385,
+      "row_id": 72
+    },
+    {
+      "assetId": 80154036.0,
+      "addressId": 53759931,
+      "polygonId": "52321670",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 5",
+      "dealDate": "2015-06-09",
+      "dealAmount": 1369000,
+      "parcelNum": "6426-378-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ב",
+      "assetArea": 85.7,
+      "yearBuilt": 1965,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15974,
+      "row_id": 73
+    },
+    {
+      "assetId": 80155718.0,
+      "addressId": 53762046,
+      "polygonId": "52299147",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 8",
+      "dealDate": "2015-05-11",
+      "dealAmount": 1849000,
+      "parcelNum": "6426-670-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 114.0,
+      "yearBuilt": 1991,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16219,
+      "row_id": 74
+    },
+    {
+      "assetId": 80155710.0,
+      "addressId": 53789735,
+      "polygonId": "52359145",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 32",
+      "dealDate": "2014-12-24",
+      "dealAmount": 2600000,
+      "parcelNum": "6426-669-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שישית",
+      "assetArea": 154.01,
+      "yearBuilt": 1987,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16882,
+      "row_id": 75
+    },
+    {
+      "assetId": 80155722.0,
+      "addressId": 53762046,
+      "polygonId": "52299147",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 8",
+      "dealDate": "2014-11-12",
+      "dealAmount": 1920000,
+      "parcelNum": "6426-670-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 114.0,
+      "yearBuilt": 1991,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-03",
+          "dealAmount": 1730000
+        }
+      ],
+      "trend": {
+        "rate": 11.0,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 16842,
+      "row_id": 76
+    },
+    {
+      "assetId": 80155485.0,
+      "addressId": 53772005,
+      "polygonId": "52339984",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 20",
+      "dealDate": "2014-09-23",
+      "dealAmount": 1830000,
+      "parcelNum": "6426-651-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 130.68,
+      "yearBuilt": 1990,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14004,
+      "row_id": 77
+    },
+    {
+      "assetId": 80155370.0,
+      "addressId": 53769731,
+      "polygonId": "53299338",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 23",
+      "dealDate": "2014-09-21",
+      "dealAmount": 1700000,
+      "parcelNum": "6426-647-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ששית",
+      "assetArea": 122.49,
+      "yearBuilt": 1980,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13879,
+      "row_id": 78
+    },
+    {
+      "assetId": 80155617.0,
+      "addressId": 53786978,
+      "polygonId": "52310712",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 6",
+      "dealDate": "2014-09-04",
+      "dealAmount": 1940000,
+      "parcelNum": "6426-666-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.5,
+      "floor": "שלישית",
+      "assetArea": 116.24,
+      "yearBuilt": 1984,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-12-17",
+          "dealAmount": 892000
+        }
+      ],
+      "trend": {
+        "rate": 117.5,
+        "years": 10.7
+      },
+      "ownership": [],
+      "priceSM": 16724,
+      "row_id": 79
+    },
+    {
+      "assetId": 80155714.0,
+      "addressId": 53762046,
+      "polygonId": "52299147",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 8",
+      "dealDate": "2014-08-28",
+      "dealAmount": 1850000,
+      "parcelNum": "6426-670-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 114.0,
+      "yearBuilt": 1991,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-08-14",
+          "dealAmount": 1000000
+        }
+      ],
+      "trend": {
+        "rate": 85.0,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 16228,
+      "row_id": 80
+    },
+    {
+      "assetId": 80155417.0,
+      "addressId": 53789656,
+      "polygonId": "52294518",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 6",
+      "dealDate": "2014-06-02",
+      "dealAmount": 1700000,
+      "parcelNum": "6426-649-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 131.81,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12897,
+      "row_id": 81
+    },
+    {
+      "assetId": 80155425.0,
+      "addressId": 53789656,
+      "polygonId": "52294518",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 6",
+      "dealDate": "2014-04-06",
+      "dealAmount": 1825000,
+      "parcelNum": "6426-649-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 131.81,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-06-27",
+          "dealAmount": 1019000
+        }
+      ],
+      "trend": {
+        "rate": 79.1,
+        "years": 9.8
+      },
+      "ownership": [],
+      "priceSM": 13931,
+      "row_id": 82
+    },
+    {
+      "assetId": 80154039.0,
+      "addressId": 53759931,
+      "polygonId": "52321670",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 5",
+      "dealDate": "2013-12-24",
+      "dealAmount": 1270000,
+      "parcelNum": "6426-378-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ג",
+      "assetArea": 85.7,
+      "yearBuilt": 1965,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14819,
+      "row_id": 83
+    },
+    {
+      "assetId": 80155360.0,
+      "addressId": 53769731,
+      "polygonId": "53299338",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 23",
+      "dealDate": "2013-11-10",
+      "dealAmount": 1575000,
+      "parcelNum": "6426-647-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 139.8,
+      "yearBuilt": 1980,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11266,
+      "row_id": 84
+    },
+    {
+      "assetId": 80155713.0,
+      "addressId": 53762046,
+      "polygonId": "52299147",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 8",
+      "dealDate": "2013-07-17",
+      "dealAmount": 1645000,
+      "parcelNum": "6426-670-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 114.0,
+      "yearBuilt": 1991,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-02-27",
+          "dealAmount": 1090000
+        }
+      ],
+      "trend": {
+        "rate": 50.9,
+        "years": 11.4
+      },
+      "ownership": [],
+      "priceSM": 14430,
+      "row_id": 85
+    },
+    {
+      "assetId": 80154044.0,
+      "addressId": 53759883,
+      "polygonId": "52300940",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 3",
+      "dealDate": "2013-07-09",
+      "dealAmount": 1299000,
+      "parcelNum": "6426-379-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 70.2,
+      "yearBuilt": 1960,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-08-19",
+          "dealAmount": 920000
+        },
+        {
+          "dealDate": "2001-01-18",
+          "dealAmount": 697000
+        }
+      ],
+      "trend": {
+        "rate": 41.2,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 18557,
+      "row_id": 86
+    },
+    {
+      "assetId": 80155658.0,
+      "addressId": 53789068,
+      "polygonId": "52383419",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 30",
+      "dealDate": "2013-07-09",
+      "dealAmount": 1559000,
+      "parcelNum": "6426-668-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 107.92,
+      "yearBuilt": 1986,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14446,
+      "row_id": 87
+    },
+    {
+      "assetId": 80157174.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2013-07-08",
+      "dealAmount": 1749000,
+      "parcelNum": "6426-984-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.81,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-04-07",
+          "dealAmount": 1072000
+        }
+      ],
+      "trend": {
+        "rate": 63.2,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 17490,
+      "row_id": 88
+    },
+    {
+      "assetId": 80155655.0,
+      "addressId": 53762045,
+      "polygonId": "52316375",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 26",
+      "dealDate": "2013-05-13",
+      "dealAmount": 2149000,
+      "parcelNum": "6426-667-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "חמישית+גג",
+      "assetArea": 139.6,
+      "yearBuilt": 1985,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15394,
+      "row_id": 89
+    },
+    {
+      "assetId": 80155652.0,
+      "addressId": 53762045,
+      "polygonId": "52316375",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 26",
+      "dealDate": "2013-04-26",
+      "dealAmount": 1650000,
+      "parcelNum": "6426-667-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 122.37,
+      "yearBuilt": 1985,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13484,
+      "row_id": 90
+    },
+    {
+      "assetId": 80154060.0,
+      "addressId": 53922021,
+      "polygonId": "52351994",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 1",
+      "dealDate": "2013-03-28",
+      "dealAmount": 1250000,
+      "parcelNum": "6426-380-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 82.29,
+      "yearBuilt": 1972,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-06-10",
+          "dealAmount": 694000
+        }
+      ],
+      "trend": {
+        "rate": 80.1,
+        "years": 11.8
+      },
+      "ownership": [
+        {
+          "proportion": "12",
+          "price": 150000
+        },
+        {
+          "proportion": "29",
+          "price": 362500
+        },
+        {
+          "proportion": "29",
+          "price": 362500
+        },
+        {
+          "proportion": "29",
+          "price": 362500
+        }
+      ],
+      "priceSM": 15244,
+      "row_id": 91
+    },
+    {
+      "assetId": 80155605.0,
+      "addressId": 53786978,
+      "polygonId": "52310712",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 6",
+      "dealDate": "2013-03-11",
+      "dealAmount": 1969000,
+      "parcelNum": "6426-666-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ה' ושישית",
+      "assetArea": 133.67,
+      "yearBuilt": 1984,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14730,
+      "row_id": 92
+    },
+    {
+      "assetId": 80155441.0,
+      "addressId": 53915939,
+      "polygonId": "52288331",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 18",
+      "dealDate": "2013-03-11",
+      "dealAmount": 1559000,
+      "parcelNum": "6426-650-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 100.01,
+      "yearBuilt": 1970,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-02-17",
+          "dealAmount": 731000
+        }
+      ],
+      "trend": {
+        "rate": 113.3,
+        "years": 13.1
+      },
+      "ownership": [],
+      "priceSM": 15590,
+      "row_id": 93
+    },
+    {
+      "assetId": 80155661.0,
+      "addressId": 53789068,
+      "polygonId": "52383419",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 30",
+      "dealDate": "2013-03-07",
+      "dealAmount": 1380000,
+      "parcelNum": "6426-668-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 107.92,
+      "yearBuilt": 1986,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12787,
+      "row_id": 94
+    },
+    {
+      "assetId": 80154010.0,
+      "addressId": 53763128,
+      "polygonId": "52317566",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 9",
+      "dealDate": "2012-11-15",
+      "dealAmount": 1324000,
+      "parcelNum": "6426-376-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ג",
+      "assetArea": 74.42,
+      "yearBuilt": 1970,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17791,
+      "row_id": 95
+    },
+    {
+      "assetId": 80155460.0,
+      "addressId": 53915939,
+      "polygonId": "52288331",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 18",
+      "dealDate": "2012-09-11",
+      "dealAmount": 1275000,
+      "parcelNum": "6426-650-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 91.75,
+      "yearBuilt": 1970,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13896,
+      "row_id": 96
+    },
+    {
+      "assetId": 80155729.0,
+      "addressId": 53762046,
+      "polygonId": "52299147",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 8",
+      "dealDate": "2012-05-10",
+      "dealAmount": 1750000,
+      "parcelNum": "6426-670-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 114.0,
+      "yearBuilt": 1991,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-09-07",
+          "dealAmount": 1450000
+        }
+      ],
+      "trend": {
+        "rate": 20.7,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 15351,
+      "row_id": 97
+    },
+    {
+      "assetId": 80155672.0,
+      "addressId": 53789068,
+      "polygonId": "52383419",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 30",
+      "dealDate": "2012-05-08",
+      "dealAmount": 1520000,
+      "parcelNum": "6426-668-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 103.02,
+      "yearBuilt": 1986,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-05-14",
+          "dealAmount": 828000
+        }
+      ],
+      "trend": {
+        "rate": 83.6,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 14757,
+      "row_id": 98
+    },
+    {
+      "assetId": 80155649.0,
+      "addressId": 53762045,
+      "polygonId": "52316375",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 26",
+      "dealDate": "2012-02-12",
+      "dealAmount": 1680000,
+      "parcelNum": "6426-667-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 122.37,
+      "yearBuilt": 1985,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-04-17",
+          "dealAmount": 1270000
+        }
+      ],
+      "trend": {
+        "rate": 32.3,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 13770,
+      "row_id": 99
+    },
+    {
+      "assetId": 80155754.0,
+      "addressId": 53782985,
+      "polygonId": "52980612",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 28",
+      "dealDate": "2011-09-27",
+      "dealAmount": 1672000,
+      "parcelNum": "6426-671-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 99.6,
+      "yearBuilt": 1981,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-03-22",
+          "dealAmount": 815000
+        }
+      ],
+      "trend": {
+        "rate": 105.2,
+        "years": 10.5
+      },
+      "ownership": [],
+      "priceSM": 16889,
+      "row_id": 100
+    },
+    {
+      "assetId": 80157190.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2011-09-09",
+      "dealAmount": 1820000,
+      "parcelNum": "6426-984-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 100.81,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-11-16",
+          "dealAmount": 1060000
+        }
+      ],
+      "trend": {
+        "rate": 71.7,
+        "years": 7.8
+      },
+      "ownership": [],
+      "priceSM": 18200,
+      "row_id": 101
+    },
+    {
+      "assetId": 80155365.0,
+      "addressId": 53769731,
+      "polygonId": "53299338",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 23",
+      "dealDate": "2011-09-08",
+      "dealAmount": 1565000,
+      "parcelNum": "6426-647-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 122.49,
+      "yearBuilt": 1980,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12777,
+      "row_id": 102
+    },
+    {
+      "assetId": 80155733.0,
+      "addressId": 53762046,
+      "polygonId": "52299147",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 8",
+      "dealDate": "2011-07-31",
+      "dealAmount": 2400000,
+      "parcelNum": "6426-670-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ששית+גג",
+      "assetArea": 184.0,
+      "yearBuilt": 1991,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-02-13",
+          "dealAmount": 2257000
+        }
+      ],
+      "trend": {
+        "rate": 6.3,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 13043,
+      "row_id": 103
+    },
+    {
+      "assetId": 80155717.0,
+      "addressId": 53762046,
+      "polygonId": "52299147",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 8",
+      "dealDate": "2011-07-26",
+      "dealAmount": 1770000,
+      "parcelNum": "6426-670-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 114.0,
+      "yearBuilt": 1991,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-09-14",
+          "dealAmount": 1003000
+        }
+      ],
+      "trend": {
+        "rate": 76.5,
+        "years": 12.9
+      },
+      "ownership": [],
+      "priceSM": 15526,
+      "row_id": 104
+    },
+    {
+      "assetId": 80155382.0,
+      "addressId": 53789606,
+      "polygonId": "52349346",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 4",
+      "dealDate": "2011-03-18",
+      "dealAmount": 1642000,
+      "parcelNum": "6426-648-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 117.0,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-09-04",
+          "dealAmount": 856000
+        }
+      ],
+      "trend": {
+        "rate": 91.8,
+        "years": 10.5
+      },
+      "ownership": [],
+      "priceSM": 14034,
+      "row_id": 105
+    },
+    {
+      "assetId": 80154866.0,
+      "addressId": 53783611,
+      "polygonId": "52313604",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 25",
+      "dealDate": "2010-12-05",
+      "dealAmount": 1100000,
+      "parcelNum": "6426-576-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ב",
+      "assetArea": 41.1,
+      "yearBuilt": 1960,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26764,
+      "row_id": 106
+    },
+    {
+      "assetId": 80154862.0,
+      "addressId": 53783611,
+      "polygonId": "52313604",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 25",
+      "dealDate": "2010-11-24",
+      "dealAmount": 1210000,
+      "parcelNum": "6426-576-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 41.1,
+      "yearBuilt": 1960,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29440,
+      "row_id": 107
+    },
+    {
+      "assetId": 80155638.0,
+      "addressId": 53762045,
+      "polygonId": "52316375",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 26",
+      "dealDate": "2010-10-17",
+      "dealAmount": 2040000,
+      "parcelNum": "6426-667-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית+גג",
+      "assetArea": 140.07,
+      "yearBuilt": 1985,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14564,
+      "row_id": 108
+    },
+    {
+      "assetId": 80155618.0,
+      "addressId": 53786978,
+      "polygonId": "52310712",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 6",
+      "dealDate": "2010-07-21",
+      "dealAmount": 1505000,
+      "parcelNum": "6426-666-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 107.8,
+      "yearBuilt": 1984,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13961,
+      "row_id": 109
+    },
+    {
+      "assetId": 80154944.0,
+      "addressId": 53789498,
+      "polygonId": "52086440",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "זאב גלר 19",
+      "dealDate": "2010-05-17",
+      "dealAmount": 1160000,
+      "parcelNum": "6426-592-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "א",
+      "assetArea": 80.0,
+      "yearBuilt": 1964,
+      "streetCode": 69000529,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14500,
+      "row_id": 110
+    },
+    {
+      "assetId": 80155379.0,
+      "addressId": 53789606,
+      "polygonId": "52349346",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 4",
+      "dealDate": "2010-04-18",
+      "dealAmount": 1600000,
+      "parcelNum": "6426-648-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 132.0,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-02-01",
+          "dealAmount": 1500000
+        }
+      ],
+      "trend": {
+        "rate": 6.7,
+        "years": 1.2
+      },
+      "ownership": [],
+      "priceSM": 12121,
+      "row_id": 111
+    },
+    {
+      "assetId": 80154879.0,
+      "addressId": 53922028,
+      "polygonId": "52300427",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 7",
+      "dealDate": "2010-03-28",
+      "dealAmount": 1010000,
+      "parcelNum": "6426-576-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 41.1,
+      "yearBuilt": 1960,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24574,
+      "row_id": 112
+    },
+    {
+      "assetId": 80155607.0,
+      "addressId": 53786978,
+      "polygonId": "52310712",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 6",
+      "dealDate": "2010-03-09",
+      "dealAmount": 1464000,
+      "parcelNum": "6426-666-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 107.25,
+      "yearBuilt": 1984,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-03-05",
+          "dealAmount": 858000
+        }
+      ],
+      "trend": {
+        "rate": 70.6,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 13682,
+      "row_id": 113
+    },
+    {
+      "assetId": 80155706.0,
+      "addressId": 53789735,
+      "polygonId": "52359145",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 32",
+      "dealDate": "2010-03-01",
+      "dealAmount": 1550000,
+      "parcelNum": "6426-669-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 119.3,
+      "yearBuilt": 1987,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-03-30",
+          "dealAmount": 1051000
+        }
+      ],
+      "trend": {
+        "rate": 47.5,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 13025,
+      "row_id": 114
+    },
+    {
+      "assetId": 80157184.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2010-02-11",
+      "dealAmount": 1510000,
+      "parcelNum": "6426-984-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 101.2,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-07-22",
+          "dealAmount": 1022000
+        }
+      ],
+      "trend": {
+        "rate": 47.7,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 14950,
+      "row_id": 115
+    },
+    {
+      "assetId": 80155628.0,
+      "addressId": 53762045,
+      "polygonId": "52316375",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 26",
+      "dealDate": "2009-11-22",
+      "dealAmount": 600000,
+      "parcelNum": "6426-667-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 103.02,
+      "yearBuilt": 1985,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5824,
+      "row_id": 116
+    },
+    {
+      "assetId": 80155662.0,
+      "addressId": 53789068,
+      "polygonId": "52383419",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 30",
+      "dealDate": "2009-11-13",
+      "dealAmount": 1112000,
+      "parcelNum": "6426-668-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 103.02,
+      "yearBuilt": 1986,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10794,
+      "row_id": 117
+    },
+    {
+      "assetId": 80155728.0,
+      "addressId": 53762046,
+      "polygonId": "52299147",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 8",
+      "dealDate": "2009-11-05",
+      "dealAmount": 1620000,
+      "parcelNum": "6426-670-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 114.0,
+      "yearBuilt": 1991,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14211,
+      "row_id": 118
+    },
+    {
+      "assetId": 80154852.0,
+      "addressId": 53784578,
+      "polygonId": "52314572",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 20",
+      "dealDate": "2009-11-02",
+      "dealAmount": 1230000,
+      "parcelNum": "6426-574-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "א",
+      "assetArea": 85.0,
+      "yearBuilt": 1960,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14471,
+      "row_id": 119
+    },
+    {
+      "assetId": 80155410.0,
+      "addressId": 53789656,
+      "polygonId": "52294518",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 6",
+      "dealDate": "2009-10-22",
+      "dealAmount": 1460000,
+      "parcelNum": "6426-649-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 115.57,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12633,
+      "row_id": 120
+    },
+    {
+      "assetId": 80155732.0,
+      "addressId": 53762046,
+      "polygonId": "52299147",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 8",
+      "dealDate": "2009-07-31",
+      "dealAmount": 1700000,
+      "parcelNum": "6426-670-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 114.0,
+      "yearBuilt": 1991,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14912,
+      "row_id": 121
+    },
+    {
+      "assetId": 80154839.0,
+      "addressId": 53762065,
+      "polygonId": "52352040",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גורדון 21",
+      "dealDate": "2009-06-24",
+      "dealAmount": 750000,
+      "parcelNum": "6426-574-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 41.1,
+      "yearBuilt": 1950,
+      "streetCode": 69000513,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18248,
+      "row_id": 122
+    },
+    {
+      "assetId": 80155610.0,
+      "addressId": 53786978,
+      "polygonId": "52310712",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 6",
+      "dealDate": "2009-05-25",
+      "dealAmount": 1350000,
+      "parcelNum": "6426-666-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 107.25,
+      "yearBuilt": 1984,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12587,
+      "row_id": 123
+    },
+    {
+      "assetId": 80154031.0,
+      "addressId": 53759931,
+      "polygonId": "52321670",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 5",
+      "dealDate": "2009-04-30",
+      "dealAmount": 990000,
+      "parcelNum": "6426-378-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "קרקע",
+      "assetArea": 57.9,
+      "yearBuilt": 1965,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-10-23",
+          "dealAmount": 654000
+        }
+      ],
+      "trend": {
+        "rate": 51.4,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 17368,
+      "row_id": 124
+    },
+    {
+      "assetId": 80155666.0,
+      "addressId": 53789068,
+      "polygonId": "52383419",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 30",
+      "dealDate": "2008-12-07",
+      "dealAmount": 1430000,
+      "parcelNum": "6426-668-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 122.37,
+      "yearBuilt": 1986,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11686,
+      "row_id": 125
+    },
+    {
+      "assetId": 80155743.0,
+      "addressId": 53782985,
+      "polygonId": "52980612",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 28",
+      "dealDate": "2008-12-01",
+      "dealAmount": 1400000,
+      "parcelNum": "6426-671-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שניה",
+      "assetArea": 99.6,
+      "yearBuilt": 1981,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14056,
+      "row_id": 126
+    },
+    {
+      "assetId": 80155421.0,
+      "addressId": 53789656,
+      "polygonId": "52294518",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 6",
+      "dealDate": "2008-11-05",
+      "dealAmount": 1450000,
+      "parcelNum": "6426-649-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 131.81,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11001,
+      "row_id": 127
+    },
+    {
+      "assetId": 80157188.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2008-11-05",
+      "dealAmount": 1400000,
+      "parcelNum": "6426-984-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 101.2,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-12-12",
+          "dealAmount": 1055000
+        }
+      ],
+      "trend": {
+        "rate": 32.7,
+        "years": 5.9
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 700000
+        },
+        {
+          "proportion": "50",
+          "price": 700000
+        }
+      ],
+      "priceSM": 13861,
+      "row_id": 128
+    },
+    {
+      "assetId": 80155664.0,
+      "addressId": 53789068,
+      "polygonId": "52383419",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 30",
+      "dealDate": "2008-10-05",
+      "dealAmount": 1250000,
+      "parcelNum": "6426-668-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 107.92,
+      "yearBuilt": 1986,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-28",
+          "dealAmount": 822000
+        }
+      ],
+      "trend": {
+        "rate": 52.1,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 11682,
+      "row_id": 129
+    },
+    {
+      "assetId": 80155406.0,
+      "addressId": 53789656,
+      "polygonId": "52294518",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 6",
+      "dealDate": "2008-08-26",
+      "dealAmount": 1310000,
+      "parcelNum": "6426-649-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 115.57,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11335,
+      "row_id": 130
+    },
+    {
+      "assetId": 80155689.0,
+      "addressId": 53789735,
+      "polygonId": "52359145",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 32",
+      "dealDate": "2008-06-19",
+      "dealAmount": 1440000,
+      "parcelNum": "6426-669-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 119.3,
+      "yearBuilt": 1987,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12070,
+      "row_id": 131
+    },
+    {
+      "assetId": 80154949.0,
+      "addressId": 53789498,
+      "polygonId": "52086440",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "זאב גלר 19",
+      "dealDate": "2008-06-17",
+      "dealAmount": 890000,
+      "parcelNum": "6426-592-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ג",
+      "assetArea": 65.0,
+      "yearBuilt": 1964,
+      "streetCode": 69000529,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-05-20",
+          "dealAmount": 617000
+        }
+      ],
+      "trend": {
+        "rate": 44.2,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 13692,
+      "row_id": 132
+    },
+    {
+      "assetId": 80154876.0,
+      "addressId": 53922028,
+      "polygonId": "52300427",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 7",
+      "dealDate": "2008-02-24",
+      "dealAmount": 610000,
+      "parcelNum": "6426-576-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 41.1,
+      "yearBuilt": 1960,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-08-07",
+          "dealAmount": 646000
+        },
+        {
+          "dealDate": "1999-01-11",
+          "dealAmount": 670000
+        }
+      ],
+      "trend": {
+        "rate": -5.6,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 14878,
+      "row_id": 133
+    },
+    {
+      "assetId": 80155387.0,
+      "addressId": 53789606,
+      "polygonId": "52349346",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 4",
+      "dealDate": "2008-01-03",
+      "dealAmount": 1177000,
+      "parcelNum": "6426-648-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 132.0,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8917,
+      "row_id": 134
+    },
+    {
+      "assetId": 80154058.0,
+      "addressId": 53922021,
+      "polygonId": "52351994",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 1",
+      "dealDate": "2007-12-11",
+      "dealAmount": 835000,
+      "parcelNum": "6426-380-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 82.29,
+      "yearBuilt": 1972,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10147,
+      "row_id": 135
+    },
+    {
+      "assetId": 80154835.0,
+      "addressId": 53762065,
+      "polygonId": "52352040",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גורדון 21",
+      "dealDate": "2007-09-24",
+      "dealAmount": 221000,
+      "parcelNum": "6426-574-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "א",
+      "assetArea": 41.1,
+      "yearBuilt": 1950,
+      "streetCode": 69000513,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5377,
+      "row_id": 136
+    },
+    {
+      "assetId": 80155494.0,
+      "addressId": 53772005,
+      "polygonId": "52339984",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 20",
+      "dealDate": "2007-06-17",
+      "dealAmount": 1090000,
+      "parcelNum": "6426-651-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 130.68,
+      "yearBuilt": 1990,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 9,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8341,
+      "row_id": 137
+    },
+    {
+      "assetId": 80155739.0,
+      "addressId": 53782985,
+      "polygonId": "52980612",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 28",
+      "dealDate": "2007-06-03",
+      "dealAmount": 1159000,
+      "parcelNum": "6426-671-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 129.25,
+      "yearBuilt": 1981,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8967,
+      "row_id": 138
+    },
+    {
+      "assetId": 80155751.0,
+      "addressId": 53782985,
+      "polygonId": "52980612",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 28",
+      "dealDate": "2007-03-26",
+      "dealAmount": 1008000,
+      "parcelNum": "6426-671-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 97.0,
+      "yearBuilt": 1981,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10392,
+      "row_id": 139
+    },
+    {
+      "assetId": 80155691.0,
+      "addressId": 53789735,
+      "polygonId": "52359145",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 32",
+      "dealDate": "2007-03-21",
+      "dealAmount": 881000,
+      "parcelNum": "6426-669-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 96.21,
+      "yearBuilt": 1987,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9157,
+      "row_id": 140
+    },
+    {
+      "assetId": 80154004.0,
+      "addressId": 53763128,
+      "polygonId": "52317566",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 9",
+      "dealDate": "2007-03-07",
+      "dealAmount": 795000,
+      "parcelNum": "6426-376-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "א",
+      "assetArea": 74.5,
+      "yearBuilt": 1970,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10671,
+      "row_id": 141
+    },
+    {
+      "assetId": 80154043.0,
+      "addressId": 53759883,
+      "polygonId": "52300940",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 3",
+      "dealDate": "2007-02-22",
+      "dealAmount": 496000,
+      "parcelNum": "6426-379-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "המרתף",
+      "assetArea": 53.86,
+      "yearBuilt": 1960,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-02-21",
+          "dealAmount": 463000
+        },
+        {
+          "dealDate": "2000-07-13",
+          "dealAmount": 478000
+        }
+      ],
+      "trend": {
+        "rate": 7.1,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 9358,
+      "row_id": 143
+    },
+    {
+      "assetId": 80154810.0,
+      "addressId": 53763861,
+      "polygonId": "52314572",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 15",
+      "dealDate": "2007-01-23",
+      "dealAmount": 132000,
+      "parcelNum": "6426-574-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "א",
+      "assetArea": 41.1,
+      "yearBuilt": 1960,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3212,
+      "row_id": 144
+    },
+    {
+      "assetId": 80154891.0,
+      "addressId": 53789613,
+      "polygonId": "52305558",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "אגרון 19",
+      "dealDate": "2006-11-05",
+      "dealAmount": 557000,
+      "parcelNum": "6426-577-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 41.1,
+      "yearBuilt": 1960,
+      "streetCode": 69000501,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13552,
+      "row_id": 145
+    },
+    {
+      "assetId": 80154050.0,
+      "addressId": 53759883,
+      "polygonId": "52300940",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 3",
+      "dealDate": "2006-10-17",
+      "dealAmount": 773000,
+      "parcelNum": "6426-379-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ב",
+      "assetArea": 70.2,
+      "yearBuilt": 1960,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11011,
+      "row_id": 146
+    },
+    {
+      "assetId": 80154046.0,
+      "addressId": 53759883,
+      "polygonId": "52300940",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 3",
+      "dealDate": "2006-07-25",
+      "dealAmount": 664000,
+      "parcelNum": "6426-379-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 50.05,
+      "yearBuilt": 1960,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13267,
+      "row_id": 147
+    },
+    {
+      "assetId": 80154024.0,
+      "addressId": 53761763,
+      "polygonId": "52304170",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 7",
+      "dealDate": "2006-07-18",
+      "dealAmount": 614000,
+      "parcelNum": "6426-377-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ג",
+      "assetArea": 83.37,
+      "yearBuilt": 1969,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7365,
+      "row_id": 148
+    },
+    {
+      "assetId": 80155604.0,
+      "addressId": 53786978,
+      "polygonId": "52310712",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 6",
+      "dealDate": "2006-07-04",
+      "dealAmount": 790000,
+      "parcelNum": "6426-666-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 107.25,
+      "yearBuilt": 1984,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7366,
+      "row_id": 149
+    },
+    {
+      "assetId": 80154945.0,
+      "addressId": 53789498,
+      "polygonId": "52086440",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "זאב גלר 19",
+      "dealDate": "2006-07-03",
+      "dealAmount": 689000,
+      "parcelNum": "6426-592-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 65.0,
+      "yearBuilt": 1964,
+      "streetCode": 69000529,
+      "settlmentID": 6900,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10600,
+      "row_id": 150
+    },
+    {
+      "assetId": 80154917.0,
+      "addressId": 53920916,
+      "polygonId": "52979705",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 33",
+      "dealDate": "2006-06-21",
+      "dealAmount": 660000,
+      "parcelNum": "6426-589-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-01-14",
+          "dealAmount": 594000
+        }
+      ],
+      "trend": {
+        "rate": 11.1,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 11379,
+      "row_id": 151
+    },
+    {
+      "assetId": 80155404.0,
+      "addressId": 53789606,
+      "polygonId": "52349346",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 4",
+      "dealDate": "2006-05-16",
+      "dealAmount": 1420000,
+      "parcelNum": "6426-648-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שביעית+גג",
+      "assetArea": 142.0,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 152
+    },
+    {
+      "assetId": 80155633.0,
+      "addressId": 53762045,
+      "polygonId": "52316375",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 26",
+      "dealDate": "2006-03-07",
+      "dealAmount": 929000,
+      "parcelNum": "6426-667-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 107.92,
+      "yearBuilt": 1985,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-06-06",
+          "dealAmount": 854000
+        }
+      ],
+      "trend": {
+        "rate": 8.8,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 8682,
+      "row_id": 153
+    },
+    {
+      "assetId": 80155621.0,
+      "addressId": 53786978,
+      "polygonId": "52310712",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הפרדס 6",
+      "dealDate": "2006-03-06",
+      "dealAmount": 892000,
+      "parcelNum": "6426-666-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 107.8,
+      "yearBuilt": 1984,
+      "streetCode": 69000519,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8275,
+      "row_id": 154
+    },
+    {
+      "assetId": 80155464.0,
+      "addressId": 53915939,
+      "polygonId": "52288331",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 18",
+      "dealDate": "2006-02-01",
+      "dealAmount": 708000,
+      "parcelNum": "6426-650-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 91.75,
+      "yearBuilt": 1970,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7717,
+      "row_id": 155
+    },
+    {
+      "assetId": 80155433.0,
+      "addressId": 53789656,
+      "polygonId": "52294518",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "הדרור 6",
+      "dealDate": "2006-01-15",
+      "dealAmount": 1431000,
+      "parcelNum": "6426-649-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שביעית+גג",
+      "assetArea": 142.11,
+      "yearBuilt": 1980,
+      "streetCode": 69000751,
+      "settlmentID": 6900,
+      "buildingFloors": 7,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10070,
+      "row_id": 156
+    },
+    {
+      "assetId": 80154827.0,
+      "addressId": 53788700,
+      "polygonId": "52317676",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 19",
+      "dealDate": "2005-11-13",
+      "dealAmount": 566000,
+      "parcelNum": "6426-574-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 41.1,
+      "yearBuilt": 1959,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13771,
+      "row_id": 157
+    },
+    {
+      "assetId": 80155744.0,
+      "addressId": 53782985,
+      "polygonId": "52980612",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 28",
+      "dealDate": "2005-11-07",
+      "dealAmount": 1021000,
+      "parcelNum": "6426-671-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 110.41,
+      "yearBuilt": 1981,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9247,
+      "row_id": 158
+    },
+    {
+      "assetId": 80155665.0,
+      "addressId": 53789068,
+      "polygonId": "52383419",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 30",
+      "dealDate": "2005-11-07",
+      "dealAmount": 857000,
+      "parcelNum": "6426-668-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 103.02,
+      "yearBuilt": 1986,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-12-12",
+          "dealAmount": 699000
+        }
+      ],
+      "trend": {
+        "rate": 22.6,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 8320,
+      "row_id": 159
+    },
+    {
+      "assetId": 80157178.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2005-01-04",
+      "dealAmount": 1085000,
+      "parcelNum": "6426-984-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 100.81,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10763,
+      "row_id": 160
+    },
+    {
+      "assetId": 80155462.0,
+      "addressId": 53915939,
+      "polygonId": "52288331",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "סוקולוב 18",
+      "dealDate": "2004-11-28",
+      "dealAmount": 808000,
+      "parcelNum": "6426-650-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 88.54,
+      "yearBuilt": 1970,
+      "streetCode": 69000532,
+      "settlmentID": 6900,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9126,
+      "row_id": 161
+    },
+    {
+      "assetId": 80154934.0,
+      "addressId": 53922803,
+      "polygonId": "52349694",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "בני ברית 26",
+      "dealDate": "2004-09-02",
+      "dealAmount": 595000,
+      "parcelNum": "6426-591-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 54.0,
+      "yearBuilt": 1960,
+      "streetCode": 69000541,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11019,
+      "row_id": 162
+    },
+    {
+      "assetId": 80154061.0,
+      "addressId": 53922021,
+      "polygonId": "52351994",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 1",
+      "dealDate": "2004-07-14",
+      "dealAmount": 738000,
+      "parcelNum": "6426-380-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.37,
+      "yearBuilt": 1972,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-03-14",
+          "dealAmount": 726000
+        }
+      ],
+      "trend": {
+        "rate": 1.7,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 9111,
+      "row_id": 163
+    },
+    {
+      "assetId": 80155750.0,
+      "addressId": 53782985,
+      "polygonId": "52980612",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 28",
+      "dealDate": "2004-07-14",
+      "dealAmount": 871000,
+      "parcelNum": "6426-671-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 97.0,
+      "yearBuilt": 1981,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8979,
+      "row_id": 164
+    },
+    {
+      "assetId": 80155759.0,
+      "addressId": 53782985,
+      "polygonId": "52980612",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "גאולה 28",
+      "dealDate": "2004-07-05",
+      "dealAmount": 1464000,
+      "parcelNum": "6426-671-23",
+      "dealNature": "דירת גג",
+      "roomNum": 6.0,
+      "floor": "שישית",
+      "assetArea": 190.3,
+      "yearBuilt": 1981,
+      "streetCode": 69000512,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7693,
+      "row_id": 165
+    },
+    {
+      "assetId": 80157185.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2004-04-01",
+      "dealAmount": 1110000,
+      "parcelNum": "6426-984-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 100.81,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11011,
+      "row_id": 166
+    },
+    {
+      "assetId": 80154006.0,
+      "addressId": 53763128,
+      "polygonId": "52317566",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 9",
+      "dealDate": "2004-03-24",
+      "dealAmount": 615000,
+      "parcelNum": "6426-376-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ב",
+      "assetArea": 53.91,
+      "yearBuilt": 1970,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11408,
+      "row_id": 167
+    },
+    {
+      "assetId": 80154828.0,
+      "addressId": 53788700,
+      "polygonId": "52317676",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 19",
+      "dealDate": "2004-03-22",
+      "dealAmount": 598000,
+      "parcelNum": "6426-574-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "א",
+      "assetArea": 41.1,
+      "yearBuilt": 1959,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14550,
+      "row_id": 168
+    },
+    {
+      "assetId": 80157182.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2004-02-22",
+      "dealAmount": 1042000,
+      "parcelNum": "6426-984-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 100.81,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10336,
+      "row_id": 169
+    },
+    {
+      "assetId": 80157171.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2003-01-09",
+      "dealAmount": 1123000,
+      "parcelNum": "6426-984-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 100.82,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11139,
+      "row_id": 175
+    },
+    {
+      "assetId": 80157183.0,
+      "addressId": 53784706,
+      "polygonId": "52088402",
+      "neighborhoodName": "ארלוזורוב",
+      "neighborhoodId": 65209968,
+      "address": "ששת הימים 11",
+      "dealDate": "2002-05-05",
+      "dealAmount": 1120000,
+      "parcelNum": "6426-984-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 101.2,
+      "yearBuilt": 2004,
+      "streetCode": 69000533,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11067,
+      "row_id": 179
+    }
+  ]
+}

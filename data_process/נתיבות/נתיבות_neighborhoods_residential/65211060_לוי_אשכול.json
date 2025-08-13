@@ -1,0 +1,2127 @@
+{
+  "neighborhood_name": "לוי אשכול",
+  "city_name": "נתיבות",
+  "transaction_count": 66,
+  "transactions": [
+    {
+      "assetId": 50234548.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2025-06-03",
+      "dealAmount": 1020000,
+      "parcelNum": "39581-46-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 94.44,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-04-26",
+          "dealAmount": 595000
+        },
+        {
+          "dealDate": "2012-10-31",
+          "dealAmount": 520000
+        },
+        {
+          "dealDate": "2007-12-06",
+          "dealAmount": 211000
+        }
+      ],
+      "trend": {
+        "rate": 71.4,
+        "years": 10.1
+      },
+      "ownership": [],
+      "priceSM": 10851,
+      "row_id": 1
+    },
+    {
+      "assetId": 50234573.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2025-05-27",
+      "dealAmount": 980000,
+      "parcelNum": "39581-46-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 84.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-03-05",
+          "dealAmount": 410000
+        }
+      ],
+      "trend": {
+        "rate": 139.0,
+        "years": 12.2
+      },
+      "ownership": [],
+      "priceSM": 11667,
+      "row_id": 2
+    },
+    {
+      "assetId": 50234616.0,
+      "addressId": 53755795,
+      "polygonId": "52997695",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 1",
+      "dealDate": "2025-04-06",
+      "dealAmount": 965000,
+      "parcelNum": "39581-50-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 80.2,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-11-28",
+          "dealAmount": 640000
+        },
+        {
+          "dealDate": "2016-01-17",
+          "dealAmount": 510000
+        }
+      ],
+      "trend": {
+        "rate": 50.8,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 12062,
+      "row_id": 3
+    },
+    {
+      "assetId": 50234566.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2024-12-24",
+      "dealAmount": 990000,
+      "parcelNum": "39581-46-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 94.44,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-28",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 135.7,
+        "years": 13.8
+      },
+      "ownership": [],
+      "priceSM": 10532,
+      "row_id": 4
+    },
+    {
+      "assetId": 50234637.0,
+      "addressId": 53755643,
+      "polygonId": "53451525",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "ירושלים 143",
+      "dealDate": "2024-12-09",
+      "dealAmount": 935000,
+      "parcelNum": "39581-51-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 90.56,
+      "yearBuilt": 1970,
+      "streetCode": 2460112,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-29",
+          "dealAmount": 640000
+        },
+        {
+          "dealDate": "2009-04-16",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 46.1,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 10389,
+      "row_id": 5
+    },
+    {
+      "assetId": 4497327.0,
+      "addressId": 53755906,
+      "polygonId": "53155291",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 7",
+      "dealDate": "2024-07-01",
+      "dealAmount": 1050000,
+      "parcelNum": "39581-2-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 116.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9052,
+      "row_id": 6
+    },
+    {
+      "assetId": 50234595.0,
+      "addressId": 53755401,
+      "polygonId": "53087539",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 4",
+      "dealDate": "2024-06-04",
+      "dealAmount": 1050000,
+      "parcelNum": "39581-49-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 80.47,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-05-10",
+          "dealAmount": 640000
+        },
+        {
+          "dealDate": "2016-03-28",
+          "dealAmount": 499000
+        }
+      ],
+      "trend": {
+        "rate": 64.1,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 13125,
+      "row_id": 7
+    },
+    {
+      "assetId": 50234626.0,
+      "addressId": 53755643,
+      "polygonId": "53451525",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "ירושלים 143",
+      "dealDate": "2023-07-24",
+      "dealAmount": 100000,
+      "parcelNum": "39581-51-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.56,
+      "yearBuilt": 1970,
+      "streetCode": 2460112,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1104,
+      "row_id": 8
+    },
+    {
+      "assetId": 50234658.0,
+      "addressId": 53754742,
+      "polygonId": "52997288",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "הרב ניסים 5",
+      "dealDate": "2023-06-04",
+      "dealAmount": 900000,
+      "parcelNum": "39581-52-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 94.44,
+      "yearBuilt": 1980,
+      "streetCode": 2460250,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-10-12",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2016-06-23",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2013-12-03",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2011-03-10",
+          "dealAmount": 370000
+        },
+        {
+          "dealDate": "2008-08-13",
+          "dealAmount": 104000
+        },
+        {
+          "dealDate": "1999-11-21",
+          "dealAmount": 283000
+        }
+      ],
+      "trend": {
+        "rate": 50.0,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 9574,
+      "row_id": 9
+    },
+    {
+      "assetId": 50234589.0,
+      "addressId": 53755401,
+      "polygonId": "53087539",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 4",
+      "dealDate": "2023-04-17",
+      "dealAmount": 231000,
+      "parcelNum": "39581-49-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 80.47,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2871,
+      "row_id": 10
+    },
+    {
+      "assetId": 50234619.0,
+      "addressId": 53755795,
+      "polygonId": "52997695",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 1",
+      "dealDate": "2023-02-21",
+      "dealAmount": 820000,
+      "parcelNum": "39581-50-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 80.2,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-07-20",
+          "dealAmount": 232000
+        }
+      ],
+      "trend": {
+        "rate": 253.4,
+        "years": 15.6
+      },
+      "ownership": [],
+      "priceSM": 10250,
+      "row_id": 11
+    },
+    {
+      "assetId": 50234606.0,
+      "addressId": 53755795,
+      "polygonId": "52997695",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 1",
+      "dealDate": "2022-11-30",
+      "dealAmount": 910000,
+      "parcelNum": "39581-50-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.28,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-11-13",
+          "dealAmount": 690000
+        },
+        {
+          "dealDate": "2016-11-16",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2015-01-19",
+          "dealAmount": 514000
+        }
+      ],
+      "trend": {
+        "rate": 31.9,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 11235,
+      "row_id": 12
+    },
+    {
+      "assetId": 50234608.0,
+      "addressId": 53755795,
+      "polygonId": "52997695",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 1",
+      "dealDate": "2022-09-18",
+      "dealAmount": 800000,
+      "parcelNum": "39581-50-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 81.28,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-01-07",
+          "dealAmount": 540000
+        },
+        {
+          "dealDate": "2011-07-08",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 48.1,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 9877,
+      "row_id": 13
+    },
+    {
+      "assetId": 50234576.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2022-07-11",
+      "dealAmount": 790000,
+      "parcelNum": "39581-46-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 91.33,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-05-27",
+          "dealAmount": 580000
+        },
+        {
+          "dealDate": "2016-08-10",
+          "dealAmount": 550000
+        }
+      ],
+      "trend": {
+        "rate": 36.2,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 8681,
+      "row_id": 14
+    },
+    {
+      "assetId": 4478418.0,
+      "addressId": 53823225,
+      "polygonId": "52821799",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 13",
+      "dealDate": "2022-04-13",
+      "dealAmount": 2050000,
+      "parcelNum": "39581-8-1",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 265.0,
+      "yearBuilt": 1960,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7736,
+      "row_id": 15
+    },
+    {
+      "assetId": 50234587.0,
+      "addressId": 53755401,
+      "polygonId": "53087539",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 4",
+      "dealDate": "2022-04-03",
+      "dealAmount": 600000,
+      "parcelNum": "39581-49-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 80.47,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7456,
+      "row_id": 16
+    },
+    {
+      "assetId": 4486736.0,
+      "addressId": 53756710,
+      "polygonId": "53013880",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "ירושלים 149",
+      "dealDate": "2022-03-15",
+      "dealAmount": 1930000,
+      "parcelNum": "39581-63-2",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 220.0,
+      "yearBuilt": 1982,
+      "streetCode": 2460112,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8773,
+      "row_id": 17
+    },
+    {
+      "assetId": 50234610.0,
+      "addressId": 53755795,
+      "polygonId": "52997695",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 1",
+      "dealDate": "2022-03-07",
+      "dealAmount": 650000,
+      "parcelNum": "39581-50-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 81.28,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-30",
+          "dealAmount": 567000
+        },
+        {
+          "dealDate": "2004-04-28",
+          "dealAmount": 170000
+        }
+      ],
+      "trend": {
+        "rate": 14.6,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 8025,
+      "row_id": 18
+    },
+    {
+      "assetId": 50234553.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2022-02-21",
+      "dealAmount": 760000,
+      "parcelNum": "39581-46-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 94.44,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-28",
+          "dealAmount": 560000
+        }
+      ],
+      "trend": {
+        "rate": 35.7,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 8085,
+      "row_id": 19
+    },
+    {
+      "assetId": 4519896.0,
+      "addressId": 53831660,
+      "polygonId": "53430328",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 36",
+      "dealDate": "2022-02-03",
+      "dealAmount": 1820000,
+      "parcelNum": "39581-31-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 299.0,
+      "yearBuilt": 1985,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6087,
+      "row_id": 20
+    },
+    {
+      "assetId": 50234546.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2022-01-05",
+      "dealAmount": 722000,
+      "parcelNum": "39581-46-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.33,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7905,
+      "row_id": 21
+    },
+    {
+      "assetId": 50234628.0,
+      "addressId": 53755643,
+      "polygonId": "53451525",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "ירושלים 143",
+      "dealDate": "2021-10-13",
+      "dealAmount": 750000,
+      "parcelNum": "39581-51-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 88.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460112,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8523,
+      "row_id": 22
+    },
+    {
+      "assetId": 50234559.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2021-08-01",
+      "dealAmount": 605000,
+      "parcelNum": "39581-46-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 84.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-15",
+          "dealAmount": 590000
+        },
+        {
+          "dealDate": "2012-08-16",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2004-09-07",
+          "dealAmount": 90000
+        }
+      ],
+      "trend": {
+        "rate": 2.5,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 7202,
+      "row_id": 23
+    },
+    {
+      "assetId": 50234627.0,
+      "addressId": 53755643,
+      "polygonId": "53451525",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "ירושלים 143",
+      "dealDate": "2021-08-01",
+      "dealAmount": 540000,
+      "parcelNum": "39581-51-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 93.5,
+      "yearBuilt": 1970,
+      "streetCode": 2460112,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-04-22",
+          "dealAmount": 312000
+        }
+      ],
+      "trend": {
+        "rate": 73.1,
+        "years": 23.3
+      },
+      "ownership": [],
+      "priceSM": 5806,
+      "row_id": 24
+    },
+    {
+      "assetId": 4521903.0,
+      "addressId": 53755426,
+      "polygonId": "53454259",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 41",
+      "dealDate": "2021-06-24",
+      "dealAmount": 1850000,
+      "parcelNum": "39581-42-1",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 150.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12333,
+      "row_id": 25
+    },
+    {
+      "assetId": 50234633.0,
+      "addressId": 53755643,
+      "polygonId": "53451525",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "ירושלים 143",
+      "dealDate": "2021-05-06",
+      "dealAmount": 610000,
+      "parcelNum": "39581-51-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 90.56,
+      "yearBuilt": 1970,
+      "streetCode": 2460112,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-06-14",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 45.2,
+        "years": 9.9
+      },
+      "ownership": [],
+      "priceSM": 6778,
+      "row_id": 26
+    },
+    {
+      "assetId": 50234599.0,
+      "addressId": 53755795,
+      "polygonId": "52997695",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 1",
+      "dealDate": "2021-01-03",
+      "dealAmount": 585000,
+      "parcelNum": "39581-50-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.84,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-04-11",
+          "dealAmount": 499000
+        },
+        {
+          "dealDate": "2012-05-08",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 17.2,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 9435,
+      "row_id": 27
+    },
+    {
+      "assetId": 50234602.0,
+      "addressId": 53755795,
+      "polygonId": "52997695",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 1",
+      "dealDate": "2020-12-03",
+      "dealAmount": 580000,
+      "parcelNum": "39581-50-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.84,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-03-03",
+          "dealAmount": 475000
+        }
+      ],
+      "trend": {
+        "rate": 22.1,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 9355,
+      "row_id": 28
+    },
+    {
+      "assetId": 50234563.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2020-10-29",
+      "dealAmount": 600000,
+      "parcelNum": "39581-46-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.91,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-03-05",
+          "dealAmount": 460000
+        },
+        {
+          "dealDate": "2010-05-09",
+          "dealAmount": 270000
+        },
+        {
+          "dealDate": "1998-12-01",
+          "dealAmount": 294000
+        }
+      ],
+      "trend": {
+        "rate": 30.4,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 9677,
+      "row_id": 29
+    },
+    {
+      "assetId": 4519869.0,
+      "addressId": 53831058,
+      "polygonId": "53430070",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 39",
+      "dealDate": "2020-09-18",
+      "dealAmount": 2050000,
+      "parcelNum": "39581-38-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 250.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8200,
+      "row_id": 30
+    },
+    {
+      "assetId": 50234635.0,
+      "addressId": 53755643,
+      "polygonId": "53451525",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "ירושלים 143",
+      "dealDate": "2020-08-16",
+      "dealAmount": 750000,
+      "parcelNum": "39581-51-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 93.5,
+      "yearBuilt": 1970,
+      "streetCode": 2460112,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8021,
+      "row_id": 31
+    },
+    {
+      "assetId": 50234547.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2020-08-03",
+      "dealAmount": 680000,
+      "parcelNum": "39581-46-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 84.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8095,
+      "row_id": 32
+    },
+    {
+      "assetId": 50234585.0,
+      "addressId": 53755401,
+      "polygonId": "53087539",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 4",
+      "dealDate": "2020-01-02",
+      "dealAmount": 620000,
+      "parcelNum": "39581-49-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 80.47,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-23",
+          "dealAmount": 540000
+        }
+      ],
+      "trend": {
+        "rate": 14.8,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 7750,
+      "row_id": 34
+    },
+    {
+      "assetId": 50234603.0,
+      "addressId": 53755795,
+      "polygonId": "52997695",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 1",
+      "dealDate": "2019-12-15",
+      "dealAmount": 580000,
+      "parcelNum": "39581-50-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.84,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-01-29",
+          "dealAmount": 530000
+        },
+        {
+          "dealDate": "2007-02-13",
+          "dealAmount": 148000
+        }
+      ],
+      "trend": {
+        "rate": 9.4,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 9355,
+      "row_id": 35
+    },
+    {
+      "assetId": 50234584.0,
+      "addressId": 53755401,
+      "polygonId": "53087539",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 4",
+      "dealDate": "2019-11-18",
+      "dealAmount": 750000,
+      "parcelNum": "39581-49-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 80.47,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-06-08",
+          "dealAmount": 236000
+        }
+      ],
+      "trend": {
+        "rate": 217.8,
+        "years": 13.5
+      },
+      "ownership": [],
+      "priceSM": 9375,
+      "row_id": 36
+    },
+    {
+      "assetId": 50234644.0,
+      "addressId": 53754742,
+      "polygonId": "52997288",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "הרב ניסים 5",
+      "dealDate": "2019-10-27",
+      "dealAmount": 690000,
+      "parcelNum": "39581-52-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.33,
+      "yearBuilt": 1980,
+      "streetCode": 2460250,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-01-23",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 15.0,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 7582,
+      "row_id": 37
+    },
+    {
+      "assetId": 50234622.0,
+      "addressId": 53755795,
+      "polygonId": "52997695",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 1",
+      "dealDate": "2019-08-25",
+      "dealAmount": 55000,
+      "parcelNum": "39581-50-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 80.2,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 686,
+      "row_id": 38
+    },
+    {
+      "assetId": 4489192.0,
+      "addressId": 53755387,
+      "polygonId": "53048682",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 33",
+      "dealDate": "2018-11-19",
+      "dealAmount": 1830000,
+      "parcelNum": "39581-28-1",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 200.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9150,
+      "row_id": 39
+    },
+    {
+      "assetId": 50234670.0,
+      "addressId": 53754742,
+      "polygonId": "52997288",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "הרב ניסים 5",
+      "dealDate": "2018-01-09",
+      "dealAmount": 620000,
+      "parcelNum": "39581-52-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 91.33,
+      "yearBuilt": 1980,
+      "streetCode": 2460250,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6789,
+      "row_id": 40
+    },
+    {
+      "assetId": 50234551.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2017-09-10",
+      "dealAmount": 663000,
+      "parcelNum": "39581-46-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 84.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-07",
+          "dealAmount": 440000
+        },
+        {
+          "dealDate": "2010-07-21",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2007-11-26",
+          "dealAmount": 166000
+        }
+      ],
+      "trend": {
+        "rate": 50.7,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 7893,
+      "row_id": 41
+    },
+    {
+      "assetId": 50234657.0,
+      "addressId": 53754742,
+      "polygonId": "52997288",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "הרב ניסים 5",
+      "dealDate": "2017-08-30",
+      "dealAmount": 610000,
+      "parcelNum": "39581-52-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "רביעית",
+      "assetArea": 84.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460250,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7262,
+      "row_id": 42
+    },
+    {
+      "assetId": 4488565.0,
+      "addressId": 53753005,
+      "polygonId": "53039787",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 26",
+      "dealDate": "2017-08-07",
+      "dealAmount": 1750000,
+      "parcelNum": "39581-21-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 319.0,
+      "yearBuilt": 1998,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5486,
+      "row_id": 43
+    },
+    {
+      "assetId": 50234639.0,
+      "addressId": 53755643,
+      "polygonId": "53451525",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "ירושלים 143",
+      "dealDate": "2017-06-01",
+      "dealAmount": 590000,
+      "parcelNum": "39581-51-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 93.5,
+      "yearBuilt": 1970,
+      "streetCode": 2460112,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-24",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 40.5,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 6344,
+      "row_id": 44
+    },
+    {
+      "assetId": 50234560.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2017-02-08",
+      "dealAmount": 619000,
+      "parcelNum": "39581-46-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 94.44,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-20",
+          "dealAmount": 419000
+        },
+        {
+          "dealDate": "2013-03-19",
+          "dealAmount": 390000
+        },
+        {
+          "dealDate": "2010-11-11",
+          "dealAmount": 320000
+        },
+        {
+          "dealDate": "2010-04-14",
+          "dealAmount": 285000
+        }
+      ],
+      "trend": {
+        "rate": 47.7,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 6585,
+      "row_id": 45
+    },
+    {
+      "assetId": 50234661.0,
+      "addressId": 53754742,
+      "polygonId": "52997288",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "הרב ניסים 5",
+      "dealDate": "2016-12-06",
+      "dealAmount": 649000,
+      "parcelNum": "39581-52-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 94.44,
+      "yearBuilt": 1980,
+      "streetCode": 2460250,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-09-28",
+          "dealAmount": 575000
+        },
+        {
+          "dealDate": "2008-04-29",
+          "dealAmount": 260000
+        }
+      ],
+      "trend": {
+        "rate": 12.9,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 6904,
+      "row_id": 46
+    },
+    {
+      "assetId": 50234556.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2016-07-12",
+      "dealAmount": 580000,
+      "parcelNum": "39581-46-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 94.44,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-03-14",
+          "dealAmount": 173000
+        }
+      ],
+      "trend": {
+        "rate": 235.3,
+        "years": 11.3
+      },
+      "ownership": [],
+      "priceSM": 6170,
+      "row_id": 47
+    },
+    {
+      "assetId": 4488606.0,
+      "addressId": 53914634,
+      "polygonId": "53040428",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 38",
+      "dealDate": "2016-05-26",
+      "dealAmount": 1249000,
+      "parcelNum": "39581-35-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 149.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8383,
+      "row_id": 48
+    },
+    {
+      "assetId": 4519895.0,
+      "addressId": 53831660,
+      "polygonId": "53430328",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 36",
+      "dealDate": "2015-12-23",
+      "dealAmount": 1500000,
+      "parcelNum": "39581-31-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 180.0,
+      "yearBuilt": 1985,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 49
+    },
+    {
+      "assetId": 50234655.0,
+      "addressId": 53754742,
+      "polygonId": "52997288",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "הרב ניסים 5",
+      "dealDate": "2015-10-22",
+      "dealAmount": 550000,
+      "parcelNum": "39581-52-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 94.44,
+      "yearBuilt": 1980,
+      "streetCode": 2460250,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5824,
+      "row_id": 50
+    },
+    {
+      "assetId": 4519831.0,
+      "addressId": 53831662,
+      "polygonId": "53429205",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 16",
+      "dealDate": "2015-06-28",
+      "dealAmount": 1150000,
+      "parcelNum": "39581-9-2",
+      "dealNature": "בית בודד",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 177.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6497,
+      "row_id": 51
+    },
+    {
+      "assetId": 50234575.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2015-06-10",
+      "dealAmount": 431000,
+      "parcelNum": "39581-46-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.91,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-05-07",
+          "dealAmount": 91000
+        },
+        {
+          "dealDate": "1998-03-10",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 373.6,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 6952,
+      "row_id": 52
+    },
+    {
+      "assetId": 50234614.0,
+      "addressId": 53755795,
+      "polygonId": "52997695",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 1",
+      "dealDate": "2015-03-26",
+      "dealAmount": 557000,
+      "parcelNum": "39581-50-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 80.2,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6945,
+      "row_id": 53
+    },
+    {
+      "assetId": 4486737.0,
+      "addressId": 53756710,
+      "polygonId": "53013880",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "ירושלים 149",
+      "dealDate": "2014-11-06",
+      "dealAmount": 1500000,
+      "parcelNum": "39581-63-1",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 247.0,
+      "yearBuilt": 1982,
+      "streetCode": 2460112,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6073,
+      "row_id": 54
+    },
+    {
+      "assetId": 50234669.0,
+      "addressId": 53754742,
+      "polygonId": "52997288",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "הרב ניסים 5",
+      "dealDate": "2014-09-21",
+      "dealAmount": 600000,
+      "parcelNum": "39581-52-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 94.44,
+      "yearBuilt": 1980,
+      "streetCode": 2460250,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6353,
+      "row_id": 55
+    },
+    {
+      "assetId": 50234582.0,
+      "addressId": 53755401,
+      "polygonId": "53087539",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 4",
+      "dealDate": "2014-05-14",
+      "dealAmount": 399000,
+      "parcelNum": "39581-49-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 80.47,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-11-29",
+          "dealAmount": 253000
+        }
+      ],
+      "trend": {
+        "rate": 57.7,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 4988,
+      "row_id": 56
+    },
+    {
+      "assetId": 50234612.0,
+      "addressId": 53755795,
+      "polygonId": "52997695",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 1",
+      "dealDate": "2014-03-04",
+      "dealAmount": 549000,
+      "parcelNum": "39581-50-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 80.2,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6845,
+      "row_id": 57
+    },
+    {
+      "assetId": 4519832.0,
+      "addressId": 53831662,
+      "polygonId": "53429205",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 16",
+      "dealDate": "2013-12-25",
+      "dealAmount": 1000000,
+      "parcelNum": "39581-9-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 177.0,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5650,
+      "row_id": 58
+    },
+    {
+      "assetId": 50234674.0,
+      "addressId": 53754742,
+      "polygonId": "52997288",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "הרב ניסים 5",
+      "dealDate": "2013-06-13",
+      "dealAmount": 427000,
+      "parcelNum": "39581-52-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 91.33,
+      "yearBuilt": 1980,
+      "streetCode": 2460250,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-08",
+          "dealAmount": 256000
+        }
+      ],
+      "trend": {
+        "rate": 66.8,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 4692,
+      "row_id": 59
+    },
+    {
+      "assetId": 4478279.0,
+      "addressId": 53914021,
+      "polygonId": "52814300",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "הרב ניסים 56",
+      "dealDate": "2012-06-12",
+      "dealAmount": 550000,
+      "parcelNum": "39581-60-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 9.0,
+      "floor": null,
+      "assetArea": 250.0,
+      "yearBuilt": 1981,
+      "streetCode": 2460250,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2200,
+      "row_id": 60
+    },
+    {
+      "assetId": 50234552.0,
+      "addressId": 53755400,
+      "polygonId": "53000091",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 14",
+      "dealDate": "2012-06-06",
+      "dealAmount": 488000,
+      "parcelNum": "39581-46-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 94.44,
+      "yearBuilt": 1970,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-06-16",
+          "dealAmount": 220000
+        }
+      ],
+      "trend": {
+        "rate": 121.8,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 5191,
+      "row_id": 61
+    },
+    {
+      "assetId": 50234643.0,
+      "addressId": 53754742,
+      "polygonId": "52997288",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "הרב ניסים 5",
+      "dealDate": "2012-02-09",
+      "dealAmount": 500000,
+      "parcelNum": "39581-52-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 94.44,
+      "yearBuilt": 1980,
+      "streetCode": 2460250,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5294,
+      "row_id": 62
+    },
+    {
+      "assetId": 4517686.0,
+      "addressId": 53823224,
+      "polygonId": "53384861",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 48",
+      "dealDate": "2011-12-12",
+      "dealAmount": 1325000,
+      "parcelNum": "39581-36-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 182.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7280,
+      "row_id": 63
+    },
+    {
+      "assetId": 4488566.0,
+      "addressId": 53753005,
+      "polygonId": "53039787",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 26",
+      "dealDate": "2011-10-30",
+      "dealAmount": 1300000,
+      "parcelNum": "39581-21-1",
+      "dealNature": "בית בודד",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 282.0,
+      "yearBuilt": 1998,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4610,
+      "row_id": 64
+    },
+    {
+      "assetId": 50234615.0,
+      "addressId": 53755795,
+      "polygonId": "52997695",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 1",
+      "dealDate": "2011-02-20",
+      "dealAmount": 355000,
+      "parcelNum": "39581-50-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 80.2,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4426,
+      "row_id": 65
+    },
+    {
+      "assetId": 50234640.0,
+      "addressId": 53755643,
+      "polygonId": "53451525",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "ירושלים 143",
+      "dealDate": "2008-05-21",
+      "dealAmount": 270000,
+      "parcelNum": "39581-51-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 65.58,
+      "yearBuilt": 1970,
+      "streetCode": 2460112,
+      "settlmentID": 246,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4117,
+      "row_id": 67
+    },
+    {
+      "assetId": 4517685.0,
+      "addressId": 53823224,
+      "polygonId": "53384861",
+      "neighborhoodName": "לוי אשכול",
+      "neighborhoodId": 65211060,
+      "address": "יצחק ורדימון 48",
+      "dealDate": "2005-08-21",
+      "dealAmount": 520000,
+      "parcelNum": "39581-36-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 150.0,
+      "yearBuilt": 1980,
+      "streetCode": 2460249,
+      "settlmentID": 246,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3467,
+      "row_id": 68
+    }
+  ]
+}

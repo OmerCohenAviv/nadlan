@@ -1,0 +1,6385 @@
+{
+  "neighborhood_name": "קרית פרוסטיג",
+  "city_name": "קריית אתא",
+  "transaction_count": 205,
+  "transactions": [
+    {
+      "assetId": 70226069.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2025-05-25",
+      "dealAmount": 1000000,
+      "parcelNum": "11006-136-131",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-10-19",
+          "dealAmount": 765000
+        },
+        {
+          "dealDate": "2011-05-19",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 30.7,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 13333,
+      "row_id": 1
+    },
+    {
+      "assetId": 70225941.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2025-05-21",
+      "dealAmount": 970000,
+      "parcelNum": "11006-136-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-01-13",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 212.9,
+        "years": 15.4
+      },
+      "ownership": [],
+      "priceSM": 15645,
+      "row_id": 2
+    },
+    {
+      "assetId": 70225931.0,
+      "addressId": 53839612,
+      "polygonId": "53229979",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 86",
+      "dealDate": "2025-04-24",
+      "dealAmount": 950000,
+      "parcelNum": "11006-134-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1950,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27081,
+      "row_id": 3
+    },
+    {
+      "assetId": 70225927.0,
+      "addressId": 53863015,
+      "polygonId": "53226668",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 3",
+      "dealDate": "2025-04-03",
+      "dealAmount": 1130000,
+      "parcelNum": "11006-133-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32212,
+      "row_id": 4
+    },
+    {
+      "assetId": 70226092.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2025-03-26",
+      "dealAmount": 1020000,
+      "parcelNum": "11006-136-154",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-10",
+          "dealAmount": 460000
+        },
+        {
+          "dealDate": "2010-12-26",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 121.7,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 16721,
+      "row_id": 5
+    },
+    {
+      "assetId": 70226091.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2025-03-13",
+      "dealAmount": 990000,
+      "parcelNum": "11006-136-153",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-04-12",
+          "dealAmount": 715000
+        },
+        {
+          "dealDate": "2018-06-18",
+          "dealAmount": 675000
+        },
+        {
+          "dealDate": "2016-02-01",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 38.5,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 16230,
+      "row_id": 6
+    },
+    {
+      "assetId": 70226093.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2025-03-05",
+      "dealAmount": 1050500,
+      "parcelNum": "11006-136-155",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13841,
+      "row_id": 7
+    },
+    {
+      "assetId": 70226071.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2025-01-29",
+      "dealAmount": 1030000,
+      "parcelNum": "11006-136-133",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-07-30",
+          "dealAmount": 870000
+        },
+        {
+          "dealDate": "2003-01-12",
+          "dealAmount": 336000
+        }
+      ],
+      "trend": {
+        "rate": 18.4,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 16885,
+      "row_id": 8
+    },
+    {
+      "assetId": 70225945.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2025-01-19",
+      "dealAmount": 990000,
+      "parcelNum": "11006-136-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-01",
+          "dealAmount": 305000
+        }
+      ],
+      "trend": {
+        "rate": 224.6,
+        "years": 15.4
+      },
+      "ownership": [],
+      "priceSM": 15968,
+      "row_id": 9
+    },
+    {
+      "assetId": 70225778.0,
+      "addressId": 53864205,
+      "polygonId": "65738994",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 22",
+      "dealDate": "2025-01-08",
+      "dealAmount": 333000,
+      "parcelNum": "11006-88-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 32.0,
+      "yearBuilt": 1950,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-01-28",
+          "dealAmount": 125000
+        }
+      ],
+      "trend": {
+        "rate": 166.4,
+        "years": 10.0
+      },
+      "ownership": [
+        {
+          "proportion": "16",
+          "price": 53280
+        },
+        {
+          "proportion": "16",
+          "price": 53280
+        },
+        {
+          "proportion": "33",
+          "price": 109890
+        },
+        {
+          "proportion": "33",
+          "price": 109890
+        }
+      ],
+      "priceSM": 10406,
+      "row_id": 10
+    },
+    {
+      "assetId": 4218377.0,
+      "addressId": 0,
+      "polygonId": "11052-4",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "0",
+      "dealDate": "2024-12-24",
+      "dealAmount": 1250000,
+      "parcelNum": "11052-4-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 775.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1613,
+      "row_id": 11
+    },
+    {
+      "assetId": 70226062.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2024-12-15",
+      "dealAmount": 915000,
+      "parcelNum": "11006-136-124",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-04-26",
+          "dealAmount": 180000
+        }
+      ],
+      "trend": {
+        "rate": 408.3,
+        "years": 18.7
+      },
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 12
+    },
+    {
+      "assetId": 4215166.0,
+      "addressId": 0,
+      "polygonId": "11050-32",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "0",
+      "dealDate": "2024-08-30",
+      "dealAmount": 1352000,
+      "parcelNum": "11050-32-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 995.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1359,
+      "row_id": 13
+    },
+    {
+      "assetId": 70225829.0,
+      "addressId": 53863082,
+      "polygonId": "51903511",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הרב קוק 8",
+      "dealDate": "2024-07-18",
+      "dealAmount": 1570000,
+      "parcelNum": "11006-97-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה + שלישית",
+      "assetArea": 146.13,
+      "yearBuilt": 1960,
+      "streetCode": 68000653,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-05-10",
+          "dealAmount": 1015000
+        }
+      ],
+      "trend": {
+        "rate": 54.7,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 10753,
+      "row_id": 14
+    },
+    {
+      "assetId": 70226023.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2024-07-04",
+      "dealAmount": 1070000,
+      "parcelNum": "11006-136-85",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-06-23",
+          "dealAmount": 225000
+        },
+        {
+          "dealDate": "2019-06-21",
+          "dealAmount": 75000
+        }
+      ],
+      "trend": {
+        "rate": 375.6,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 17541,
+      "row_id": 15
+    },
+    {
+      "assetId": 70225702.0,
+      "addressId": 53545224,
+      "polygonId": "51903342",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 35",
+      "dealDate": "2024-06-21",
+      "dealAmount": 615000,
+      "parcelNum": "11006-65-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 35.08,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17531,
+      "row_id": 16
+    },
+    {
+      "assetId": 70225846.0,
+      "addressId": 53864522,
+      "polygonId": "65741615",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 82",
+      "dealDate": "2024-05-06",
+      "dealAmount": 950000,
+      "parcelNum": "11006-105-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 35.08,
+      "yearBuilt": 1960,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-12",
+          "dealAmount": 245000
+        }
+      ],
+      "trend": {
+        "rate": 287.8,
+        "years": 13.6
+      },
+      "ownership": [],
+      "priceSM": 27143,
+      "row_id": 17
+    },
+    {
+      "assetId": 70225959.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2024-04-11",
+      "dealAmount": 802000,
+      "parcelNum": "11006-136-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-12-14",
+          "dealAmount": 352000
+        }
+      ],
+      "trend": {
+        "rate": 127.8,
+        "years": 23.3
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 200500
+        },
+        {
+          "proportion": "75",
+          "price": 601500
+        }
+      ],
+      "priceSM": 13148,
+      "row_id": 18
+    },
+    {
+      "assetId": 70225625.0,
+      "addressId": 53560542,
+      "polygonId": "51830327",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 10",
+      "dealDate": "2024-04-11",
+      "dealAmount": 1630000,
+      "parcelNum": "11006-32-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 107.39,
+      "yearBuilt": 1990,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-11-24",
+          "dealAmount": 1050000
+        }
+      ],
+      "trend": {
+        "rate": 55.2,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 15234,
+      "row_id": 19
+    },
+    {
+      "assetId": 70225940.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2024-02-26",
+      "dealAmount": 1030000,
+      "parcelNum": "11006-136-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-23",
+          "dealAmount": 725000
+        },
+        {
+          "dealDate": "2005-02-21",
+          "dealAmount": 224000
+        }
+      ],
+      "trend": {
+        "rate": 42.1,
+        "years": 1.9
+      },
+      "ownership": [],
+      "priceSM": 16885,
+      "row_id": 20
+    },
+    {
+      "assetId": 4503018.0,
+      "addressId": 53560687,
+      "polygonId": "53229050",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הרב קוק 4",
+      "dealDate": "2023-12-18",
+      "dealAmount": 1000000,
+      "parcelNum": "11006-107-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 52.0,
+      "yearBuilt": 1980,
+      "streetCode": 68000653,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19231,
+      "row_id": 21
+    },
+    {
+      "assetId": 4220001.0,
+      "addressId": 0,
+      "polygonId": "11541-9",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "0",
+      "dealDate": "2023-12-18",
+      "dealAmount": 382000,
+      "parcelNum": "11541-9-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 348.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1098,
+      "row_id": 22
+    },
+    {
+      "assetId": 4220006.0,
+      "addressId": 0,
+      "polygonId": "11541-8",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "0",
+      "dealDate": "2023-12-18",
+      "dealAmount": 378000,
+      "parcelNum": "11541-8-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 344.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1099,
+      "row_id": 23
+    },
+    {
+      "assetId": 70225916.0,
+      "addressId": 53545536,
+      "polygonId": "51899121",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 5",
+      "dealDate": "2023-12-16",
+      "dealAmount": 650000,
+      "parcelNum": "11006-132-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 35.08,
+      "yearBuilt": 1950,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-25",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2014-04-10",
+          "dealAmount": 275000
+        }
+      ],
+      "trend": {
+        "rate": 225.0,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 18571,
+      "row_id": 24
+    },
+    {
+      "assetId": 70225651.0,
+      "addressId": 53558511,
+      "polygonId": "53211490",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 26",
+      "dealDate": "2023-12-10",
+      "dealAmount": 1300000,
+      "parcelNum": "11006-45-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 77.57,
+      "yearBuilt": 1970,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-07-30",
+          "dealAmount": 740000
+        },
+        {
+          "dealDate": "2013-09-17",
+          "dealAmount": 426000
+        }
+      ],
+      "trend": {
+        "rate": 75.7,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 16883,
+      "row_id": 25
+    },
+    {
+      "assetId": 4220000.0,
+      "addressId": 0,
+      "polygonId": "11541-9",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "0",
+      "dealDate": "2023-08-28",
+      "dealAmount": 77000,
+      "parcelNum": "11541-9-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 348.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 221,
+      "row_id": 26
+    },
+    {
+      "assetId": 70225737.0,
+      "addressId": 53867860,
+      "polygonId": "53216103",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 13",
+      "dealDate": "2023-07-13",
+      "dealAmount": 810000,
+      "parcelNum": "11006-76-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "קרקע",
+      "assetArea": 32.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25312,
+      "row_id": 27
+    },
+    {
+      "assetId": 70225986.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2023-07-10",
+      "dealAmount": 850000,
+      "parcelNum": "11006-136-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-08-03",
+          "dealAmount": 680000
+        },
+        {
+          "dealDate": "2007-07-05",
+          "dealAmount": 206000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 13710,
+      "row_id": 28
+    },
+    {
+      "assetId": 70225952.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2023-06-04",
+      "dealAmount": 747400,
+      "parcelNum": "11006-136-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12212,
+      "row_id": 29
+    },
+    {
+      "assetId": 70225803.0,
+      "addressId": 53560343,
+      "polygonId": "51900960",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 14",
+      "dealDate": "2023-03-20",
+      "dealAmount": 1100000,
+      "parcelNum": "11006-92-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 100.13,
+      "yearBuilt": 1996,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-12-04",
+          "dealAmount": 725000
+        }
+      ],
+      "trend": {
+        "rate": 51.7,
+        "years": 3.3
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 275000
+        },
+        {
+          "proportion": "75",
+          "price": 825000
+        }
+      ],
+      "priceSM": 11000,
+      "row_id": 30
+    },
+    {
+      "assetId": 4212930.0,
+      "addressId": 0,
+      "polygonId": "11006-19",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "0",
+      "dealDate": "2023-02-26",
+      "dealAmount": 425000,
+      "parcelNum": "11006-19-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 757.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 561,
+      "row_id": 31
+    },
+    {
+      "assetId": 70225683.0,
+      "addressId": 53559907,
+      "polygonId": "51899056",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 42",
+      "dealDate": "2022-12-05",
+      "dealAmount": 700000,
+      "parcelNum": "11006-58-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 35.08,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-06-01",
+          "dealAmount": 690000
+        },
+        {
+          "dealDate": "2018-04-26",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "1998-02-05",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 1.4,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 20000,
+      "row_id": 32
+    },
+    {
+      "assetId": 4379523.0,
+      "addressId": 53553347,
+      "polygonId": "51820394",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 13",
+      "dealDate": "2022-11-28",
+      "dealAmount": 1623000,
+      "parcelNum": "11006-33-2",
+      "dealNature": "בית בודד",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 1950,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21640,
+      "row_id": 33
+    },
+    {
+      "assetId": 70225769.0,
+      "addressId": 53545716,
+      "polygonId": "51923720",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 26",
+      "dealDate": "2022-11-13",
+      "dealAmount": 800000,
+      "parcelNum": "11006-86-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "קרקע",
+      "assetArea": 32.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25000,
+      "row_id": 34
+    },
+    {
+      "assetId": 70225771.0,
+      "addressId": 53545716,
+      "polygonId": "51923720",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 26",
+      "dealDate": "2022-11-13",
+      "dealAmount": 600000,
+      "parcelNum": "11006-86-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 32.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18750,
+      "row_id": 35
+    },
+    {
+      "assetId": 70225599.0,
+      "addressId": 53867721,
+      "polygonId": "51839567",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 51",
+      "dealDate": "2022-11-10",
+      "dealAmount": 950000,
+      "parcelNum": "11006-15-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 77.58,
+      "yearBuilt": 1998,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-06-06",
+          "dealAmount": 680000
+        }
+      ],
+      "trend": {
+        "rate": 39.7,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 12338,
+      "row_id": 36
+    },
+    {
+      "assetId": 70225969.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2022-11-09",
+      "dealAmount": 930000,
+      "parcelNum": "11006-136-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-12-10",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2018-08-02",
+          "dealAmount": 508000
+        },
+        {
+          "dealDate": "2001-10-14",
+          "dealAmount": 263000
+        }
+      ],
+      "trend": {
+        "rate": 43.1,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 37
+    },
+    {
+      "assetId": 70225966.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2022-11-09",
+      "dealAmount": 1074000,
+      "parcelNum": "11006-136-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-12-22",
+          "dealAmount": 518000
+        },
+        {
+          "dealDate": "1998-09-15",
+          "dealAmount": 403000
+        }
+      ],
+      "trend": {
+        "rate": 107.3,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 14320,
+      "row_id": 38
+    },
+    {
+      "assetId": 70225676.0,
+      "addressId": 53560112,
+      "polygonId": "65739010",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 46",
+      "dealDate": "2022-10-07",
+      "dealAmount": 1650000,
+      "parcelNum": "11006-56-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 130.96,
+      "yearBuilt": 1998,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-06-11",
+          "dealAmount": 683000
+        }
+      ],
+      "trend": {
+        "rate": 141.6,
+        "years": 22.3
+      },
+      "ownership": [],
+      "priceSM": 12692,
+      "row_id": 39
+    },
+    {
+      "assetId": 70226049.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2022-10-06",
+      "dealAmount": 865000,
+      "parcelNum": "11006-136-111",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-10-27",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 188.3,
+        "years": 13.0
+      },
+      "ownership": [],
+      "priceSM": 14180,
+      "row_id": 40
+    },
+    {
+      "assetId": 70225883.0,
+      "addressId": 53867478,
+      "polygonId": "53228475",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 7",
+      "dealDate": "2022-09-05",
+      "dealAmount": 1230000,
+      "parcelNum": "11006-123-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 35.08,
+      "yearBuilt": 1970,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 35063,
+      "row_id": 41
+    },
+    {
+      "assetId": 4218376.0,
+      "addressId": 0,
+      "polygonId": "11052-4",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "0",
+      "dealDate": "2022-08-15",
+      "dealAmount": 185000,
+      "parcelNum": "11052-4-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 1020.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 181,
+      "row_id": 42
+    },
+    {
+      "assetId": 70225900.0,
+      "addressId": 53557898,
+      "polygonId": "51839557",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 50",
+      "dealDate": "2022-07-28",
+      "dealAmount": 1130000,
+      "parcelNum": "11006-128-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 89.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-11-22",
+          "dealAmount": 960000
+        },
+        {
+          "dealDate": "2014-05-21",
+          "dealAmount": 700000
+        },
+        {
+          "dealDate": "2004-05-13",
+          "dealAmount": 434000
+        }
+      ],
+      "trend": {
+        "rate": 17.7,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 12697,
+      "row_id": 43
+    },
+    {
+      "assetId": 70225678.0,
+      "addressId": 53560112,
+      "polygonId": "65739010",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 46",
+      "dealDate": "2022-07-23",
+      "dealAmount": 700000,
+      "parcelNum": "11006-56-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 128.08,
+      "yearBuilt": 1998,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-01",
+          "dealAmount": 700000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 12.7
+      },
+      "ownership": [],
+      "priceSM": 5469,
+      "row_id": 44
+    },
+    {
+      "assetId": 70226012.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2022-06-27",
+      "dealAmount": 795000,
+      "parcelNum": "11006-136-74",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-12-19",
+          "dealAmount": 247000
+        },
+        {
+          "dealDate": "2002-06-30",
+          "dealAmount": 309000
+        }
+      ],
+      "trend": {
+        "rate": 221.9,
+        "years": 17.5
+      },
+      "ownership": [],
+      "priceSM": 13033,
+      "row_id": 45
+    },
+    {
+      "assetId": 70225700.0,
+      "addressId": 53545224,
+      "polygonId": "51903342",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 35",
+      "dealDate": "2022-06-20",
+      "dealAmount": 411000,
+      "parcelNum": "11006-65-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11716,
+      "row_id": 46
+    },
+    {
+      "assetId": 70225672.0,
+      "addressId": 53561016,
+      "polygonId": "51834855",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 4",
+      "dealDate": "2022-05-31",
+      "dealAmount": 1485000,
+      "parcelNum": "11006-54-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע ראשונה",
+      "assetArea": 114.65,
+      "yearBuilt": 1996,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12952,
+      "row_id": 47
+    },
+    {
+      "assetId": 70238675.0,
+      "addressId": 53545342,
+      "polygonId": "51899181",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "בר אילן 9",
+      "dealDate": "2022-05-31",
+      "dealAmount": 2000000,
+      "parcelNum": "11052-5-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 102.37,
+      "yearBuilt": 1970,
+      "streetCode": 68000672,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19537,
+      "row_id": 48
+    },
+    {
+      "assetId": 70226039.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2022-03-10",
+      "dealAmount": 650000,
+      "parcelNum": "11006-136-101",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-08-07",
+          "dealAmount": 302000
+        }
+      ],
+      "trend": {
+        "rate": 115.2,
+        "years": 18.6
+      },
+      "ownership": [],
+      "priceSM": 10484,
+      "row_id": 49
+    },
+    {
+      "assetId": 70225833.0,
+      "addressId": 53559526,
+      "polygonId": "51908602",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 10",
+      "dealDate": "2022-02-17",
+      "dealAmount": 620000,
+      "parcelNum": "11006-98-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 32.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-11-16",
+          "dealAmount": 133000
+        },
+        {
+          "dealDate": "2007-08-01",
+          "dealAmount": 84000
+        }
+      ],
+      "trend": {
+        "rate": 366.2,
+        "years": 14.3
+      },
+      "ownership": [],
+      "priceSM": 19375,
+      "row_id": 50
+    },
+    {
+      "assetId": 70226031.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2022-01-14",
+      "dealAmount": 650000,
+      "parcelNum": "11006-136-93",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10621,
+      "row_id": 51
+    },
+    {
+      "assetId": 70226073.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2021-12-23",
+      "dealAmount": 730000,
+      "parcelNum": "11006-136-135",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9618,
+      "row_id": 52
+    },
+    {
+      "assetId": 70225898.0,
+      "addressId": 53554074,
+      "polygonId": "51912437",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 2",
+      "dealDate": "2021-12-01",
+      "dealAmount": 907000,
+      "parcelNum": "11006-127-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קומה ‎2‏, קומה ‎3‏",
+      "assetArea": 124.18,
+      "yearBuilt": 1956,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-09-11",
+          "dealAmount": 302000
+        }
+      ],
+      "trend": {
+        "rate": 200.3,
+        "years": 21.2
+      },
+      "ownership": [],
+      "priceSM": 7315,
+      "row_id": 53
+    },
+    {
+      "assetId": 70226096.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2021-11-07",
+      "dealAmount": 620000,
+      "parcelNum": "11006-136-158",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-23",
+          "dealAmount": 320000
+        },
+        {
+          "dealDate": "1999-07-01",
+          "dealAmount": 394000
+        }
+      ],
+      "trend": {
+        "rate": 93.8,
+        "years": 11.5
+      },
+      "ownership": [],
+      "priceSM": 10164,
+      "row_id": 54
+    },
+    {
+      "assetId": 70225734.0,
+      "addressId": 53560857,
+      "polygonId": "65741828",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 15",
+      "dealDate": "2021-11-01",
+      "dealAmount": 750000,
+      "parcelNum": "11006-75-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 124.0,
+      "yearBuilt": 1950,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-24",
+          "dealAmount": 464000
+        }
+      ],
+      "trend": {
+        "rate": 61.6,
+        "years": 10.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 375000
+        },
+        {
+          "proportion": "50",
+          "price": 375000
+        }
+      ],
+      "priceSM": 6048,
+      "row_id": 55
+    },
+    {
+      "assetId": 70225950.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2021-10-20",
+      "dealAmount": 700000,
+      "parcelNum": "11006-136-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-07-25",
+          "dealAmount": 405000
+        }
+      ],
+      "trend": {
+        "rate": 72.8,
+        "years": 10.2
+      },
+      "ownership": [],
+      "priceSM": 9333,
+      "row_id": 56
+    },
+    {
+      "assetId": 70225569.0,
+      "addressId": 53560110,
+      "polygonId": "65741842",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 3",
+      "dealDate": "2021-10-18",
+      "dealAmount": 1465000,
+      "parcelNum": "11006-9-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 116.25,
+      "yearBuilt": 1980,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-05-21",
+          "dealAmount": 585000
+        }
+      ],
+      "trend": {
+        "rate": 150.4,
+        "years": 12.4
+      },
+      "ownership": [],
+      "priceSM": 12629,
+      "row_id": 57
+    },
+    {
+      "assetId": 70225984.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2021-08-31",
+      "dealAmount": 630000,
+      "parcelNum": "11006-136-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-09-12",
+          "dealAmount": 452000
+        }
+      ],
+      "trend": {
+        "rate": 39.4,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 10328,
+      "row_id": 58
+    },
+    {
+      "assetId": 70225951.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2021-08-30",
+      "dealAmount": 550000,
+      "parcelNum": "11006-136-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-01-26",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2010-11-29",
+          "dealAmount": 340000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 9016,
+      "row_id": 59
+    },
+    {
+      "assetId": 70226095.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2021-07-01",
+      "dealAmount": 580000,
+      "parcelNum": "11006-136-157",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-03-05",
+          "dealAmount": 153000
+        }
+      ],
+      "trend": {
+        "rate": 279.1,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 9508,
+      "row_id": 60
+    },
+    {
+      "assetId": 70226088.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2021-06-28",
+      "dealAmount": 650000,
+      "parcelNum": "11006-136-150",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-03-23",
+          "dealAmount": 170000
+        }
+      ],
+      "trend": {
+        "rate": 282.4,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 10656,
+      "row_id": 61
+    },
+    {
+      "assetId": 70226009.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2021-05-24",
+      "dealAmount": 710000,
+      "parcelNum": "11006-136-71",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-12-29",
+          "dealAmount": 340000
+        }
+      ],
+      "trend": {
+        "rate": 108.8,
+        "years": 18.4
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 177500
+        },
+        {
+          "proportion": "25",
+          "price": 177500
+        },
+        {
+          "proportion": "50",
+          "price": 355000
+        }
+      ],
+      "priceSM": 11452,
+      "row_id": 62
+    },
+    {
+      "assetId": 70226094.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2021-04-25",
+      "dealAmount": 620000,
+      "parcelNum": "11006-136-156",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 63
+    },
+    {
+      "assetId": 4220002.0,
+      "addressId": 0,
+      "polygonId": "11541-2",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "0",
+      "dealDate": "2021-03-04",
+      "dealAmount": 400000,
+      "parcelNum": "11541-2-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 682.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 587,
+      "row_id": 64
+    },
+    {
+      "assetId": 4219938.0,
+      "addressId": 0,
+      "polygonId": "11541-3",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "0",
+      "dealDate": "2021-03-04",
+      "dealAmount": 400000,
+      "parcelNum": "11541-3-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 662.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 604,
+      "row_id": 65
+    },
+    {
+      "assetId": 70225976.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2021-02-17",
+      "dealAmount": 555500,
+      "parcelNum": "11006-136-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-08-24",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2013-05-05",
+          "dealAmount": 460000
+        },
+        {
+          "dealDate": "2010-12-05",
+          "dealAmount": 290000
+        }
+      ],
+      "trend": {
+        "rate": 11.1,
+        "years": 6.5
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 183315
+        },
+        {
+          "proportion": "33",
+          "price": 183315
+        },
+        {
+          "proportion": "33",
+          "price": 183315
+        }
+      ],
+      "priceSM": 9107,
+      "row_id": 66
+    },
+    {
+      "assetId": 70225788.0,
+      "addressId": 53560691,
+      "polygonId": "51848823",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 18",
+      "dealDate": "2021-01-03",
+      "dealAmount": 717000,
+      "parcelNum": "11006-90-1",
+      "dealNature": "דירת גן",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 32.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-07-21",
+          "dealAmount": 220000
+        },
+        {
+          "dealDate": "2002-11-25",
+          "dealAmount": 209000
+        }
+      ],
+      "trend": {
+        "rate": 225.9,
+        "years": 17.5
+      },
+      "ownership": [],
+      "priceSM": 22406,
+      "row_id": 67
+    },
+    {
+      "assetId": 70225754.0,
+      "addressId": 65636937,
+      "polygonId": "51910914",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 7",
+      "dealDate": "2020-12-24",
+      "dealAmount": 808000,
+      "parcelNum": "11006-79-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 100.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8080,
+      "row_id": 68
+    },
+    {
+      "assetId": 70225697.0,
+      "addressId": 53545224,
+      "polygonId": "51903342",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 35",
+      "dealDate": "2020-12-08",
+      "dealAmount": 450000,
+      "parcelNum": "11006-65-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 35.08,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12828,
+      "row_id": 69
+    },
+    {
+      "assetId": 70225801.0,
+      "addressId": 53560343,
+      "polygonId": "51900960",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 14",
+      "dealDate": "2020-08-03",
+      "dealAmount": 1000000,
+      "parcelNum": "11006-92-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 111.69,
+      "yearBuilt": 1996,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-19",
+          "dealAmount": 765000
+        },
+        {
+          "dealDate": "2006-01-03",
+          "dealAmount": 529000
+        }
+      ],
+      "trend": {
+        "rate": 30.7,
+        "years": 7.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 500000
+        },
+        {
+          "proportion": "50",
+          "price": 500000
+        }
+      ],
+      "priceSM": 9009,
+      "row_id": 70
+    },
+    {
+      "assetId": 70225728.0,
+      "addressId": 53545167,
+      "polygonId": "53214744",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 17",
+      "dealDate": "2020-06-25",
+      "dealAmount": 650000,
+      "parcelNum": "11006-74-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 41.48,
+      "yearBuilt": 1980,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-23",
+          "dealAmount": 1800000
+        }
+      ],
+      "trend": {
+        "rate": -63.9,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 15854,
+      "row_id": 71
+    },
+    {
+      "assetId": 70226014.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2020-06-02",
+      "dealAmount": 765000,
+      "parcelNum": "11006-136-76",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-11-09",
+          "dealAmount": 675000
+        },
+        {
+          "dealDate": "1999-12-29",
+          "dealAmount": 477000
+        }
+      ],
+      "trend": {
+        "rate": 13.3,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 10200,
+      "row_id": 72
+    },
+    {
+      "assetId": 70225901.0,
+      "addressId": 53557898,
+      "polygonId": "51839557",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 50",
+      "dealDate": "2019-11-12",
+      "dealAmount": 820000,
+      "parcelNum": "11006-128-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 76.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10789,
+      "row_id": 73
+    },
+    {
+      "assetId": 4382766.0,
+      "addressId": 53559817,
+      "polygonId": "51845225",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הרב קוק 2",
+      "dealDate": "2019-07-15",
+      "dealAmount": 1020000,
+      "parcelNum": "11006-108-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 100.0,
+      "yearBuilt": 1930,
+      "streetCode": 68000653,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10200,
+      "row_id": 76
+    },
+    {
+      "assetId": 70225632.0,
+      "addressId": 53554597,
+      "polygonId": "51901791",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 11",
+      "dealDate": "2019-07-01",
+      "dealAmount": 980000,
+      "parcelNum": "11006-35-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-07-12",
+          "dealAmount": 415000
+        }
+      ],
+      "trend": {
+        "rate": 136.1,
+        "years": 10.0
+      },
+      "ownership": [],
+      "priceSM": 10889,
+      "row_id": 77
+    },
+    {
+      "assetId": 70225874.0,
+      "addressId": 53867771,
+      "polygonId": "65739022",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 4",
+      "dealDate": "2019-06-17",
+      "dealAmount": 855000,
+      "parcelNum": "11006-123-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 97.72,
+      "yearBuilt": 1950,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8749,
+      "row_id": 78
+    },
+    {
+      "assetId": 70225718.0,
+      "addressId": 53811013,
+      "polygonId": "51834644",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 31",
+      "dealDate": "2019-04-08",
+      "dealAmount": 1130000,
+      "parcelNum": "11006-67-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע ראשונה",
+      "assetArea": 115.0,
+      "yearBuilt": 1999,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-04-06",
+          "dealAmount": 900000
+        }
+      ],
+      "trend": {
+        "rate": 25.6,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 9826,
+      "row_id": 79
+    },
+    {
+      "assetId": 70226044.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2019-01-14",
+      "dealAmount": 730000,
+      "parcelNum": "11006-136-106",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9618,
+      "row_id": 81
+    },
+    {
+      "assetId": 70225703.0,
+      "addressId": 53545224,
+      "polygonId": "51903342",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 35",
+      "dealDate": "2018-10-24",
+      "dealAmount": 500000,
+      "parcelNum": "11006-65-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-10",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 61.3,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 14286,
+      "row_id": 82
+    },
+    {
+      "assetId": 70225759.0,
+      "addressId": 53560305,
+      "polygonId": "51838493",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 30",
+      "dealDate": "2018-09-12",
+      "dealAmount": 1050000,
+      "parcelNum": "11006-84-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 113.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-01-24",
+          "dealAmount": 949000
+        }
+      ],
+      "trend": {
+        "rate": 10.6,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 9292,
+      "row_id": 83
+    },
+    {
+      "assetId": 70225958.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2018-09-02",
+      "dealAmount": 765000,
+      "parcelNum": "11006-136-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-03-30",
+          "dealAmount": 675000
+        }
+      ],
+      "trend": {
+        "rate": 13.3,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 10200,
+      "row_id": 84
+    },
+    {
+      "assetId": 70226037.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2018-02-13",
+      "dealAmount": 660000,
+      "parcelNum": "11006-136-99",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-01-01",
+          "dealAmount": 525000
+        }
+      ],
+      "trend": {
+        "rate": 25.7,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 10820,
+      "row_id": 85
+    },
+    {
+      "assetId": 70225623.0,
+      "addressId": 53560542,
+      "polygonId": "51830327",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 10",
+      "dealDate": "2018-01-23",
+      "dealAmount": 1350000,
+      "parcelNum": "11006-32-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע +ראשונה",
+      "assetArea": 107.6,
+      "yearBuilt": 1990,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-12",
+          "dealAmount": 700000
+        }
+      ],
+      "trend": {
+        "rate": 92.9,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 12617,
+      "row_id": 86
+    },
+    {
+      "assetId": 70225825.0,
+      "addressId": 53863082,
+      "polygonId": "51903511",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הרב קוק 8",
+      "dealDate": "2018-01-07",
+      "dealAmount": 805000,
+      "parcelNum": "11006-97-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 50.45,
+      "yearBuilt": 1960,
+      "streetCode": 68000653,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-07-05",
+          "dealAmount": 555000
+        },
+        {
+          "dealDate": "2010-01-06",
+          "dealAmount": 342000
+        },
+        {
+          "dealDate": "2001-07-21",
+          "dealAmount": 59000
+        },
+        {
+          "dealDate": "2001-07-21",
+          "dealAmount": 119000
+        }
+      ],
+      "trend": {
+        "rate": 45.0,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 16100,
+      "row_id": 87
+    },
+    {
+      "assetId": 70225849.0,
+      "addressId": 53864522,
+      "polygonId": "65741615",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 82",
+      "dealDate": "2017-11-22",
+      "dealAmount": 555500,
+      "parcelNum": "11006-105-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1960,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-06",
+          "dealAmount": 230000
+        }
+      ],
+      "trend": {
+        "rate": 141.5,
+        "years": 7.0
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 183315
+        },
+        {
+          "proportion": "66",
+          "price": 366630
+        }
+      ],
+      "priceSM": 15871,
+      "row_id": 88
+    },
+    {
+      "assetId": 70226042.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2017-11-21",
+      "dealAmount": 600000,
+      "parcelNum": "11006-136-104",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-08-06",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 150.0,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 9836,
+      "row_id": 89
+    },
+    {
+      "assetId": 70225947.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2017-09-25",
+      "dealAmount": 580000,
+      "parcelNum": "11006-136-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-05-28",
+          "dealAmount": 292000
+        }
+      ],
+      "trend": {
+        "rate": 98.6,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 9508,
+      "row_id": 90
+    },
+    {
+      "assetId": 70225997.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2017-09-17",
+      "dealAmount": 620000,
+      "parcelNum": "11006-136-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8169,
+      "row_id": 91
+    },
+    {
+      "assetId": 70225918.0,
+      "addressId": 53545536,
+      "polygonId": "51899121",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 5",
+      "dealDate": "2017-08-13",
+      "dealAmount": 100000,
+      "parcelNum": "11006-132-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1950,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-26",
+          "dealAmount": 150000
+        }
+      ],
+      "trend": {
+        "rate": -33.3,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 2857,
+      "row_id": 92
+    },
+    {
+      "assetId": 70225877.0,
+      "addressId": 53867771,
+      "polygonId": "65739022",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 4",
+      "dealDate": "2017-07-27",
+      "dealAmount": 313000,
+      "parcelNum": "11006-123-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1950,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8922,
+      "row_id": 93
+    },
+    {
+      "assetId": 70225837.0,
+      "addressId": 53545395,
+      "polygonId": "51902688",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "בר אילן 1",
+      "dealDate": "2017-07-24",
+      "dealAmount": 1310000,
+      "parcelNum": "11006-100-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע",
+      "assetArea": 156.0,
+      "yearBuilt": 1980,
+      "streetCode": 68000672,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8397,
+      "row_id": 94
+    },
+    {
+      "assetId": 70226098.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2017-07-02",
+      "dealAmount": 585800,
+      "parcelNum": "11006-136-160",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-05",
+          "dealAmount": 245000
+        },
+        {
+          "dealDate": "2008-03-13",
+          "dealAmount": 153000
+        }
+      ],
+      "trend": {
+        "rate": 139.1,
+        "years": 7.7
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 193314
+        },
+        {
+          "proportion": "33",
+          "price": 193314
+        },
+        {
+          "proportion": "33",
+          "price": 193314
+        }
+      ],
+      "priceSM": 9448,
+      "row_id": 95
+    },
+    {
+      "assetId": 4501561.0,
+      "addressId": 53558799,
+      "polygonId": "53213489",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 15",
+      "dealDate": "2017-06-20",
+      "dealAmount": 399000,
+      "parcelNum": "11006-31-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 38.0,
+      "yearBuilt": 1944,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10500,
+      "row_id": 96
+    },
+    {
+      "assetId": 70225758.0,
+      "addressId": 53560305,
+      "polygonId": "51838493",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 30",
+      "dealDate": "2017-06-01",
+      "dealAmount": 570000,
+      "parcelNum": "11006-84-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 32.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17812,
+      "row_id": 97
+    },
+    {
+      "assetId": 4502466.0,
+      "addressId": 53544948,
+      "polygonId": "53225393",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "בר אילן 4",
+      "dealDate": "2017-05-04",
+      "dealAmount": 985000,
+      "parcelNum": "11006-103-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 100.0,
+      "yearBuilt": 1940,
+      "streetCode": 68000672,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9850,
+      "row_id": 98
+    },
+    {
+      "assetId": 4387904.0,
+      "addressId": 53545362,
+      "polygonId": "51907313",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "בר אילן 10",
+      "dealDate": "2017-04-12",
+      "dealAmount": 1385000,
+      "parcelNum": "11052-6-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 70.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000672,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19786,
+      "row_id": 99
+    },
+    {
+      "assetId": 4501442.0,
+      "addressId": 53551910,
+      "polygonId": "53212138",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 11",
+      "dealDate": "2017-01-29",
+      "dealAmount": 1440000,
+      "parcelNum": "11006-5-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 190.0,
+      "yearBuilt": 2012,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7579,
+      "row_id": 100
+    },
+    {
+      "assetId": 70225755.0,
+      "addressId": 65636937,
+      "polygonId": "51910914",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 7",
+      "dealDate": "2017-01-26",
+      "dealAmount": 425000,
+      "parcelNum": "11006-79-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 32.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13281,
+      "row_id": 101
+    },
+    {
+      "assetId": 4382768.0,
+      "addressId": 53559974,
+      "polygonId": "51845313",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 14",
+      "dealDate": "2016-12-18",
+      "dealAmount": 1140000,
+      "parcelNum": "11006-49-1",
+      "dealNature": "דירה",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 120.0,
+      "yearBuilt": 0,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9500,
+      "row_id": 102
+    },
+    {
+      "assetId": 70225971.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2016-12-07",
+      "dealAmount": 606000,
+      "parcelNum": "11006-136-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9902,
+      "row_id": 103
+    },
+    {
+      "assetId": 70225579.0,
+      "addressId": 53560111,
+      "polygonId": "51840177",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 59",
+      "dealDate": "2016-11-16",
+      "dealAmount": 587000,
+      "parcelNum": "11006-11-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 69.45,
+      "yearBuilt": 1997,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-10-31",
+          "dealAmount": 324000
+        }
+      ],
+      "trend": {
+        "rate": 81.2,
+        "years": 9.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 293500
+        },
+        {
+          "proportion": "50",
+          "price": 293500
+        }
+      ],
+      "priceSM": 8507,
+      "row_id": 104
+    },
+    {
+      "assetId": 70225886.0,
+      "addressId": 53867771,
+      "polygonId": "65739022",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 4",
+      "dealDate": "2016-11-04",
+      "dealAmount": 770000,
+      "parcelNum": "11006-123-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 78.35,
+      "yearBuilt": 1950,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-05-03",
+          "dealAmount": 370000
+        }
+      ],
+      "trend": {
+        "rate": 108.1,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 9872,
+      "row_id": 105
+    },
+    {
+      "assetId": 70225669.0,
+      "addressId": 53561016,
+      "polygonId": "51834855",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 4",
+      "dealDate": "2016-05-18",
+      "dealAmount": 1140000,
+      "parcelNum": "11006-54-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע ראשונה",
+      "assetArea": 128.2,
+      "yearBuilt": 1996,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8892,
+      "row_id": 106
+    },
+    {
+      "assetId": 70225993.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2016-02-29",
+      "dealAmount": 680000,
+      "parcelNum": "11006-136-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-11-14",
+          "dealAmount": 455000
+        }
+      ],
+      "trend": {
+        "rate": 49.5,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 9067,
+      "row_id": 107
+    },
+    {
+      "assetId": 70225990.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2016-01-28",
+      "dealAmount": 559000,
+      "parcelNum": "11006-136-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-02-05",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2007-07-15",
+          "dealAmount": 196000
+        }
+      ],
+      "trend": {
+        "rate": 11.8,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 9016,
+      "row_id": 108
+    },
+    {
+      "assetId": 70225633.0,
+      "addressId": 53554597,
+      "polygonId": "51901791",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 11",
+      "dealDate": "2015-11-04",
+      "dealAmount": 670000,
+      "parcelNum": "11006-35-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 89.68,
+      "yearBuilt": 1970,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-06-21",
+          "dealAmount": 396000
+        }
+      ],
+      "trend": {
+        "rate": 69.2,
+        "years": 17.4
+      },
+      "ownership": [],
+      "priceSM": 7528,
+      "row_id": 109
+    },
+    {
+      "assetId": 70226068.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2015-11-02",
+      "dealAmount": 520000,
+      "parcelNum": "11006-136-130",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8497,
+      "row_id": 110
+    },
+    {
+      "assetId": 70225790.0,
+      "addressId": 53560691,
+      "polygonId": "51848823",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 18",
+      "dealDate": "2015-09-03",
+      "dealAmount": 580000,
+      "parcelNum": "11006-90-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 32.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18125,
+      "row_id": 111
+    },
+    {
+      "assetId": 70225810.0,
+      "addressId": 53546074,
+      "polygonId": "51913501",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הרב קוק 9",
+      "dealDate": "2015-06-22",
+      "dealAmount": 510000,
+      "parcelNum": "11006-94-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 50.45,
+      "yearBuilt": 1980,
+      "streetCode": 68000653,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-02-09",
+          "dealAmount": 436000
+        }
+      ],
+      "trend": {
+        "rate": 17.0,
+        "years": 16.4
+      },
+      "ownership": [],
+      "priceSM": 10200,
+      "row_id": 112
+    },
+    {
+      "assetId": 70225722.0,
+      "addressId": 53863045,
+      "polygonId": "53419401",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 27",
+      "dealDate": "2015-03-29",
+      "dealAmount": 500000,
+      "parcelNum": "11006-69-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.67,
+      "yearBuilt": 1980,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6608,
+      "row_id": 113
+    },
+    {
+      "assetId": 70225902.0,
+      "addressId": 53557898,
+      "polygonId": "51839557",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 50",
+      "dealDate": "2015-02-10",
+      "dealAmount": 400000,
+      "parcelNum": "11006-128-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1970,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11403,
+      "row_id": 114
+    },
+    {
+      "assetId": 70225631.0,
+      "addressId": 53554597,
+      "polygonId": "51901791",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 11",
+      "dealDate": "2014-12-18",
+      "dealAmount": 520000,
+      "parcelNum": "11006-35-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 35.08,
+      "yearBuilt": 1970,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-10-27",
+          "dealAmount": 178000
+        }
+      ],
+      "trend": {
+        "rate": 192.1,
+        "years": 10.1
+      },
+      "ownership": [],
+      "priceSM": 14857,
+      "row_id": 115
+    },
+    {
+      "assetId": 70225671.0,
+      "addressId": 53561016,
+      "polygonId": "51834855",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 4",
+      "dealDate": "2014-08-25",
+      "dealAmount": 975000,
+      "parcelNum": "11006-54-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע ראשונה",
+      "assetArea": 114.65,
+      "yearBuilt": 1996,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8504,
+      "row_id": 117
+    },
+    {
+      "assetId": 70225891.0,
+      "addressId": 53867458,
+      "polygonId": "51902755",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 5",
+      "dealDate": "2014-07-27",
+      "dealAmount": 300000,
+      "parcelNum": "11006-125-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1970,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8552,
+      "row_id": 118
+    },
+    {
+      "assetId": 70225670.0,
+      "addressId": 53561016,
+      "polygonId": "51834855",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 4",
+      "dealDate": "2014-07-14",
+      "dealAmount": 1100000,
+      "parcelNum": "11006-54-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע ראשונה",
+      "assetArea": 128.2,
+      "yearBuilt": 1996,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8580,
+      "row_id": 119
+    },
+    {
+      "assetId": 70225761.0,
+      "addressId": 53560305,
+      "polygonId": "51838493",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 30",
+      "dealDate": "2014-03-06",
+      "dealAmount": 530000,
+      "parcelNum": "11006-84-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 32.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16562,
+      "row_id": 120
+    },
+    {
+      "assetId": 70225949.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2013-12-10",
+      "dealAmount": 460000,
+      "parcelNum": "11006-136-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7419,
+      "row_id": 121
+    },
+    {
+      "assetId": 70225756.0,
+      "addressId": 65636937,
+      "polygonId": "51910914",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 7",
+      "dealDate": "2013-11-13",
+      "dealAmount": 431000,
+      "parcelNum": "11006-79-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 32.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13469,
+      "row_id": 122
+    },
+    {
+      "assetId": 70226076.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2013-09-01",
+      "dealAmount": 500000,
+      "parcelNum": "11006-136-138",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-06-17",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 316.7,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 8197,
+      "row_id": 124
+    },
+    {
+      "assetId": 70225598.0,
+      "addressId": 53867721,
+      "polygonId": "51839567",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 51",
+      "dealDate": "2013-08-08",
+      "dealAmount": 640000,
+      "parcelNum": "11006-15-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 98.15,
+      "yearBuilt": 1998,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6521,
+      "row_id": 125
+    },
+    {
+      "assetId": 4501561.0,
+      "addressId": 53558799,
+      "polygonId": "53213489",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 15",
+      "dealDate": "2013-08-04",
+      "dealAmount": 220000,
+      "parcelNum": "11006-31-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.0,
+      "yearBuilt": 1944,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4889,
+      "row_id": 126
+    },
+    {
+      "assetId": 70225948.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2013-07-18",
+      "dealAmount": 425000,
+      "parcelNum": "11006-136-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6944,
+      "row_id": 127
+    },
+    {
+      "assetId": 70225965.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2013-06-13",
+      "dealAmount": 460000,
+      "parcelNum": "11006-136-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7419,
+      "row_id": 128
+    },
+    {
+      "assetId": 70226074.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2013-06-02",
+      "dealAmount": 471000,
+      "parcelNum": "11006-136-136",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-04",
+          "dealAmount": 357000
+        },
+        {
+          "dealDate": "2002-01-16",
+          "dealAmount": 371000
+        }
+      ],
+      "trend": {
+        "rate": 31.9,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 7597,
+      "row_id": 129
+    },
+    {
+      "assetId": 4382130.0,
+      "addressId": 53544934,
+      "polygonId": "51840016",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הרב קוק 3",
+      "dealDate": "2013-05-13",
+      "dealAmount": 739000,
+      "parcelNum": "11006-99-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 107.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000653,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6907,
+      "row_id": 130
+    },
+    {
+      "assetId": 4380213.0,
+      "addressId": 53553343,
+      "polygonId": "51823643",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 9",
+      "dealDate": "2013-04-25",
+      "dealAmount": 380000,
+      "parcelNum": "11006-6-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1992,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3800,
+      "row_id": 131
+    },
+    {
+      "assetId": 70225589.0,
+      "addressId": 53558688,
+      "polygonId": "51903284",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 57",
+      "dealDate": "2013-04-22",
+      "dealAmount": 680000,
+      "parcelNum": "11006-12-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 111.5,
+      "yearBuilt": 1970,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6099,
+      "row_id": 132
+    },
+    {
+      "assetId": 70226010.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2013-04-21",
+      "dealAmount": 455000,
+      "parcelNum": "11006-136-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-12",
+          "dealAmount": 451000
+        }
+      ],
+      "trend": {
+        "rate": 0.9,
+        "years": 13.4
+      },
+      "ownership": [],
+      "priceSM": 6067,
+      "row_id": 133
+    },
+    {
+      "assetId": 70225580.0,
+      "addressId": 53560111,
+      "polygonId": "51840177",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 59",
+      "dealDate": "2013-01-07",
+      "dealAmount": 547000,
+      "parcelNum": "11006-11-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 74.04,
+      "yearBuilt": 1997,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-13",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 9.4,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 7392,
+      "row_id": 134
+    },
+    {
+      "assetId": 70225721.0,
+      "addressId": 53863045,
+      "polygonId": "53419401",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 27",
+      "dealDate": "2012-12-12",
+      "dealAmount": 370000,
+      "parcelNum": "11006-69-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 75.67,
+      "yearBuilt": 1980,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4890,
+      "row_id": 135
+    },
+    {
+      "assetId": 70226097.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2012-11-04",
+      "dealAmount": 400000,
+      "parcelNum": "11006-136-159",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-12-25",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 60.0,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 5333,
+      "row_id": 136
+    },
+    {
+      "assetId": 70225851.0,
+      "addressId": 53545467,
+      "polygonId": "65741615",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 80",
+      "dealDate": "2012-10-14",
+      "dealAmount": 460000,
+      "parcelNum": "11006-106-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 85.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5412,
+      "row_id": 137
+    },
+    {
+      "assetId": 70225802.0,
+      "addressId": 53560343,
+      "polygonId": "51900960",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 14",
+      "dealDate": "2012-09-30",
+      "dealAmount": 700000,
+      "parcelNum": "11006-92-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 111.69,
+      "yearBuilt": 1996,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6267,
+      "row_id": 138
+    },
+    {
+      "assetId": 4501442.0,
+      "addressId": 53551910,
+      "polygonId": "53212138",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 11",
+      "dealDate": "2012-08-21",
+      "dealAmount": 1200000,
+      "parcelNum": "11006-5-2",
+      "dealNature": "דירת גן",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 190.0,
+      "yearBuilt": 2012,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6316,
+      "row_id": 139
+    },
+    {
+      "assetId": 70225701.0,
+      "addressId": 53545224,
+      "polygonId": "51903342",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 35",
+      "dealDate": "2012-04-01",
+      "dealAmount": 225000,
+      "parcelNum": "11006-65-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 35.08,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6414,
+      "row_id": 140
+    },
+    {
+      "assetId": 70225967.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2012-01-30",
+      "dealAmount": 375000,
+      "parcelNum": "11006-136-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6127,
+      "row_id": 141
+    },
+    {
+      "assetId": 4388115.0,
+      "addressId": 53557526,
+      "polygonId": "51908558",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 53",
+      "dealDate": "2011-12-20",
+      "dealAmount": 360000,
+      "parcelNum": "11006-14-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 1950,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3000,
+      "row_id": 142
+    },
+    {
+      "assetId": 70226089.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2011-11-24",
+      "dealAmount": 445000,
+      "parcelNum": "11006-136-151",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5863,
+      "row_id": 143
+    },
+    {
+      "assetId": 70226082.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2011-09-19",
+      "dealAmount": 353000,
+      "parcelNum": "11006-136-144",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-28",
+          "dealAmount": 351000
+        }
+      ],
+      "trend": {
+        "rate": 0.6,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 5694,
+      "row_id": 144
+    },
+    {
+      "assetId": 70226077.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2011-09-07",
+      "dealAmount": 446000,
+      "parcelNum": "11006-136-139",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5876,
+      "row_id": 145
+    },
+    {
+      "assetId": 70225936.0,
+      "addressId": 53561031,
+      "polygonId": "53032689",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 84",
+      "dealDate": "2011-05-17",
+      "dealAmount": 360000,
+      "parcelNum": "11006-134-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1980,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10262,
+      "row_id": 146
+    },
+    {
+      "assetId": 70225578.0,
+      "addressId": 53560111,
+      "polygonId": "51840177",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 59",
+      "dealDate": "2011-01-10",
+      "dealAmount": 740000,
+      "parcelNum": "11006-11-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 103.28,
+      "yearBuilt": 1997,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7165,
+      "row_id": 147
+    },
+    {
+      "assetId": 70226025.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2010-11-25",
+      "dealAmount": 326000,
+      "parcelNum": "11006-136-87",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5258,
+      "row_id": 148
+    },
+    {
+      "assetId": 70226007.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2010-11-24",
+      "dealAmount": 355000,
+      "parcelNum": "11006-136-69",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-04-29",
+          "dealAmount": 419000
+        }
+      ],
+      "trend": {
+        "rate": -15.3,
+        "years": 11.6
+      },
+      "ownership": [],
+      "priceSM": 5820,
+      "row_id": 149
+    },
+    {
+      "assetId": 70225854.0,
+      "addressId": 53545467,
+      "polygonId": "65741615",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 80",
+      "dealDate": "2010-09-02",
+      "dealAmount": 255000,
+      "parcelNum": "11006-106-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1960,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-05-28",
+          "dealAmount": 233000
+        }
+      ],
+      "trend": {
+        "rate": 9.4,
+        "years": 12.3
+      },
+      "ownership": [],
+      "priceSM": 7286,
+      "row_id": 150
+    },
+    {
+      "assetId": 4380212.0,
+      "addressId": 53553343,
+      "polygonId": "51823643",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 9",
+      "dealDate": "2010-08-19",
+      "dealAmount": 800000,
+      "parcelNum": "11006-6-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 222.0,
+      "yearBuilt": 1992,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3604,
+      "row_id": 151
+    },
+    {
+      "assetId": 70225635.0,
+      "addressId": 53554597,
+      "polygonId": "51901791",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 11",
+      "dealDate": "2010-07-27",
+      "dealAmount": 459000,
+      "parcelNum": "11006-35-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.35,
+      "yearBuilt": 1970,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5642,
+      "row_id": 152
+    },
+    {
+      "assetId": 70225911.0,
+      "addressId": 53556831,
+      "polygonId": "53229125",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 1",
+      "dealDate": "2010-07-25",
+      "dealAmount": 185000,
+      "parcelNum": "11006-129-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1955,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5274,
+      "row_id": 153
+    },
+    {
+      "assetId": 80924146.0,
+      "addressId": 53558502,
+      "polygonId": "51924218",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 43",
+      "dealDate": "2010-06-09",
+      "dealAmount": 280000,
+      "parcelNum": "11006-18-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קומה ‎2‏",
+      "assetArea": 118.4,
+      "yearBuilt": 1984,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2365,
+      "row_id": 154
+    },
+    {
+      "assetId": 4382131.0,
+      "addressId": 53546091,
+      "polygonId": "51840018",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 44",
+      "dealDate": "2010-05-27",
+      "dealAmount": 900000,
+      "parcelNum": "11006-57-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 200.0,
+      "yearBuilt": 1990,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4500,
+      "row_id": 155
+    },
+    {
+      "assetId": 4380213.0,
+      "addressId": 53553343,
+      "polygonId": "51823643",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 9",
+      "dealDate": "2010-05-23",
+      "dealAmount": 760000,
+      "parcelNum": "11006-6-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 222.0,
+      "yearBuilt": 1992,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3423,
+      "row_id": 156
+    },
+    {
+      "assetId": 70226035.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2010-05-09",
+      "dealAmount": 295000,
+      "parcelNum": "11006-136-97",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-12-03",
+          "dealAmount": 180000
+        }
+      ],
+      "trend": {
+        "rate": 63.9,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 4758,
+      "row_id": 157
+    },
+    {
+      "assetId": 4382743.0,
+      "addressId": 53558501,
+      "polygonId": "51845001",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 41",
+      "dealDate": "2010-04-06",
+      "dealAmount": 750000,
+      "parcelNum": "11006-20-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 0.0,
+      "yearBuilt": 1959,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 158
+    },
+    {
+      "assetId": 4501561.0,
+      "addressId": 53558799,
+      "polygonId": "53213489",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 15",
+      "dealDate": "2010-02-10",
+      "dealAmount": 269000,
+      "parcelNum": "11006-31-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 116.0,
+      "yearBuilt": 1944,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2319,
+      "row_id": 159
+    },
+    {
+      "assetId": 4501560.0,
+      "addressId": 53558799,
+      "polygonId": "53213489",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 15",
+      "dealDate": "2010-01-06",
+      "dealAmount": 110000,
+      "parcelNum": "11006-31-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 40.0,
+      "yearBuilt": 1944,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2750,
+      "row_id": 160
+    },
+    {
+      "assetId": 70225946.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2009-12-30",
+      "dealAmount": 405000,
+      "parcelNum": "11006-136-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5336,
+      "row_id": 161
+    },
+    {
+      "assetId": 70226079.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2009-12-10",
+      "dealAmount": 230000,
+      "parcelNum": "11006-136-141",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3758,
+      "row_id": 162
+    },
+    {
+      "assetId": 70225587.0,
+      "addressId": 53558688,
+      "polygonId": "51903284",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 57",
+      "dealDate": "2009-12-02",
+      "dealAmount": 650000,
+      "parcelNum": "11006-12-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 114.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5657,
+      "row_id": 163
+    },
+    {
+      "assetId": 70226043.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2009-11-29",
+      "dealAmount": 200000,
+      "parcelNum": "11006-136-105",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-12",
+          "dealAmount": 187000
+        }
+      ],
+      "trend": {
+        "rate": 7.0,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 3226,
+      "row_id": 164
+    },
+    {
+      "assetId": 70225875.0,
+      "addressId": 53867771,
+      "polygonId": "65739022",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 4",
+      "dealDate": "2009-11-02",
+      "dealAmount": 200000,
+      "parcelNum": "11006-123-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 35.08,
+      "yearBuilt": 1950,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5701,
+      "row_id": 165
+    },
+    {
+      "assetId": 70225808.0,
+      "addressId": 53546074,
+      "polygonId": "51913501",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הרב קוק 9",
+      "dealDate": "2009-09-23",
+      "dealAmount": 330000,
+      "parcelNum": "11006-94-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 50.45,
+      "yearBuilt": 1980,
+      "streetCode": 68000653,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6541,
+      "row_id": 166
+    },
+    {
+      "assetId": 70225585.0,
+      "addressId": 53558688,
+      "polygonId": "51903284",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 57",
+      "dealDate": "2009-08-30",
+      "dealAmount": 570000,
+      "parcelNum": "11006-12-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 107.88,
+      "yearBuilt": 1970,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5284,
+      "row_id": 167
+    },
+    {
+      "assetId": 70226058.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2009-08-13",
+      "dealAmount": 101000,
+      "parcelNum": "11006-136-120",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1650,
+      "row_id": 168
+    },
+    {
+      "assetId": 70225813.0,
+      "addressId": 53546074,
+      "polygonId": "51913501",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הרב קוק 9",
+      "dealDate": "2009-07-09",
+      "dealAmount": 525000,
+      "parcelNum": "11006-94-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה + שניה",
+      "assetArea": 106.12,
+      "yearBuilt": 1980,
+      "streetCode": 68000653,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4947,
+      "row_id": 169
+    },
+    {
+      "assetId": 70226013.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2009-05-21",
+      "dealAmount": 230000,
+      "parcelNum": "11006-136-75",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3710,
+      "row_id": 170
+    },
+    {
+      "assetId": 70225685.0,
+      "addressId": 53559907,
+      "polygonId": "51899056",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 42",
+      "dealDate": "2009-05-18",
+      "dealAmount": 180000,
+      "parcelNum": "11006-58-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5131,
+      "row_id": 171
+    },
+    {
+      "assetId": 4380890.0,
+      "addressId": 53558624,
+      "polygonId": "51828229",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 17",
+      "dealDate": "2009-02-19",
+      "dealAmount": 540000,
+      "parcelNum": "11006-29-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 100.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5400,
+      "row_id": 172
+    },
+    {
+      "assetId": 70225682.0,
+      "addressId": 53559907,
+      "polygonId": "51899056",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 42",
+      "dealDate": "2009-02-04",
+      "dealAmount": 200000,
+      "parcelNum": "11006-58-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 35.08,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-12-06",
+          "dealAmount": 251000
+        }
+      ],
+      "trend": {
+        "rate": -20.3,
+        "years": 6.2
+      },
+      "ownership": [],
+      "priceSM": 5714,
+      "row_id": 173
+    },
+    {
+      "assetId": 4387903.0,
+      "addressId": 53545362,
+      "polygonId": "51907313",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "בר אילן 10",
+      "dealDate": "2009-01-27",
+      "dealAmount": 430000,
+      "parcelNum": "11052-6-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000672,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7167,
+      "row_id": 174
+    },
+    {
+      "assetId": 70225710.0,
+      "addressId": 53867733,
+      "polygonId": "51834842",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 33",
+      "dealDate": "2008-12-24",
+      "dealAmount": 440000,
+      "parcelNum": "11006-66-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע ראשונה",
+      "assetArea": 96.76,
+      "yearBuilt": 1998,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4547,
+      "row_id": 175
+    },
+    {
+      "assetId": 70226034.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2008-12-07",
+      "dealAmount": 175000,
+      "parcelNum": "11006-136-96",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2306,
+      "row_id": 176
+    },
+    {
+      "assetId": 70226072.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2008-11-07",
+      "dealAmount": 240000,
+      "parcelNum": "11006-136-134",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3922,
+      "row_id": 177
+    },
+    {
+      "assetId": 70225796.0,
+      "addressId": 53559527,
+      "polygonId": "51844971",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 16",
+      "dealDate": "2008-06-11",
+      "dealAmount": 100000,
+      "parcelNum": "11006-91-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 32.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3125,
+      "row_id": 178
+    },
+    {
+      "assetId": 70225616.0,
+      "addressId": 53551918,
+      "polygonId": "51830722",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 12",
+      "dealDate": "2008-05-23",
+      "dealAmount": 350000,
+      "parcelNum": "11006-30-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 35.08,
+      "yearBuilt": 1980,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9977,
+      "row_id": 179
+    },
+    {
+      "assetId": 4212933.0,
+      "addressId": 0,
+      "polygonId": "11006-62",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "0",
+      "dealDate": "2008-05-04",
+      "dealAmount": 146000,
+      "parcelNum": "11006-62-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 778.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 188,
+      "row_id": 180
+    },
+    {
+      "assetId": 70225716.0,
+      "addressId": 53811013,
+      "polygonId": "51834644",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 31",
+      "dealDate": "2008-02-12",
+      "dealAmount": 490000,
+      "parcelNum": "11006-67-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע ראשונה",
+      "assetArea": 115.0,
+      "yearBuilt": 1999,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4261,
+      "row_id": 181
+    },
+    {
+      "assetId": 70238677.0,
+      "addressId": 53864175,
+      "polygonId": "51913497",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "בר אילן 11",
+      "dealDate": "2007-12-27",
+      "dealAmount": 579000,
+      "parcelNum": "11052-5-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "קרקע ראשונה שניה",
+      "assetArea": 188.39,
+      "yearBuilt": 1990,
+      "streetCode": 68000672,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3073,
+      "row_id": 182
+    },
+    {
+      "assetId": 70225992.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2007-12-25",
+      "dealAmount": 180000,
+      "parcelNum": "11006-136-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-04-03",
+          "dealAmount": 380000
+        }
+      ],
+      "trend": {
+        "rate": -52.6,
+        "years": 7.7
+      },
+      "ownership": [],
+      "priceSM": 2951,
+      "row_id": 183
+    },
+    {
+      "assetId": 70226052.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2007-11-28",
+      "dealAmount": 205000,
+      "parcelNum": "11006-136-114",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2701,
+      "row_id": 184
+    },
+    {
+      "assetId": 70225661.0,
+      "addressId": 53560108,
+      "polygonId": "51916227",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 18",
+      "dealDate": "2007-11-27",
+      "dealAmount": 213000,
+      "parcelNum": "11006-48-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 95.0,
+      "yearBuilt": 1955,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-04-13",
+          "dealAmount": 484000
+        }
+      ],
+      "trend": {
+        "rate": -56.0,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 2242,
+      "row_id": 185
+    },
+    {
+      "assetId": 70225935.0,
+      "addressId": 53561031,
+      "polygonId": "53032689",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 84",
+      "dealDate": "2007-11-20",
+      "dealAmount": 126000,
+      "parcelNum": "11006-134-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1980,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3592,
+      "row_id": 186
+    },
+    {
+      "assetId": 70225818.0,
+      "addressId": 53544933,
+      "polygonId": "51897907",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הרב קוק 7",
+      "dealDate": "2007-06-21",
+      "dealAmount": 376000,
+      "parcelNum": "11006-95-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 84.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000653,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4476,
+      "row_id": 187
+    },
+    {
+      "assetId": 4382744.0,
+      "addressId": 53558501,
+      "polygonId": "51845001",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 41",
+      "dealDate": "2007-05-14",
+      "dealAmount": 210000,
+      "parcelNum": "11006-20-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1959,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2100,
+      "row_id": 188
+    },
+    {
+      "assetId": 70225912.0,
+      "addressId": 53556831,
+      "polygonId": "53229125",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 1",
+      "dealDate": "2007-05-07",
+      "dealAmount": 171000,
+      "parcelNum": "11006-129-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1955,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-04-28",
+          "dealAmount": 179000
+        }
+      ],
+      "trend": {
+        "rate": -4.5,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 4886,
+      "row_id": 189
+    },
+    {
+      "assetId": 70225764.0,
+      "addressId": 53545048,
+      "polygonId": "51903424",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 28",
+      "dealDate": "2007-02-13",
+      "dealAmount": 169000,
+      "parcelNum": "11006-85-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 32.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5281,
+      "row_id": 190
+    },
+    {
+      "assetId": 70226086.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2006-12-27",
+      "dealAmount": 189000,
+      "parcelNum": "11006-136-148",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3048,
+      "row_id": 191
+    },
+    {
+      "assetId": 70225775.0,
+      "addressId": 53553609,
+      "polygonId": "51901778",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 24",
+      "dealDate": "2006-09-26",
+      "dealAmount": 180000,
+      "parcelNum": "11006-87-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 32.0,
+      "yearBuilt": 1958,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-06-02",
+          "dealAmount": 284000
+        }
+      ],
+      "trend": {
+        "rate": -36.6,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 5625,
+      "row_id": 192
+    },
+    {
+      "assetId": 4379155.0,
+      "addressId": 53559494,
+      "polygonId": "51818066",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 16",
+      "dealDate": "2006-09-01",
+      "dealAmount": 743000,
+      "parcelNum": "11006-26-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 140.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5307,
+      "row_id": 193
+    },
+    {
+      "assetId": 70225572.0,
+      "addressId": 53560110,
+      "polygonId": "65741842",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 3",
+      "dealDate": "2006-08-16",
+      "dealAmount": 554000,
+      "parcelNum": "11006-9-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 116.25,
+      "yearBuilt": 1980,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4766,
+      "row_id": 194
+    },
+    {
+      "assetId": 70225765.0,
+      "addressId": 53545048,
+      "polygonId": "51903424",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 28",
+      "dealDate": "2006-07-13",
+      "dealAmount": 179000,
+      "parcelNum": "11006-85-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 32.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5594,
+      "row_id": 195
+    },
+    {
+      "assetId": 70225624.0,
+      "addressId": 53560542,
+      "polygonId": "51830327",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 10",
+      "dealDate": "2006-05-17",
+      "dealAmount": 430000,
+      "parcelNum": "11006-32-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע +ראשונה",
+      "assetArea": 96.0,
+      "yearBuilt": 1990,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4479,
+      "row_id": 196
+    },
+    {
+      "assetId": 70225987.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2006-04-25",
+      "dealAmount": 167000,
+      "parcelNum": "11006-136-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2729,
+      "row_id": 197
+    },
+    {
+      "assetId": 70225897.0,
+      "addressId": 53554074,
+      "polygonId": "51912437",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 2",
+      "dealDate": "2006-04-25",
+      "dealAmount": 204000,
+      "parcelNum": "11006-127-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 35.08,
+      "yearBuilt": 1956,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-11-23",
+          "dealAmount": 182000
+        }
+      ],
+      "trend": {
+        "rate": 12.1,
+        "years": 0.4
+      },
+      "ownership": [],
+      "priceSM": 5829,
+      "row_id": 198
+    },
+    {
+      "assetId": 70226070.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2006-01-15",
+      "dealAmount": 262000,
+      "parcelNum": "11006-136-132",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4226,
+      "row_id": 199
+    },
+    {
+      "assetId": 70225832.0,
+      "addressId": 53559526,
+      "polygonId": "51908602",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 10",
+      "dealDate": "2005-11-16",
+      "dealAmount": 236000,
+      "parcelNum": "11006-98-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 32.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7375,
+      "row_id": 200
+    },
+    {
+      "assetId": 70225740.0,
+      "addressId": 53867860,
+      "polygonId": "53216103",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 13",
+      "dealDate": "2005-05-29",
+      "dealAmount": 396000,
+      "parcelNum": "11006-76-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה + שניה",
+      "assetArea": 109.82,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3606,
+      "row_id": 201
+    },
+    {
+      "assetId": 70225780.0,
+      "addressId": 53864205,
+      "polygonId": "65738994",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 22",
+      "dealDate": "2005-05-16",
+      "dealAmount": 226000,
+      "parcelNum": "11006-88-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 32.0,
+      "yearBuilt": 1950,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7062,
+      "row_id": 202
+    },
+    {
+      "assetId": 70225677.0,
+      "addressId": 53560112,
+      "polygonId": "65739010",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 46",
+      "dealDate": "2005-04-06",
+      "dealAmount": 436000,
+      "parcelNum": "11006-56-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 128.08,
+      "yearBuilt": 1998,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3404,
+      "row_id": 203
+    },
+    {
+      "assetId": 70225991.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2004-07-29",
+      "dealAmount": 260000,
+      "parcelNum": "11006-136-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4248,
+      "row_id": 204
+    },
+    {
+      "assetId": 70225895.0,
+      "addressId": 53554074,
+      "polygonId": "51912437",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "ביל\"ו 2",
+      "dealDate": "2004-07-20",
+      "dealAmount": 381000,
+      "parcelNum": "11006-127-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 35.08,
+      "yearBuilt": 1956,
+      "streetCode": 68000651,
+      "settlmentID": 6800,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10861,
+      "row_id": 205
+    },
+    {
+      "assetId": 70226018.0,
+      "addressId": 53558450,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 72",
+      "dealDate": "2004-02-09",
+      "dealAmount": 365000,
+      "parcelNum": "11006-136-80",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 75.9,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4809,
+      "row_id": 206
+    },
+    {
+      "assetId": 70225684.0,
+      "addressId": 53559907,
+      "polygonId": "51899056",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 42",
+      "dealDate": "2004-02-05",
+      "dealAmount": 192000,
+      "parcelNum": "11006-58-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 35.0,
+      "yearBuilt": 1960,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5486,
+      "row_id": 207
+    },
+    {
+      "assetId": 70225889.0,
+      "addressId": 53867458,
+      "polygonId": "51902755",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "הוותיקים 5",
+      "dealDate": "2004-01-25",
+      "dealAmount": 319000,
+      "parcelNum": "11006-125-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 85.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000650,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3753,
+      "row_id": 208
+    },
+    {
+      "assetId": 70225995.0,
+      "addressId": 53556792,
+      "polygonId": "53032306",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "זבולון 70",
+      "dealDate": "2003-12-01",
+      "dealAmount": 310000,
+      "parcelNum": "11006-136-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 61.2,
+      "yearBuilt": 1970,
+      "streetCode": 68000323,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5065,
+      "row_id": 210
+    },
+    {
+      "assetId": 70225922.0,
+      "addressId": 53545536,
+      "polygonId": "51899121",
+      "neighborhoodName": "קרית פרוסטיג",
+      "neighborhoodId": 65210884,
+      "address": "שיבת ציון 5",
+      "dealDate": "2003-11-20",
+      "dealAmount": 268000,
+      "parcelNum": "11006-132-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.0,
+      "yearBuilt": 1950,
+      "streetCode": 68000649,
+      "settlmentID": 6800,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4323,
+      "row_id": 211
+    }
+  ]
+}

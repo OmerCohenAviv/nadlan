@@ -1,0 +1,7066 @@
+{
+  "neighborhood_name": "נאות אביב",
+  "city_name": "שדרות",
+  "transaction_count": 223,
+  "transactions": [
+    {
+      "assetId": 50039934.0,
+      "addressId": 53912434,
+      "polygonId": "65273115",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הנרקיס 1",
+      "dealDate": "2025-06-19",
+      "dealAmount": 1610000,
+      "parcelNum": "1900-61-6",
+      "dealNature": "בית בודד",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 177.0,
+      "yearBuilt": 1970,
+      "streetCode": 10310277,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9096,
+      "row_id": 1
+    },
+    {
+      "assetId": 50039523.0,
+      "addressId": 53924410,
+      "polygonId": "52707999",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 5",
+      "dealDate": "2025-05-28",
+      "dealAmount": 265000,
+      "parcelNum": "1900-18-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5889,
+      "row_id": 2
+    },
+    {
+      "assetId": 50039670.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2025-05-27",
+      "dealAmount": 900000,
+      "parcelNum": "1900-32-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-05-11",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2001-01-21",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 50.0,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 25000,
+      "row_id": 3
+    },
+    {
+      "assetId": 50039231.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2025-04-06",
+      "dealAmount": 750000,
+      "parcelNum": "1900-5-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 61.6,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12175,
+      "row_id": 4
+    },
+    {
+      "assetId": 50039939.0,
+      "addressId": 53746584,
+      "polygonId": "65273346",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הנרקיס 2",
+      "dealDate": "2025-04-01",
+      "dealAmount": 1100000,
+      "parcelNum": "1900-62-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 130.0,
+      "yearBuilt": 1970,
+      "streetCode": 10310277,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-02-12",
+          "dealAmount": 364000
+        }
+      ],
+      "trend": {
+        "rate": 202.2,
+        "years": 22.1
+      },
+      "ownership": [],
+      "priceSM": 8462,
+      "row_id": 5
+    },
+    {
+      "assetId": 50039700.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2025-03-23",
+      "dealAmount": 990000,
+      "parcelNum": "1900-32-49",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-08-10",
+          "dealAmount": 131000
+        }
+      ],
+      "trend": {
+        "rate": 655.7,
+        "years": 25.6
+      },
+      "ownership": [],
+      "priceSM": 27500,
+      "row_id": 6
+    },
+    {
+      "assetId": 50039345.0,
+      "addressId": 53747149,
+      "polygonId": "65272609",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 15",
+      "dealDate": "2025-02-13",
+      "dealAmount": 730000,
+      "parcelNum": "1900-9-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19312,
+      "row_id": 7
+    },
+    {
+      "assetId": 50039857.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2025-02-11",
+      "dealAmount": 900000,
+      "parcelNum": "1900-53-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 34.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-11-11",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2015-05-20",
+          "dealAmount": 830000
+        },
+        {
+          "dealDate": "2012-03-28",
+          "dealAmount": 640000
+        },
+        {
+          "dealDate": "2010-06-11",
+          "dealAmount": 390000
+        },
+        {
+          "dealDate": "2001-08-29",
+          "dealAmount": 293000
+        }
+      ],
+      "trend": {
+        "rate": 50.0,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 26471,
+      "row_id": 8
+    },
+    {
+      "assetId": 50039505.0,
+      "addressId": 53924410,
+      "polygonId": "52707999",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 5",
+      "dealDate": "2025-02-06",
+      "dealAmount": 441000,
+      "parcelNum": "1900-18-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 89.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4955,
+      "row_id": 9
+    },
+    {
+      "assetId": 50039886.0,
+      "addressId": 53756873,
+      "polygonId": "65273459",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הגפן 9",
+      "dealDate": "2025-01-28",
+      "dealAmount": 950000,
+      "parcelNum": "1900-55-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 261.0,
+      "yearBuilt": 1950,
+      "streetCode": 10310310,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3640,
+      "row_id": 10
+    },
+    {
+      "assetId": 50039528.0,
+      "addressId": 53753252,
+      "polygonId": "65272675",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 2",
+      "dealDate": "2024-12-25",
+      "dealAmount": 720000,
+      "parcelNum": "1900-22-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-27",
+          "dealAmount": 520000
+        },
+        {
+          "dealDate": "2020-03-22",
+          "dealAmount": 1000000
+        }
+      ],
+      "trend": {
+        "rate": 38.5,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 18000,
+      "row_id": 11
+    },
+    {
+      "assetId": 50039241.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2024-12-23",
+      "dealAmount": 106000,
+      "parcelNum": "1900-5-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 61.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1715,
+      "row_id": 12
+    },
+    {
+      "assetId": 50039840.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2024-12-01",
+      "dealAmount": 600000,
+      "parcelNum": "1900-53-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 39.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15113,
+      "row_id": 13
+    },
+    {
+      "assetId": 50039908.0,
+      "addressId": 53804891,
+      "polygonId": "53364826",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הדס 2",
+      "dealDate": "2024-10-21",
+      "dealAmount": 1250000,
+      "parcelNum": "1900-58-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 70.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310271,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17857,
+      "row_id": 14
+    },
+    {
+      "assetId": 50039904.0,
+      "addressId": 53804891,
+      "polygonId": "53364826",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הדס 2",
+      "dealDate": "2024-10-14",
+      "dealAmount": 1225000,
+      "parcelNum": "1900-58-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 140.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310271,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-08-10",
+          "dealAmount": 930000
+        },
+        {
+          "dealDate": "2016-08-17",
+          "dealAmount": 870000
+        },
+        {
+          "dealDate": "2012-06-06",
+          "dealAmount": 560000
+        },
+        {
+          "dealDate": "2005-02-06",
+          "dealAmount": 218000
+        }
+      ],
+      "trend": {
+        "rate": 31.7,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 8750,
+      "row_id": 15
+    },
+    {
+      "assetId": 50039682.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2024-08-02",
+      "dealAmount": 750000,
+      "parcelNum": "1900-32-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20718,
+      "row_id": 16
+    },
+    {
+      "assetId": 50039565.0,
+      "addressId": 53752395,
+      "polygonId": "65272887",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 4",
+      "dealDate": "2024-07-24",
+      "dealAmount": 825000,
+      "parcelNum": "1900-27-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-07-01",
+          "dealAmount": 369000
+        },
+        {
+          "dealDate": "1999-08-29",
+          "dealAmount": 156000
+        }
+      ],
+      "trend": {
+        "rate": 123.6,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 21711,
+      "row_id": 17
+    },
+    {
+      "assetId": 50039822.0,
+      "addressId": 53834185,
+      "polygonId": "53163345",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "כלנית 1",
+      "dealDate": "2024-06-03",
+      "dealAmount": 400000,
+      "parcelNum": "1900-51-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 61.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310295,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6504,
+      "row_id": 18
+    },
+    {
+      "assetId": 50039382.0,
+      "addressId": 53747281,
+      "polygonId": "65272646",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 21",
+      "dealDate": "2024-05-28",
+      "dealAmount": 720000,
+      "parcelNum": "1900-12-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-01-14",
+          "dealAmount": 189000
+        }
+      ],
+      "trend": {
+        "rate": 281.0,
+        "years": 14.4
+      },
+      "ownership": [],
+      "priceSM": 19459,
+      "row_id": 19
+    },
+    {
+      "assetId": 50039923.0,
+      "addressId": 53746892,
+      "polygonId": "65273115",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרימון 2",
+      "dealDate": "2024-04-30",
+      "dealAmount": 1000000,
+      "parcelNum": "1900-60-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 10310279,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22727,
+      "row_id": 20
+    },
+    {
+      "assetId": 50039929.0,
+      "addressId": 53912434,
+      "polygonId": "65273115",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הנרקיס 1",
+      "dealDate": "2024-04-11",
+      "dealAmount": 1150000,
+      "parcelNum": "1900-61-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 160.0,
+      "yearBuilt": 1970,
+      "streetCode": 10310277,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7188,
+      "row_id": 21
+    },
+    {
+      "assetId": 50039868.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2024-04-08",
+      "dealAmount": 770000,
+      "parcelNum": "1900-53-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 44.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-10-28",
+          "dealAmount": 573000
+        },
+        {
+          "dealDate": "2016-06-09",
+          "dealAmount": 410000
+        },
+        {
+          "dealDate": "2013-11-24",
+          "dealAmount": 435000
+        },
+        {
+          "dealDate": "2007-01-04",
+          "dealAmount": 109000
+        },
+        {
+          "dealDate": "2000-07-06",
+          "dealAmount": 216000
+        }
+      ],
+      "trend": {
+        "rate": 34.4,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 17500,
+      "row_id": 22
+    },
+    {
+      "assetId": 50039189.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2024-03-20",
+      "dealAmount": 710000,
+      "parcelNum": "1900-5-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 62.3,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11396,
+      "row_id": 23
+    },
+    {
+      "assetId": 50039362.0,
+      "addressId": 53747067,
+      "polygonId": "65272809",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 17",
+      "dealDate": "2024-03-18",
+      "dealAmount": 780000,
+      "parcelNum": "1900-10-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 51.05,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15279,
+      "row_id": 24
+    },
+    {
+      "assetId": 50039401.0,
+      "addressId": 53912013,
+      "polygonId": "65272634",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 23",
+      "dealDate": "2024-03-13",
+      "dealAmount": 720000,
+      "parcelNum": "1900-13-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-07",
+          "dealAmount": 410000
+        },
+        {
+          "dealDate": "2014-10-29",
+          "dealAmount": 345000
+        },
+        {
+          "dealDate": "1999-01-10",
+          "dealAmount": 110000
+        }
+      ],
+      "trend": {
+        "rate": 75.6,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 19459,
+      "row_id": 25
+    },
+    {
+      "assetId": 50039531.0,
+      "addressId": 53753252,
+      "polygonId": "65272675",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 2",
+      "dealDate": "2024-01-08",
+      "dealAmount": 820000,
+      "parcelNum": "1900-22-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 69.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11884,
+      "row_id": 26
+    },
+    {
+      "assetId": 50039639.0,
+      "addressId": 53914063,
+      "polygonId": "65272676",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 12",
+      "dealDate": "2023-10-20",
+      "dealAmount": 1410000,
+      "parcelNum": "1900-31-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 110.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-06-17",
+          "dealAmount": 220000
+        }
+      ],
+      "trend": {
+        "rate": 540.9,
+        "years": 24.4
+      },
+      "ownership": [],
+      "priceSM": 12818,
+      "row_id": 27
+    },
+    {
+      "assetId": 50039251.0,
+      "addressId": 53814045,
+      "polygonId": "65272673",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "נורית 2",
+      "dealDate": "2023-09-07",
+      "dealAmount": 800000,
+      "parcelNum": "1900-7-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 45.9,
+      "yearBuilt": 1967,
+      "streetCode": 10310311,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-03-13",
+          "dealAmount": 440000
+        },
+        {
+          "dealDate": "2016-11-02",
+          "dealAmount": 430000
+        }
+      ],
+      "trend": {
+        "rate": 81.8,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 17778,
+      "row_id": 28
+    },
+    {
+      "assetId": 50039784.0,
+      "addressId": 53753049,
+      "polygonId": "53358818",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "חצב 2",
+      "dealDate": "2023-09-05",
+      "dealAmount": 805000,
+      "parcelNum": "1900-44-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310233,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-06-23",
+          "dealAmount": 275000
+        }
+      ],
+      "trend": {
+        "rate": 192.7,
+        "years": 12.2
+      },
+      "ownership": [],
+      "priceSM": 21184,
+      "row_id": 29
+    },
+    {
+      "assetId": 80853955.0,
+      "addressId": 53814045,
+      "polygonId": "65272673",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "נורית 2",
+      "dealDate": "2023-08-24",
+      "dealAmount": 122000,
+      "parcelNum": "1900-7-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שלישית",
+      "assetArea": 99.45,
+      "yearBuilt": 1967,
+      "streetCode": 10310311,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1227,
+      "row_id": 30
+    },
+    {
+      "assetId": 50039744.0,
+      "addressId": 53753481,
+      "polygonId": "52677994",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "לילך 11",
+      "dealDate": "2023-07-10",
+      "dealAmount": 700000,
+      "parcelNum": "1900-39-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 39.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310297,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17632,
+      "row_id": 31
+    },
+    {
+      "assetId": 50039933.0,
+      "addressId": 53912434,
+      "polygonId": "65273115",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הנרקיס 1",
+      "dealDate": "2023-07-05",
+      "dealAmount": 650000,
+      "parcelNum": "1900-61-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 70.0,
+      "yearBuilt": 1970,
+      "streetCode": 10310277,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-08",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 44.4,
+        "years": 10.2
+      },
+      "ownership": [],
+      "priceSM": 9286,
+      "row_id": 32
+    },
+    {
+      "assetId": 50039739.0,
+      "addressId": 53755415,
+      "polygonId": "65272627",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "לילך 14",
+      "dealDate": "2023-07-04",
+      "dealAmount": 1050000,
+      "parcelNum": "1900-38-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310297,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-23",
+          "dealAmount": 659000
+        },
+        {
+          "dealDate": "2012-05-10",
+          "dealAmount": 430000
+        },
+        {
+          "dealDate": "2010-07-06",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 59.3,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 8750,
+      "row_id": 33
+    },
+    {
+      "assetId": 50039360.0,
+      "addressId": 53747067,
+      "polygonId": "65272809",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 17",
+      "dealDate": "2023-06-11",
+      "dealAmount": 735000,
+      "parcelNum": "1900-10-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-07-26",
+          "dealAmount": 230000
+        }
+      ],
+      "trend": {
+        "rate": 219.6,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 19865,
+      "row_id": 34
+    },
+    {
+      "assetId": 50039416.0,
+      "addressId": 53747127,
+      "polygonId": "65273137",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 25",
+      "dealDate": "2023-06-04",
+      "dealAmount": 438000,
+      "parcelNum": "1900-14-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11587,
+      "row_id": 35
+    },
+    {
+      "assetId": 50039882.0,
+      "addressId": 53749693,
+      "polygonId": "65273459",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הגפן 15",
+      "dealDate": "2023-05-29",
+      "dealAmount": 520000,
+      "parcelNum": "1900-55-4",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 124.0,
+      "yearBuilt": 1950,
+      "streetCode": 10310310,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4194,
+      "row_id": 36
+    },
+    {
+      "assetId": 50039358.0,
+      "addressId": 53747067,
+      "polygonId": "65272809",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 17",
+      "dealDate": "2023-05-25",
+      "dealAmount": 755000,
+      "parcelNum": "1900-10-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19974,
+      "row_id": 37
+    },
+    {
+      "assetId": 50039429.0,
+      "addressId": 53756778,
+      "polygonId": "65273023",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 27",
+      "dealDate": "2023-05-16",
+      "dealAmount": 224000,
+      "parcelNum": "1900-15-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5926,
+      "row_id": 38
+    },
+    {
+      "assetId": 50039602.0,
+      "addressId": 53831123,
+      "polygonId": "52628836",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 8",
+      "dealDate": "2023-05-16",
+      "dealAmount": 178000,
+      "parcelNum": "1900-29-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4623,
+      "row_id": 39
+    },
+    {
+      "assetId": 50039466.0,
+      "addressId": 53831739,
+      "polygonId": "65272637",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 9",
+      "dealDate": "2023-05-04",
+      "dealAmount": 201000,
+      "parcelNum": "1900-17-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 76.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-07",
+          "dealAmount": 76000
+        }
+      ],
+      "trend": {
+        "rate": 164.5,
+        "years": 23.4
+      },
+      "ownership": [],
+      "priceSM": 2645,
+      "row_id": 40
+    },
+    {
+      "assetId": 50039585.0,
+      "addressId": 53829906,
+      "polygonId": "65273119",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 6",
+      "dealDate": "2023-05-02",
+      "dealAmount": 373000,
+      "parcelNum": "1900-28-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4973,
+      "row_id": 41
+    },
+    {
+      "assetId": 50039574.0,
+      "addressId": 53752395,
+      "polygonId": "65272887",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 4",
+      "dealDate": "2023-05-02",
+      "dealAmount": 351000,
+      "parcelNum": "1900-27-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5239,
+      "row_id": 42
+    },
+    {
+      "assetId": 50039560.0,
+      "addressId": 53752395,
+      "polygonId": "65272887",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 4",
+      "dealDate": "2023-04-30",
+      "dealAmount": 177000,
+      "parcelNum": "1900-27-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2642,
+      "row_id": 43
+    },
+    {
+      "assetId": 50039676.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2023-04-23",
+      "dealAmount": 360000,
+      "parcelNum": "1900-32-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-11-24",
+          "dealAmount": 334000
+        }
+      ],
+      "trend": {
+        "rate": 7.8,
+        "years": 0.4
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 44
+    },
+    {
+      "assetId": 50039515.0,
+      "addressId": 53924410,
+      "polygonId": "52707999",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 5",
+      "dealDate": "2023-04-20",
+      "dealAmount": 195000,
+      "parcelNum": "1900-18-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4432,
+      "row_id": 45
+    },
+    {
+      "assetId": 50039537.0,
+      "addressId": 53753252,
+      "polygonId": "65272675",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 2",
+      "dealDate": "2023-04-14",
+      "dealAmount": 820000,
+      "parcelNum": "1900-22-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-09-06",
+          "dealAmount": 125000
+        }
+      ],
+      "trend": {
+        "rate": 556.0,
+        "years": 23.6
+      },
+      "ownership": [
+        {
+          "proportion": "14",
+          "price": 114800
+        },
+        {
+          "proportion": "14",
+          "price": 114800
+        },
+        {
+          "proportion": "14",
+          "price": 114800
+        },
+        {
+          "proportion": "14",
+          "price": 114800
+        },
+        {
+          "proportion": "14",
+          "price": 114800
+        },
+        {
+          "proportion": "28",
+          "price": 229600
+        }
+      ],
+      "priceSM": 20500,
+      "row_id": 46
+    },
+    {
+      "assetId": 50039244.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2023-03-28",
+      "dealAmount": 229000,
+      "parcelNum": "1900-5-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 62.35,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3673,
+      "row_id": 47
+    },
+    {
+      "assetId": 50039415.0,
+      "addressId": 53747127,
+      "polygonId": "65273137",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 25",
+      "dealDate": "2023-03-16",
+      "dealAmount": 167000,
+      "parcelNum": "1900-14-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4418,
+      "row_id": 48
+    },
+    {
+      "assetId": 50039831.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2023-03-14",
+      "dealAmount": 172000,
+      "parcelNum": "1900-53-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 39.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4332,
+      "row_id": 49
+    },
+    {
+      "assetId": 50039487.0,
+      "addressId": 53924410,
+      "polygonId": "52707999",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 5",
+      "dealDate": "2023-03-13",
+      "dealAmount": 484000,
+      "parcelNum": "1900-18-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 76.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6368,
+      "row_id": 50
+    },
+    {
+      "assetId": 50039847.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2023-03-12",
+      "dealAmount": 212000,
+      "parcelNum": "1900-53-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 75.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2827,
+      "row_id": 51
+    },
+    {
+      "assetId": 50039846.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2023-03-02",
+      "dealAmount": 440000,
+      "parcelNum": "1900-53-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 75.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5867,
+      "row_id": 52
+    },
+    {
+      "assetId": 50039420.0,
+      "addressId": 53747127,
+      "polygonId": "65273137",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 25",
+      "dealDate": "2023-02-28",
+      "dealAmount": 339000,
+      "parcelNum": "1900-14-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8968,
+      "row_id": 53
+    },
+    {
+      "assetId": 50039217.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2023-02-21",
+      "dealAmount": 250000,
+      "parcelNum": "1900-5-30",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": "קרקע",
+      "assetArea": 61.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4052,
+      "row_id": 54
+    },
+    {
+      "assetId": 50039522.0,
+      "addressId": 53924410,
+      "polygonId": "52707999",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 5",
+      "dealDate": "2023-02-14",
+      "dealAmount": 335000,
+      "parcelNum": "1900-18-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 39.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8590,
+      "row_id": 55
+    },
+    {
+      "assetId": 50039943.0,
+      "addressId": 53746584,
+      "polygonId": "65273346",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הנרקיס 2",
+      "dealDate": "2023-02-08",
+      "dealAmount": 1300000,
+      "parcelNum": "1900-62-6",
+      "dealNature": "בית בודד",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1970,
+      "streetCode": 10310277,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13000,
+      "row_id": 56
+    },
+    {
+      "assetId": 50039586.0,
+      "addressId": 53829906,
+      "polygonId": "65273119",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 6",
+      "dealDate": "2023-01-31",
+      "dealAmount": 364000,
+      "parcelNum": "1900-28-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9455,
+      "row_id": 57
+    },
+    {
+      "assetId": 50039805.0,
+      "addressId": 53819796,
+      "polygonId": "52655928",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "סביון 1",
+      "dealDate": "2023-01-19",
+      "dealAmount": 353000,
+      "parcelNum": "1900-49-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 75.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310301,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4707,
+      "row_id": 58
+    },
+    {
+      "assetId": 50039212.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2023-01-17",
+      "dealAmount": 146000,
+      "parcelNum": "1900-5-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 61.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2386,
+      "row_id": 59
+    },
+    {
+      "assetId": 50039223.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2023-01-15",
+      "dealAmount": 210000,
+      "parcelNum": "1900-5-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 61.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3404,
+      "row_id": 60
+    },
+    {
+      "assetId": 50039664.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2022-12-01",
+      "dealAmount": 825000,
+      "parcelNum": "1900-32-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-17",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2015-04-29",
+          "dealAmount": 329000
+        },
+        {
+          "dealDate": "1998-08-03",
+          "dealAmount": 116000
+        }
+      ],
+      "trend": {
+        "rate": 142.6,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 22917,
+      "row_id": 61
+    },
+    {
+      "assetId": 50039550.0,
+      "addressId": 53752395,
+      "polygonId": "65272887",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 4",
+      "dealDate": "2022-11-27",
+      "dealAmount": 171000,
+      "parcelNum": "1900-27-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 67.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2552,
+      "row_id": 62
+    },
+    {
+      "assetId": 50039620.0,
+      "addressId": 53829905,
+      "polygonId": "65272888",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 10",
+      "dealDate": "2022-11-10",
+      "dealAmount": 231000,
+      "parcelNum": "1900-30-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6000,
+      "row_id": 63
+    },
+    {
+      "assetId": 50039713.0,
+      "addressId": 53755324,
+      "polygonId": "65272627",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "לילך 4",
+      "dealDate": "2022-11-07",
+      "dealAmount": 750000,
+      "parcelNum": "1900-33-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 70.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310297,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-14",
+          "dealAmount": 649000
+        },
+        {
+          "dealDate": "2000-11-22",
+          "dealAmount": 288000
+        }
+      ],
+      "trend": {
+        "rate": 15.6,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 10714,
+      "row_id": 64
+    },
+    {
+      "assetId": 50039654.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2022-10-26",
+      "dealAmount": 865000,
+      "parcelNum": "1900-32-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.9,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-28",
+          "dealAmount": 740000
+        }
+      ],
+      "trend": {
+        "rate": 16.9,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 22763,
+      "row_id": 65
+    },
+    {
+      "assetId": 50039357.0,
+      "addressId": 53747067,
+      "polygonId": "65272809",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 17",
+      "dealDate": "2022-09-13",
+      "dealAmount": 145000,
+      "parcelNum": "1900-10-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3836,
+      "row_id": 66
+    },
+    {
+      "assetId": 50039210.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2022-09-04",
+      "dealAmount": 521000,
+      "parcelNum": "1900-5-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 8.0,
+      "floor": "ראשונה",
+      "assetArea": 146.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3568,
+      "row_id": 67
+    },
+    {
+      "assetId": 50039730.0,
+      "addressId": 53837569,
+      "polygonId": "52611498",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "איריס 1",
+      "dealDate": "2022-08-29",
+      "dealAmount": 1200000,
+      "parcelNum": "1900-36-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.85,
+      "yearBuilt": 1950,
+      "streetCode": 10310256,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-11-01",
+          "dealAmount": 677000
+        }
+      ],
+      "trend": {
+        "rate": 77.3,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 13187,
+      "row_id": 68
+    },
+    {
+      "assetId": 50039858.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2022-07-28",
+      "dealAmount": 171000,
+      "parcelNum": "1900-53-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 75.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-02-19",
+          "dealAmount": 575000
+        }
+      ],
+      "trend": {
+        "rate": -70.3,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 2280,
+      "row_id": 69
+    },
+    {
+      "assetId": 50039398.0,
+      "addressId": 53912013,
+      "polygonId": "65272634",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 23",
+      "dealDate": "2022-07-06",
+      "dealAmount": 600000,
+      "parcelNum": "1900-13-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15873,
+      "row_id": 70
+    },
+    {
+      "assetId": 50039938.0,
+      "addressId": 53746584,
+      "polygonId": "65273346",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הנרקיס 2",
+      "dealDate": "2022-06-30",
+      "dealAmount": 2000000,
+      "parcelNum": "1900-62-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 68.3,
+      "yearBuilt": 1970,
+      "streetCode": 10310277,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-08",
+          "dealAmount": 654000
+        },
+        {
+          "dealDate": "2008-11-15",
+          "dealAmount": 315000
+        }
+      ],
+      "trend": {
+        "rate": 205.8,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 29412,
+      "row_id": 71
+    },
+    {
+      "assetId": 50039785.0,
+      "addressId": 53753049,
+      "polygonId": "53358818",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "חצב 2",
+      "dealDate": "2022-06-08",
+      "dealAmount": 647000,
+      "parcelNum": "1900-44-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310233,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-06",
+          "dealAmount": 165000
+        }
+      ],
+      "trend": {
+        "rate": 292.1,
+        "years": 12.2
+      },
+      "ownership": [],
+      "priceSM": 17026,
+      "row_id": 72
+    },
+    {
+      "assetId": 50039624.0,
+      "addressId": 53829905,
+      "polygonId": "65272888",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 10",
+      "dealDate": "2022-05-23",
+      "dealAmount": 1300000,
+      "parcelNum": "1900-30-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 110.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11818,
+      "row_id": 73
+    },
+    {
+      "assetId": 50039247.0,
+      "addressId": 53814045,
+      "polygonId": "65272673",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "נורית 2",
+      "dealDate": "2022-05-10",
+      "dealAmount": 740000,
+      "parcelNum": "1900-7-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1967,
+      "streetCode": 10310311,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7400,
+      "row_id": 74
+    },
+    {
+      "assetId": 80853957.0,
+      "addressId": 53814045,
+      "polygonId": "65272673",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "נורית 2",
+      "dealDate": "2022-05-08",
+      "dealAmount": 85000,
+      "parcelNum": "1900-7-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "רביעית",
+      "assetArea": 101.1,
+      "yearBuilt": 1967,
+      "streetCode": 10310311,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 841,
+      "row_id": 75
+    },
+    {
+      "assetId": 50039300.0,
+      "addressId": 53928918,
+      "polygonId": "65272876",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "סביון 2",
+      "dealDate": "2022-05-03",
+      "dealAmount": 327000,
+      "parcelNum": "1900-8-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310301,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4479,
+      "row_id": 76
+    },
+    {
+      "assetId": 50039306.0,
+      "addressId": 53789856,
+      "polygonId": "65272876",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "סביון 2",
+      "dealDate": "2022-05-03",
+      "dealAmount": 257000,
+      "parcelNum": "1900-8-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 33.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310301,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-03-24",
+          "dealAmount": 204000
+        }
+      ],
+      "trend": {
+        "rate": 26.0,
+        "years": 20.1
+      },
+      "ownership": [],
+      "priceSM": 7788,
+      "row_id": 77
+    },
+    {
+      "assetId": 50039926.0,
+      "addressId": 53746892,
+      "polygonId": "65273115",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרימון 2",
+      "dealDate": "2022-04-11",
+      "dealAmount": 1190000,
+      "parcelNum": "1900-60-7",
+      "dealNature": "דירת גן",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 163.0,
+      "yearBuilt": 1970,
+      "streetCode": 10310279,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-10-11",
+          "dealAmount": 820000
+        },
+        {
+          "dealDate": "2015-05-12",
+          "dealAmount": 729000
+        },
+        {
+          "dealDate": "2011-03-14",
+          "dealAmount": 565000
+        },
+        {
+          "dealDate": "2010-06-29",
+          "dealAmount": 405000
+        },
+        {
+          "dealDate": "2008-01-23",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 45.1,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 7301,
+      "row_id": 78
+    },
+    {
+      "assetId": 50039694.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2022-04-03",
+      "dealAmount": 610000,
+      "parcelNum": "1900-32-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16851,
+      "row_id": 79
+    },
+    {
+      "assetId": 50039293.0,
+      "addressId": 53928918,
+      "polygonId": "65272876",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "סביון 2",
+      "dealDate": "2022-03-06",
+      "dealAmount": 216000,
+      "parcelNum": "1900-8-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 73.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310301,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2959,
+      "row_id": 80
+    },
+    {
+      "assetId": 50039392.0,
+      "addressId": 53747281,
+      "polygonId": "65272646",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 21",
+      "dealDate": "2022-03-06",
+      "dealAmount": 590000,
+      "parcelNum": "1900-12-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-06-28",
+          "dealAmount": 160000
+        }
+      ],
+      "trend": {
+        "rate": 268.8,
+        "years": 11.7
+      },
+      "ownership": [],
+      "priceSM": 15946,
+      "row_id": 81
+    },
+    {
+      "assetId": 50039250.0,
+      "addressId": 53814045,
+      "polygonId": "65272673",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "נורית 2",
+      "dealDate": "2022-02-02",
+      "dealAmount": 665000,
+      "parcelNum": "1900-7-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 45.9,
+      "yearBuilt": 1967,
+      "streetCode": 10310311,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-09-23",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2015-01-15",
+          "dealAmount": 485000
+        },
+        {
+          "dealDate": "2000-08-14",
+          "dealAmount": 82000
+        }
+      ],
+      "trend": {
+        "rate": 33.0,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 14778,
+      "row_id": 82
+    },
+    {
+      "assetId": 50039337.0,
+      "addressId": 53747149,
+      "polygonId": "65272609",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 15",
+      "dealDate": "2022-01-25",
+      "dealAmount": 1105000,
+      "parcelNum": "1900-9-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שניה",
+      "assetArea": 109.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-10-24",
+          "dealAmount": 55000
+        }
+      ],
+      "trend": {
+        "rate": 1909.1,
+        "years": 20.3
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 552500
+        },
+        {
+          "proportion": "50",
+          "price": 552500
+        }
+      ],
+      "priceSM": 10138,
+      "row_id": 83
+    },
+    {
+      "assetId": 50039576.0,
+      "addressId": 53752395,
+      "polygonId": "65272887",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 4",
+      "dealDate": "2022-01-20",
+      "dealAmount": 98000,
+      "parcelNum": "1900-27-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1463,
+      "row_id": 84
+    },
+    {
+      "assetId": 50039571.0,
+      "addressId": 53752395,
+      "polygonId": "65272887",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 4",
+      "dealDate": "2022-01-20",
+      "dealAmount": 185000,
+      "parcelNum": "1900-27-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 67.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2761,
+      "row_id": 85
+    },
+    {
+      "assetId": 50039912.0,
+      "addressId": 53756248,
+      "polygonId": "65273022",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרימון 1",
+      "dealDate": "2022-01-05",
+      "dealAmount": 920000,
+      "parcelNum": "1900-59-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 84.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310279,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10952,
+      "row_id": 86
+    },
+    {
+      "assetId": 50039205.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2022-01-04",
+      "dealAmount": 154000,
+      "parcelNum": "1900-5-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 73.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2110,
+      "row_id": 87
+    },
+    {
+      "assetId": 50039199.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2021-12-30",
+      "dealAmount": 166000,
+      "parcelNum": "1900-5-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 61.6,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2695,
+      "row_id": 88
+    },
+    {
+      "assetId": 50039400.0,
+      "addressId": 53912013,
+      "polygonId": "65272634",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 23",
+      "dealDate": "2021-12-19",
+      "dealAmount": 600000,
+      "parcelNum": "1900-13-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-26",
+          "dealAmount": 484000
+        },
+        {
+          "dealDate": "2014-03-07",
+          "dealAmount": 410000
+        }
+      ],
+      "trend": {
+        "rate": 24.0,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 16216,
+      "row_id": 89
+    },
+    {
+      "assetId": 50039328.0,
+      "addressId": 53789856,
+      "polygonId": "65272876",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "סביון 2",
+      "dealDate": "2021-11-26",
+      "dealAmount": 608000,
+      "parcelNum": "1900-8-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 48.3,
+      "yearBuilt": 1960,
+      "streetCode": 10310301,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-07-17",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 35.1,
+        "years": 5.4
+      },
+      "ownership": [
+        {
+          "proportion": "5",
+          "price": 30400
+        },
+        {
+          "proportion": "95",
+          "price": 577600
+        }
+      ],
+      "priceSM": 12667,
+      "row_id": 90
+    },
+    {
+      "assetId": 50039871.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2021-11-26",
+      "dealAmount": 575700,
+      "parcelNum": "1900-53-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 44.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-12-07",
+          "dealAmount": 429000
+        },
+        {
+          "dealDate": "2013-04-30",
+          "dealAmount": 610000
+        },
+        {
+          "dealDate": "2011-12-25",
+          "dealAmount": 379000
+        },
+        {
+          "dealDate": "2009-01-06",
+          "dealAmount": 220000
+        }
+      ],
+      "trend": {
+        "rate": 34.2,
+        "years": 5.0
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 189981
+        },
+        {
+          "proportion": "33",
+          "price": 189981
+        },
+        {
+          "proportion": "33",
+          "price": 189981
+        }
+      ],
+      "priceSM": 13084,
+      "row_id": 91
+    },
+    {
+      "assetId": 50039428.0,
+      "addressId": 53756778,
+      "polygonId": "65273023",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 27",
+      "dealDate": "2021-11-25",
+      "dealAmount": 690000,
+      "parcelNum": "1900-15-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-06-24",
+          "dealAmount": 630000
+        }
+      ],
+      "trend": {
+        "rate": 9.5,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 18649,
+      "row_id": 92
+    },
+    {
+      "assetId": 50039859.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2021-11-20",
+      "dealAmount": 650000,
+      "parcelNum": "1900-53-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 65.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-04",
+          "dealAmount": 162000
+        }
+      ],
+      "trend": {
+        "rate": 301.2,
+        "years": 22.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 325000
+        },
+        {
+          "proportion": "50",
+          "price": 325000
+        }
+      ],
+      "priceSM": 10000,
+      "row_id": 93
+    },
+    {
+      "assetId": 50039368.0,
+      "addressId": 69839003,
+      "polygonId": "65272822",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 19",
+      "dealDate": "2021-09-14",
+      "dealAmount": 590000,
+      "parcelNum": "1900-11-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15608,
+      "row_id": 94
+    },
+    {
+      "assetId": 50039820.0,
+      "addressId": 53834185,
+      "polygonId": "53163345",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "כלנית 1",
+      "dealDate": "2021-09-14",
+      "dealAmount": 800000,
+      "parcelNum": "1900-51-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 85.3,
+      "yearBuilt": 1960,
+      "streetCode": 10310295,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-11-02",
+          "dealAmount": 740000
+        },
+        {
+          "dealDate": "2015-04-20",
+          "dealAmount": 575000
+        }
+      ],
+      "trend": {
+        "rate": 8.1,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 9412,
+      "row_id": 95
+    },
+    {
+      "assetId": 50039197.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2021-08-30",
+      "dealAmount": 580000,
+      "parcelNum": "1900-5-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 61.6,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9416,
+      "row_id": 96
+    },
+    {
+      "assetId": 50039435.0,
+      "addressId": 53756778,
+      "polygonId": "65273023",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 27",
+      "dealDate": "2021-08-30",
+      "dealAmount": 550000,
+      "parcelNum": "1900-15-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-08-20",
+          "dealAmount": 510000
+        },
+        {
+          "dealDate": "2014-04-03",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "2013-05-03",
+          "dealAmount": 330000
+        },
+        {
+          "dealDate": "2012-03-06",
+          "dealAmount": 229000
+        }
+      ],
+      "trend": {
+        "rate": 7.8,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 14865,
+      "row_id": 97
+    },
+    {
+      "assetId": 50039529.0,
+      "addressId": 53753252,
+      "polygonId": "65272675",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 2",
+      "dealDate": "2021-08-03",
+      "dealAmount": 700000,
+      "parcelNum": "1900-22-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 130.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5385,
+      "row_id": 98
+    },
+    {
+      "assetId": 50039191.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2021-07-21",
+      "dealAmount": 515000,
+      "parcelNum": "1900-5-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 62.3,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-06-05",
+          "dealAmount": 554000
+        },
+        {
+          "dealDate": "2011-07-19",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2008-04-17",
+          "dealAmount": 105000
+        }
+      ],
+      "trend": {
+        "rate": -7.0,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 8306,
+      "row_id": 99
+    },
+    {
+      "assetId": 50039509.0,
+      "addressId": 53924410,
+      "polygonId": "52707999",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 5",
+      "dealDate": "2021-07-18",
+      "dealAmount": 166000,
+      "parcelNum": "1900-18-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 76.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2184,
+      "row_id": 100
+    },
+    {
+      "assetId": 50039817.0,
+      "addressId": 53834185,
+      "polygonId": "53163345",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "כלנית 1",
+      "dealDate": "2021-05-28",
+      "dealAmount": 675000,
+      "parcelNum": "1900-51-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שלישית",
+      "assetArea": 85.3,
+      "yearBuilt": 1960,
+      "streetCode": 10310295,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7913,
+      "row_id": 101
+    },
+    {
+      "assetId": 50039696.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2021-05-27",
+      "dealAmount": 940000,
+      "parcelNum": "1900-32-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 85.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-10-27",
+          "dealAmount": 800000
+        }
+      ],
+      "trend": {
+        "rate": 17.5,
+        "years": 0.6
+      },
+      "ownership": [],
+      "priceSM": 11059,
+      "row_id": 102
+    },
+    {
+      "assetId": 50039775.0,
+      "addressId": 53753049,
+      "polygonId": "53358818",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "חצב 2",
+      "dealDate": "2021-04-26",
+      "dealAmount": 645000,
+      "parcelNum": "1900-44-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310233,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16885,
+      "row_id": 103
+    },
+    {
+      "assetId": 50039439.0,
+      "addressId": 53831739,
+      "polygonId": "65272637",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 9",
+      "dealDate": "2021-03-23",
+      "dealAmount": 600000,
+      "parcelNum": "1900-17-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-02-05",
+          "dealAmount": 159000
+        }
+      ],
+      "trend": {
+        "rate": 277.4,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 13636,
+      "row_id": 104
+    },
+    {
+      "assetId": 50039530.0,
+      "addressId": 53753252,
+      "polygonId": "65272675",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 2",
+      "dealDate": "2021-03-04",
+      "dealAmount": 360000,
+      "parcelNum": "1900-22-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 66.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5455,
+      "row_id": 105
+    },
+    {
+      "assetId": 50039244.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2021-03-02",
+      "dealAmount": 630000,
+      "parcelNum": "1900-5-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 78.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8077,
+      "row_id": 106
+    },
+    {
+      "assetId": 50039523.0,
+      "addressId": 53924410,
+      "polygonId": "52707999",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 5",
+      "dealDate": "2021-02-21",
+      "dealAmount": 650000,
+      "parcelNum": "1900-18-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 89.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7303,
+      "row_id": 107
+    },
+    {
+      "assetId": 50039641.0,
+      "addressId": 53914063,
+      "polygonId": "65272676",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 12",
+      "dealDate": "2021-02-10",
+      "dealAmount": 655000,
+      "parcelNum": "1900-31-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-09-26",
+          "dealAmount": 490000
+        }
+      ],
+      "trend": {
+        "rate": 33.7,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 17237,
+      "row_id": 108
+    },
+    {
+      "assetId": 50039569.0,
+      "addressId": 53752395,
+      "polygonId": "65272887",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 4",
+      "dealDate": "2021-02-01",
+      "dealAmount": 300000,
+      "parcelNum": "1900-27-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-07-25",
+          "dealAmount": 180000
+        }
+      ],
+      "trend": {
+        "rate": 66.7,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 7895,
+      "row_id": 109
+    },
+    {
+      "assetId": 50039380.0,
+      "addressId": 53747281,
+      "polygonId": "65272646",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 21",
+      "dealDate": "2020-12-01",
+      "dealAmount": 276000,
+      "parcelNum": "1900-12-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7302,
+      "row_id": 110
+    },
+    {
+      "assetId": 50039417.0,
+      "addressId": 53747127,
+      "polygonId": "65273137",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 25",
+      "dealDate": "2020-11-29",
+      "dealAmount": 174000,
+      "parcelNum": "1900-14-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4603,
+      "row_id": 111
+    },
+    {
+      "assetId": 50039766.0,
+      "addressId": 53753049,
+      "polygonId": "53358818",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "חצב 2",
+      "dealDate": "2020-11-29",
+      "dealAmount": 158000,
+      "parcelNum": "1900-44-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310233,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4136,
+      "row_id": 112
+    },
+    {
+      "assetId": 50039369.0,
+      "addressId": 69839003,
+      "polygonId": "65272822",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 19",
+      "dealDate": "2020-11-26",
+      "dealAmount": 625000,
+      "parcelNum": "1900-11-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-07-23",
+          "dealAmount": 563000
+        },
+        {
+          "dealDate": "2017-07-19",
+          "dealAmount": 553000
+        },
+        {
+          "dealDate": "2013-10-14",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2013-04-12",
+          "dealAmount": 275000
+        }
+      ],
+      "trend": {
+        "rate": 11.0,
+        "years": 3.3
+      },
+      "ownership": [],
+      "priceSM": 16892,
+      "row_id": 113
+    },
+    {
+      "assetId": 50039653.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2020-11-17",
+      "dealAmount": 635000,
+      "parcelNum": "1900-32-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-01-29",
+          "dealAmount": 530000
+        }
+      ],
+      "trend": {
+        "rate": 19.8,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 17639,
+      "row_id": 114
+    },
+    {
+      "assetId": 50039240.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2020-10-27",
+      "dealAmount": 168000,
+      "parcelNum": "1900-5-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 62.35,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2694,
+      "row_id": 115
+    },
+    {
+      "assetId": 50039225.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2020-10-18",
+      "dealAmount": 580000,
+      "parcelNum": "1900-5-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 61.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9385,
+      "row_id": 116
+    },
+    {
+      "assetId": 50039232.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2020-09-17",
+      "dealAmount": 665000,
+      "parcelNum": "1900-5-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 89.6,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-07-28",
+          "dealAmount": 56000
+        }
+      ],
+      "trend": {
+        "rate": 1087.5,
+        "years": 1.1
+      },
+      "ownership": [],
+      "priceSM": 7472,
+      "row_id": 117
+    },
+    {
+      "assetId": 50039467.0,
+      "addressId": 53831739,
+      "polygonId": "65272637",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 9",
+      "dealDate": "2020-08-23",
+      "dealAmount": 169000,
+      "parcelNum": "1900-17-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 39.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4333,
+      "row_id": 118
+    },
+    {
+      "assetId": 50039243.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2020-05-17",
+      "dealAmount": 153000,
+      "parcelNum": "1900-5-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 61.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2476,
+      "row_id": 119
+    },
+    {
+      "assetId": 50039808.0,
+      "addressId": 53819796,
+      "polygonId": "52655928",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "סביון 1",
+      "dealDate": "2020-03-26",
+      "dealAmount": 580000,
+      "parcelNum": "1900-49-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 80.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310301,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-21",
+          "dealAmount": 195000
+        },
+        {
+          "dealDate": "2006-11-16",
+          "dealAmount": 79000
+        }
+      ],
+      "trend": {
+        "rate": 197.4,
+        "years": 9.7
+      },
+      "ownership": [],
+      "priceSM": 7250,
+      "row_id": 120
+    },
+    {
+      "assetId": 50039463.0,
+      "addressId": 53831739,
+      "polygonId": "65272637",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 9",
+      "dealDate": "2019-11-20",
+      "dealAmount": 560000,
+      "parcelNum": "1900-17-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-06-11",
+          "dealAmount": 380000
+        }
+      ],
+      "trend": {
+        "rate": 47.4,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 12727,
+      "row_id": 121
+    },
+    {
+      "assetId": 50039244.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2019-08-05",
+      "dealAmount": 470000,
+      "parcelNum": "1900-5-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 71.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6620,
+      "row_id": 122
+    },
+    {
+      "assetId": 50039502.0,
+      "addressId": 53924410,
+      "polygonId": "52707999",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 5",
+      "dealDate": "2019-08-04",
+      "dealAmount": 190000,
+      "parcelNum": "1900-18-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4318,
+      "row_id": 123
+    },
+    {
+      "assetId": 50039688.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2019-06-25",
+      "dealAmount": 259000,
+      "parcelNum": "1900-32-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7155,
+      "row_id": 124
+    },
+    {
+      "assetId": 50039443.0,
+      "addressId": 53831739,
+      "polygonId": "65272637",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 9",
+      "dealDate": "2019-06-25",
+      "dealAmount": 243000,
+      "parcelNum": "1900-17-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 39.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6231,
+      "row_id": 125
+    },
+    {
+      "assetId": 50039425.0,
+      "addressId": 53756778,
+      "polygonId": "65273023",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 27",
+      "dealDate": "2019-06-18",
+      "dealAmount": 625000,
+      "parcelNum": "1900-15-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-26",
+          "dealAmount": 132000
+        }
+      ],
+      "trend": {
+        "rate": 373.5,
+        "years": 9.8
+      },
+      "ownership": [],
+      "priceSM": 16892,
+      "row_id": 126
+    },
+    {
+      "assetId": 50039970.0,
+      "addressId": 53814357,
+      "polygonId": "65272871",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 4",
+      "dealDate": "2019-06-17",
+      "dealAmount": 825000,
+      "parcelNum": "1900-77-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שניה",
+      "assetArea": 88.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-11-26",
+          "dealAmount": 250000
+        },
+        {
+          "dealDate": "2008-12-23",
+          "dealAmount": 180000
+        },
+        {
+          "dealDate": "2004-06-23",
+          "dealAmount": 292000
+        }
+      ],
+      "trend": {
+        "rate": 230.0,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 9375,
+      "row_id": 127
+    },
+    {
+      "assetId": 50039309.0,
+      "addressId": 53928918,
+      "polygonId": "65272876",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "סביון 2",
+      "dealDate": "2019-05-21",
+      "dealAmount": 560000,
+      "parcelNum": "1900-8-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 73.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310301,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7671,
+      "row_id": 128
+    },
+    {
+      "assetId": 50039659.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2019-04-17",
+      "dealAmount": 550000,
+      "parcelNum": "1900-32-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-21",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 37.5,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 15278,
+      "row_id": 129
+    },
+    {
+      "assetId": 50039662.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2019-04-07",
+      "dealAmount": 266000,
+      "parcelNum": "1900-32-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7348,
+      "row_id": 130
+    },
+    {
+      "assetId": 50039754.0,
+      "addressId": 53747430,
+      "polygonId": "52612451",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "איריס 9",
+      "dealDate": "2019-04-02",
+      "dealAmount": 625000,
+      "parcelNum": "1900-41-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310256,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16534,
+      "row_id": 131
+    },
+    {
+      "assetId": 50039677.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2019-02-05",
+      "dealAmount": 318000,
+      "parcelNum": "1900-32-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8785,
+      "row_id": 132
+    },
+    {
+      "assetId": 50039285.0,
+      "addressId": 53814045,
+      "polygonId": "65272673",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "נורית 2",
+      "dealDate": "2019-02-03",
+      "dealAmount": 630000,
+      "parcelNum": "1900-7-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 62.0,
+      "yearBuilt": 1967,
+      "streetCode": 10310311,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10161,
+      "row_id": 133
+    },
+    {
+      "assetId": 50039964.0,
+      "addressId": 53814357,
+      "polygonId": "65272871",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 4",
+      "dealDate": "2019-01-29",
+      "dealAmount": 620000,
+      "parcelNum": "1900-77-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 103.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-30",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 47.6,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 6019,
+      "row_id": 134
+    },
+    {
+      "assetId": 50039873.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2019-01-28",
+      "dealAmount": 560000,
+      "parcelNum": "1900-53-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 65.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-13",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2008-06-13",
+          "dealAmount": 150000
+        }
+      ],
+      "trend": {
+        "rate": 180.0,
+        "years": 9.0
+      },
+      "ownership": [],
+      "priceSM": 8615,
+      "row_id": 135
+    },
+    {
+      "assetId": 50039412.0,
+      "addressId": 53747127,
+      "polygonId": "65273137",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 25",
+      "dealDate": "2018-12-31",
+      "dealAmount": 1050000,
+      "parcelNum": "1900-14-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27778,
+      "row_id": 136
+    },
+    {
+      "assetId": 50039359.0,
+      "addressId": 53747067,
+      "polygonId": "65272809",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 17",
+      "dealDate": "2018-11-12",
+      "dealAmount": 400000,
+      "parcelNum": "1900-10-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-01-12",
+          "dealAmount": 580000
+        }
+      ],
+      "trend": {
+        "rate": -31.0,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 10811,
+      "row_id": 137
+    },
+    {
+      "assetId": 50039367.0,
+      "addressId": 69839003,
+      "polygonId": "65272822",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 19",
+      "dealDate": "2018-09-04",
+      "dealAmount": 500000,
+      "parcelNum": "1900-11-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-10-21",
+          "dealAmount": 440000
+        }
+      ],
+      "trend": {
+        "rate": 13.6,
+        "years": 1.9
+      },
+      "ownership": [],
+      "priceSM": 13514,
+      "row_id": 138
+    },
+    {
+      "assetId": 50039312.0,
+      "addressId": 53928918,
+      "polygonId": "65272876",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "סביון 2",
+      "dealDate": "2018-08-02",
+      "dealAmount": 565000,
+      "parcelNum": "1900-8-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 86.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310301,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6570,
+      "row_id": 139
+    },
+    {
+      "assetId": 50039802.0,
+      "addressId": 53819796,
+      "polygonId": "52655928",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "סביון 1",
+      "dealDate": "2018-07-16",
+      "dealAmount": 655000,
+      "parcelNum": "1900-49-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 85.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310301,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-28",
+          "dealAmount": 310000
+        },
+        {
+          "dealDate": "2011-05-25",
+          "dealAmount": 237500
+        }
+      ],
+      "trend": {
+        "rate": 111.3,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 7706,
+      "row_id": 140
+    },
+    {
+      "assetId": 50039484.0,
+      "addressId": 53924410,
+      "polygonId": "52707999",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 5",
+      "dealDate": "2018-07-12",
+      "dealAmount": 520000,
+      "parcelNum": "1900-18-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11818,
+      "row_id": 141
+    },
+    {
+      "assetId": 50039787.0,
+      "addressId": 53753049,
+      "polygonId": "53358818",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "חצב 2",
+      "dealDate": "2018-06-14",
+      "dealAmount": 490000,
+      "parcelNum": "1900-44-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 40.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310233,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12189,
+      "row_id": 142
+    },
+    {
+      "assetId": 50039615.0,
+      "addressId": 53831123,
+      "polygonId": "52628836",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 8",
+      "dealDate": "2018-05-14",
+      "dealAmount": 530000,
+      "parcelNum": "1900-29-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-09",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 60.6,
+        "years": 7.8
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 265000
+        },
+        {
+          "proportion": "50",
+          "price": 265000
+        }
+      ],
+      "priceSM": 13947,
+      "row_id": 143
+    },
+    {
+      "assetId": 50039523.0,
+      "addressId": 53924410,
+      "polygonId": "52707999",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 5",
+      "dealDate": "2018-05-13",
+      "dealAmount": 705000,
+      "parcelNum": "1900-18-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שניה",
+      "assetArea": 89.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7921,
+      "row_id": 144
+    },
+    {
+      "assetId": 50039372.0,
+      "addressId": 69839003,
+      "polygonId": "65272822",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 19",
+      "dealDate": "2018-05-08",
+      "dealAmount": 510000,
+      "parcelNum": "1900-11-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-11",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 27.5,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 13784,
+      "row_id": 145
+    },
+    {
+      "assetId": 50039301.0,
+      "addressId": 53928918,
+      "polygonId": "65272876",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "סביון 2",
+      "dealDate": "2018-03-18",
+      "dealAmount": 560000,
+      "parcelNum": "1900-8-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 62.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310301,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9032,
+      "row_id": 146
+    },
+    {
+      "assetId": 50039244.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2018-02-28",
+      "dealAmount": 550000,
+      "parcelNum": "1900-5-60",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 78.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7051,
+      "row_id": 147
+    },
+    {
+      "assetId": 50039889.0,
+      "addressId": 53912046,
+      "polygonId": "65272793",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הגפן 10",
+      "dealDate": "2018-02-04",
+      "dealAmount": 850000,
+      "parcelNum": "1900-56-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 110.0,
+      "yearBuilt": 1980,
+      "streetCode": 10310310,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-04",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 41.7,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 7727,
+      "row_id": 148
+    },
+    {
+      "assetId": 50039570.0,
+      "addressId": 53752395,
+      "polygonId": "65272887",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 4",
+      "dealDate": "2018-01-30",
+      "dealAmount": 615000,
+      "parcelNum": "1900-27-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 68.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9044,
+      "row_id": 149
+    },
+    {
+      "assetId": 50039637.0,
+      "addressId": 53914063,
+      "polygonId": "65272676",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 12",
+      "dealDate": "2018-01-25",
+      "dealAmount": 1050000,
+      "parcelNum": "1900-31-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 118.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8898,
+      "row_id": 150
+    },
+    {
+      "assetId": 50039303.0,
+      "addressId": 53789856,
+      "polygonId": "65272876",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "סביון 2",
+      "dealDate": "2017-12-21",
+      "dealAmount": 585000,
+      "parcelNum": "1900-8-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 33.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310301,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-08-18",
+          "dealAmount": 280000
+        }
+      ],
+      "trend": {
+        "rate": 108.9,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 17727,
+      "row_id": 151
+    },
+    {
+      "assetId": 50039504.0,
+      "addressId": 53924410,
+      "polygonId": "52707999",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 5",
+      "dealDate": "2017-12-20",
+      "dealAmount": 575000,
+      "parcelNum": "1900-18-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 44.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13068,
+      "row_id": 152
+    },
+    {
+      "assetId": 50039427.0,
+      "addressId": 53756778,
+      "polygonId": "65273023",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 27",
+      "dealDate": "2017-11-14",
+      "dealAmount": 590000,
+      "parcelNum": "1900-15-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-20",
+          "dealAmount": 425000
+        },
+        {
+          "dealDate": "2011-01-30",
+          "dealAmount": 120000
+        },
+        {
+          "dealDate": "2008-09-28",
+          "dealAmount": 95000
+        }
+      ],
+      "trend": {
+        "rate": 38.8,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 15946,
+      "row_id": 153
+    },
+    {
+      "assetId": 50039203.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2017-11-03",
+      "dealAmount": 420000,
+      "parcelNum": "1900-5-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6919,
+      "row_id": 154
+    },
+    {
+      "assetId": 50039783.0,
+      "addressId": 53753049,
+      "polygonId": "53358818",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "חצב 2",
+      "dealDate": "2017-10-01",
+      "dealAmount": 650000,
+      "parcelNum": "1900-44-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 97.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310233,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-02-02",
+          "dealAmount": 485000
+        }
+      ],
+      "trend": {
+        "rate": 34.0,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 6701,
+      "row_id": 155
+    },
+    {
+      "assetId": 50039630.0,
+      "addressId": 53829905,
+      "polygonId": "65272888",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 10",
+      "dealDate": "2017-09-18",
+      "dealAmount": 399000,
+      "parcelNum": "1900-30-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-12",
+          "dealAmount": 270000
+        },
+        {
+          "dealDate": "2010-02-13",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 47.8,
+        "years": 7.1
+      },
+      "ownership": [],
+      "priceSM": 10500,
+      "row_id": 156
+    },
+    {
+      "assetId": 50039902.0,
+      "addressId": 53804891,
+      "polygonId": "53364826",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הדס 2",
+      "dealDate": "2017-07-17",
+      "dealAmount": 950000,
+      "parcelNum": "1900-58-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.5,
+      "floor": "ראשונה",
+      "assetArea": 210.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310271,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4524,
+      "row_id": 157
+    },
+    {
+      "assetId": 50039658.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2017-07-02",
+      "dealAmount": 580000,
+      "parcelNum": "1900-32-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-18",
+          "dealAmount": 359000
+        }
+      ],
+      "trend": {
+        "rate": 61.6,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 16111,
+      "row_id": 158
+    },
+    {
+      "assetId": 50039383.0,
+      "addressId": 53747281,
+      "polygonId": "65272646",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 21",
+      "dealDate": "2017-06-26",
+      "dealAmount": 485000,
+      "parcelNum": "1900-12-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-10-27",
+          "dealAmount": 680000
+        }
+      ],
+      "trend": {
+        "rate": -28.7,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 13108,
+      "row_id": 159
+    },
+    {
+      "assetId": 50039346.0,
+      "addressId": 53747149,
+      "polygonId": "65272609",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 15",
+      "dealDate": "2017-04-28",
+      "dealAmount": 310000,
+      "parcelNum": "1900-9-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-07-22",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2013-12-22",
+          "dealAmount": 445000
+        }
+      ],
+      "trend": {
+        "rate": 3.3,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 8378,
+      "row_id": 160
+    },
+    {
+      "assetId": 50039872.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2017-02-07",
+      "dealAmount": 415000,
+      "parcelNum": "1900-53-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 34.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11925,
+      "row_id": 161
+    },
+    {
+      "assetId": 50039896.0,
+      "addressId": 53747662,
+      "polygonId": "65272793",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הדס 1",
+      "dealDate": "2017-01-02",
+      "dealAmount": 900000,
+      "parcelNum": "1900-57-2",
+      "dealNature": "קוטג' טורי",
+      "roomNum": 7.0,
+      "floor": "ראשונה",
+      "assetArea": 121.0,
+      "yearBuilt": 1980,
+      "streetCode": 10310271,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-03-01",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 80.0,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 7438,
+      "row_id": 162
+    },
+    {
+      "assetId": 50039813.0,
+      "addressId": 53834185,
+      "polygonId": "53163345",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "כלנית 1",
+      "dealDate": "2016-12-27",
+      "dealAmount": 281000,
+      "parcelNum": "1900-51-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 48.9,
+      "yearBuilt": 1960,
+      "streetCode": 10310295,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5746,
+      "row_id": 163
+    },
+    {
+      "assetId": 50039594.0,
+      "addressId": 53829906,
+      "polygonId": "65273119",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 6",
+      "dealDate": "2016-12-08",
+      "dealAmount": 450000,
+      "parcelNum": "1900-28-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11688,
+      "row_id": 164
+    },
+    {
+      "assetId": 50039707.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2016-11-20",
+      "dealAmount": 450000,
+      "parcelNum": "1900-32-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-01",
+          "dealAmount": 401000
+        },
+        {
+          "dealDate": "2011-09-25",
+          "dealAmount": 245000
+        },
+        {
+          "dealDate": "1999-10-04",
+          "dealAmount": 149000
+        }
+      ],
+      "trend": {
+        "rate": 12.2,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 165
+    },
+    {
+      "assetId": 50039329.0,
+      "addressId": 53789856,
+      "polygonId": "65272876",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "סביון 2",
+      "dealDate": "2016-09-14",
+      "dealAmount": 429000,
+      "parcelNum": "1900-8-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 48.3,
+      "yearBuilt": 1960,
+      "streetCode": 10310301,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8882,
+      "row_id": 166
+    },
+    {
+      "assetId": 50039226.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2016-07-17",
+      "dealAmount": 416000,
+      "parcelNum": "1900-5-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 99.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4168,
+      "row_id": 167
+    },
+    {
+      "assetId": 50039862.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2016-05-22",
+      "dealAmount": 480000,
+      "parcelNum": "1900-53-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 62.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7742,
+      "row_id": 168
+    },
+    {
+      "assetId": 50039536.0,
+      "addressId": 53753252,
+      "polygonId": "65272675",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 2",
+      "dealDate": "2016-05-19",
+      "dealAmount": 459000,
+      "parcelNum": "1900-22-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-09-06",
+          "dealAmount": 137000
+        }
+      ],
+      "trend": {
+        "rate": 235.0,
+        "years": 16.7
+      },
+      "ownership": [],
+      "priceSM": 11475,
+      "row_id": 169
+    },
+    {
+      "assetId": 50039621.0,
+      "addressId": 53829905,
+      "polygonId": "65272888",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 10",
+      "dealDate": "2016-04-03",
+      "dealAmount": 214000,
+      "parcelNum": "1900-30-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5558,
+      "row_id": 170
+    },
+    {
+      "assetId": 50039977.0,
+      "addressId": 53814357,
+      "polygonId": "65272871",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 4",
+      "dealDate": "2016-02-11",
+      "dealAmount": 315000,
+      "parcelNum": "1900-77-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 43.31,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-07-15",
+          "dealAmount": 202000
+        }
+      ],
+      "trend": {
+        "rate": 55.9,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 7326,
+      "row_id": 171
+    },
+    {
+      "assetId": 50039674.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2016-02-04",
+      "dealAmount": 710000,
+      "parcelNum": "1900-32-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 96.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7396,
+      "row_id": 172
+    },
+    {
+      "assetId": 50039880.0,
+      "addressId": 53756873,
+      "polygonId": "65273459",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הגפן 9",
+      "dealDate": "2016-01-13",
+      "dealAmount": 949000,
+      "parcelNum": "1900-55-2",
+      "dealNature": "קוטג' טורי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 133.0,
+      "yearBuilt": 1950,
+      "streetCode": 10310310,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7135,
+      "row_id": 173
+    },
+    {
+      "assetId": 50039430.0,
+      "addressId": 53756778,
+      "polygonId": "65273023",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 27",
+      "dealDate": "2015-12-13",
+      "dealAmount": 1100000,
+      "parcelNum": "1900-15-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-11",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 816.7,
+        "years": 16.2
+      },
+      "ownership": [],
+      "priceSM": 29730,
+      "row_id": 174
+    },
+    {
+      "assetId": 50039978.0,
+      "addressId": 53814357,
+      "polygonId": "65272871",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 4",
+      "dealDate": "2015-11-19",
+      "dealAmount": 400000,
+      "parcelNum": "1900-77-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.46,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7085,
+      "row_id": 175
+    },
+    {
+      "assetId": 50039434.0,
+      "addressId": 53756778,
+      "polygonId": "65273023",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 27",
+      "dealDate": "2015-09-20",
+      "dealAmount": 485000,
+      "parcelNum": "1900-15-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-01-03",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 102.1,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 13108,
+      "row_id": 176
+    },
+    {
+      "assetId": 50039973.0,
+      "addressId": 53814357,
+      "polygonId": "65272871",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 4",
+      "dealDate": "2015-08-31",
+      "dealAmount": 667000,
+      "parcelNum": "1900-77-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 88.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-01-02",
+          "dealAmount": 480000
+        },
+        {
+          "dealDate": "2005-07-19",
+          "dealAmount": 225000
+        }
+      ],
+      "trend": {
+        "rate": 39.0,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 7580,
+      "row_id": 177
+    },
+    {
+      "assetId": 50039751.0,
+      "addressId": 53748571,
+      "polygonId": "52773672",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "איריס 8",
+      "dealDate": "2015-08-07",
+      "dealAmount": 600000,
+      "parcelNum": "1900-40-4",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.8,
+      "yearBuilt": 1900,
+      "streetCode": 10310256,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-06-17",
+          "dealAmount": 360000
+        },
+        {
+          "dealDate": "2005-04-13",
+          "dealAmount": 151000
+        }
+      ],
+      "trend": {
+        "rate": 66.7,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 16216,
+      "row_id": 178
+    },
+    {
+      "assetId": 50039927.0,
+      "addressId": 53746892,
+      "polygonId": "65273115",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרימון 2",
+      "dealDate": "2015-06-03",
+      "dealAmount": 600000,
+      "parcelNum": "1900-60-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.3,
+      "yearBuilt": 1970,
+      "streetCode": 10310279,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-09-05",
+          "dealAmount": 540000
+        },
+        {
+          "dealDate": "2010-07-29",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 11.1,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 8824,
+      "row_id": 179
+    },
+    {
+      "assetId": 50039460.0,
+      "addressId": 53831739,
+      "polygonId": "65272637",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 9",
+      "dealDate": "2015-05-27",
+      "dealAmount": 424000,
+      "parcelNum": "1900-17-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 49.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-08",
+          "dealAmount": 525000
+        }
+      ],
+      "trend": {
+        "rate": -19.2,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 8653,
+      "row_id": 180
+    },
+    {
+      "assetId": 50039706.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2015-05-27",
+      "dealAmount": 365000,
+      "parcelNum": "1900-32-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10083,
+      "row_id": 181
+    },
+    {
+      "assetId": 50039407.0,
+      "addressId": 53912013,
+      "polygonId": "65272634",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 23",
+      "dealDate": "2015-03-31",
+      "dealAmount": 344000,
+      "parcelNum": "1900-13-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-11",
+          "dealAmount": 140000
+        }
+      ],
+      "trend": {
+        "rate": 145.7,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 9297,
+      "row_id": 182
+    },
+    {
+      "assetId": 50039899.0,
+      "addressId": 53747662,
+      "polygonId": "65272793",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הדס 1",
+      "dealDate": "2015-03-23",
+      "dealAmount": 570000,
+      "parcelNum": "1900-57-5",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 67.3,
+      "yearBuilt": 1980,
+      "streetCode": 10310271,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-11-04",
+          "dealAmount": 247000
+        },
+        {
+          "dealDate": "2011-06-22",
+          "dealAmount": 495000
+        }
+      ],
+      "trend": {
+        "rate": 130.8,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 8507,
+      "row_id": 183
+    },
+    {
+      "assetId": 50039349.0,
+      "addressId": 53747067,
+      "polygonId": "65272809",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 17",
+      "dealDate": "2014-11-11",
+      "dealAmount": 870000,
+      "parcelNum": "1900-10-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "שניה",
+      "assetArea": 144.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6042,
+      "row_id": 184
+    },
+    {
+      "assetId": 50039218.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2014-10-07",
+      "dealAmount": 400000,
+      "parcelNum": "1900-5-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 61.55,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-20",
+          "dealAmount": 165000
+        }
+      ],
+      "trend": {
+        "rate": 142.4,
+        "years": 16.0
+      },
+      "ownership": [],
+      "priceSM": 6557,
+      "row_id": 185
+    },
+    {
+      "assetId": 50039196.0,
+      "addressId": 53814317,
+      "polygonId": "65273616",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "רמב\"ם 78",
+      "dealDate": "2014-08-14",
+      "dealAmount": 613000,
+      "parcelNum": "1900-5-9",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 90.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310127,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-10",
+          "dealAmount": 470000
+        },
+        {
+          "dealDate": "2010-07-25",
+          "dealAmount": 225000
+        },
+        {
+          "dealDate": "1999-03-14",
+          "dealAmount": 227000
+        }
+      ],
+      "trend": {
+        "rate": 30.4,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 6811,
+      "row_id": 186
+    },
+    {
+      "assetId": 50039967.0,
+      "addressId": 53814357,
+      "polygonId": "65272871",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 4",
+      "dealDate": "2014-02-13",
+      "dealAmount": 630000,
+      "parcelNum": "1900-77-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 88.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-07-15",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 215.0,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 7159,
+      "row_id": 187
+    },
+    {
+      "assetId": 50039616.0,
+      "addressId": 53831123,
+      "polygonId": "52628836",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 8",
+      "dealDate": "2014-01-09",
+      "dealAmount": 355000,
+      "parcelNum": "1900-29-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-11-13",
+          "dealAmount": 260000
+        }
+      ],
+      "trend": {
+        "rate": 36.5,
+        "years": 3.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 177500
+        },
+        {
+          "proportion": "50",
+          "price": 177500
+        }
+      ],
+      "priceSM": 9342,
+      "row_id": 188
+    },
+    {
+      "assetId": 50039366.0,
+      "addressId": 69839003,
+      "polygonId": "65272822",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 19",
+      "dealDate": "2013-10-14",
+      "dealAmount": 399000,
+      "parcelNum": "1900-11-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-12",
+          "dealAmount": 274000
+        }
+      ],
+      "trend": {
+        "rate": 45.6,
+        "years": 0.5
+      },
+      "ownership": [],
+      "priceSM": 10784,
+      "row_id": 189
+    },
+    {
+      "assetId": 50039735.0,
+      "addressId": 53755321,
+      "polygonId": "65274346",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 1",
+      "dealDate": "2013-10-10",
+      "dealAmount": 470000,
+      "parcelNum": "1900-37-3",
+      "dealNature": "קוטג' טורי",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 45.9,
+      "yearBuilt": 1960,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10240,
+      "row_id": 190
+    },
+    {
+      "assetId": 50039590.0,
+      "addressId": 53829906,
+      "polygonId": "65273119",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 6",
+      "dealDate": "2013-05-30",
+      "dealAmount": 530000,
+      "parcelNum": "1900-28-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 113.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4690,
+      "row_id": 191
+    },
+    {
+      "assetId": 50039523.0,
+      "addressId": 53924410,
+      "polygonId": "52707999",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 5",
+      "dealDate": "2013-05-27",
+      "dealAmount": 520000,
+      "parcelNum": "1900-18-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שלישית",
+      "assetArea": 89.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5843,
+      "row_id": 192
+    },
+    {
+      "assetId": 50039404.0,
+      "addressId": 53912013,
+      "polygonId": "65272634",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 23",
+      "dealDate": "2013-05-16",
+      "dealAmount": 325000,
+      "parcelNum": "1900-13-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8598,
+      "row_id": 193
+    },
+    {
+      "assetId": 50039375.0,
+      "addressId": 69839003,
+      "polygonId": "65272822",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 19",
+      "dealDate": "2013-05-16",
+      "dealAmount": 350000,
+      "parcelNum": "1900-11-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 37.8,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-23",
+          "dealAmount": 117000
+        }
+      ],
+      "trend": {
+        "rate": 199.1,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 9459,
+      "row_id": 194
+    },
+    {
+      "assetId": 50039870.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2013-03-14",
+      "dealAmount": 250000,
+      "parcelNum": "1900-53-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 44.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5656,
+      "row_id": 195
+    },
+    {
+      "assetId": 50039468.0,
+      "addressId": 53831739,
+      "polygonId": "65272637",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 9",
+      "dealDate": "2013-03-12",
+      "dealAmount": 405000,
+      "parcelNum": "1900-17-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 49.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-16",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 62.0,
+        "years": 0.2
+      },
+      "ownership": [],
+      "priceSM": 8265,
+      "row_id": 196
+    },
+    {
+      "assetId": 50039716.0,
+      "addressId": 53755324,
+      "polygonId": "65272627",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "לילך 4",
+      "dealDate": "2013-02-03",
+      "dealAmount": 490000,
+      "parcelNum": "1900-33-4",
+      "dealNature": "בית בודד",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310297,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12963,
+      "row_id": 197
+    },
+    {
+      "assetId": 50039780.0,
+      "addressId": 53753049,
+      "polygonId": "53358818",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "חצב 2",
+      "dealDate": "2013-01-31",
+      "dealAmount": 390000,
+      "parcelNum": "1900-44-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310233,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-02-27",
+          "dealAmount": 130000
+        }
+      ],
+      "trend": {
+        "rate": 200.0,
+        "years": 10.9
+      },
+      "ownership": [],
+      "priceSM": 10263,
+      "row_id": 198
+    },
+    {
+      "assetId": 50039832.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2013-01-21",
+      "dealAmount": 352000,
+      "parcelNum": "1900-53-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 39.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-13",
+          "dealAmount": 270000
+        },
+        {
+          "dealDate": "2011-03-30",
+          "dealAmount": 279000
+        },
+        {
+          "dealDate": "2009-06-12",
+          "dealAmount": 97000
+        }
+      ],
+      "trend": {
+        "rate": 30.4,
+        "years": 0.7
+      },
+      "ownership": [],
+      "priceSM": 9026,
+      "row_id": 199
+    },
+    {
+      "assetId": 50039540.0,
+      "addressId": 53753252,
+      "polygonId": "65272675",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 2",
+      "dealDate": "2012-11-04",
+      "dealAmount": 180000,
+      "parcelNum": "1900-22-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.5,
+      "floor": "שלישית",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4423,
+      "row_id": 200
+    },
+    {
+      "assetId": 50039541.0,
+      "addressId": 53753252,
+      "polygonId": "65272675",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 2",
+      "dealDate": "2012-11-04",
+      "dealAmount": 350000,
+      "parcelNum": "1900-22-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8600,
+      "row_id": 201
+    },
+    {
+      "assetId": 50039635.0,
+      "addressId": 53914063,
+      "polygonId": "65272676",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 12",
+      "dealDate": "2012-10-21",
+      "dealAmount": 95000,
+      "parcelNum": "1900-31-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2468,
+      "row_id": 202
+    },
+    {
+      "assetId": 50039281.0,
+      "addressId": 53814045,
+      "polygonId": "65272673",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "נורית 2",
+      "dealDate": "2012-09-02",
+      "dealAmount": 340000,
+      "parcelNum": "1900-7-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 45.9,
+      "yearBuilt": 1967,
+      "streetCode": 10310311,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7407,
+      "row_id": 203
+    },
+    {
+      "assetId": 50039917.0,
+      "addressId": 53756248,
+      "polygonId": "65273022",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרימון 1",
+      "dealDate": "2012-07-20",
+      "dealAmount": 600000,
+      "parcelNum": "1900-59-7",
+      "dealNature": "קוטג' טורי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310279,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6000,
+      "row_id": 204
+    },
+    {
+      "assetId": 50039975.0,
+      "addressId": 53814357,
+      "polygonId": "65272871",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 4",
+      "dealDate": "2012-05-22",
+      "dealAmount": 520000,
+      "parcelNum": "1900-77-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-11-09",
+          "dealAmount": 480000
+        }
+      ],
+      "trend": {
+        "rate": 8.3,
+        "years": 0.5
+      },
+      "ownership": [],
+      "priceSM": 5909,
+      "row_id": 205
+    },
+    {
+      "assetId": 50039597.0,
+      "addressId": 53829906,
+      "polygonId": "65273119",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 6",
+      "dealDate": "2012-05-01",
+      "dealAmount": 315000,
+      "parcelNum": "1900-28-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-05-24",
+          "dealAmount": 285000
+        },
+        {
+          "dealDate": "2009-08-25",
+          "dealAmount": 104000
+        }
+      ],
+      "trend": {
+        "rate": 10.5,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 8289,
+      "row_id": 206
+    },
+    {
+      "assetId": 50039424.0,
+      "addressId": 53756778,
+      "polygonId": "65273023",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרב יעקב בן נון 27",
+      "dealDate": "2011-12-22",
+      "dealAmount": 629000,
+      "parcelNum": "1900-15-1",
+      "dealNature": "דירת גן",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 81.2,
+      "yearBuilt": 1970,
+      "streetCode": 10310152,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-07-22",
+          "dealAmount": 146000
+        }
+      ],
+      "trend": {
+        "rate": 330.8,
+        "years": 9.4
+      },
+      "ownership": [],
+      "priceSM": 7765,
+      "row_id": 207
+    },
+    {
+      "assetId": 50039789.0,
+      "addressId": 53753049,
+      "polygonId": "53358818",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "חצב 2",
+      "dealDate": "2011-07-06",
+      "dealAmount": 258000,
+      "parcelNum": "1900-44-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310233,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-05",
+          "dealAmount": 126000
+        }
+      ],
+      "trend": {
+        "rate": 104.8,
+        "years": 11.6
+      },
+      "ownership": [],
+      "priceSM": 6789,
+      "row_id": 208
+    },
+    {
+      "assetId": 50039538.0,
+      "addressId": 53753252,
+      "polygonId": "65272675",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 2",
+      "dealDate": "2011-06-22",
+      "dealAmount": 270000,
+      "parcelNum": "1900-22-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שלישית",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-02-09",
+          "dealAmount": 80000
+        }
+      ],
+      "trend": {
+        "rate": 237.5,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 6750,
+      "row_id": 209
+    },
+    {
+      "assetId": 50039566.0,
+      "addressId": 53752395,
+      "polygonId": "65272887",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 4",
+      "dealDate": "2011-04-13",
+      "dealAmount": 250000,
+      "parcelNum": "1900-27-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 40.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-06-07",
+          "dealAmount": 153000
+        }
+      ],
+      "trend": {
+        "rate": 63.4,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 6250,
+      "row_id": 211
+    },
+    {
+      "assetId": 50039961.0,
+      "addressId": 53814357,
+      "polygonId": "65272871",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "משה זרח 4",
+      "dealDate": "2010-11-04",
+      "dealAmount": 350000,
+      "parcelNum": "1900-77-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 79.7,
+      "yearBuilt": 1960,
+      "streetCode": 10310132,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4391,
+      "row_id": 212
+    },
+    {
+      "assetId": 50039911.0,
+      "addressId": 53756248,
+      "polygonId": "65273022",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הרימון 1",
+      "dealDate": "2010-10-12",
+      "dealAmount": 300000,
+      "parcelNum": "1900-59-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 67.3,
+      "yearBuilt": 1960,
+      "streetCode": 10310279,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4458,
+      "row_id": 213
+    },
+    {
+      "assetId": 50039724.0,
+      "addressId": 53751401,
+      "polygonId": "52773672",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "איריס 2",
+      "dealDate": "2010-10-08",
+      "dealAmount": 600000,
+      "parcelNum": "1900-35-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.8,
+      "yearBuilt": 1800,
+      "streetCode": 10310256,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15873,
+      "row_id": 214
+    },
+    {
+      "assetId": 50039573.0,
+      "addressId": 53752395,
+      "polygonId": "65272887",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 4",
+      "dealDate": "2010-09-05",
+      "dealAmount": 125000,
+      "parcelNum": "1900-27-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 38.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-01",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 4.2,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 3289,
+      "row_id": 215
+    },
+    {
+      "assetId": 50039777.0,
+      "addressId": 53753049,
+      "polygonId": "53358818",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "חצב 2",
+      "dealDate": "2010-08-05",
+      "dealAmount": 200000,
+      "parcelNum": "1900-44-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 40.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310233,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4975,
+      "row_id": 216
+    },
+    {
+      "assetId": 50039631.0,
+      "addressId": 53829905,
+      "polygonId": "65272888",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 10",
+      "dealDate": "2010-07-25",
+      "dealAmount": 200000,
+      "parcelNum": "1900-30-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 38.5,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5195,
+      "row_id": 217
+    },
+    {
+      "assetId": 50039693.0,
+      "addressId": 53753207,
+      "polygonId": "65272880",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "ניצן 2",
+      "dealDate": "2010-03-24",
+      "dealAmount": 100000,
+      "parcelNum": "1900-32-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 36.2,
+      "yearBuilt": 1960,
+      "streetCode": 10310232,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-02-11",
+          "dealAmount": 80000
+        },
+        {
+          "dealDate": "1999-04-19",
+          "dealAmount": 201000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 2778,
+      "row_id": 218
+    },
+    {
+      "assetId": 50039743.0,
+      "addressId": 53753481,
+      "polygonId": "52677994",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "לילך 11",
+      "dealDate": "2009-02-04",
+      "dealAmount": 195000,
+      "parcelNum": "1900-39-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310297,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1950,
+      "row_id": 219
+    },
+    {
+      "assetId": 50039941.0,
+      "addressId": 53746584,
+      "polygonId": "65273346",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הנרקיס 2",
+      "dealDate": "2009-01-05",
+      "dealAmount": 145000,
+      "parcelNum": "1900-62-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 44.0,
+      "yearBuilt": 1970,
+      "streetCode": 10310277,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3295,
+      "row_id": 220
+    },
+    {
+      "assetId": 50039788.0,
+      "addressId": 53753049,
+      "polygonId": "53358818",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "חצב 2",
+      "dealDate": "2008-06-01",
+      "dealAmount": 120000,
+      "parcelNum": "1900-44-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 89.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310233,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1348,
+      "row_id": 221
+    },
+    {
+      "assetId": 50039869.0,
+      "addressId": 53831201,
+      "polygonId": "65272867",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "הפלמ\"ח 3",
+      "dealDate": "2004-08-19",
+      "dealAmount": 72000,
+      "parcelNum": "1900-53-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 34.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310155,
+      "settlmentID": 1031,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-11-16",
+          "dealAmount": 279000
+        }
+      ],
+      "trend": {
+        "rate": -74.2,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 2118,
+      "row_id": 222
+    },
+    {
+      "assetId": 50039714.0,
+      "addressId": 53755324,
+      "polygonId": "65272627",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "לילך 4",
+      "dealDate": "2004-01-29",
+      "dealAmount": 224000,
+      "parcelNum": "1900-33-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 37.8,
+      "yearBuilt": 1960,
+      "streetCode": 10310297,
+      "settlmentID": 1031,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5926,
+      "row_id": 223
+    },
+    {
+      "assetId": 50039770.0,
+      "addressId": 53753049,
+      "polygonId": "53358818",
+      "neighborhoodName": "נאות אביב",
+      "neighborhoodId": 65210624,
+      "address": "חצב 2",
+      "dealDate": "2003-09-16",
+      "dealAmount": 224000,
+      "parcelNum": "1900-44-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 1960,
+      "streetCode": 10310233,
+      "settlmentID": 1031,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2800,
+      "row_id": 224
+    }
+  ]
+}

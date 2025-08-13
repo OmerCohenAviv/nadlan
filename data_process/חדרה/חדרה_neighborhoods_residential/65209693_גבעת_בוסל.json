@@ -1,0 +1,1296 @@
+{
+  "neighborhood_name": "גבעת בוסל",
+  "city_name": "חדרה",
+  "transaction_count": 41,
+  "transactions": [
+    {
+      "assetId": 70012469.0,
+      "addressId": 53607166,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 4",
+      "dealDate": "2025-05-13",
+      "dealAmount": 1173000,
+      "parcelNum": "10032-404-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 68.25,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-04-30",
+          "dealAmount": 204000
+        }
+      ],
+      "trend": {
+        "rate": 475.0,
+        "years": 20.0
+      },
+      "ownership": [],
+      "priceSM": 17250,
+      "row_id": 1
+    },
+    {
+      "assetId": 70012502.0,
+      "addressId": 53603321,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 6",
+      "dealDate": "2024-11-04",
+      "dealAmount": 1350000,
+      "parcelNum": "10032-404-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 82.75,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-06-18",
+          "dealAmount": 850000
+        }
+      ],
+      "trend": {
+        "rate": 58.8,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 16463,
+      "row_id": 2
+    },
+    {
+      "assetId": 70012492.0,
+      "addressId": 53603321,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 6",
+      "dealDate": "2023-12-06",
+      "dealAmount": 1450000,
+      "parcelNum": "10032-404-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 81.4,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-12-26",
+          "dealAmount": 940000
+        },
+        {
+          "dealDate": "2016-05-05",
+          "dealAmount": 780000
+        }
+      ],
+      "trend": {
+        "rate": 54.3,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 17901,
+      "row_id": 4
+    },
+    {
+      "assetId": 70012497.0,
+      "addressId": 53603321,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 6",
+      "dealDate": "2023-05-28",
+      "dealAmount": 1250000,
+      "parcelNum": "10032-404-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 68.25,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-01-26",
+          "dealAmount": 616000
+        }
+      ],
+      "trend": {
+        "rate": 102.9,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 18382,
+      "row_id": 5
+    },
+    {
+      "assetId": 70012454.0,
+      "addressId": 53606839,
+      "polygonId": "51896742",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 2",
+      "dealDate": "2022-05-29",
+      "dealAmount": 1150000,
+      "parcelNum": "10032-403-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 66.55,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17280,
+      "row_id": 6
+    },
+    {
+      "assetId": 70012444.0,
+      "addressId": 53606839,
+      "polygonId": "51896742",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 2",
+      "dealDate": "2022-01-18",
+      "dealAmount": 1180000,
+      "parcelNum": "10032-403-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 91.8,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-12",
+          "dealAmount": 855000
+        },
+        {
+          "dealDate": "2017-07-16",
+          "dealAmount": 780000
+        },
+        {
+          "dealDate": "2016-04-08",
+          "dealAmount": 760000
+        },
+        {
+          "dealDate": "2014-01-26",
+          "dealAmount": 625000
+        },
+        {
+          "dealDate": "2010-04-25",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 38.0,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 12967,
+      "row_id": 7
+    },
+    {
+      "assetId": 70012538.0,
+      "addressId": 53879379,
+      "polygonId": "53071755",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "ינאי המלך 2",
+      "dealDate": "2021-06-17",
+      "dealAmount": 1850000,
+      "parcelNum": "10032-410-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 73.88,
+      "yearBuilt": 1983,
+      "streetCode": 65000122,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25041,
+      "row_id": 8
+    },
+    {
+      "assetId": 70012536.0,
+      "addressId": 53879379,
+      "polygonId": "53071755",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "ינאי המלך 2",
+      "dealDate": "2021-03-25",
+      "dealAmount": 1880000,
+      "parcelNum": "10032-410-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 138.92,
+      "yearBuilt": 1983,
+      "streetCode": 65000122,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13533,
+      "row_id": 9
+    },
+    {
+      "assetId": 70012471.0,
+      "addressId": 53607166,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 4",
+      "dealDate": "2021-01-07",
+      "dealAmount": 800000,
+      "parcelNum": "10032-404-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 66.55,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-06-26",
+          "dealAmount": 660000
+        }
+      ],
+      "trend": {
+        "rate": 21.2,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 12121,
+      "row_id": 10
+    },
+    {
+      "assetId": 70012508.0,
+      "addressId": 53607409,
+      "polygonId": "52121871",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 10",
+      "dealDate": "2021-01-04",
+      "dealAmount": 1520000,
+      "parcelNum": "10032-405-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 122.5,
+      "yearBuilt": 1984,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-11-15",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 280.0,
+        "years": 0.1
+      },
+      "ownership": [],
+      "priceSM": 12459,
+      "row_id": 11
+    },
+    {
+      "assetId": 70012493.0,
+      "addressId": 53603321,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 6",
+      "dealDate": "2020-11-20",
+      "dealAmount": 850000,
+      "parcelNum": "10032-404-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 68.25,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-13",
+          "dealAmount": 620000
+        }
+      ],
+      "trend": {
+        "rate": 37.1,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 13
+    },
+    {
+      "assetId": 70012500.0,
+      "addressId": 53603321,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 6",
+      "dealDate": "2020-04-23",
+      "dealAmount": 1150000,
+      "parcelNum": "10032-404-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 98.14,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-02-10",
+          "dealAmount": 950000
+        }
+      ],
+      "trend": {
+        "rate": 21.1,
+        "years": 4.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 575000
+        },
+        {
+          "proportion": "50",
+          "price": 575000
+        }
+      ],
+      "priceSM": 11735,
+      "row_id": 14
+    },
+    {
+      "assetId": 70012549.0,
+      "addressId": 53608576,
+      "polygonId": "52077857",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "חטיבת גולני 13",
+      "dealDate": "2018-11-27",
+      "dealAmount": 1710000,
+      "parcelNum": "10032-412-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 190.47,
+      "yearBuilt": 1983,
+      "streetCode": 65000821,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-03-13",
+          "dealAmount": 1200000
+        }
+      ],
+      "trend": {
+        "rate": 42.5,
+        "years": 6.7
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 855000
+        },
+        {
+          "proportion": "50",
+          "price": 855000
+        }
+      ],
+      "priceSM": 9000,
+      "row_id": 15
+    },
+    {
+      "assetId": 70012470.0,
+      "addressId": 53607166,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 4",
+      "dealDate": "2018-11-11",
+      "dealAmount": 913200,
+      "parcelNum": "10032-404-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 82.75,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-04-10",
+          "dealAmount": 790000
+        }
+      ],
+      "trend": {
+        "rate": 15.6,
+        "years": 2.6
+      },
+      "ownership": [
+        {
+          "proportion": "47",
+          "price": 429204
+        },
+        {
+          "proportion": "53",
+          "price": 483996
+        }
+      ],
+      "priceSM": 11137,
+      "row_id": 16
+    },
+    {
+      "assetId": 70012458.0,
+      "addressId": 53606839,
+      "polygonId": "51896742",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 2",
+      "dealDate": "2017-08-31",
+      "dealAmount": 819000,
+      "parcelNum": "10032-403-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 66.55,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-07-04",
+          "dealAmount": 780000
+        },
+        {
+          "dealDate": "2013-07-03",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "1999-07-11",
+          "dealAmount": 294000
+        }
+      ],
+      "trend": {
+        "rate": 5.0,
+        "years": 0.2
+      },
+      "ownership": [],
+      "priceSM": 12409,
+      "row_id": 17
+    },
+    {
+      "assetId": 70012450.0,
+      "addressId": 53606839,
+      "polygonId": "51896742",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 2",
+      "dealDate": "2016-07-31",
+      "dealAmount": 680000,
+      "parcelNum": "10032-403-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 66.55,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10218,
+      "row_id": 18
+    },
+    {
+      "assetId": 70012486.0,
+      "addressId": 53603321,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 6",
+      "dealDate": "2016-06-22",
+      "dealAmount": 799000,
+      "parcelNum": "10032-404-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 82.75,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9656,
+      "row_id": 19
+    },
+    {
+      "assetId": 70012495.0,
+      "addressId": 53603321,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 6",
+      "dealDate": "2016-04-27",
+      "dealAmount": 725000,
+      "parcelNum": "10032-404-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 66.55,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10894,
+      "row_id": 20
+    },
+    {
+      "assetId": 4113116.0,
+      "addressId": 0,
+      "polygonId": "10032-330",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "0",
+      "dealDate": "2016-03-14",
+      "dealAmount": 1170000,
+      "parcelNum": "10032-330-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 120.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9750,
+      "row_id": 21
+    },
+    {
+      "assetId": 70012456.0,
+      "addressId": 53606839,
+      "polygonId": "51896742",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 2",
+      "dealDate": "2016-01-26",
+      "dealAmount": 679000,
+      "parcelNum": "10032-403-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 68.25,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9949,
+      "row_id": 22
+    },
+    {
+      "assetId": 70012539.0,
+      "addressId": 53879379,
+      "polygonId": "53071755",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "ינאי המלך 2",
+      "dealDate": "2015-11-23",
+      "dealAmount": 1641000,
+      "parcelNum": "10032-410-4",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 138.92,
+      "yearBuilt": 1983,
+      "streetCode": 65000122,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-08-15",
+          "dealAmount": 653000
+        }
+      ],
+      "trend": {
+        "rate": 151.3,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 11891,
+      "row_id": 23
+    },
+    {
+      "assetId": 70012475.0,
+      "addressId": 53607166,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 4",
+      "dealDate": "2015-10-18",
+      "dealAmount": 615000,
+      "parcelNum": "10032-404-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 66.55,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9241,
+      "row_id": 24
+    },
+    {
+      "assetId": 70012459.0,
+      "addressId": 53606839,
+      "polygonId": "51896742",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 2",
+      "dealDate": "2015-07-16",
+      "dealAmount": 800000,
+      "parcelNum": "10032-403-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 81.4,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9828,
+      "row_id": 25
+    },
+    {
+      "assetId": 70012443.0,
+      "addressId": 53606839,
+      "polygonId": "51896742",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 2",
+      "dealDate": "2015-03-22",
+      "dealAmount": 640000,
+      "parcelNum": "10032-403-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.4,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7862,
+      "row_id": 26
+    },
+    {
+      "assetId": 4113116.0,
+      "addressId": 0,
+      "polygonId": "10032-330",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "0",
+      "dealDate": "2014-08-17",
+      "dealAmount": 580000,
+      "parcelNum": "10032-330-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7250,
+      "row_id": 27
+    },
+    {
+      "assetId": 70012513.0,
+      "addressId": 53608612,
+      "polygonId": "52129830",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 12",
+      "dealDate": "2012-12-10",
+      "dealAmount": 1330000,
+      "parcelNum": "10032-406-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 148.72,
+      "yearBuilt": 1980,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8943,
+      "row_id": 28
+    },
+    {
+      "assetId": 70012464.0,
+      "addressId": 53607166,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 4",
+      "dealDate": "2011-01-20",
+      "dealAmount": 450000,
+      "parcelNum": "10032-404-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 81.4,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-05-11",
+          "dealAmount": 292000
+        },
+        {
+          "dealDate": "2008-02-13",
+          "dealAmount": 206000
+        },
+        {
+          "dealDate": "2008-02-05",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2007-05-20",
+          "dealAmount": 210000
+        },
+        {
+          "dealDate": "2007-05-20",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 54.1,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 5556,
+      "row_id": 29
+    },
+    {
+      "assetId": 4113116.0,
+      "addressId": 0,
+      "polygonId": "10032-330",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "0",
+      "dealDate": "2009-11-12",
+      "dealAmount": 540000,
+      "parcelNum": "10032-330-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 90.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6000,
+      "row_id": 30
+    },
+    {
+      "assetId": 70012465.0,
+      "addressId": 53607166,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 4",
+      "dealDate": "2009-08-19",
+      "dealAmount": 390000,
+      "parcelNum": "10032-404-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 68.25,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5714,
+      "row_id": 31
+    },
+    {
+      "assetId": 70012520.0,
+      "addressId": 53608699,
+      "polygonId": "52112207",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "ינאי המלך 1",
+      "dealDate": "2009-06-09",
+      "dealAmount": 1075000,
+      "parcelNum": "10032-407-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 146.18,
+      "yearBuilt": 1982,
+      "streetCode": 65000122,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7354,
+      "row_id": 32
+    },
+    {
+      "assetId": 70012449.0,
+      "addressId": 53606839,
+      "polygonId": "51896742",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 2",
+      "dealDate": "2009-04-30",
+      "dealAmount": 358000,
+      "parcelNum": "10032-403-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 82.75,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4326,
+      "row_id": 33
+    },
+    {
+      "assetId": 70012532.0,
+      "addressId": 53608577,
+      "polygonId": "51924294",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "חטיבת גולני 17",
+      "dealDate": "2008-05-28",
+      "dealAmount": 665000,
+      "parcelNum": "10032-409-3",
+      "dealNature": "קוטג' טורי",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 115.02,
+      "yearBuilt": 2000,
+      "streetCode": 65000821,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5782,
+      "row_id": 34
+    },
+    {
+      "assetId": 70012509.0,
+      "addressId": 53607409,
+      "polygonId": "52121871",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 10",
+      "dealDate": "2008-03-31",
+      "dealAmount": 690000,
+      "parcelNum": "10032-405-4",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 122.5,
+      "yearBuilt": 1984,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5633,
+      "row_id": 35
+    },
+    {
+      "assetId": 70012461.0,
+      "addressId": 53606839,
+      "polygonId": "51896742",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 2",
+      "dealDate": "2007-12-13",
+      "dealAmount": 298000,
+      "parcelNum": "10032-403-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית ושישית",
+      "assetArea": 91.75,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3248,
+      "row_id": 36
+    },
+    {
+      "assetId": 70012544.0,
+      "addressId": 53604264,
+      "polygonId": "52194420",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "חטיבת גולני 15",
+      "dealDate": "2007-06-17",
+      "dealAmount": 608000,
+      "parcelNum": "10032-411-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 178.44,
+      "yearBuilt": 1986,
+      "streetCode": 65000821,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3407,
+      "row_id": 37
+    },
+    {
+      "assetId": 70012455.0,
+      "addressId": 53606839,
+      "polygonId": "51896742",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 2",
+      "dealDate": "2007-04-29",
+      "dealAmount": 253000,
+      "parcelNum": "10032-403-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 81.4,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3108,
+      "row_id": 38
+    },
+    {
+      "assetId": 70012476.0,
+      "addressId": 53607166,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 4",
+      "dealDate": "2006-08-14",
+      "dealAmount": 213000,
+      "parcelNum": "10032-404-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 81.4,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2617,
+      "row_id": 39
+    },
+    {
+      "assetId": 70012539.0,
+      "addressId": 53879379,
+      "polygonId": "53071755",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "ינאי המלך 2",
+      "dealDate": "2006-07-19",
+      "dealAmount": 499000,
+      "parcelNum": "10032-410-5",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 90.0,
+      "yearBuilt": 1983,
+      "streetCode": 65000122,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5544,
+      "row_id": 40
+    },
+    {
+      "assetId": 70012472.0,
+      "addressId": 53607166,
+      "polygonId": "53228819",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "כספי 4",
+      "dealDate": "2005-05-09",
+      "dealAmount": 283000,
+      "parcelNum": "10032-404-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 81.4,
+      "yearBuilt": 1970,
+      "streetCode": 65000899,
+      "settlmentID": 6500,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3477,
+      "row_id": 41
+    },
+    {
+      "assetId": 4113116.0,
+      "addressId": 0,
+      "polygonId": "10032-330",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "0",
+      "dealDate": "2004-06-23",
+      "dealAmount": 292000,
+      "parcelNum": "10032-330-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 140.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2086,
+      "row_id": 42
+    },
+    {
+      "assetId": 70012518.0,
+      "addressId": 53608699,
+      "polygonId": "52112207",
+      "neighborhoodName": "גבעת בוסל",
+      "neighborhoodId": 65209693,
+      "address": "ינאי המלך 1",
+      "dealDate": "2003-07-24",
+      "dealAmount": 701000,
+      "parcelNum": "10032-407-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע+ראשונה",
+      "assetArea": 147.89,
+      "yearBuilt": 1982,
+      "streetCode": 65000122,
+      "settlmentID": 6500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4740,
+      "row_id": 44
+    }
+  ]
+}

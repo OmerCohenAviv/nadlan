@@ -1,0 +1,1717 @@
+{
+  "neighborhood_name": "מוצקין",
+  "city_name": "כפר סבא",
+  "transaction_count": 54,
+  "transactions": [
+    {
+      "assetId": 80170054.0,
+      "addressId": 53906905,
+      "polygonId": "52149992",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 120",
+      "dealDate": "2025-05-05",
+      "dealAmount": 2450000,
+      "parcelNum": "6434-625-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 74.6,
+      "yearBuilt": 1997,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-02-11",
+          "dealAmount": 1590000
+        },
+        {
+          "dealDate": "2011-01-04",
+          "dealAmount": 1250000
+        }
+      ],
+      "trend": {
+        "rate": 54.1,
+        "years": 10.2
+      },
+      "ownership": [],
+      "priceSM": 33108,
+      "row_id": 1
+    },
+    {
+      "assetId": 80169962.0,
+      "addressId": 53718869,
+      "polygonId": "52321893",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "קדושי בלזן 1",
+      "dealDate": "2024-11-05",
+      "dealAmount": 2490000,
+      "parcelNum": "6434-617-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה+קרקע תחתונה",
+      "assetArea": 86.59,
+      "yearBuilt": 2002,
+      "streetCode": 69000357,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-09-06",
+          "dealAmount": 759000
+        }
+      ],
+      "trend": {
+        "rate": 228.1,
+        "years": 23.2
+      },
+      "ownership": [],
+      "priceSM": 28953,
+      "row_id": 2
+    },
+    {
+      "assetId": 80380964.0,
+      "addressId": 53716941,
+      "polygonId": "52066387",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "יצחק שדה 9",
+      "dealDate": "2024-07-09",
+      "dealAmount": 180000,
+      "parcelNum": "6434-658-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": "מרתף, קרקע, ראשונה",
+      "assetArea": 206.0,
+      "yearBuilt": 2000,
+      "streetCode": 69000363,
+      "settlmentID": 6900,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-11-27",
+          "dealAmount": 3750000
+        }
+      ],
+      "trend": {
+        "rate": -95.2,
+        "years": 4.6
+      },
+      "ownership": [
+        {
+          "proportion": "1",
+          "price": 1800
+        },
+        {
+          "proportion": "33",
+          "price": 59400
+        },
+        {
+          "proportion": "65",
+          "price": 117000
+        }
+      ],
+      "priceSM": 874,
+      "row_id": 3
+    },
+    {
+      "assetId": 80169979.0,
+      "addressId": 53838349,
+      "polygonId": "52424906",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "הגליל 74",
+      "dealDate": "2024-02-05",
+      "dealAmount": 2424200,
+      "parcelNum": "6434-618-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 74.8,
+      "yearBuilt": 1996,
+      "streetCode": 69000316,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32409,
+      "row_id": 4
+    },
+    {
+      "assetId": 80169995.0,
+      "addressId": 53904383,
+      "polygonId": "52317171",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 114",
+      "dealDate": "2022-04-28",
+      "dealAmount": 3050000,
+      "parcelNum": "6434-619-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 92.2,
+      "yearBuilt": 1995,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 33080,
+      "row_id": 5
+    },
+    {
+      "assetId": 80169932.0,
+      "addressId": 53721097,
+      "polygonId": "52071783",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "הגליל 68",
+      "dealDate": "2022-02-22",
+      "dealAmount": 2540000,
+      "parcelNum": "6434-615-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית+רביעית",
+      "assetArea": 130.7,
+      "yearBuilt": 1995,
+      "streetCode": 69000316,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-10-01",
+          "dealAmount": 1900000
+        },
+        {
+          "dealDate": "2008-11-26",
+          "dealAmount": 1300000
+        }
+      ],
+      "trend": {
+        "rate": 33.7,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 19538,
+      "row_id": 6
+    },
+    {
+      "assetId": 80170027.0,
+      "addressId": 53722390,
+      "polygonId": "53300160",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "קדושי בלזן 4",
+      "dealDate": "2022-01-20",
+      "dealAmount": 2750000,
+      "parcelNum": "6434-622-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית+חמישית",
+      "assetArea": 131.2,
+      "yearBuilt": 1996,
+      "streetCode": 69000357,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-12-27",
+          "dealAmount": 1096000
+        }
+      ],
+      "trend": {
+        "rate": 150.9,
+        "years": 15.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 1375000
+        },
+        {
+          "proportion": "50",
+          "price": 1375000
+        }
+      ],
+      "priceSM": 20992,
+      "row_id": 7
+    },
+    {
+      "assetId": 80170039.0,
+      "addressId": 53723585,
+      "polygonId": "52310935",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 116",
+      "dealDate": "2021-11-25",
+      "dealAmount": 2750000,
+      "parcelNum": "6434-624-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 85.8,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-01-09",
+          "dealAmount": 864000
+        }
+      ],
+      "trend": {
+        "rate": 218.3,
+        "years": 20.9
+      },
+      "ownership": [],
+      "priceSM": 32353,
+      "row_id": 8
+    },
+    {
+      "assetId": 80170041.0,
+      "addressId": 53723585,
+      "polygonId": "52310935",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 116",
+      "dealDate": "2021-07-15",
+      "dealAmount": 2115000,
+      "parcelNum": "6434-624-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 85.7,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-03-23",
+          "dealAmount": 1572000
+        },
+        {
+          "dealDate": "2008-06-04",
+          "dealAmount": 975000
+        }
+      ],
+      "trend": {
+        "rate": 34.5,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 24882,
+      "row_id": 9
+    },
+    {
+      "assetId": 80170036.0,
+      "addressId": 53723585,
+      "polygonId": "52310935",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 116",
+      "dealDate": "2021-06-14",
+      "dealAmount": 2200000,
+      "parcelNum": "6434-624-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 80.1,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-02",
+          "dealAmount": 1419000
+        },
+        {
+          "dealDate": "2007-04-04",
+          "dealAmount": 876000
+        },
+        {
+          "dealDate": "2001-11-11",
+          "dealAmount": 766000
+        }
+      ],
+      "trend": {
+        "rate": 55.0,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 27500,
+      "row_id": 10
+    },
+    {
+      "assetId": 80170076.0,
+      "addressId": 53722938,
+      "polygonId": "52287954",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 122",
+      "dealDate": "2021-04-27",
+      "dealAmount": 2050000,
+      "parcelNum": "6434-626-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.3,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-06-21",
+          "dealAmount": 1400000
+        }
+      ],
+      "trend": {
+        "rate": 46.4,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 22527,
+      "row_id": 11
+    },
+    {
+      "assetId": 80170031.0,
+      "addressId": 53723585,
+      "polygonId": "52310935",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 116",
+      "dealDate": "2021-04-06",
+      "dealAmount": 975000,
+      "parcelNum": "6434-624-1",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 87.0,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11207,
+      "row_id": 12
+    },
+    {
+      "assetId": 80169987.0,
+      "addressId": 53723586,
+      "polygonId": "52322859",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 112",
+      "dealDate": "2020-11-27",
+      "dealAmount": 2250000,
+      "parcelNum": "6434-619-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.6,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-02",
+          "dealAmount": 1849000
+        },
+        {
+          "dealDate": "1999-08-20",
+          "dealAmount": 1020000
+        }
+      ],
+      "trend": {
+        "rate": 21.7,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 24725,
+      "row_id": 13
+    },
+    {
+      "assetId": 80333123.0,
+      "addressId": 53716649,
+      "polygonId": "52313291",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "יצחק שדה 5",
+      "dealDate": "2020-02-12",
+      "dealAmount": 3950000,
+      "parcelNum": "6434-656-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "מרתף, קרקע, ראשונה",
+      "assetArea": 206.0,
+      "yearBuilt": 1998,
+      "streetCode": 69000363,
+      "settlmentID": 6900,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19175,
+      "row_id": 14
+    },
+    {
+      "assetId": 80333120.0,
+      "addressId": 53716943,
+      "polygonId": "52310929",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "העצמאות 7",
+      "dealDate": "2019-09-22",
+      "dealAmount": 3850000,
+      "parcelNum": "6434-681-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "מרתף, קרקע, ראשונה",
+      "assetArea": 206.0,
+      "yearBuilt": 1998,
+      "streetCode": 69000389,
+      "settlmentID": 6900,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18689,
+      "row_id": 15
+    },
+    {
+      "assetId": 80169977.0,
+      "addressId": 53838349,
+      "polygonId": "52424906",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "הגליל 74",
+      "dealDate": "2019-09-11",
+      "dealAmount": 1935000,
+      "parcelNum": "6434-618-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 74.2,
+      "yearBuilt": 1996,
+      "streetCode": 69000316,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 26078,
+      "row_id": 16
+    },
+    {
+      "assetId": 80170071.0,
+      "addressId": 53722938,
+      "polygonId": "52287954",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 122",
+      "dealDate": "2019-08-15",
+      "dealAmount": 1785000,
+      "parcelNum": "6434-626-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שלישית",
+      "assetArea": 78.9,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22624,
+      "row_id": 17
+    },
+    {
+      "assetId": 80169952.0,
+      "addressId": 53718869,
+      "polygonId": "52321893",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "קדושי בלזן 1",
+      "dealDate": "2018-11-15",
+      "dealAmount": 2915000,
+      "parcelNum": "6434-617-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שלישית+רביעית+קרקע תחתונה",
+      "assetArea": 157.27,
+      "yearBuilt": 2002,
+      "streetCode": 69000357,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-08-07",
+          "dealAmount": 1132000
+        }
+      ],
+      "trend": {
+        "rate": 157.5,
+        "years": 17.3
+      },
+      "ownership": [],
+      "priceSM": 18567,
+      "row_id": 18
+    },
+    {
+      "assetId": 80389060.0,
+      "addressId": 53902659,
+      "polygonId": "52317124",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "יצחק שדה 4",
+      "dealDate": "2018-08-27",
+      "dealAmount": 3750000,
+      "parcelNum": "6434-677-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "מרתף, קרקע, ראשונה",
+      "assetArea": 206.0,
+      "yearBuilt": 1999,
+      "streetCode": 69000363,
+      "settlmentID": 6900,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18204,
+      "row_id": 19
+    },
+    {
+      "assetId": 80170001.0,
+      "addressId": 53904383,
+      "polygonId": "52317171",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 114",
+      "dealDate": "2018-07-08",
+      "dealAmount": 2023000,
+      "parcelNum": "6434-619-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית+חמישית",
+      "assetArea": 119.1,
+      "yearBuilt": 1995,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16986,
+      "row_id": 20
+    },
+    {
+      "assetId": 80170044.0,
+      "addressId": 53723585,
+      "polygonId": "52310935",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 116",
+      "dealDate": "2018-05-27",
+      "dealAmount": 1490000,
+      "parcelNum": "6434-624-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 74.8,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19920,
+      "row_id": 21
+    },
+    {
+      "assetId": 80169931.0,
+      "addressId": 53721097,
+      "polygonId": "52071783",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "הגליל 68",
+      "dealDate": "2018-02-15",
+      "dealAmount": 1780000,
+      "parcelNum": "6434-615-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 76.3,
+      "yearBuilt": 1995,
+      "streetCode": 69000316,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-11-08",
+          "dealAmount": 728000
+        }
+      ],
+      "trend": {
+        "rate": 144.5,
+        "years": 17.3
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 587400
+        },
+        {
+          "proportion": "33",
+          "price": 587400
+        },
+        {
+          "proportion": "33",
+          "price": 587400
+        }
+      ],
+      "priceSM": 23421,
+      "row_id": 22
+    },
+    {
+      "assetId": 80170077.0,
+      "addressId": 53722938,
+      "polygonId": "52287954",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 122",
+      "dealDate": "2018-01-25",
+      "dealAmount": 1730000,
+      "parcelNum": "6434-626-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.3,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-07-20",
+          "dealAmount": 678000
+        }
+      ],
+      "trend": {
+        "rate": 155.2,
+        "years": 16.5
+      },
+      "ownership": [],
+      "priceSM": 19222,
+      "row_id": 23
+    },
+    {
+      "assetId": 80333205.0,
+      "addressId": 53906628,
+      "polygonId": "52147447",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "חייקה גרוסמן 2",
+      "dealDate": "2017-07-20",
+      "dealAmount": 3859000,
+      "parcelNum": "6434-669-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "מרתף, קרקע, ראשונה",
+      "assetArea": 204.0,
+      "yearBuilt": 2000,
+      "streetCode": 69000365,
+      "settlmentID": 6900,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18917,
+      "row_id": 24
+    },
+    {
+      "assetId": 80169976.0,
+      "addressId": 53838349,
+      "polygonId": "52424906",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "הגליל 74",
+      "dealDate": "2017-05-19",
+      "dealAmount": 2250000,
+      "parcelNum": "6434-618-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 85.8,
+      "yearBuilt": 1996,
+      "streetCode": 69000316,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-31",
+          "dealAmount": 1740000
+        }
+      ],
+      "trend": {
+        "rate": 29.3,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 26471,
+      "row_id": 25
+    },
+    {
+      "assetId": 80169965.0,
+      "addressId": 53718869,
+      "polygonId": "52321893",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "קדושי בלזן 1",
+      "dealDate": "2017-05-09",
+      "dealAmount": 2949000,
+      "parcelNum": "6434-617-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שלישית+רביעית+ קומה תחתונה",
+      "assetArea": 148.77,
+      "yearBuilt": 2002,
+      "streetCode": 69000357,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-12-26",
+          "dealAmount": 1193000
+        }
+      ],
+      "trend": {
+        "rate": 147.2,
+        "years": 15.4
+      },
+      "ownership": [],
+      "priceSM": 19926,
+      "row_id": 26
+    },
+    {
+      "assetId": 80333214.0,
+      "addressId": 53716940,
+      "polygonId": "52323478",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "יצחק שדה 7",
+      "dealDate": "2016-11-03",
+      "dealAmount": 3340000,
+      "parcelNum": "6434-657-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "מרתף, קרקע, ראשונה",
+      "assetArea": 206.0,
+      "yearBuilt": 1997,
+      "streetCode": 69000363,
+      "settlmentID": 6900,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16214,
+      "row_id": 27
+    },
+    {
+      "assetId": 80169933.0,
+      "addressId": 53721097,
+      "polygonId": "52071783",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "הגליל 68",
+      "dealDate": "2016-09-26",
+      "dealAmount": 1690000,
+      "parcelNum": "6434-615-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 77.3,
+      "yearBuilt": 1995,
+      "streetCode": 69000316,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21863,
+      "row_id": 28
+    },
+    {
+      "assetId": 80170067.0,
+      "addressId": 53722938,
+      "polygonId": "52287954",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 122",
+      "dealDate": "2016-07-31",
+      "dealAmount": 2250000,
+      "parcelNum": "6434-626-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.7,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-05-29",
+          "dealAmount": 1800000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 25000,
+      "row_id": 29
+    },
+    {
+      "assetId": 80890796.0,
+      "addressId": 53722444,
+      "polygonId": "52310913",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "חייקה גרוסמן 1",
+      "dealDate": "2016-02-24",
+      "dealAmount": 3750000,
+      "parcelNum": "6434-671-0",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 596.0,
+      "yearBuilt": 2011,
+      "streetCode": 69000365,
+      "settlmentID": 6900,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6292,
+      "row_id": 30
+    },
+    {
+      "assetId": 80169968.0,
+      "addressId": 53838349,
+      "polygonId": "52424906",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "הגליל 74",
+      "dealDate": "2016-01-19",
+      "dealAmount": 1840000,
+      "parcelNum": "6434-618-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.0,
+      "yearBuilt": 1996,
+      "streetCode": 69000316,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20220,
+      "row_id": 31
+    },
+    {
+      "assetId": 80170073.0,
+      "addressId": 53722938,
+      "polygonId": "52287954",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 122",
+      "dealDate": "2015-11-09",
+      "dealAmount": 2000000,
+      "parcelNum": "6434-626-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית+חמישית",
+      "assetArea": 129.3,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-03-02",
+          "dealAmount": 1009000
+        }
+      ],
+      "trend": {
+        "rate": 98.2,
+        "years": 10.7
+      },
+      "ownership": [],
+      "priceSM": 15504,
+      "row_id": 32
+    },
+    {
+      "assetId": 80169958.0,
+      "addressId": 53718869,
+      "polygonId": "52321893",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "קדושי בלזן 1",
+      "dealDate": "2015-08-31",
+      "dealAmount": 2070000,
+      "parcelNum": "6434-617-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה+קרקע תחתונה",
+      "assetArea": 105.13,
+      "yearBuilt": 2002,
+      "streetCode": 69000357,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-04-15",
+          "dealAmount": 1030000
+        }
+      ],
+      "trend": {
+        "rate": 101.0,
+        "years": 13.4
+      },
+      "ownership": [],
+      "priceSM": 19714,
+      "row_id": 33
+    },
+    {
+      "assetId": 80169957.0,
+      "addressId": 53718869,
+      "polygonId": "52321893",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "קדושי בלזן 1",
+      "dealDate": "2015-05-06",
+      "dealAmount": 1714000,
+      "parcelNum": "6434-617-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה+קרקע תחתונה",
+      "assetArea": 107.11,
+      "yearBuilt": 2002,
+      "streetCode": 69000357,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-01-02",
+          "dealAmount": 1038000
+        }
+      ],
+      "trend": {
+        "rate": 65.1,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 16019,
+      "row_id": 34
+    },
+    {
+      "assetId": 80170022.0,
+      "addressId": 53722390,
+      "polygonId": "53300160",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "קדושי בלזן 4",
+      "dealDate": "2015-02-23",
+      "dealAmount": 1635000,
+      "parcelNum": "6434-622-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 89.0,
+      "yearBuilt": 1996,
+      "streetCode": 69000357,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-24",
+          "dealAmount": 1365000
+        }
+      ],
+      "trend": {
+        "rate": 19.8,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 18371,
+      "row_id": 35
+    },
+    {
+      "assetId": 80170052.0,
+      "addressId": 53906905,
+      "polygonId": "52149992",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 120",
+      "dealDate": "2014-08-26",
+      "dealAmount": 1597000,
+      "parcelNum": "6434-625-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 91.6,
+      "yearBuilt": 1997,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-03-14",
+          "dealAmount": 995000
+        }
+      ],
+      "trend": {
+        "rate": 60.5,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 17549,
+      "row_id": 36
+    },
+    {
+      "assetId": 80170006.0,
+      "addressId": 53722340,
+      "polygonId": "52150906",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אסף שמחוני 7",
+      "dealDate": "2012-06-06",
+      "dealAmount": 2800000,
+      "parcelNum": "6434-620-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "קרקע + ראשונה",
+      "assetArea": 164.9,
+      "yearBuilt": 2000,
+      "streetCode": 69000371,
+      "settlmentID": 6900,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16980,
+      "row_id": 37
+    },
+    {
+      "assetId": 80169992.0,
+      "addressId": 53723586,
+      "polygonId": "52322859",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 112",
+      "dealDate": "2012-05-31",
+      "dealAmount": 2055000,
+      "parcelNum": "6434-619-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית+חמישית",
+      "assetArea": 131.2,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-07-06",
+          "dealAmount": 1075000
+        }
+      ],
+      "trend": {
+        "rate": 91.2,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 15687,
+      "row_id": 38
+    },
+    {
+      "assetId": 80170032.0,
+      "addressId": 53723585,
+      "polygonId": "52310935",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 116",
+      "dealDate": "2012-03-05",
+      "dealAmount": 1810000,
+      "parcelNum": "6434-624-2",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 91.6,
+      "yearBuilt": 1998,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-01",
+          "dealAmount": 1600000
+        },
+        {
+          "dealDate": "2002-05-22",
+          "dealAmount": 1060000
+        }
+      ],
+      "trend": {
+        "rate": 13.1,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 19890,
+      "row_id": 39
+    },
+    {
+      "assetId": 80169934.0,
+      "addressId": 53721097,
+      "polygonId": "52071783",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "הגליל 68",
+      "dealDate": "2011-06-22",
+      "dealAmount": 1490000,
+      "parcelNum": "6434-615-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 74.2,
+      "yearBuilt": 1995,
+      "streetCode": 69000316,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20081,
+      "row_id": 40
+    },
+    {
+      "assetId": 80170016.0,
+      "addressId": 53714684,
+      "polygonId": "52311824",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "קדושי בלזן 3",
+      "dealDate": "2010-08-09",
+      "dealAmount": 1685000,
+      "parcelNum": "6434-621-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית+חמישית",
+      "assetArea": 129.0,
+      "yearBuilt": 1999,
+      "streetCode": 69000357,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13062,
+      "row_id": 41
+    },
+    {
+      "assetId": 80169940.0,
+      "addressId": 53721097,
+      "polygonId": "52071783",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "הגליל 68",
+      "dealDate": "2010-02-09",
+      "dealAmount": 1449000,
+      "parcelNum": "6434-615-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית+חמישית",
+      "assetArea": 128.7,
+      "yearBuilt": 1995,
+      "streetCode": 69000316,
+      "settlmentID": 6900,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11259,
+      "row_id": 42
+    },
+    {
+      "assetId": 4176504.0,
+      "addressId": 0,
+      "polygonId": "6434-634",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "0",
+      "dealDate": "2009-07-17",
+      "dealAmount": 2670000,
+      "parcelNum": "6434-634-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.5,
+      "floor": null,
+      "assetArea": 154.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6900,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17338,
+      "row_id": 43
+    },
+    {
+      "assetId": 80169971.0,
+      "addressId": 53838349,
+      "polygonId": "52424906",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "הגליל 74",
+      "dealDate": "2009-03-23",
+      "dealAmount": 1150000,
+      "parcelNum": "6434-618-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 91.6,
+      "yearBuilt": 1996,
+      "streetCode": 69000316,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-08-29",
+          "dealAmount": 795000
+        }
+      ],
+      "trend": {
+        "rate": 44.7,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 12637,
+      "row_id": 44
+    },
+    {
+      "assetId": 80169954.0,
+      "addressId": 53718869,
+      "polygonId": "52321893",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "קדושי בלזן 1",
+      "dealDate": "2007-12-21",
+      "dealAmount": 1475000,
+      "parcelNum": "6434-617-9",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "קרקע עליונה+קרקע תחתונה",
+      "assetArea": 107.3,
+      "yearBuilt": 2002,
+      "streetCode": 69000357,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-03-21",
+          "dealAmount": 1135000
+        }
+      ],
+      "trend": {
+        "rate": 30.0,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 13785,
+      "row_id": 45
+    },
+    {
+      "assetId": 80169950.0,
+      "addressId": 53718869,
+      "polygonId": "52321893",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "קדושי בלזן 1",
+      "dealDate": "2007-08-07",
+      "dealAmount": 1172000,
+      "parcelNum": "6434-617-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה+קרקע תחתונה",
+      "assetArea": 104.72,
+      "yearBuilt": 2002,
+      "streetCode": 69000357,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-03-22",
+          "dealAmount": 970000
+        }
+      ],
+      "trend": {
+        "rate": 20.8,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 11269,
+      "row_id": 46
+    },
+    {
+      "assetId": 80169994.0,
+      "addressId": 53904383,
+      "polygonId": "52317171",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 114",
+      "dealDate": "2007-04-20",
+      "dealAmount": 989000,
+      "parcelNum": "6434-619-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 92.2,
+      "yearBuilt": 1995,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10727,
+      "row_id": 47
+    },
+    {
+      "assetId": 80170026.0,
+      "addressId": 53722390,
+      "polygonId": "53300160",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "קדושי בלזן 4",
+      "dealDate": "2007-03-28",
+      "dealAmount": 1042000,
+      "parcelNum": "6434-622-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית+חמישית",
+      "assetArea": 129.0,
+      "yearBuilt": 1996,
+      "streetCode": 69000357,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8078,
+      "row_id": 48
+    },
+    {
+      "assetId": 80170063.0,
+      "addressId": 53906905,
+      "polygonId": "52149992",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 120",
+      "dealDate": "2007-02-26",
+      "dealAmount": 1016000,
+      "parcelNum": "6434-625-15",
+      "dealNature": "דירת גג",
+      "roomNum": 4.0,
+      "floor": "רביעית+חמישית",
+      "assetArea": 106.0,
+      "yearBuilt": 1997,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9585,
+      "row_id": 49
+    },
+    {
+      "assetId": 80170062.0,
+      "addressId": 53906905,
+      "polygonId": "52149992",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 120",
+      "dealDate": "2006-12-31",
+      "dealAmount": 754000,
+      "parcelNum": "6434-625-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 75.5,
+      "yearBuilt": 1997,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9987,
+      "row_id": 50
+    },
+    {
+      "assetId": 80170060.0,
+      "addressId": 53906905,
+      "polygonId": "52149992",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אז\"ר 120",
+      "dealDate": "2006-03-22",
+      "dealAmount": 1008000,
+      "parcelNum": "6434-625-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 91.0,
+      "yearBuilt": 1997,
+      "streetCode": 69000302,
+      "settlmentID": 6900,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11077,
+      "row_id": 51
+    },
+    {
+      "assetId": 80169955.0,
+      "addressId": 53718869,
+      "polygonId": "52321893",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "קדושי בלזן 1",
+      "dealDate": "2005-10-09",
+      "dealAmount": 918000,
+      "parcelNum": "6434-617-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע עליונה+קרקע תחתונה",
+      "assetArea": 108.2,
+      "yearBuilt": 2002,
+      "streetCode": 69000357,
+      "settlmentID": 6900,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-02-10",
+          "dealAmount": 1158000
+        }
+      ],
+      "trend": {
+        "rate": -20.7,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 8500,
+      "row_id": 52
+    },
+    {
+      "assetId": 80169974.0,
+      "addressId": 53838349,
+      "polygonId": "52424906",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "הגליל 74",
+      "dealDate": "2005-07-26",
+      "dealAmount": 1136000,
+      "parcelNum": "6434-618-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית+חמישית",
+      "assetArea": 130.8,
+      "yearBuilt": 1996,
+      "streetCode": 69000316,
+      "settlmentID": 6900,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8685,
+      "row_id": 53
+    },
+    {
+      "assetId": 80170007.0,
+      "addressId": 53722340,
+      "polygonId": "52150906",
+      "neighborhoodName": "מוצקין",
+      "neighborhoodId": 65210198,
+      "address": "אסף שמחוני 7",
+      "dealDate": "2000-12-19",
+      "dealAmount": 1185000,
+      "parcelNum": "6434-620-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע + ראשונה",
+      "assetArea": 143.3,
+      "yearBuilt": 2000,
+      "streetCode": 69000371,
+      "settlmentID": 6900,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8269,
+      "row_id": 69
+    }
+  ]
+}

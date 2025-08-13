@@ -1,0 +1,5801 @@
+{
+  "neighborhood_name": "נחלת הר חב\"ד",
+  "city_name": "קריית מלאכי",
+  "transaction_count": 177,
+  "transactions": [
+    {
+      "assetId": 40091537.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2025-07-10",
+      "dealAmount": 1150000,
+      "parcelNum": "2412-8-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-07-11",
+          "dealAmount": 860000
+        }
+      ],
+      "trend": {
+        "rate": 33.7,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 20536,
+      "row_id": 1
+    },
+    {
+      "assetId": 40091703.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2025-07-01",
+      "dealAmount": 1080000,
+      "parcelNum": "2412-15-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-11-11",
+          "dealAmount": 273000
+        }
+      ],
+      "trend": {
+        "rate": 295.6,
+        "years": 17.6
+      },
+      "ownership": [],
+      "priceSM": 16615,
+      "row_id": 2
+    },
+    {
+      "assetId": 40091514.0,
+      "addressId": 72856969,
+      "polygonId": "52694125",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 75",
+      "dealDate": "2025-06-03",
+      "dealAmount": 915000,
+      "parcelNum": "2412-7-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-11-12",
+          "dealAmount": 660000
+        },
+        {
+          "dealDate": "2013-07-23",
+          "dealAmount": 432000
+        },
+        {
+          "dealDate": "2007-07-05",
+          "dealAmount": 117000
+        }
+      ],
+      "trend": {
+        "rate": 38.6,
+        "years": 5.6
+      },
+      "ownership": [],
+      "priceSM": 16339,
+      "row_id": 3
+    },
+    {
+      "assetId": 40091756.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2025-04-10",
+      "dealAmount": 1000000,
+      "parcelNum": "2412-17-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-01-25",
+          "dealAmount": 680000
+        },
+        {
+          "dealDate": "2002-11-27",
+          "dealAmount": 220000
+        }
+      ],
+      "trend": {
+        "rate": 47.1,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 19231,
+      "row_id": 4
+    },
+    {
+      "assetId": 40091767.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2025-04-09",
+      "dealAmount": 890000,
+      "parcelNum": "2412-17-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-11-20",
+          "dealAmount": 356000
+        },
+        {
+          "dealDate": "2010-11-17",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "2010-04-28",
+          "dealAmount": 185000
+        },
+        {
+          "dealDate": "2003-04-14",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 150.0,
+        "years": 12.4
+      },
+      "ownership": [],
+      "priceSM": 17115,
+      "row_id": 5
+    },
+    {
+      "assetId": 40091523.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2025-03-11",
+      "dealAmount": 895000,
+      "parcelNum": "2412-8-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-02-17",
+          "dealAmount": 440000
+        },
+        {
+          "dealDate": "2011-07-07",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2008-11-26",
+          "dealAmount": 170000
+        }
+      ],
+      "trend": {
+        "rate": 103.4,
+        "years": 12.1
+      },
+      "ownership": [],
+      "priceSM": 15982,
+      "row_id": 6
+    },
+    {
+      "assetId": 40091454.0,
+      "addressId": 72855329,
+      "polygonId": "52426808",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 5",
+      "dealDate": "2025-02-16",
+      "dealAmount": 860000,
+      "parcelNum": "2412-5-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 42.3,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-08-28",
+          "dealAmount": 163000
+        }
+      ],
+      "trend": {
+        "rate": 427.6,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 20476,
+      "row_id": 7
+    },
+    {
+      "assetId": 40091787.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2025-01-23",
+      "dealAmount": 1145000,
+      "parcelNum": "2412-18-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-05-23",
+          "dealAmount": 302000
+        }
+      ],
+      "trend": {
+        "rate": 279.1,
+        "years": 21.7
+      },
+      "ownership": [],
+      "priceSM": 17615,
+      "row_id": 8
+    },
+    {
+      "assetId": 40091763.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2025-01-22",
+      "dealAmount": 1020000,
+      "parcelNum": "2412-17-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-07-15",
+          "dealAmount": 710000
+        },
+        {
+          "dealDate": "2015-12-20",
+          "dealAmount": 575000
+        },
+        {
+          "dealDate": "2006-04-26",
+          "dealAmount": 195000
+        }
+      ],
+      "trend": {
+        "rate": 43.7,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 19615,
+      "row_id": 9
+    },
+    {
+      "assetId": 40091490.0,
+      "addressId": 72855546,
+      "polygonId": "67550025",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 3",
+      "dealDate": "2025-01-19",
+      "dealAmount": 930000,
+      "parcelNum": "2412-6-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-10-03",
+          "dealAmount": 880000
+        },
+        {
+          "dealDate": "2014-04-22",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 5.7,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 16607,
+      "row_id": 10
+    },
+    {
+      "assetId": 40091513.0,
+      "addressId": 72856969,
+      "polygonId": "52694125",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 75",
+      "dealDate": "2024-12-18",
+      "dealAmount": 1320000,
+      "parcelNum": "2412-7-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 84.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-28",
+          "dealAmount": 682000
+        },
+        {
+          "dealDate": "2012-11-27",
+          "dealAmount": 682000
+        },
+        {
+          "dealDate": "2010-12-27",
+          "dealAmount": 550000
+        }
+      ],
+      "trend": {
+        "rate": 93.5,
+        "years": 11.4
+      },
+      "ownership": [],
+      "priceSM": 15714,
+      "row_id": 11
+    },
+    {
+      "assetId": 40091660.0,
+      "addressId": 72855321,
+      "polygonId": "52661727",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 18",
+      "dealDate": "2024-10-06",
+      "dealAmount": 800000,
+      "parcelNum": "2412-13-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-04-11",
+          "dealAmount": 700000
+        },
+        {
+          "dealDate": "2019-07-02",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 14.3,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 16327,
+      "row_id": 12
+    },
+    {
+      "assetId": 40091730.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2024-09-29",
+      "dealAmount": 1030000,
+      "parcelNum": "2412-16-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19656,
+      "row_id": 13
+    },
+    {
+      "assetId": 40091380.0,
+      "addressId": 72856575,
+      "polygonId": "67579494",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 13",
+      "dealDate": "2024-09-19",
+      "dealAmount": 830000,
+      "parcelNum": "2412-2-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14664,
+      "row_id": 14
+    },
+    {
+      "assetId": 40091518.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2024-09-17",
+      "dealAmount": 1100000,
+      "parcelNum": "2412-8-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-08-31",
+          "dealAmount": 753000
+        },
+        {
+          "dealDate": "2012-01-26",
+          "dealAmount": 420000
+        }
+      ],
+      "trend": {
+        "rate": 46.1,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 19643,
+      "row_id": 15
+    },
+    {
+      "assetId": 40091592.0,
+      "addressId": 72855320,
+      "polygonId": "52581645",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 14",
+      "dealDate": "2024-09-05",
+      "dealAmount": 400000,
+      "parcelNum": "2412-11-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-01-03",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 14.3,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 8163,
+      "row_id": 16
+    },
+    {
+      "assetId": 40091799.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2024-08-27",
+      "dealAmount": 935000,
+      "parcelNum": "2412-18-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-01-25",
+          "dealAmount": 760000
+        },
+        {
+          "dealDate": "2017-12-14",
+          "dealAmount": 645000
+        }
+      ],
+      "trend": {
+        "rate": 23.0,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 14385,
+      "row_id": 17
+    },
+    {
+      "assetId": 40091790.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2024-08-04",
+      "dealAmount": 1150000,
+      "parcelNum": "2412-18-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 91.8,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12527,
+      "row_id": 18
+    },
+    {
+      "assetId": 40091674.0,
+      "addressId": 72855535,
+      "polygonId": "52648374",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 12",
+      "dealDate": "2024-08-04",
+      "dealAmount": 1015000,
+      "parcelNum": "2412-14-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-01-24",
+          "dealAmount": 665000
+        }
+      ],
+      "trend": {
+        "rate": 52.6,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 18125,
+      "row_id": 19
+    },
+    {
+      "assetId": 40091583.0,
+      "addressId": 72855320,
+      "polygonId": "52581645",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 14",
+      "dealDate": "2024-07-07",
+      "dealAmount": 855000,
+      "parcelNum": "2412-11-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17449,
+      "row_id": 20
+    },
+    {
+      "assetId": 40091673.0,
+      "addressId": 72855535,
+      "polygonId": "52648374",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 12",
+      "dealDate": "2024-07-03",
+      "dealAmount": 980000,
+      "parcelNum": "2412-14-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17314,
+      "row_id": 21
+    },
+    {
+      "assetId": 40091382.0,
+      "addressId": 72856575,
+      "polygonId": "67579494",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 13",
+      "dealDate": "2024-06-30",
+      "dealAmount": 1020000,
+      "parcelNum": "2412-2-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-12-13",
+          "dealAmount": 235000
+        }
+      ],
+      "trend": {
+        "rate": 334.0,
+        "years": 22.6
+      },
+      "ownership": [],
+      "priceSM": 18214,
+      "row_id": 22
+    },
+    {
+      "assetId": 40112149.0,
+      "addressId": 72855542,
+      "polygonId": "67555987",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "בן גוריון 83",
+      "dealDate": "2024-05-21",
+      "dealAmount": 1500000,
+      "parcelNum": "2473-24-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 112.34,
+      "yearBuilt": 1985,
+      "streetCode": 10340103,
+      "settlmentID": 1034,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-12-27",
+          "dealAmount": 1085000
+        },
+        {
+          "dealDate": "2016-07-27",
+          "dealAmount": 1155000
+        }
+      ],
+      "trend": {
+        "rate": 38.2,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 13393,
+      "row_id": 23
+    },
+    {
+      "assetId": 40091720.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2024-04-16",
+      "dealAmount": 975000,
+      "parcelNum": "2412-16-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-11-10",
+          "dealAmount": 670000
+        },
+        {
+          "dealDate": "2014-09-01",
+          "dealAmount": 520000
+        },
+        {
+          "dealDate": "2010-04-13",
+          "dealAmount": 340000
+        }
+      ],
+      "trend": {
+        "rate": 45.5,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 18750,
+      "row_id": 24
+    },
+    {
+      "assetId": 40091681.0,
+      "addressId": 72855535,
+      "polygonId": "52648374",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 12",
+      "dealDate": "2024-04-08",
+      "dealAmount": 900000,
+      "parcelNum": "2412-14-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-01-28",
+          "dealAmount": 430000
+        }
+      ],
+      "trend": {
+        "rate": 109.3,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 16071,
+      "row_id": 25
+    },
+    {
+      "assetId": 40091679.0,
+      "addressId": 72855535,
+      "polygonId": "52648374",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 12",
+      "dealDate": "2024-04-04",
+      "dealAmount": 980000,
+      "parcelNum": "2412-14-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-21",
+          "dealAmount": 355000
+        },
+        {
+          "dealDate": "1998-11-24",
+          "dealAmount": 260000
+        }
+      ],
+      "trend": {
+        "rate": 176.1,
+        "years": 13.6
+      },
+      "ownership": [],
+      "priceSM": 17500,
+      "row_id": 26
+    },
+    {
+      "assetId": 40091577.0,
+      "addressId": 72855320,
+      "polygonId": "52581645",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 14",
+      "dealDate": "2024-03-22",
+      "dealAmount": 900000,
+      "parcelNum": "2412-11-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18367,
+      "row_id": 27
+    },
+    {
+      "assetId": 40091711.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2024-02-22",
+      "dealAmount": 450000,
+      "parcelNum": "2412-15-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6849,
+      "row_id": 28
+    },
+    {
+      "assetId": 40091519.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2023-12-10",
+      "dealAmount": 1200000,
+      "parcelNum": "2412-8-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-31",
+          "dealAmount": 960000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 1.9
+      },
+      "ownership": [],
+      "priceSM": 21429,
+      "row_id": 29
+    },
+    {
+      "assetId": 40112141.0,
+      "addressId": 72856974,
+      "polygonId": "67555987",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 2",
+      "dealDate": "2023-11-10",
+      "dealAmount": 1400000,
+      "parcelNum": "2473-24-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 100.54,
+      "yearBuilt": 1985,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13925,
+      "row_id": 30
+    },
+    {
+      "assetId": 40091781.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2023-09-27",
+      "dealAmount": 890000,
+      "parcelNum": "2412-18-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13546,
+      "row_id": 31
+    },
+    {
+      "assetId": 40091797.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2023-08-21",
+      "dealAmount": 920000,
+      "parcelNum": "2412-18-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14003,
+      "row_id": 32
+    },
+    {
+      "assetId": 40091487.0,
+      "addressId": 72855546,
+      "polygonId": "67550025",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 3",
+      "dealDate": "2023-08-08",
+      "dealAmount": 850000,
+      "parcelNum": "2412-6-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-12-11",
+          "dealAmount": 270000
+        },
+        {
+          "dealDate": "2007-07-25",
+          "dealAmount": 127000
+        },
+        {
+          "dealDate": "2004-01-08",
+          "dealAmount": 210000
+        },
+        {
+          "dealDate": "1999-05-06",
+          "dealAmount": 205000
+        }
+      ],
+      "trend": {
+        "rate": 214.8,
+        "years": 14.7
+      },
+      "ownership": [],
+      "priceSM": 15179,
+      "row_id": 33
+    },
+    {
+      "assetId": 40091599.0,
+      "addressId": 72855320,
+      "polygonId": "52581645",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 14",
+      "dealDate": "2023-07-29",
+      "dealAmount": 950000,
+      "parcelNum": "2412-11-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-02-21",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 137.5,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 19388,
+      "row_id": 34
+    },
+    {
+      "assetId": 40091521.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2023-06-20",
+      "dealAmount": 1220000,
+      "parcelNum": "2412-8-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-10-25",
+          "dealAmount": 825000
+        },
+        {
+          "dealDate": "2017-09-28",
+          "dealAmount": 865000
+        }
+      ],
+      "trend": {
+        "rate": 47.9,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 21786,
+      "row_id": 35
+    },
+    {
+      "assetId": 40091725.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2023-05-04",
+      "dealAmount": 755000,
+      "parcelNum": "2412-16-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-02-11",
+          "dealAmount": 139000
+        },
+        {
+          "dealDate": "1998-12-08",
+          "dealAmount": 192000
+        }
+      ],
+      "trend": {
+        "rate": 443.2,
+        "years": 15.2
+      },
+      "ownership": [],
+      "priceSM": 14519,
+      "row_id": 36
+    },
+    {
+      "assetId": 40091704.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2023-05-03",
+      "dealAmount": 920000,
+      "parcelNum": "2412-15-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14003,
+      "row_id": 37
+    },
+    {
+      "assetId": 40091515.0,
+      "addressId": 72856969,
+      "polygonId": "52694125",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 75",
+      "dealDate": "2023-04-30",
+      "dealAmount": 1100000,
+      "parcelNum": "2412-7-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19573,
+      "row_id": 38
+    },
+    {
+      "assetId": 40112163.0,
+      "addressId": 72855530,
+      "polygonId": "2473-25",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 8",
+      "dealDate": "2023-04-23",
+      "dealAmount": 1275000,
+      "parcelNum": "2473-25-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 94.25,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13528,
+      "row_id": 39
+    },
+    {
+      "assetId": 40091796.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2023-03-06",
+      "dealAmount": 980000,
+      "parcelNum": "2412-18-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-11-05",
+          "dealAmount": 257000
+        }
+      ],
+      "trend": {
+        "rate": 281.3,
+        "years": 22.3
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 323400
+        },
+        {
+          "proportion": "33",
+          "price": 323400
+        },
+        {
+          "proportion": "33",
+          "price": 323400
+        }
+      ],
+      "priceSM": 15077,
+      "row_id": 40
+    },
+    {
+      "assetId": 40112134.0,
+      "addressId": 72855702,
+      "polygonId": "67579565",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "בן גוריון 85",
+      "dealDate": "2023-02-28",
+      "dealAmount": 1360000,
+      "parcelNum": "2473-23-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 102.1,
+      "yearBuilt": 1992,
+      "streetCode": 10340103,
+      "settlmentID": 1034,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13320,
+      "row_id": 41
+    },
+    {
+      "assetId": 40091699.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2023-02-21",
+      "dealAmount": 865000,
+      "parcelNum": "2412-15-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-08",
+          "dealAmount": 740000
+        },
+        {
+          "dealDate": "2016-06-26",
+          "dealAmount": 610000
+        },
+        {
+          "dealDate": "2010-06-23",
+          "dealAmount": 280000
+        }
+      ],
+      "trend": {
+        "rate": 16.9,
+        "years": 1.3
+      },
+      "ownership": [],
+      "priceSM": 13308,
+      "row_id": 42
+    },
+    {
+      "assetId": 40091613.0,
+      "addressId": 72855551,
+      "polygonId": "52683151",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 16",
+      "dealDate": "2022-12-13",
+      "dealAmount": 990000,
+      "parcelNum": "2412-12-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-10-14",
+          "dealAmount": 477000
+        },
+        {
+          "dealDate": "2015-01-01",
+          "dealAmount": 250000
+        },
+        {
+          "dealDate": "1999-09-03",
+          "dealAmount": 234000
+        }
+      ],
+      "trend": {
+        "rate": 107.5,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 20204,
+      "row_id": 43
+    },
+    {
+      "assetId": 40091554.0,
+      "addressId": 72855326,
+      "polygonId": "53452949",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 1",
+      "dealDate": "2022-12-08",
+      "dealAmount": 276000,
+      "parcelNum": "2412-9-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 41.6,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6635,
+      "row_id": 44
+    },
+    {
+      "assetId": 40112159.0,
+      "addressId": 72855530,
+      "polygonId": "2473-25",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 8",
+      "dealDate": "2022-09-15",
+      "dealAmount": 950000,
+      "parcelNum": "2473-25-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 99.85,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9514,
+      "row_id": 45
+    },
+    {
+      "assetId": 40091545.0,
+      "addressId": 72855326,
+      "polygonId": "53452949",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 1",
+      "dealDate": "2022-08-22",
+      "dealAmount": 800000,
+      "parcelNum": "2412-9-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.6,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19231,
+      "row_id": 46
+    },
+    {
+      "assetId": 40091590.0,
+      "addressId": 72855320,
+      "polygonId": "52581645",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 14",
+      "dealDate": "2022-08-18",
+      "dealAmount": 828000,
+      "parcelNum": "2412-11-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-06-30",
+          "dealAmount": 130000
+        },
+        {
+          "dealDate": "2002-07-02",
+          "dealAmount": 102000
+        }
+      ],
+      "trend": {
+        "rate": 536.9,
+        "years": 14.1
+      },
+      "ownership": [],
+      "priceSM": 16898,
+      "row_id": 47
+    },
+    {
+      "assetId": 40091539.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2022-08-07",
+      "dealAmount": 176000,
+      "parcelNum": "2412-8-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3132,
+      "row_id": 48
+    },
+    {
+      "assetId": 40091489.0,
+      "addressId": 72855546,
+      "polygonId": "67550025",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 3",
+      "dealDate": "2022-07-04",
+      "dealAmount": 750000,
+      "parcelNum": "2412-6-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13251,
+      "row_id": 49
+    },
+    {
+      "assetId": 40112143.0,
+      "addressId": 72856974,
+      "polygonId": "67555987",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 2",
+      "dealDate": "2022-06-27",
+      "dealAmount": 1080000,
+      "parcelNum": "2473-24-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 88.5,
+      "yearBuilt": 1985,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12203,
+      "row_id": 50
+    },
+    {
+      "assetId": 40091697.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2022-06-22",
+      "dealAmount": 850000,
+      "parcelNum": "2412-15-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-09-27",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2009-12-20",
+          "dealAmount": 180000
+        },
+        {
+          "dealDate": "2008-08-12",
+          "dealAmount": 140000
+        }
+      ],
+      "trend": {
+        "rate": 88.9,
+        "years": 10.7
+      },
+      "ownership": [],
+      "priceSM": 13077,
+      "row_id": 51
+    },
+    {
+      "assetId": 40091420.0,
+      "addressId": 72855327,
+      "polygonId": "52655488",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 11",
+      "dealDate": "2022-04-27",
+      "dealAmount": 600000,
+      "parcelNum": "2412-3-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 38.2,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-18",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "2013-05-06",
+          "dealAmount": 230000
+        }
+      ],
+      "trend": {
+        "rate": 57.9,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 15789,
+      "row_id": 52
+    },
+    {
+      "assetId": 40091651.0,
+      "addressId": 72855321,
+      "polygonId": "52661727",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 18",
+      "dealDate": "2022-04-21",
+      "dealAmount": 459000,
+      "parcelNum": "2412-13-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 49.0,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9367,
+      "row_id": 53
+    },
+    {
+      "assetId": 40091793.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2022-04-10",
+      "dealAmount": 860000,
+      "parcelNum": "2412-18-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13090,
+      "row_id": 54
+    },
+    {
+      "assetId": 40091666.0,
+      "addressId": 72855321,
+      "polygonId": "52661727",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 18",
+      "dealDate": "2022-03-06",
+      "dealAmount": 216000,
+      "parcelNum": "2412-13-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4408,
+      "row_id": 55
+    },
+    {
+      "assetId": 40091778.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2022-02-21",
+      "dealAmount": 910000,
+      "parcelNum": "2412-18-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-05-17",
+          "dealAmount": 795000
+        }
+      ],
+      "trend": {
+        "rate": 14.5,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 14000,
+      "row_id": 56
+    },
+    {
+      "assetId": 40091444.0,
+      "addressId": 72855329,
+      "polygonId": "52426808",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 5",
+      "dealDate": "2022-02-06",
+      "dealAmount": 196000,
+      "parcelNum": "2412-5-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 42.3,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4634,
+      "row_id": 57
+    },
+    {
+      "assetId": 40091517.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2021-12-27",
+      "dealAmount": 900000,
+      "parcelNum": "2412-8-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 89.1,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-02-22",
+          "dealAmount": 850000
+        },
+        {
+          "dealDate": "2008-11-09",
+          "dealAmount": 407000
+        }
+      ],
+      "trend": {
+        "rate": 5.9,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 10112,
+      "row_id": 58
+    },
+    {
+      "assetId": 40091693.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2021-12-22",
+      "dealAmount": 680000,
+      "parcelNum": "2412-15-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-05-02",
+          "dealAmount": 226000
+        }
+      ],
+      "trend": {
+        "rate": 200.9,
+        "years": 20.7
+      },
+      "ownership": [],
+      "priceSM": 10462,
+      "row_id": 59
+    },
+    {
+      "assetId": 40091502.0,
+      "addressId": 72856969,
+      "polygonId": "52694125",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 75",
+      "dealDate": "2021-12-14",
+      "dealAmount": 400000,
+      "parcelNum": "2412-7-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-05-14",
+          "dealAmount": 119000
+        },
+        {
+          "dealDate": "2004-04-25",
+          "dealAmount": 196000
+        }
+      ],
+      "trend": {
+        "rate": 236.1,
+        "years": 14.6
+      },
+      "ownership": [],
+      "priceSM": 7143,
+      "row_id": 60
+    },
+    {
+      "assetId": 4599052.0,
+      "addressId": 72852491,
+      "polygonId": "65938742",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הרבי מליובאוויטש 2",
+      "dealDate": "2021-12-10",
+      "dealAmount": 2530000,
+      "parcelNum": "2412-39-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 227.0,
+      "yearBuilt": 2013,
+      "streetCode": 10340151,
+      "settlmentID": 1034,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11145,
+      "row_id": 61
+    },
+    {
+      "assetId": 40091614.0,
+      "addressId": 72855551,
+      "polygonId": "52683151",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 16",
+      "dealDate": "2021-11-29",
+      "dealAmount": 720000,
+      "parcelNum": "2412-12-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-06-27",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2013-08-21",
+          "dealAmount": 395000
+        },
+        {
+          "dealDate": "2009-09-29",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2008-07-09",
+          "dealAmount": 140000
+        }
+      ],
+      "trend": {
+        "rate": 10.8,
+        "years": 3.4
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 360000
+        },
+        {
+          "proportion": "50",
+          "price": 360000
+        }
+      ],
+      "priceSM": 14694,
+      "row_id": 62
+    },
+    {
+      "assetId": 40091716.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2021-09-17",
+      "dealAmount": 600000,
+      "parcelNum": "2412-15-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-06-19",
+          "dealAmount": 363000
+        }
+      ],
+      "trend": {
+        "rate": 65.3,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 9231,
+      "row_id": 63
+    },
+    {
+      "assetId": 40091764.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2021-08-26",
+      "dealAmount": 735000,
+      "parcelNum": "2412-17-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-03-13",
+          "dealAmount": 680000
+        },
+        {
+          "dealDate": "2014-02-18",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 8.1,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 14135,
+      "row_id": 64
+    },
+    {
+      "assetId": 40091530.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2021-08-12",
+      "dealAmount": 720000,
+      "parcelNum": "2412-8-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-12-18",
+          "dealAmount": 700000
+        },
+        {
+          "dealDate": "2014-10-30",
+          "dealAmount": 494000
+        }
+      ],
+      "trend": {
+        "rate": 2.9,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 12857,
+      "row_id": 65
+    },
+    {
+      "assetId": 40091520.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2021-08-04",
+      "dealAmount": 800000,
+      "parcelNum": "2412-8-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14235,
+      "row_id": 66
+    },
+    {
+      "assetId": 40091393.0,
+      "addressId": 72855327,
+      "polygonId": "52655488",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 11",
+      "dealDate": "2021-06-27",
+      "dealAmount": 650000,
+      "parcelNum": "2412-3-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-06-24",
+          "dealAmount": 650000
+        },
+        {
+          "dealDate": "2019-05-13",
+          "dealAmount": 690000
+        },
+        {
+          "dealDate": "2012-06-13",
+          "dealAmount": 418000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 13265,
+      "row_id": 67
+    },
+    {
+      "assetId": 40091747.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2021-06-24",
+      "dealAmount": 720000,
+      "parcelNum": "2412-17-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13740,
+      "row_id": 68
+    },
+    {
+      "assetId": 40091560.0,
+      "addressId": 72855549,
+      "polygonId": "52558060",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 7",
+      "dealDate": "2021-06-22",
+      "dealAmount": 277000,
+      "parcelNum": "2412-10-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6659,
+      "row_id": 69
+    },
+    {
+      "assetId": 40091700.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2021-06-18",
+      "dealAmount": 635000,
+      "parcelNum": "2412-15-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9665,
+      "row_id": 70
+    },
+    {
+      "assetId": 40091395.0,
+      "addressId": 72855327,
+      "polygonId": "52655488",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 11",
+      "dealDate": "2021-06-15",
+      "dealAmount": 400000,
+      "parcelNum": "2412-3-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 38.2,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10471,
+      "row_id": 71
+    },
+    {
+      "assetId": 40091610.0,
+      "addressId": 72855551,
+      "polygonId": "52683151",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 16",
+      "dealDate": "2021-03-10",
+      "dealAmount": 651000,
+      "parcelNum": "2412-12-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-05-28",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 62.7,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 13286,
+      "row_id": 72
+    },
+    {
+      "assetId": 40091425.0,
+      "addressId": 72855647,
+      "polygonId": "67561821",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 9",
+      "dealDate": "2021-03-04",
+      "dealAmount": 760000,
+      "parcelNum": "2412-4-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-11-20",
+          "dealAmount": 700000
+        },
+        {
+          "dealDate": "2011-04-12",
+          "dealAmount": 445000
+        },
+        {
+          "dealDate": "2010-11-15",
+          "dealAmount": 299000
+        }
+      ],
+      "trend": {
+        "rate": 8.6,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 13571,
+      "row_id": 73
+    },
+    {
+      "assetId": 40091654.0,
+      "addressId": 72855321,
+      "polygonId": "52661727",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 18",
+      "dealDate": "2021-02-03",
+      "dealAmount": 650000,
+      "parcelNum": "2412-13-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 49.0,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-09-16",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2008-02-27",
+          "dealAmount": 123000
+        },
+        {
+          "dealDate": "2001-03-15",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 91.2,
+        "years": 10.4
+      },
+      "ownership": [],
+      "priceSM": 13265,
+      "row_id": 74
+    },
+    {
+      "assetId": 40091439.0,
+      "addressId": 72855647,
+      "polygonId": "67561821",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 9",
+      "dealDate": "2021-01-07",
+      "dealAmount": 650000,
+      "parcelNum": "2412-4-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-31",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2014-06-29",
+          "dealAmount": 410000
+        }
+      ],
+      "trend": {
+        "rate": 18.2,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 11607,
+      "row_id": 75
+    },
+    {
+      "assetId": 40091553.0,
+      "addressId": 72855326,
+      "polygonId": "53452949",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 1",
+      "dealDate": "2020-12-13",
+      "dealAmount": 155000,
+      "parcelNum": "2412-9-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 41.6,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3726,
+      "row_id": 76
+    },
+    {
+      "assetId": 40091497.0,
+      "addressId": 72856969,
+      "polygonId": "52694125",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 75",
+      "dealDate": "2020-12-06",
+      "dealAmount": 710000,
+      "parcelNum": "2412-7-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-01-06",
+          "dealAmount": 565000
+        },
+        {
+          "dealDate": "2014-03-30",
+          "dealAmount": 410000
+        }
+      ],
+      "trend": {
+        "rate": 25.7,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 12679,
+      "row_id": 77
+    },
+    {
+      "assetId": 40091527.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2020-11-18",
+      "dealAmount": 980000,
+      "parcelNum": "2412-8-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 91.9,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-08-22",
+          "dealAmount": 760000
+        }
+      ],
+      "trend": {
+        "rate": 28.9,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 10769,
+      "row_id": 78
+    },
+    {
+      "assetId": 40091448.0,
+      "addressId": 72855329,
+      "polygonId": "52426808",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 5",
+      "dealDate": "2020-11-10",
+      "dealAmount": 201000,
+      "parcelNum": "2412-5-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 42.3,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4752,
+      "row_id": 79
+    },
+    {
+      "assetId": 40091714.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2020-09-09",
+      "dealAmount": 730000,
+      "parcelNum": "2412-15-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11111,
+      "row_id": 80
+    },
+    {
+      "assetId": 40091619.0,
+      "addressId": 72855551,
+      "polygonId": "52683151",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 16",
+      "dealDate": "2020-09-03",
+      "dealAmount": 550000,
+      "parcelNum": "2412-12-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-06-23",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "1999-08-29",
+          "dealAmount": 235000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 0.2
+      },
+      "ownership": [],
+      "priceSM": 11224,
+      "row_id": 81
+    },
+    {
+      "assetId": 40091783.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2020-09-02",
+      "dealAmount": 645000,
+      "parcelNum": "2412-18-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-09-29",
+          "dealAmount": 640000
+        }
+      ],
+      "trend": {
+        "rate": 0.8,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 9923,
+      "row_id": 82
+    },
+    {
+      "assetId": 40091471.0,
+      "addressId": 72855329,
+      "polygonId": "52426808",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 5",
+      "dealDate": "2020-04-19",
+      "dealAmount": 221000,
+      "parcelNum": "2412-5-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 42.3,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5225,
+      "row_id": 83
+    },
+    {
+      "assetId": 40091689.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2020-01-16",
+      "dealAmount": 730000,
+      "parcelNum": "2412-15-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-06-08",
+          "dealAmount": 615000
+        },
+        {
+          "dealDate": "2004-12-24",
+          "dealAmount": 264000
+        }
+      ],
+      "trend": {
+        "rate": 18.7,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 11231,
+      "row_id": 84
+    },
+    {
+      "assetId": 40112154.0,
+      "addressId": 72855530,
+      "polygonId": "2473-25",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 8",
+      "dealDate": "2020-01-08",
+      "dealAmount": 849000,
+      "parcelNum": "2473-25-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.05,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8486,
+      "row_id": 85
+    },
+    {
+      "assetId": 40091485.0,
+      "addressId": 72855546,
+      "polygonId": "67550025",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 3",
+      "dealDate": "2019-12-12",
+      "dealAmount": 750000,
+      "parcelNum": "2412-6-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-02-23",
+          "dealAmount": 562000
+        },
+        {
+          "dealDate": "2013-04-23",
+          "dealAmount": 418000
+        }
+      ],
+      "trend": {
+        "rate": 33.5,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 13393,
+      "row_id": 86
+    },
+    {
+      "assetId": 40091692.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2019-12-01",
+      "dealAmount": 240000,
+      "parcelNum": "2412-15-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3653,
+      "row_id": 87
+    },
+    {
+      "assetId": 40091378.0,
+      "addressId": 72856575,
+      "polygonId": "67579494",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 13",
+      "dealDate": "2019-11-27",
+      "dealAmount": 740000,
+      "parcelNum": "2412-2-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-13",
+          "dealAmount": 415000
+        },
+        {
+          "dealDate": "2008-06-13",
+          "dealAmount": 230000
+        },
+        {
+          "dealDate": "2007-05-28",
+          "dealAmount": 100000
+        }
+      ],
+      "trend": {
+        "rate": 78.3,
+        "years": 9.0
+      },
+      "ownership": [],
+      "priceSM": 13214,
+      "row_id": 88
+    },
+    {
+      "assetId": 40091684.0,
+      "addressId": 72855535,
+      "polygonId": "52648374",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 12",
+      "dealDate": "2019-10-24",
+      "dealAmount": 500000,
+      "parcelNum": "2412-14-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8834,
+      "row_id": 89
+    },
+    {
+      "assetId": 40091480.0,
+      "addressId": 72855546,
+      "polygonId": "67550025",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 3",
+      "dealDate": "2019-09-29",
+      "dealAmount": 590000,
+      "parcelNum": "2412-6-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10424,
+      "row_id": 90
+    },
+    {
+      "assetId": 40091373.0,
+      "addressId": 72856575,
+      "polygonId": "67579494",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 13",
+      "dealDate": "2019-09-26",
+      "dealAmount": 600000,
+      "parcelNum": "2412-2-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-06-23",
+          "dealAmount": 237000
+        }
+      ],
+      "trend": {
+        "rate": 153.2,
+        "years": 11.3
+      },
+      "ownership": [],
+      "priceSM": 10714,
+      "row_id": 91
+    },
+    {
+      "assetId": 40091512.0,
+      "addressId": 72856969,
+      "polygonId": "52694125",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 75",
+      "dealDate": "2019-08-12",
+      "dealAmount": 720000,
+      "parcelNum": "2412-7-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-03-29",
+          "dealAmount": 699000
+        },
+        {
+          "dealDate": "2013-08-05",
+          "dealAmount": 437000
+        }
+      ],
+      "trend": {
+        "rate": 3.0,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 12857,
+      "row_id": 92
+    },
+    {
+      "assetId": 40091618.0,
+      "addressId": 72855551,
+      "polygonId": "52683151",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 16",
+      "dealDate": "2019-07-04",
+      "dealAmount": 630000,
+      "parcelNum": "2412-12-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-10-20",
+          "dealAmount": 480000
+        },
+        {
+          "dealDate": "2003-10-20",
+          "dealAmount": 212000
+        }
+      ],
+      "trend": {
+        "rate": 31.2,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 12857,
+      "row_id": 93
+    },
+    {
+      "assetId": 40091564.0,
+      "addressId": 72855549,
+      "polygonId": "52558060",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 7",
+      "dealDate": "2019-07-04",
+      "dealAmount": 580000,
+      "parcelNum": "2412-10-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 41.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13942,
+      "row_id": 94
+    },
+    {
+      "assetId": 40091630.0,
+      "addressId": 72855551,
+      "polygonId": "52683151",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 16",
+      "dealDate": "2019-06-13",
+      "dealAmount": 500000,
+      "parcelNum": "2412-12-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-10-28",
+          "dealAmount": 92000
+        },
+        {
+          "dealDate": "2001-10-15",
+          "dealAmount": 227000
+        }
+      ],
+      "trend": {
+        "rate": 443.5,
+        "years": 10.6
+      },
+      "ownership": [],
+      "priceSM": 10204,
+      "row_id": 95
+    },
+    {
+      "assetId": 40112133.0,
+      "addressId": 72855702,
+      "polygonId": "67579565",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "בן גוריון 85",
+      "dealDate": "2019-06-13",
+      "dealAmount": 1100000,
+      "parcelNum": "2473-23-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 102.2,
+      "yearBuilt": 1992,
+      "streetCode": 10340103,
+      "settlmentID": 1034,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10763,
+      "row_id": 96
+    },
+    {
+      "assetId": 40091458.0,
+      "addressId": 72855329,
+      "polygonId": "52426808",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 5",
+      "dealDate": "2019-02-28",
+      "dealAmount": 384000,
+      "parcelNum": "2412-5-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 42.3,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9078,
+      "row_id": 97
+    },
+    {
+      "assetId": 40091531.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2018-12-17",
+      "dealAmount": 670000,
+      "parcelNum": "2412-8-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-07-07",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2013-12-31",
+          "dealAmount": 437000
+        },
+        {
+          "dealDate": "2010-12-20",
+          "dealAmount": 390000
+        }
+      ],
+      "trend": {
+        "rate": 34.0,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 11964,
+      "row_id": 98
+    },
+    {
+      "assetId": 40091715.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2018-07-09",
+      "dealAmount": 770000,
+      "parcelNum": "2412-15-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-03-26",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": 185.2,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 11846,
+      "row_id": 99
+    },
+    {
+      "assetId": 40091731.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2018-06-21",
+      "dealAmount": 670000,
+      "parcelNum": "2412-16-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-04-19",
+          "dealAmount": 535000
+        }
+      ],
+      "trend": {
+        "rate": 25.2,
+        "years": 2.2
+      },
+      "ownership": [],
+      "priceSM": 12885,
+      "row_id": 100
+    },
+    {
+      "assetId": 40091542.0,
+      "addressId": 72855326,
+      "polygonId": "53452949",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 1",
+      "dealDate": "2018-05-24",
+      "dealAmount": 645000,
+      "parcelNum": "2412-9-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.6,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15505,
+      "row_id": 101
+    },
+    {
+      "assetId": 40091410.0,
+      "addressId": 72855327,
+      "polygonId": "52655488",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 11",
+      "dealDate": "2017-11-27",
+      "dealAmount": 660000,
+      "parcelNum": "2412-3-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-22",
+          "dealAmount": 420000
+        },
+        {
+          "dealDate": "2010-10-24",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 57.1,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 13469,
+      "row_id": 102
+    },
+    {
+      "assetId": 40091728.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2017-11-13",
+      "dealAmount": 275000,
+      "parcelNum": "2412-16-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5248,
+      "row_id": 103
+    },
+    {
+      "assetId": 40091607.0,
+      "addressId": 72855551,
+      "polygonId": "52683151",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 16",
+      "dealDate": "2017-09-24",
+      "dealAmount": 680000,
+      "parcelNum": "2412-12-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-07-06",
+          "dealAmount": 493000
+        },
+        {
+          "dealDate": "2013-11-21",
+          "dealAmount": 389000
+        },
+        {
+          "dealDate": "2012-09-20",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2011-10-26",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2010-01-27",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2002-01-02",
+          "dealAmount": 221000
+        }
+      ],
+      "trend": {
+        "rate": 37.9,
+        "years": 0.2
+      },
+      "ownership": [],
+      "priceSM": 13878,
+      "row_id": 104
+    },
+    {
+      "assetId": 40091721.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2017-09-19",
+      "dealAmount": 650000,
+      "parcelNum": "2412-16-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-01-28",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 30.0,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 105
+    },
+    {
+      "assetId": 40091609.0,
+      "addressId": 72855551,
+      "polygonId": "52683151",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 16",
+      "dealDate": "2017-07-20",
+      "dealAmount": 550000,
+      "parcelNum": "2412-12-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-05",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2008-07-22",
+          "dealAmount": 165000
+        }
+      ],
+      "trend": {
+        "rate": 83.3,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 11224,
+      "row_id": 106
+    },
+    {
+      "assetId": 40091499.0,
+      "addressId": 72856969,
+      "polygonId": "52694125",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 75",
+      "dealDate": "2017-05-15",
+      "dealAmount": 700000,
+      "parcelNum": "2412-7-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12456,
+      "row_id": 107
+    },
+    {
+      "assetId": 40091773.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2017-05-10",
+      "dealAmount": 750000,
+      "parcelNum": "2412-18-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11416,
+      "row_id": 108
+    },
+    {
+      "assetId": 40091771.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2017-05-08",
+      "dealAmount": 775000,
+      "parcelNum": "2412-18-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-04-13",
+          "dealAmount": 290000
+        }
+      ],
+      "trend": {
+        "rate": 167.2,
+        "years": 18.1
+      },
+      "ownership": [],
+      "priceSM": 11923,
+      "row_id": 109
+    },
+    {
+      "assetId": 40091445.0,
+      "addressId": 72855329,
+      "polygonId": "52426808",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 5",
+      "dealDate": "2017-04-05",
+      "dealAmount": 475000,
+      "parcelNum": "2412-5-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 42.3,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-03-23",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2010-11-30",
+          "dealAmount": 335000
+        }
+      ],
+      "trend": {
+        "rate": 18.8,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 11310,
+      "row_id": 110
+    },
+    {
+      "assetId": 40091383.0,
+      "addressId": 72856575,
+      "polygonId": "67579494",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 13",
+      "dealDate": "2017-02-16",
+      "dealAmount": 688000,
+      "parcelNum": "2412-2-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-10-31",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "1999-05-23",
+          "dealAmount": 197000
+        }
+      ],
+      "trend": {
+        "rate": 72.0,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 12286,
+      "row_id": 111
+    },
+    {
+      "assetId": 40091536.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2017-02-05",
+      "dealAmount": 835000,
+      "parcelNum": "2412-8-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14858,
+      "row_id": 112
+    },
+    {
+      "assetId": 40091675.0,
+      "addressId": 72855535,
+      "polygonId": "52648374",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 12",
+      "dealDate": "2016-11-17",
+      "dealAmount": 650000,
+      "parcelNum": "2412-14-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-01-31",
+          "dealAmount": 364000
+        }
+      ],
+      "trend": {
+        "rate": 78.6,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 11607,
+      "row_id": 113
+    },
+    {
+      "assetId": 40091421.0,
+      "addressId": 72855327,
+      "polygonId": "52655488",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 11",
+      "dealDate": "2016-11-17",
+      "dealAmount": 525000,
+      "parcelNum": "2412-3-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-09-09",
+          "dealAmount": 366000
+        }
+      ],
+      "trend": {
+        "rate": 43.4,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 10714,
+      "row_id": 114
+    },
+    {
+      "assetId": 40091559.0,
+      "addressId": 72855549,
+      "polygonId": "52558060",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 7",
+      "dealDate": "2016-11-07",
+      "dealAmount": 540000,
+      "parcelNum": "2412-10-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12981,
+      "row_id": 115
+    },
+    {
+      "assetId": 40091707.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2016-07-19",
+      "dealAmount": 539000,
+      "parcelNum": "2412-15-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-03-01",
+          "dealAmount": 535000
+        },
+        {
+          "dealDate": "2013-08-25",
+          "dealAmount": 485000
+        },
+        {
+          "dealDate": "2012-09-13",
+          "dealAmount": 415000
+        },
+        {
+          "dealDate": "2011-03-07",
+          "dealAmount": 335000
+        }
+      ],
+      "trend": {
+        "rate": 0.7,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 8292,
+      "row_id": 116
+    },
+    {
+      "assetId": 40091761.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2016-06-22",
+      "dealAmount": 630000,
+      "parcelNum": "2412-17-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12023,
+      "row_id": 117
+    },
+    {
+      "assetId": 40091416.0,
+      "addressId": 72855327,
+      "polygonId": "52655488",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 11",
+      "dealDate": "2016-06-16",
+      "dealAmount": 420000,
+      "parcelNum": "2412-3-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 38.2,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10995,
+      "row_id": 118
+    },
+    {
+      "assetId": 40091602.0,
+      "addressId": 72855320,
+      "polygonId": "52581645",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 14",
+      "dealDate": "2016-03-13",
+      "dealAmount": 440000,
+      "parcelNum": "2412-11-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-03-22",
+          "dealAmount": 195000
+        }
+      ],
+      "trend": {
+        "rate": 125.6,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 8980,
+      "row_id": 119
+    },
+    {
+      "assetId": 40091737.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2016-03-02",
+      "dealAmount": 570000,
+      "parcelNum": "2412-16-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-05-19",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2008-05-03",
+          "dealAmount": 150000
+        }
+      ],
+      "trend": {
+        "rate": 90.0,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 10962,
+      "row_id": 120
+    },
+    {
+      "assetId": 40091762.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2016-01-20",
+      "dealAmount": 560000,
+      "parcelNum": "2412-17-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-05-19",
+          "dealAmount": 560000
+        },
+        {
+          "dealDate": "2008-09-10",
+          "dealAmount": 160000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 4.7
+      },
+      "ownership": [],
+      "priceSM": 10769,
+      "row_id": 121
+    },
+    {
+      "assetId": 40091636.0,
+      "addressId": 72855551,
+      "polygonId": "52683151",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 16",
+      "dealDate": "2015-12-21",
+      "dealAmount": 450000,
+      "parcelNum": "2412-12-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-07",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2003-12-07",
+          "dealAmount": 100000
+        }
+      ],
+      "trend": {
+        "rate": 12.5,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 9184,
+      "row_id": 122
+    },
+    {
+      "assetId": 40091428.0,
+      "addressId": 72855647,
+      "polygonId": "67561821",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 9",
+      "dealDate": "2015-11-11",
+      "dealAmount": 540000,
+      "parcelNum": "2412-4-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9541,
+      "row_id": 123
+    },
+    {
+      "assetId": 40112162.0,
+      "addressId": 72855530,
+      "polygonId": "2473-25",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 8",
+      "dealDate": "2015-10-18",
+      "dealAmount": 575000,
+      "parcelNum": "2473-25-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 94.25,
+      "yearBuilt": 1980,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6101,
+      "row_id": 124
+    },
+    {
+      "assetId": 40091736.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2015-09-02",
+      "dealAmount": 518000,
+      "parcelNum": "2412-16-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9885,
+      "row_id": 125
+    },
+    {
+      "assetId": 40091658.0,
+      "addressId": 72855321,
+      "polygonId": "52661727",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 18",
+      "dealDate": "2015-08-18",
+      "dealAmount": 480000,
+      "parcelNum": "2412-13-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 49.0,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-06-08",
+          "dealAmount": 236000
+        }
+      ],
+      "trend": {
+        "rate": 103.4,
+        "years": 14.2
+      },
+      "ownership": [],
+      "priceSM": 9796,
+      "row_id": 126
+    },
+    {
+      "assetId": 40091724.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2015-08-04",
+      "dealAmount": 492000,
+      "parcelNum": "2412-16-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-09-09",
+          "dealAmount": 115000
+        }
+      ],
+      "trend": {
+        "rate": 327.8,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 9462,
+      "row_id": 127
+    },
+    {
+      "assetId": 40091757.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2015-07-13",
+      "dealAmount": 550000,
+      "parcelNum": "2412-17-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-24",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 83.3,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 10577,
+      "row_id": 128
+    },
+    {
+      "assetId": 40091437.0,
+      "addressId": 72855647,
+      "polygonId": "67561821",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 9",
+      "dealDate": "2015-07-02",
+      "dealAmount": 488000,
+      "parcelNum": "2412-4-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-11-21",
+          "dealAmount": 432000
+        }
+      ],
+      "trend": {
+        "rate": 13.0,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 8714,
+      "row_id": 129
+    },
+    {
+      "assetId": 40091754.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2014-12-24",
+      "dealAmount": 414000,
+      "parcelNum": "2412-17-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7901,
+      "row_id": 130
+    },
+    {
+      "assetId": 40091748.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2014-12-03",
+      "dealAmount": 455000,
+      "parcelNum": "2412-17-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8683,
+      "row_id": 131
+    },
+    {
+      "assetId": 40091800.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2014-11-02",
+      "dealAmount": 440000,
+      "parcelNum": "2412-18-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-01-08",
+          "dealAmount": 243000
+        }
+      ],
+      "trend": {
+        "rate": 81.1,
+        "years": 15.8
+      },
+      "ownership": [],
+      "priceSM": 6769,
+      "row_id": 132
+    },
+    {
+      "assetId": 40091670.0,
+      "addressId": 72855535,
+      "polygonId": "52648374",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 12",
+      "dealDate": "2014-09-07",
+      "dealAmount": 560000,
+      "parcelNum": "2412-14-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-24",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 55.6,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 133
+    },
+    {
+      "assetId": 40091621.0,
+      "addressId": 72855551,
+      "polygonId": "52683151",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 16",
+      "dealDate": "2014-06-24",
+      "dealAmount": 350000,
+      "parcelNum": "2412-12-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-06-23",
+          "dealAmount": 305000
+        },
+        {
+          "dealDate": "2008-07-02",
+          "dealAmount": 90000
+        },
+        {
+          "dealDate": "1999-08-13",
+          "dealAmount": 235000
+        }
+      ],
+      "trend": {
+        "rate": 14.8,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 7143,
+      "row_id": 134
+    },
+    {
+      "assetId": 40091580.0,
+      "addressId": 72855320,
+      "polygonId": "52581645",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 14",
+      "dealDate": "2014-05-19",
+      "dealAmount": 200000,
+      "parcelNum": "2412-11-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4082,
+      "row_id": 135
+    },
+    {
+      "assetId": 40091435.0,
+      "addressId": 72855647,
+      "polygonId": "67561821",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 9",
+      "dealDate": "2014-05-07",
+      "dealAmount": 310000,
+      "parcelNum": "2412-4-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5477,
+      "row_id": 136
+    },
+    {
+      "assetId": 40112124.0,
+      "addressId": 72855702,
+      "polygonId": "67579565",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "בן גוריון 85",
+      "dealDate": "2014-04-02",
+      "dealAmount": 800000,
+      "parcelNum": "2473-23-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 108.9,
+      "yearBuilt": 1992,
+      "streetCode": 10340103,
+      "settlmentID": 1034,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7346,
+      "row_id": 137
+    },
+    {
+      "assetId": 40091388.0,
+      "addressId": 72856575,
+      "polygonId": "67579494",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 13",
+      "dealDate": "2014-02-11",
+      "dealAmount": 384000,
+      "parcelNum": "2412-2-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6784,
+      "row_id": 138
+    },
+    {
+      "assetId": 40091772.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2013-12-26",
+      "dealAmount": 594000,
+      "parcelNum": "2412-18-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9041,
+      "row_id": 139
+    },
+    {
+      "assetId": 40091637.0,
+      "addressId": 72855551,
+      "polygonId": "52683151",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 16",
+      "dealDate": "2013-12-11",
+      "dealAmount": 360000,
+      "parcelNum": "2412-12-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-06-30",
+          "dealAmount": 186000
+        }
+      ],
+      "trend": {
+        "rate": 93.5,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 7347,
+      "row_id": 140
+    },
+    {
+      "assetId": 40091638.0,
+      "addressId": 72855551,
+      "polygonId": "52683151",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 16",
+      "dealDate": "2013-11-19",
+      "dealAmount": 350000,
+      "parcelNum": "2412-12-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-06-30",
+          "dealAmount": 150000
+        }
+      ],
+      "trend": {
+        "rate": 133.3,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 7143,
+      "row_id": 141
+    },
+    {
+      "assetId": 40091482.0,
+      "addressId": 72855546,
+      "polygonId": "67550025",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 3",
+      "dealDate": "2013-10-30",
+      "dealAmount": 560000,
+      "parcelNum": "2412-6-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-10",
+          "dealAmount": 475000
+        }
+      ],
+      "trend": {
+        "rate": 17.9,
+        "years": 0.6
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 142
+    },
+    {
+      "assetId": 40091696.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2013-08-23",
+      "dealAmount": 505000,
+      "parcelNum": "2412-15-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7686,
+      "row_id": 143
+    },
+    {
+      "assetId": 40091405.0,
+      "addressId": 72855327,
+      "polygonId": "52655488",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 11",
+      "dealDate": "2013-04-30",
+      "dealAmount": 580000,
+      "parcelNum": "2412-3-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-14",
+          "dealAmount": 240000
+        },
+        {
+          "dealDate": "2008-07-28",
+          "dealAmount": 113000
+        },
+        {
+          "dealDate": "2001-12-13",
+          "dealAmount": 236000
+        }
+      ],
+      "trend": {
+        "rate": 141.7,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 11837,
+      "row_id": 144
+    },
+    {
+      "assetId": 40091486.0,
+      "addressId": 72855546,
+      "polygonId": "67550025",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 3",
+      "dealDate": "2013-03-19",
+      "dealAmount": 429000,
+      "parcelNum": "2412-6-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7580,
+      "row_id": 145
+    },
+    {
+      "assetId": 40091500.0,
+      "addressId": 72856969,
+      "polygonId": "52694125",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 75",
+      "dealDate": "2013-03-06",
+      "dealAmount": 500000,
+      "parcelNum": "2412-7-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-15",
+          "dealAmount": 384000
+        },
+        {
+          "dealDate": "2007-10-21",
+          "dealAmount": 241000
+        },
+        {
+          "dealDate": "2000-07-24",
+          "dealAmount": 55000
+        }
+      ],
+      "trend": {
+        "rate": 30.2,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 8929,
+      "row_id": 146
+    },
+    {
+      "assetId": 40091652.0,
+      "addressId": 72855321,
+      "polygonId": "52661727",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 18",
+      "dealDate": "2013-02-21",
+      "dealAmount": 360000,
+      "parcelNum": "2412-13-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-20",
+          "dealAmount": 270000
+        },
+        {
+          "dealDate": "2009-04-26",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 33.3,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 7347,
+      "row_id": 147
+    },
+    {
+      "assetId": 40091739.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2013-01-24",
+      "dealAmount": 264000,
+      "parcelNum": "2412-16-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5038,
+      "row_id": 148
+    },
+    {
+      "assetId": 40112153.0,
+      "addressId": 72855530,
+      "polygonId": "2473-25",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 8",
+      "dealDate": "2013-01-07",
+      "dealAmount": 350000,
+      "parcelNum": "2473-25-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.05,
+      "yearBuilt": 1980,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3498,
+      "row_id": 149
+    },
+    {
+      "assetId": 40091717.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2013-01-06",
+      "dealAmount": 410000,
+      "parcelNum": "2412-15-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-06-13",
+          "dealAmount": 170000
+        }
+      ],
+      "trend": {
+        "rate": 141.2,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 6308,
+      "row_id": 150
+    },
+    {
+      "assetId": 40091406.0,
+      "addressId": 72855327,
+      "polygonId": "52655488",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 11",
+      "dealDate": "2012-12-09",
+      "dealAmount": 382000,
+      "parcelNum": "2412-3-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-07-05",
+          "dealAmount": 115000
+        },
+        {
+          "dealDate": "2000-05-17",
+          "dealAmount": 248000
+        }
+      ],
+      "trend": {
+        "rate": 232.2,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 7796,
+      "row_id": 151
+    },
+    {
+      "assetId": 40091534.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2012-10-30",
+      "dealAmount": 650000,
+      "parcelNum": "2412-8-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-21",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 85.7,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 11607,
+      "row_id": 152
+    },
+    {
+      "assetId": 40091533.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2012-10-30",
+      "dealAmount": 700000,
+      "parcelNum": "2412-8-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-21",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2005-09-19",
+          "dealAmount": 377000
+        }
+      ],
+      "trend": {
+        "rate": 250.0,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 153
+    },
+    {
+      "assetId": 40091741.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2012-07-06",
+      "dealAmount": 285000,
+      "parcelNum": "2412-16-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5439,
+      "row_id": 154
+    },
+    {
+      "assetId": 40091481.0,
+      "addressId": 72855546,
+      "polygonId": "67550025",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 3",
+      "dealDate": "2011-09-12",
+      "dealAmount": 424000,
+      "parcelNum": "2412-6-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7491,
+      "row_id": 155
+    },
+    {
+      "assetId": 40091442.0,
+      "addressId": 72855329,
+      "polygonId": "52426808",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 5",
+      "dealDate": "2011-07-20",
+      "dealAmount": 340000,
+      "parcelNum": "2412-5-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 42.3,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-04-01",
+          "dealAmount": 125000
+        }
+      ],
+      "trend": {
+        "rate": 172.0,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 8095,
+      "row_id": 156
+    },
+    {
+      "assetId": 40091791.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2011-01-25",
+      "dealAmount": 370000,
+      "parcelNum": "2412-18-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5632,
+      "row_id": 157
+    },
+    {
+      "assetId": 40091705.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2011-01-14",
+      "dealAmount": 390000,
+      "parcelNum": "2412-15-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5936,
+      "row_id": 158
+    },
+    {
+      "assetId": 40091375.0,
+      "addressId": 72856575,
+      "polygonId": "67579494",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 13",
+      "dealDate": "2010-11-02",
+      "dealAmount": 380000,
+      "parcelNum": "2412-2-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6714,
+      "row_id": 159
+    },
+    {
+      "assetId": 40091397.0,
+      "addressId": 72855327,
+      "polygonId": "52655488",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 11",
+      "dealDate": "2010-08-24",
+      "dealAmount": 230000,
+      "parcelNum": "2412-3-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4694,
+      "row_id": 160
+    },
+    {
+      "assetId": 40091775.0,
+      "addressId": 72855318,
+      "polygonId": "52451797",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "נחלת הר חב\"ד 10",
+      "dealDate": "2010-05-06",
+      "dealAmount": 195000,
+      "parcelNum": "2412-18-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10340148,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2968,
+      "row_id": 161
+    },
+    {
+      "assetId": 40091719.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2010-02-07",
+      "dealAmount": 325000,
+      "parcelNum": "2412-16-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-02-14",
+          "dealAmount": 217000
+        }
+      ],
+      "trend": {
+        "rate": 49.8,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 6250,
+      "row_id": 162
+    },
+    {
+      "assetId": 40091683.0,
+      "addressId": 72855535,
+      "polygonId": "52648374",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 12",
+      "dealDate": "2009-12-14",
+      "dealAmount": 170000,
+      "parcelNum": "2412-14-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-12-05",
+          "dealAmount": 112000
+        },
+        {
+          "dealDate": "1999-09-06",
+          "dealAmount": 236000
+        }
+      ],
+      "trend": {
+        "rate": 51.8,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 3036,
+      "row_id": 163
+    },
+    {
+      "assetId": 40091436.0,
+      "addressId": 72855647,
+      "polygonId": "67561821",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 9",
+      "dealDate": "2009-11-29",
+      "dealAmount": 270000,
+      "parcelNum": "2412-4-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-11",
+          "dealAmount": 105000
+        },
+        {
+          "dealDate": "2006-08-01",
+          "dealAmount": 232000
+        }
+      ],
+      "trend": {
+        "rate": 157.1,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 4821,
+      "row_id": 164
+    },
+    {
+      "assetId": 40091694.0,
+      "addressId": 72855319,
+      "polygonId": "52678579",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 10",
+      "dealDate": "2009-11-04",
+      "dealAmount": 115000,
+      "parcelNum": "2412-15-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.7,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1750,
+      "row_id": 165
+    },
+    {
+      "assetId": 40091544.0,
+      "addressId": 72855326,
+      "polygonId": "53452949",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 1",
+      "dealDate": "2009-10-26",
+      "dealAmount": 235000,
+      "parcelNum": "2412-9-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.6,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5649,
+      "row_id": 166
+    },
+    {
+      "assetId": 40091411.0,
+      "addressId": 72855327,
+      "polygonId": "52655488",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 11",
+      "dealDate": "2009-08-30",
+      "dealAmount": 240000,
+      "parcelNum": "2412-3-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 85.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2824,
+      "row_id": 167
+    },
+    {
+      "assetId": 40091604.0,
+      "addressId": 72855320,
+      "polygonId": "52581645",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 14",
+      "dealDate": "2009-07-13",
+      "dealAmount": 152000,
+      "parcelNum": "2412-11-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3102,
+      "row_id": 168
+    },
+    {
+      "assetId": 40091750.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2009-06-15",
+      "dealAmount": 217000,
+      "parcelNum": "2412-17-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4141,
+      "row_id": 169
+    },
+    {
+      "assetId": 40091726.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2009-05-07",
+      "dealAmount": 195000,
+      "parcelNum": "2412-16-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3721,
+      "row_id": 170
+    },
+    {
+      "assetId": 40091753.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2009-03-27",
+      "dealAmount": 260000,
+      "parcelNum": "2412-17-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-03-22",
+          "dealAmount": 251000
+        }
+      ],
+      "trend": {
+        "rate": 3.6,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 171
+    },
+    {
+      "assetId": 40091438.0,
+      "addressId": 72855647,
+      "polygonId": "67561821",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 9",
+      "dealDate": "2008-10-29",
+      "dealAmount": 190000,
+      "parcelNum": "2412-4-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 56.6,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-11-24",
+          "dealAmount": 148000
+        }
+      ],
+      "trend": {
+        "rate": 28.4,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 3393,
+      "row_id": 172
+    },
+    {
+      "assetId": 40091413.0,
+      "addressId": 72855327,
+      "polygonId": "52655488",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 11",
+      "dealDate": "2008-10-28",
+      "dealAmount": 80000,
+      "parcelNum": "2412-3-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1633,
+      "row_id": 173
+    },
+    {
+      "assetId": 40091653.0,
+      "addressId": 72855321,
+      "polygonId": "52661727",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 18",
+      "dealDate": "2007-06-12",
+      "dealAmount": 62000,
+      "parcelNum": "2412-13-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 49.0,
+      "yearBuilt": 1960,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1265,
+      "row_id": 174
+    },
+    {
+      "assetId": 40091740.0,
+      "addressId": 72855543,
+      "polygonId": "52667567",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 8",
+      "dealDate": "2007-05-06",
+      "dealAmount": 58000,
+      "parcelNum": "2412-16-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1107,
+      "row_id": 175
+    },
+    {
+      "assetId": 40091749.0,
+      "addressId": 72855323,
+      "polygonId": "52448236",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "הבעל שם טוב 6",
+      "dealDate": "2006-12-08",
+      "dealAmount": 146000,
+      "parcelNum": "2412-17-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 10346001,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2786,
+      "row_id": 176
+    },
+    {
+      "assetId": 40091538.0,
+      "addressId": 72855419,
+      "polygonId": "52649276",
+      "neighborhoodName": "נחלת הר חב\"ד",
+      "neighborhoodId": 65211090,
+      "address": "ירושלים 73",
+      "dealDate": "2004-10-14",
+      "dealAmount": 232000,
+      "parcelNum": "2412-8-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 56.2,
+      "yearBuilt": 1970,
+      "streetCode": 10340137,
+      "settlmentID": 1034,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4128,
+      "row_id": 177
+    }
+  ]
+}

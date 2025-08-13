@@ -1,0 +1,6035 @@
+{
+  "neighborhood_name": "גבעת המטוס",
+  "city_name": "ירושלים",
+  "transaction_count": 171,
+  "transactions": [
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-07-24",
+      "dealAmount": 1457000,
+      "parcelNum": "30287-21-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18212,
+      "row_id": 1
+    },
+    {
+      "assetId": 30157459.0,
+      "addressId": 0,
+      "polygonId": "30287-106",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-07-15",
+      "dealAmount": 1445000,
+      "parcelNum": "30287-106-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-07-15",
+          "dealAmount": 1875000
+        }
+      ],
+      "trend": {
+        "rate": -22.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14745,
+      "row_id": 2
+    },
+    {
+      "assetId": 30157459.0,
+      "addressId": 0,
+      "polygonId": "30287-106",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-06-30",
+      "dealAmount": 2940000,
+      "parcelNum": "30287-106-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 35854,
+      "row_id": 3
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-05-13",
+      "dealAmount": 4010000,
+      "parcelNum": "30287-93-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 131.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30611,
+      "row_id": 4
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-05-08",
+      "dealAmount": 1418000,
+      "parcelNum": "30287-71-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 77.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18416,
+      "row_id": 5
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-05-07",
+      "dealAmount": 1408000,
+      "parcelNum": "30287-71-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 76.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18526,
+      "row_id": 6
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-05-06",
+      "dealAmount": 1893000,
+      "parcelNum": "30287-93-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 97.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19515,
+      "row_id": 7
+    },
+    {
+      "assetId": 30157459.0,
+      "addressId": 0,
+      "polygonId": "30287-106",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-04-29",
+      "dealAmount": 1908000,
+      "parcelNum": "30287-106-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19469,
+      "row_id": 8
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-04-27",
+      "dealAmount": 1408000,
+      "parcelNum": "30287-71-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 76.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18526,
+      "row_id": 9
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-04-09",
+      "dealAmount": 3661000,
+      "parcelNum": "30287-93-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29056,
+      "row_id": 10
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-04-06",
+      "dealAmount": 3940000,
+      "parcelNum": "30287-93-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31270,
+      "row_id": 11
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-03-31",
+      "dealAmount": 3969000,
+      "parcelNum": "30287-60-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-03-31",
+          "dealAmount": 5943000
+        }
+      ],
+      "trend": {
+        "rate": -33.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 31500,
+      "row_id": 12
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-03-27",
+      "dealAmount": 1403000,
+      "parcelNum": "30287-71-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 77.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-03-27",
+          "dealAmount": 1417000
+        }
+      ],
+      "trend": {
+        "rate": -1.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18221,
+      "row_id": 13
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-03-26",
+      "dealAmount": 1417000,
+      "parcelNum": "30287-71-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 77.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-03-26",
+          "dealAmount": 1403000
+        }
+      ],
+      "trend": {
+        "rate": 1.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18403,
+      "row_id": 14
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-03-25",
+      "dealAmount": 1403000,
+      "parcelNum": "30287-71-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 77.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-03-25",
+          "dealAmount": 1501000
+        }
+      ],
+      "trend": {
+        "rate": -6.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18221,
+      "row_id": 15
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-03-24",
+      "dealAmount": 1417000,
+      "parcelNum": "30287-71-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 77.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-03-24",
+          "dealAmount": 1438000
+        },
+        {
+          "dealDate": "2025-03-24",
+          "dealAmount": 1403000
+        }
+      ],
+      "trend": {
+        "rate": -1.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18403,
+      "row_id": 16
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-03-20",
+      "dealAmount": 3590000,
+      "parcelNum": "30287-60-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 99.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 36263,
+      "row_id": 17
+    },
+    {
+      "assetId": 30157459.0,
+      "addressId": 0,
+      "polygonId": "30287-106",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-03-12",
+      "dealAmount": 1878000,
+      "parcelNum": "30287-106-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19163,
+      "row_id": 18
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-03-10",
+      "dealAmount": 1503000,
+      "parcelNum": "30287-71-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 82.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18329,
+      "row_id": 19
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-03-09",
+      "dealAmount": 1570000,
+      "parcelNum": "30287-71-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 81.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19383,
+      "row_id": 20
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-03-06",
+      "dealAmount": 1517000,
+      "parcelNum": "30287-71-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 83.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18277,
+      "row_id": 21
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-03-03",
+      "dealAmount": 1552000,
+      "parcelNum": "30287-71-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 83.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18699,
+      "row_id": 22
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-02-27",
+      "dealAmount": 3767000,
+      "parcelNum": "30287-21-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 47088,
+      "row_id": 23
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-02-25",
+      "dealAmount": 2079000,
+      "parcelNum": "30287-71-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 108.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-02-25",
+          "dealAmount": 1480000
+        },
+        {
+          "dealDate": "2025-02-25",
+          "dealAmount": 2033000
+        },
+        {
+          "dealDate": "2025-02-25",
+          "dealAmount": 1514000
+        },
+        {
+          "dealDate": "2025-02-25",
+          "dealAmount": 1397000
+        },
+        {
+          "dealDate": "2025-02-25",
+          "dealAmount": 1967000
+        }
+      ],
+      "trend": {
+        "rate": 40.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 19250,
+      "row_id": 24
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-02-24",
+      "dealAmount": 3849000,
+      "parcelNum": "30287-93-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 127.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30307,
+      "row_id": 25
+    },
+    {
+      "assetId": 30157459.0,
+      "addressId": 0,
+      "polygonId": "30287-106",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-02-20",
+      "dealAmount": 2950000,
+      "parcelNum": "30287-106-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 35976,
+      "row_id": 26
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-02-18",
+      "dealAmount": 3503000,
+      "parcelNum": "30287-60-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 35745,
+      "row_id": 27
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-02-16",
+      "dealAmount": 3864000,
+      "parcelNum": "30287-93-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-02-16",
+          "dealAmount": 4960000
+        }
+      ],
+      "trend": {
+        "rate": -22.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 30667,
+      "row_id": 30
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-02-13",
+      "dealAmount": 1443000,
+      "parcelNum": "30287-71-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 83.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-02-13",
+          "dealAmount": 1434000
+        },
+        {
+          "dealDate": "2025-02-13",
+          "dealAmount": 1408000
+        },
+        {
+          "dealDate": "2025-02-13",
+          "dealAmount": 1465000
+        },
+        {
+          "dealDate": "2025-02-13",
+          "dealAmount": 1479000
+        },
+        {
+          "dealDate": "2025-02-13",
+          "dealAmount": 1409000
+        },
+        {
+          "dealDate": "2025-02-13",
+          "dealAmount": 1512000
+        },
+        {
+          "dealDate": "2025-02-13",
+          "dealAmount": 1374000
+        },
+        {
+          "dealDate": "2025-02-13",
+          "dealAmount": 1472000
+        },
+        {
+          "dealDate": "2025-02-13",
+          "dealAmount": 1499000
+        },
+        {
+          "dealDate": "2025-02-13",
+          "dealAmount": 1362000
+        }
+      ],
+      "trend": {
+        "rate": 0.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 17386,
+      "row_id": 31
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-02-12",
+      "dealAmount": 1524000,
+      "parcelNum": "30287-71-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 108.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-02-12",
+          "dealAmount": 1536000
+        },
+        {
+          "dealDate": "2025-02-12",
+          "dealAmount": 1442000
+        },
+        {
+          "dealDate": "2025-02-12",
+          "dealAmount": 1750000
+        },
+        {
+          "dealDate": "2025-02-12",
+          "dealAmount": 1476000
+        },
+        {
+          "dealDate": "2025-02-12",
+          "dealAmount": 1479000
+        },
+        {
+          "dealDate": "2025-02-12",
+          "dealAmount": 1465000
+        },
+        {
+          "dealDate": "2025-02-12",
+          "dealAmount": 1906000
+        }
+      ],
+      "trend": {
+        "rate": -0.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14111,
+      "row_id": 32
+    },
+    {
+      "assetId": 30157459.0,
+      "addressId": 0,
+      "polygonId": "30287-106",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-02-12",
+      "dealAmount": 1873000,
+      "parcelNum": "30287-106-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-02-12",
+          "dealAmount": 1610000
+        }
+      ],
+      "trend": {
+        "rate": 16.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 19112,
+      "row_id": 33
+    },
+    {
+      "assetId": 30157424.0,
+      "addressId": 53807558,
+      "polygonId": "52425955",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 191",
+      "dealDate": "2025-02-11",
+      "dealAmount": 1505000,
+      "parcelNum": "30287-71-77",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 108.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1550000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1823000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1523000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1548000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1950000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1906000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1796000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1534000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1750000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1442000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1993000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1939000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1408000
+        },
+        {
+          "dealDate": "2025-02-11",
+          "dealAmount": 1820000
+        }
+      ],
+      "trend": {
+        "rate": -2.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 13935,
+      "row_id": 34
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-02-06",
+      "dealAmount": 4383000,
+      "parcelNum": "30287-60-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 44724,
+      "row_id": 35
+    },
+    {
+      "assetId": 30157459.0,
+      "addressId": 0,
+      "polygonId": "30287-106",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-01-30",
+      "dealAmount": 1532000,
+      "parcelNum": "30287-106-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19150,
+      "row_id": 36
+    },
+    {
+      "assetId": 30157459.0,
+      "addressId": 0,
+      "polygonId": "30287-106",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-01-28",
+      "dealAmount": 1867000,
+      "parcelNum": "30287-106-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1895000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1628000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1845000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1840000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1858000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1862000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1882000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1866000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1551000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1617000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1595000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1863000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1872000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1594000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1608000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1893000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1610000
+        },
+        {
+          "dealDate": "2025-01-28",
+          "dealAmount": 1849000
+        }
+      ],
+      "trend": {
+        "rate": -1.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 19051,
+      "row_id": 37
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-01-23",
+      "dealAmount": 1449000,
+      "parcelNum": "30287-21-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18112,
+      "row_id": 38
+    },
+    {
+      "assetId": 30157459.0,
+      "addressId": 0,
+      "polygonId": "30287-106",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-01-20",
+      "dealAmount": 1526000,
+      "parcelNum": "30287-106-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-01-20",
+          "dealAmount": 1561000
+        },
+        {
+          "dealDate": "2025-01-20",
+          "dealAmount": 1578000
+        },
+        {
+          "dealDate": "2025-01-20",
+          "dealAmount": 1573000
+        }
+      ],
+      "trend": {
+        "rate": -2.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 19075,
+      "row_id": 40
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-01-16",
+      "dealAmount": 4590000,
+      "parcelNum": "30287-21-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 46837,
+      "row_id": 41
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2025-01-09",
+      "dealAmount": 1444000,
+      "parcelNum": "30287-21-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18050,
+      "row_id": 43
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-12-31",
+      "dealAmount": 3842000,
+      "parcelNum": "30287-93-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30492,
+      "row_id": 44
+    },
+    {
+      "assetId": 30157459.0,
+      "addressId": 0,
+      "polygonId": "30287-106",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-12-31",
+      "dealAmount": 1911000,
+      "parcelNum": "30287-106-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 125.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1896000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1562000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1837000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1841000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1864000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1899000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 4682000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1492000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1819000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1834000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1824000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1530100
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1587000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1630000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1900000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1865000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 2294000
+        },
+        {
+          "dealDate": "2024-12-31",
+          "dealAmount": 1836000
+        }
+      ],
+      "trend": {
+        "rate": 0.8,
+        "years": 0.0
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 955500
+        },
+        {
+          "proportion": "50",
+          "price": 955500
+        }
+      ],
+      "priceSM": 15288,
+      "row_id": 45
+    },
+    {
+      "assetId": 30157459.0,
+      "addressId": 0,
+      "polygonId": "30287-106",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-12-30",
+      "dealAmount": 2398000,
+      "parcelNum": "30287-106-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1549500
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 2364300
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1597000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1858000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1173000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 817000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1881000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 928000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1900100
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1822100
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 2372400
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1637000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 810000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1882000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1895000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1827100
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1592000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1851000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 1889000
+        },
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 938000
+        }
+      ],
+      "trend": {
+        "rate": 54.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 19032,
+      "row_id": 46
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-12-30",
+      "dealAmount": 3780000,
+      "parcelNum": "30287-60-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 123.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-12-30",
+          "dealAmount": 3590000
+        }
+      ],
+      "trend": {
+        "rate": 5.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 30732,
+      "row_id": 47
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-12-29",
+      "dealAmount": 3830000,
+      "parcelNum": "30287-93-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-12-29",
+          "dealAmount": 2842000
+        }
+      ],
+      "trend": {
+        "rate": 34.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 30397,
+      "row_id": 48
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-12-26",
+      "dealAmount": 1463000,
+      "parcelNum": "30287-21-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18288,
+      "row_id": 49
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-12-26",
+      "dealAmount": 3910000,
+      "parcelNum": "30287-93-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשירית",
+      "assetArea": 127.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30787,
+      "row_id": 50
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-12-24",
+      "dealAmount": 3835000,
+      "parcelNum": "30287-93-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-12-24",
+          "dealAmount": 3868000
+        }
+      ],
+      "trend": {
+        "rate": -0.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 30437,
+      "row_id": 51
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-12-16",
+      "dealAmount": 2796000,
+      "parcelNum": "30287-93-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשירית",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 35392,
+      "row_id": 52
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-12-11",
+      "dealAmount": 1447000,
+      "parcelNum": "30287-21-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-12-11",
+          "dealAmount": 1457000
+        },
+        {
+          "dealDate": "2024-12-11",
+          "dealAmount": 1454000
+        }
+      ],
+      "trend": {
+        "rate": -0.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18088,
+      "row_id": 53
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-12-04",
+      "dealAmount": 1454000,
+      "parcelNum": "30287-21-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-12-04",
+          "dealAmount": 1465000
+        }
+      ],
+      "trend": {
+        "rate": -0.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18175,
+      "row_id": 54
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-12-02",
+      "dealAmount": 1792000,
+      "parcelNum": "30287-21-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18286,
+      "row_id": 55
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-11-28",
+      "dealAmount": 1916000,
+      "parcelNum": "30287-21-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23950,
+      "row_id": 56
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-11-28",
+      "dealAmount": 1456000,
+      "parcelNum": "30287-93-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18200,
+      "row_id": 57
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-11-27",
+      "dealAmount": 3707000,
+      "parcelNum": "30287-93-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29421,
+      "row_id": 58
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-11-27",
+      "dealAmount": 1485000,
+      "parcelNum": "30287-21-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-11-27",
+          "dealAmount": 1513000
+        },
+        {
+          "dealDate": "2024-11-27",
+          "dealAmount": 1444000
+        },
+        {
+          "dealDate": "2024-11-27",
+          "dealAmount": 1797000
+        },
+        {
+          "dealDate": "2024-11-27",
+          "dealAmount": 1499000
+        },
+        {
+          "dealDate": "2024-11-27",
+          "dealAmount": 1450000
+        },
+        {
+          "dealDate": "2024-11-27",
+          "dealAmount": 1766000
+        },
+        {
+          "dealDate": "2024-11-27",
+          "dealAmount": 1914000
+        },
+        {
+          "dealDate": "2024-11-27",
+          "dealAmount": 1476000
+        },
+        {
+          "dealDate": "2024-11-27",
+          "dealAmount": 1863000
+        },
+        {
+          "dealDate": "2024-11-27",
+          "dealAmount": 1454000
+        },
+        {
+          "dealDate": "2024-11-27",
+          "dealAmount": 1765000
+        }
+      ],
+      "trend": {
+        "rate": -1.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 15153,
+      "row_id": 59
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-11-24",
+      "dealAmount": 1456000,
+      "parcelNum": "30287-93-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18430,
+      "row_id": 60
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-11-21",
+      "dealAmount": 1457000,
+      "parcelNum": "30287-93-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18212,
+      "row_id": 61
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-11-12",
+      "dealAmount": 1454000,
+      "parcelNum": "30287-21-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-11-12",
+          "dealAmount": 1448000
+        },
+        {
+          "dealDate": "2024-11-12",
+          "dealAmount": 1783000
+        },
+        {
+          "dealDate": "2024-11-12",
+          "dealAmount": 1795000
+        }
+      ],
+      "trend": {
+        "rate": 0.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14837,
+      "row_id": 62
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-10-31",
+      "dealAmount": 1450000,
+      "parcelNum": "30287-21-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-10-31",
+          "dealAmount": 1766000
+        },
+        {
+          "dealDate": "2024-10-31",
+          "dealAmount": 1753000
+        },
+        {
+          "dealDate": "2024-10-31",
+          "dealAmount": 1777000
+        },
+        {
+          "dealDate": "2024-10-31",
+          "dealAmount": 1790000
+        },
+        {
+          "dealDate": "2024-10-31",
+          "dealAmount": 1770000
+        },
+        {
+          "dealDate": "2024-10-31",
+          "dealAmount": 1791000
+        },
+        {
+          "dealDate": "2024-10-31",
+          "dealAmount": 1764000
+        },
+        {
+          "dealDate": "2024-10-31",
+          "dealAmount": 1799000
+        },
+        {
+          "dealDate": "2024-10-31",
+          "dealAmount": 1457000
+        },
+        {
+          "dealDate": "2024-10-31",
+          "dealAmount": 1778000
+        }
+      ],
+      "trend": {
+        "rate": -17.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14796,
+      "row_id": 63
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-10-30",
+      "dealAmount": 1470000,
+      "parcelNum": "30287-21-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-10-30",
+          "dealAmount": 1904000
+        },
+        {
+          "dealDate": "2024-10-30",
+          "dealAmount": 1819000
+        },
+        {
+          "dealDate": "2024-10-30",
+          "dealAmount": 2214000
+        },
+        {
+          "dealDate": "2024-10-30",
+          "dealAmount": 1767000
+        },
+        {
+          "dealDate": "2024-10-30",
+          "dealAmount": 2226000
+        },
+        {
+          "dealDate": "2024-10-30",
+          "dealAmount": 2165000
+        },
+        {
+          "dealDate": "2024-10-30",
+          "dealAmount": 1892000
+        },
+        {
+          "dealDate": "2024-10-30",
+          "dealAmount": 1887000
+        },
+        {
+          "dealDate": "2024-10-30",
+          "dealAmount": 2210000
+        },
+        {
+          "dealDate": "2024-10-30",
+          "dealAmount": 1474000
+        }
+      ],
+      "trend": {
+        "rate": -22.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18375,
+      "row_id": 64
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-10-15",
+      "dealAmount": 1464000,
+      "parcelNum": "30287-93-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18532,
+      "row_id": 66
+    },
+    {
+      "assetId": 4557069.0,
+      "addressId": 53872215,
+      "polygonId": "65052266",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 53",
+      "dealDate": "2024-09-30",
+      "dealAmount": 1410000,
+      "parcelNum": "30287-1-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 83.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16988,
+      "row_id": 67
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-30",
+      "dealAmount": 1496000,
+      "parcelNum": "30287-93-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18700,
+      "row_id": 68
+    },
+    {
+      "assetId": 4557069.0,
+      "addressId": 53872215,
+      "polygonId": "65052266",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 53",
+      "dealDate": "2024-09-25",
+      "dealAmount": 1377000,
+      "parcelNum": "30287-1-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 79.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17430,
+      "row_id": 69
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-25",
+      "dealAmount": 4014000,
+      "parcelNum": "30287-93-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 127.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31606,
+      "row_id": 70
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-19",
+      "dealAmount": 1749000,
+      "parcelNum": "30287-93-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 97.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18031,
+      "row_id": 71
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-18",
+      "dealAmount": 1500000,
+      "parcelNum": "30287-93-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-09-18",
+          "dealAmount": 1486000
+        },
+        {
+          "dealDate": "2024-09-18",
+          "dealAmount": 1471000
+        },
+        {
+          "dealDate": "2024-09-18",
+          "dealAmount": 3915000
+        }
+      ],
+      "trend": {
+        "rate": 0.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18750,
+      "row_id": 72
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-16",
+      "dealAmount": 1536000,
+      "parcelNum": "30287-93-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19200,
+      "row_id": 73
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-15",
+      "dealAmount": 3975000,
+      "parcelNum": "30287-93-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשיעית",
+      "assetArea": 127.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-09-15",
+          "dealAmount": 3905000
+        },
+        {
+          "dealDate": "2024-09-15",
+          "dealAmount": 3890000
+        }
+      ],
+      "trend": {
+        "rate": 1.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 31299,
+      "row_id": 74
+    },
+    {
+      "assetId": 4337939.0,
+      "addressId": 0,
+      "polygonId": "30287-33",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-12",
+      "dealAmount": 26861000,
+      "parcelNum": "30287-33-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 7278.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3691,
+      "row_id": 75
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-12",
+      "dealAmount": 1492000,
+      "parcelNum": "30287-93-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18886,
+      "row_id": 76
+    },
+    {
+      "assetId": 4557069.0,
+      "addressId": 53872215,
+      "polygonId": "65052266",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 53",
+      "dealDate": "2024-09-09",
+      "dealAmount": 3780000,
+      "parcelNum": "30287-1-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 122.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30984,
+      "row_id": 77
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-09",
+      "dealAmount": 1437000,
+      "parcelNum": "30287-60-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-09-09",
+          "dealAmount": 1448000
+        },
+        {
+          "dealDate": "2024-09-09",
+          "dealAmount": 1431000
+        },
+        {
+          "dealDate": "2024-09-09",
+          "dealAmount": 1442000
+        }
+      ],
+      "trend": {
+        "rate": -0.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 17962,
+      "row_id": 78
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-05",
+      "dealAmount": 1517000,
+      "parcelNum": "30287-93-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18962,
+      "row_id": 79
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-05",
+      "dealAmount": 1437000,
+      "parcelNum": "30287-60-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 78.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18423,
+      "row_id": 80
+    },
+    {
+      "assetId": 4557069.0,
+      "addressId": 53872215,
+      "polygonId": "65052266",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 53",
+      "dealDate": "2024-09-04",
+      "dealAmount": 1382000,
+      "parcelNum": "30287-1-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 83.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16651,
+      "row_id": 81
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-03",
+      "dealAmount": 2162000,
+      "parcelNum": "30287-60-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 124.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-09-03",
+          "dealAmount": 1766000
+        }
+      ],
+      "trend": {
+        "rate": 22.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 17435,
+      "row_id": 82
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-09-02",
+      "dealAmount": 2136000,
+      "parcelNum": "30287-60-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 124.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17226,
+      "row_id": 83
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-29",
+      "dealAmount": 2805000,
+      "parcelNum": "30287-93-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-08-29",
+          "dealAmount": 1447000
+        },
+        {
+          "dealDate": "2024-08-29",
+          "dealAmount": 1754000
+        },
+        {
+          "dealDate": "2024-08-29",
+          "dealAmount": 1456000
+        },
+        {
+          "dealDate": "2024-08-29",
+          "dealAmount": 1451000
+        },
+        {
+          "dealDate": "2024-08-29",
+          "dealAmount": 1486000
+        },
+        {
+          "dealDate": "2024-08-29",
+          "dealAmount": 1773000
+        }
+      ],
+      "trend": {
+        "rate": 93.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 28622,
+      "row_id": 84
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-29",
+      "dealAmount": 1452000,
+      "parcelNum": "30287-60-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-08-29",
+          "dealAmount": 1751000
+        }
+      ],
+      "trend": {
+        "rate": -17.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14816,
+      "row_id": 85
+    },
+    {
+      "assetId": 4557069.0,
+      "addressId": 53872215,
+      "polygonId": "65052266",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 53",
+      "dealDate": "2024-08-29",
+      "dealAmount": 1380000,
+      "parcelNum": "30287-1-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 82.0,
+      "yearBuilt": 2028,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16829,
+      "row_id": 86
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-28",
+      "dealAmount": 1788000,
+      "parcelNum": "30287-93-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 127.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1800000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 2234000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 2323000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1436000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1434000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1786000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1508000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1506000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1455000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1501000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1745000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1753000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1444000
+        }
+      ],
+      "trend": {
+        "rate": -0.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14079,
+      "row_id": 87
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-28",
+      "dealAmount": 1787000,
+      "parcelNum": "30287-60-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 99.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1441000
+        },
+        {
+          "dealDate": "2024-08-28",
+          "dealAmount": 1417000
+        }
+      ],
+      "trend": {
+        "rate": 24.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18051,
+      "row_id": 88
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-27",
+      "dealAmount": 1434000,
+      "parcelNum": "30287-93-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-08-27",
+          "dealAmount": 1700000
+        },
+        {
+          "dealDate": "2024-08-27",
+          "dealAmount": 1747000
+        },
+        {
+          "dealDate": "2024-08-27",
+          "dealAmount": 1777000
+        },
+        {
+          "dealDate": "2024-08-27",
+          "dealAmount": 1807000
+        },
+        {
+          "dealDate": "2024-08-27",
+          "dealAmount": 1838000
+        },
+        {
+          "dealDate": "2024-08-27",
+          "dealAmount": 1787000
+        },
+        {
+          "dealDate": "2024-08-27",
+          "dealAmount": 1498000
+        },
+        {
+          "dealDate": "2024-08-27",
+          "dealAmount": 1808000
+        },
+        {
+          "dealDate": "2024-08-27",
+          "dealAmount": 1798000
+        },
+        {
+          "dealDate": "2024-08-27",
+          "dealAmount": 2322000
+        },
+        {
+          "dealDate": "2024-08-27",
+          "dealAmount": 1495000
+        },
+        {
+          "dealDate": "2024-08-27",
+          "dealAmount": 1831000
+        }
+      ],
+      "trend": {
+        "rate": -15.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18152,
+      "row_id": 89
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-25",
+      "dealAmount": 1757000,
+      "parcelNum": "30287-60-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-08-25",
+          "dealAmount": 1472000
+        }
+      ],
+      "trend": {
+        "rate": 19.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 17929,
+      "row_id": 90
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-22",
+      "dealAmount": 1455000,
+      "parcelNum": "30287-60-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18418,
+      "row_id": 91
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-20",
+      "dealAmount": 1769000,
+      "parcelNum": "30287-60-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18051,
+      "row_id": 92
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-20",
+      "dealAmount": 1455000,
+      "parcelNum": "30287-93-74",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18188,
+      "row_id": 93
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-19",
+      "dealAmount": 1764000,
+      "parcelNum": "30287-60-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-08-19",
+          "dealAmount": 1769000
+        },
+        {
+          "dealDate": "2024-08-19",
+          "dealAmount": 1441000
+        },
+        {
+          "dealDate": "2024-08-19",
+          "dealAmount": 1449000
+        },
+        {
+          "dealDate": "2024-08-19",
+          "dealAmount": 1400000
+        },
+        {
+          "dealDate": "2024-08-19",
+          "dealAmount": 1462000
+        },
+        {
+          "dealDate": "2024-08-19",
+          "dealAmount": 1812000
+        },
+        {
+          "dealDate": "2024-08-19",
+          "dealAmount": 1455000
+        },
+        {
+          "dealDate": "2024-08-19",
+          "dealAmount": 1788000
+        },
+        {
+          "dealDate": "2024-08-19",
+          "dealAmount": 1482000
+        },
+        {
+          "dealDate": "2024-08-19",
+          "dealAmount": 1459000
+        },
+        {
+          "dealDate": "2024-08-19",
+          "dealAmount": 1817000
+        }
+      ],
+      "trend": {
+        "rate": -0.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18000,
+      "row_id": 94
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-18",
+      "dealAmount": 1490000,
+      "parcelNum": "30287-93-75",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18861,
+      "row_id": 95
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-18",
+      "dealAmount": 1809000,
+      "parcelNum": "30287-60-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 123.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1496000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1464000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1445000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1462000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1751000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 2124000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1475000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1456000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1808000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1400000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1458000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1463000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1465000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1433000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 1459000
+        },
+        {
+          "dealDate": "2024-08-18",
+          "dealAmount": 2146000
+        }
+      ],
+      "trend": {
+        "rate": 20.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14707,
+      "row_id": 96
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-15",
+      "dealAmount": 1504000,
+      "parcelNum": "30287-93-76",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-08-15",
+          "dealAmount": 1817000
+        },
+        {
+          "dealDate": "2024-08-15",
+          "dealAmount": 1806000
+        }
+      ],
+      "trend": {
+        "rate": -17.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 15347,
+      "row_id": 97
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-14",
+      "dealAmount": 1464000,
+      "parcelNum": "30287-60-61",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18532,
+      "row_id": 98
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-14",
+      "dealAmount": 1748000,
+      "parcelNum": "30287-93-79",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-08-14",
+          "dealAmount": 1792000
+        },
+        {
+          "dealDate": "2024-08-14",
+          "dealAmount": 1770000
+        },
+        {
+          "dealDate": "2024-08-14",
+          "dealAmount": 1799000
+        },
+        {
+          "dealDate": "2024-08-14",
+          "dealAmount": 1805000
+        },
+        {
+          "dealDate": "2024-08-14",
+          "dealAmount": 1795000
+        }
+      ],
+      "trend": {
+        "rate": -2.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 17837,
+      "row_id": 99
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-05",
+      "dealAmount": 1466000,
+      "parcelNum": "30287-93-85",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18325,
+      "row_id": 100
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-08-01",
+      "dealAmount": 1461000,
+      "parcelNum": "30287-93-86",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18262,
+      "row_id": 101
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-07-31",
+      "dealAmount": 2620000,
+      "parcelNum": "30287-93-87",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שתים עשרה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-07-31",
+          "dealAmount": 2645000
+        }
+      ],
+      "trend": {
+        "rate": -0.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 32750,
+      "row_id": 102
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-07-30",
+      "dealAmount": 1797000,
+      "parcelNum": "30287-93-89",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1751000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1764000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1450000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1763000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1459000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1495000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1795000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1518000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1801000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1475000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1542000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1754000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1803000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1808000
+        },
+        {
+          "dealDate": "2024-07-30",
+          "dealAmount": 1757000
+        }
+      ],
+      "trend": {
+        "rate": 2.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18337,
+      "row_id": 103
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-07-29",
+      "dealAmount": 2318000,
+      "parcelNum": "30287-93-107",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-07-29",
+          "dealAmount": 1770000
+        },
+        {
+          "dealDate": "2024-07-29",
+          "dealAmount": 1490000
+        },
+        {
+          "dealDate": "2024-07-29",
+          "dealAmount": 2288000
+        },
+        {
+          "dealDate": "2024-07-29",
+          "dealAmount": 1463000
+        },
+        {
+          "dealDate": "2024-07-29",
+          "dealAmount": 1495000
+        },
+        {
+          "dealDate": "2024-07-29",
+          "dealAmount": 1762000
+        },
+        {
+          "dealDate": "2024-07-29",
+          "dealAmount": 1764000
+        },
+        {
+          "dealDate": "2024-07-29",
+          "dealAmount": 1805000
+        },
+        {
+          "dealDate": "2024-07-29",
+          "dealAmount": 1747000
+        },
+        {
+          "dealDate": "2024-07-29",
+          "dealAmount": 1769000
+        },
+        {
+          "dealDate": "2024-07-29",
+          "dealAmount": 2231000
+        }
+      ],
+      "trend": {
+        "rate": 31.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18397,
+      "row_id": 104
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-07-28",
+      "dealAmount": 1483000,
+      "parcelNum": "30287-93-122",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1482000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1814000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1765000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1780000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1788000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1439000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1758000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 2253000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1789000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1854000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1802000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1785000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1455000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1790000
+        },
+        {
+          "dealDate": "2024-07-28",
+          "dealAmount": 1804000
+        }
+      ],
+      "trend": {
+        "rate": 0.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 18772,
+      "row_id": 105
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-07-25",
+      "dealAmount": 2665000,
+      "parcelNum": "30287-93-141",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "אחת עשרה",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-07-25",
+          "dealAmount": 3790000
+        }
+      ],
+      "trend": {
+        "rate": -29.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 33734,
+      "row_id": 106
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-07-22",
+      "dealAmount": 2600000,
+      "parcelNum": "30287-93-143",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 78.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 33333,
+      "row_id": 107
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-07-17",
+      "dealAmount": 3774000,
+      "parcelNum": "30287-93-144",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשירית",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29952,
+      "row_id": 108
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-07-16",
+      "dealAmount": 3650000,
+      "parcelNum": "30287-21-74",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 45625,
+      "row_id": 109
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-07-08",
+      "dealAmount": 3683000,
+      "parcelNum": "30287-93-145",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29230,
+      "row_id": 110
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-06-30",
+      "dealAmount": 2610000,
+      "parcelNum": "30287-93-146",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שתים עשרה",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-06-30",
+          "dealAmount": 3785000
+        },
+        {
+          "dealDate": "2024-06-30",
+          "dealAmount": 2640000
+        },
+        {
+          "dealDate": "2024-06-30",
+          "dealAmount": 3170000
+        },
+        {
+          "dealDate": "2024-06-30",
+          "dealAmount": 3784000
+        },
+        {
+          "dealDate": "2024-06-30",
+          "dealAmount": 2800000
+        },
+        {
+          "dealDate": "2024-06-30",
+          "dealAmount": 3320000
+        },
+        {
+          "dealDate": "2024-06-30",
+          "dealAmount": 3310000
+        }
+      ],
+      "trend": {
+        "rate": -31.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 33038,
+      "row_id": 111
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-06-27",
+      "dealAmount": 3170000,
+      "parcelNum": "30287-93-155",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "אחת עשרה",
+      "assetArea": 97.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32680,
+      "row_id": 112
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-06-24",
+      "dealAmount": 3265000,
+      "parcelNum": "30287-60-62",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 33316,
+      "row_id": 113
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-06-19",
+      "dealAmount": 3300000,
+      "parcelNum": "30287-93-156",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשיעית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 33673,
+      "row_id": 114
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-06-17",
+      "dealAmount": 2590000,
+      "parcelNum": "30287-93-157",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 78.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 33205,
+      "row_id": 115
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-06-06",
+      "dealAmount": 3285000,
+      "parcelNum": "30287-60-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 33520,
+      "row_id": 117
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-06-03",
+      "dealAmount": 2665000,
+      "parcelNum": "30287-93-158",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 33734,
+      "row_id": 118
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-05-30",
+      "dealAmount": 3300000,
+      "parcelNum": "30287-60-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 78.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 42308,
+      "row_id": 120
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-05-30",
+      "dealAmount": 3770000,
+      "parcelNum": "30287-93-159",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "אחת עשרה",
+      "assetArea": 127.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-05-30",
+          "dealAmount": 2635000
+        }
+      ],
+      "trend": {
+        "rate": 43.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 29685,
+      "row_id": 121
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-05-29",
+      "dealAmount": 2945000,
+      "parcelNum": "30287-93-161",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשירית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-05-29",
+          "dealAmount": 3310000
+        }
+      ],
+      "trend": {
+        "rate": -11.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 30051,
+      "row_id": 122
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-05-22",
+      "dealAmount": 3679000,
+      "parcelNum": "30287-93-163",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שתים עשרה",
+      "assetArea": 127.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28969,
+      "row_id": 123
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-05-19",
+      "dealAmount": 2900000,
+      "parcelNum": "30287-93-164",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שתים עשרה",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29592,
+      "row_id": 124
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-05-15",
+      "dealAmount": 3210000,
+      "parcelNum": "30287-93-165",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשירית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-05-15",
+          "dealAmount": 3200000
+        }
+      ],
+      "trend": {
+        "rate": 0.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 32755,
+      "row_id": 125
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-05-12",
+      "dealAmount": 3150000,
+      "parcelNum": "30287-60-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32143,
+      "row_id": 126
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-05-07",
+      "dealAmount": 3180000,
+      "parcelNum": "30287-60-66",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 53.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-05-07",
+          "dealAmount": 3790000
+        },
+        {
+          "dealDate": "2024-05-07",
+          "dealAmount": 4820000
+        }
+      ],
+      "trend": {
+        "rate": -16.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 60000,
+      "row_id": 127
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-05-02",
+      "dealAmount": 3120000,
+      "parcelNum": "30287-60-69",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 97.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32165,
+      "row_id": 128
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-04-30",
+      "dealAmount": 2672000,
+      "parcelNum": "30287-93-167",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שתים עשרה",
+      "assetArea": 79.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 33823,
+      "row_id": 129
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-04-21",
+      "dealAmount": 3019000,
+      "parcelNum": "30287-93-168",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שתים עשרה",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-21",
+          "dealAmount": 3049000
+        },
+        {
+          "dealDate": "2024-04-21",
+          "dealAmount": 2990000
+        },
+        {
+          "dealDate": "2024-04-21",
+          "dealAmount": 3029000
+        }
+      ],
+      "trend": {
+        "rate": -1.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 30806,
+      "row_id": 130
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-04-18",
+      "dealAmount": 3635000,
+      "parcelNum": "30287-93-172",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-18",
+          "dealAmount": 3200000
+        },
+        {
+          "dealDate": "2024-04-18",
+          "dealAmount": 2612000
+        }
+      ],
+      "trend": {
+        "rate": 13.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 28849,
+      "row_id": 131
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-04-17",
+      "dealAmount": 3549000,
+      "parcelNum": "30287-93-175",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "אחת עשרה",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28167,
+      "row_id": 132
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-04-16",
+      "dealAmount": 3510000,
+      "parcelNum": "30287-93-176",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27857,
+      "row_id": 134
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-04-11",
+      "dealAmount": 3546000,
+      "parcelNum": "30287-21-75",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 121.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29306,
+      "row_id": 136
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-04-10",
+      "dealAmount": 4246000,
+      "parcelNum": "30287-21-76",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 122.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-10",
+          "dealAmount": 3634000
+        }
+      ],
+      "trend": {
+        "rate": 16.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 34803,
+      "row_id": 137
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-04-09",
+      "dealAmount": 3559000,
+      "parcelNum": "30287-93-177",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שתים עשרה",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28246,
+      "row_id": 138
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-04-08",
+      "dealAmount": 2900000,
+      "parcelNum": "30287-93-178",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שתים עשרה",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29592,
+      "row_id": 139
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-04-04",
+      "dealAmount": 5430000,
+      "parcelNum": "30287-93-179",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 144.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-04",
+          "dealAmount": 2960000
+        }
+      ],
+      "trend": {
+        "rate": 83.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 37708,
+      "row_id": 140
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-04-03",
+      "dealAmount": 3170000,
+      "parcelNum": "30287-60-70",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 122.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25984,
+      "row_id": 141
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-04-02",
+      "dealAmount": 3546000,
+      "parcelNum": "30287-21-78",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 122.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29066,
+      "row_id": 142
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-31",
+      "dealAmount": 3479000,
+      "parcelNum": "30287-93-181",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27611,
+      "row_id": 143
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-28",
+      "dealAmount": 3635000,
+      "parcelNum": "30287-93-182",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28849,
+      "row_id": 144
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-28",
+      "dealAmount": 3239000,
+      "parcelNum": "30287-60-71",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 33051,
+      "row_id": 145
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-27",
+      "dealAmount": 3587000,
+      "parcelNum": "30287-21-79",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 121.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 3566000
+        }
+      ],
+      "trend": {
+        "rate": 0.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 29645,
+      "row_id": 146
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-26",
+      "dealAmount": 3061000,
+      "parcelNum": "30287-60-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 97.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 31557,
+      "row_id": 147
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-26",
+      "dealAmount": 3587000,
+      "parcelNum": "30287-21-81",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 121.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-03-26",
+          "dealAmount": 3165000
+        }
+      ],
+      "trend": {
+        "rate": 13.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 29645,
+      "row_id": 148
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-25",
+      "dealAmount": 2980000,
+      "parcelNum": "30287-93-183",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "אחת עשרה",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30408,
+      "row_id": 149
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-19",
+      "dealAmount": 3461000,
+      "parcelNum": "30287-93-184",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 126.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 27468,
+      "row_id": 151
+    },
+    {
+      "assetId": 4337928.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-17",
+      "dealAmount": 4650000,
+      "parcelNum": "30287-60-73",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 132.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 35227,
+      "row_id": 152
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-13",
+      "dealAmount": 3569000,
+      "parcelNum": "30287-93-185",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 127.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28102,
+      "row_id": 154
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-12",
+      "dealAmount": 3516000,
+      "parcelNum": "30287-21-83",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 121.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29058,
+      "row_id": 155
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-11",
+      "dealAmount": 4294000,
+      "parcelNum": "30287-21-84",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 43816,
+      "row_id": 156
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-03-07",
+      "dealAmount": 3690000,
+      "parcelNum": "30287-21-85",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 112.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 32946,
+      "row_id": 157
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-02-29",
+      "dealAmount": 3025000,
+      "parcelNum": "30287-21-86",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 98.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30867,
+      "row_id": 159
+    },
+    {
+      "assetId": 4338033.0,
+      "addressId": 0,
+      "polygonId": "30287-93",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-02-29",
+      "dealAmount": 2871000,
+      "parcelNum": "30287-93-187",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשיעית",
+      "assetArea": 97.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29598,
+      "row_id": 160
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-02-26",
+      "dealAmount": 3546000,
+      "parcelNum": "30287-21-87",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 122.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29066,
+      "row_id": 161
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-02-20",
+      "dealAmount": 3463000,
+      "parcelNum": "30287-21-88",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 121.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 28620,
+      "row_id": 164
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-02-19",
+      "dealAmount": 3516000,
+      "parcelNum": "30287-21-89",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 121.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29058,
+      "row_id": 166
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-02-15",
+      "dealAmount": 3557000,
+      "parcelNum": "30287-21-90",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 121.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-02-15",
+          "dealAmount": 3051000
+        }
+      ],
+      "trend": {
+        "rate": 16.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 29397,
+      "row_id": 167
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-02-14",
+      "dealAmount": 3420000,
+      "parcelNum": "30287-21-92",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 121.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-02-14",
+          "dealAmount": 2932000
+        },
+        {
+          "dealDate": "2024-02-14",
+          "dealAmount": 2870000
+        },
+        {
+          "dealDate": "2024-02-14",
+          "dealAmount": 2935000
+        },
+        {
+          "dealDate": "2024-02-14",
+          "dealAmount": 3015000
+        }
+      ],
+      "trend": {
+        "rate": 16.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 28264,
+      "row_id": 170
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-02-13",
+      "dealAmount": 2970000,
+      "parcelNum": "30287-21-98",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 96.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 30938,
+      "row_id": 171
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-02-12",
+      "dealAmount": 5440000,
+      "parcelNum": "30287-21-99",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שביעית",
+      "assetArea": 147.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-02-12",
+          "dealAmount": 3578000
+        }
+      ],
+      "trend": {
+        "rate": 52.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 37007,
+      "row_id": 177
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-02-08",
+      "dealAmount": 3604000,
+      "parcelNum": "30287-21-101",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 121.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 29785,
+      "row_id": 181
+    },
+    {
+      "assetId": 4557069.0,
+      "addressId": 53872215,
+      "polygonId": "65052266",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 53",
+      "dealDate": "2024-02-08",
+      "dealAmount": 74000000,
+      "parcelNum": "30287-1-4",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 4188.0,
+      "yearBuilt": 0,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17670,
+      "row_id": 182
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-02-01",
+      "dealAmount": 4190000,
+      "parcelNum": "30287-21-102",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 99.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 42323,
+      "row_id": 184
+    },
+    {
+      "assetId": 4337947.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2024-01-11",
+      "dealAmount": 2989000,
+      "parcelNum": "30287-21-103",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 97.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-11",
+          "dealAmount": 3015000
+        }
+      ],
+      "trend": {
+        "rate": -0.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 30814,
+      "row_id": 186
+    },
+    {
+      "assetId": 4337893.0,
+      "addressId": 0,
+      "polygonId": "30286-34",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2022-10-01",
+      "dealAmount": 525000,
+      "parcelNum": "30286-34-1",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 4112.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 128,
+      "row_id": 191
+    },
+    {
+      "assetId": 4337937.0,
+      "addressId": 0,
+      "polygonId": "30287-36",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2022-07-18",
+      "dealAmount": 53891000,
+      "parcelNum": "30287-36-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 4654.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11580,
+      "row_id": 192
+    },
+    {
+      "assetId": 4300098.0,
+      "addressId": 0,
+      "polygonId": "31657-2",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2021-11-24",
+      "dealAmount": 707000,
+      "parcelNum": "31657-2-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 193
+    },
+    {
+      "assetId": 4300099.0,
+      "addressId": 0,
+      "polygonId": "31657-1",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2021-07-08",
+      "dealAmount": 4900000,
+      "parcelNum": "31657-1-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 1064.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4605,
+      "row_id": 195
+    },
+    {
+      "assetId": 4337938.0,
+      "addressId": 0,
+      "polygonId": "30287-60",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2021-01-19",
+      "dealAmount": 68951000,
+      "parcelNum": "30287-60-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 7279.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9473,
+      "row_id": 196
+    },
+    {
+      "assetId": 4557067.0,
+      "addressId": 53872215,
+      "polygonId": "65052266",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 53",
+      "dealDate": "2021-01-19",
+      "dealAmount": 15749000,
+      "parcelNum": "30287-1-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 1893.0,
+      "yearBuilt": 0,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8320,
+      "row_id": 197
+    },
+    {
+      "assetId": 4338215.0,
+      "addressId": 0,
+      "polygonId": "30287-21",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2021-01-19",
+      "dealAmount": 67737000,
+      "parcelNum": "30287-21-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 7657.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8846,
+      "row_id": 198
+    },
+    {
+      "assetId": 4338211.0,
+      "addressId": 0,
+      "polygonId": "30287-12",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2021-01-19",
+      "dealAmount": 89777000,
+      "parcelNum": "30287-12-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 8376.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10718,
+      "row_id": 199
+    },
+    {
+      "assetId": 4557066.0,
+      "addressId": 53872215,
+      "polygonId": "65052266",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "גבעת המטוס 53",
+      "dealDate": "2021-01-19",
+      "dealAmount": 51918000,
+      "parcelNum": "30287-1-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 4738.0,
+      "yearBuilt": 0,
+      "streetCode": 30006860,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10958,
+      "row_id": 200
+    },
+    {
+      "assetId": 4337948.0,
+      "addressId": 0,
+      "polygonId": "30287-92",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2021-01-19",
+      "dealAmount": 151649000,
+      "parcelNum": "30287-92-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 10253.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14791,
+      "row_id": 201
+    },
+    {
+      "assetId": 4337944.0,
+      "addressId": 0,
+      "polygonId": "30287-67",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2021-01-19",
+      "dealAmount": 106863000,
+      "parcelNum": "30287-67-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 9601.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11130,
+      "row_id": 202
+    },
+    {
+      "assetId": 4338213.0,
+      "addressId": 0,
+      "polygonId": "30287-5",
+      "neighborhoodName": "גבעת המטוס",
+      "neighborhoodId": 65209849,
+      "address": "0",
+      "dealDate": "2008-07-06",
+      "dealAmount": 98000,
+      "parcelNum": "30287-5-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 7199.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 3000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14,
+      "row_id": 213
+    }
+  ]
+}

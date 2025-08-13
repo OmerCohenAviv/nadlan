@@ -1,0 +1,5756 @@
+{
+  "neighborhood_name": "פרחי ארצנו",
+  "city_name": "דימונה",
+  "transaction_count": 183,
+  "transactions": [
+    {
+      "assetId": 50209503.0,
+      "addressId": 53488346,
+      "polygonId": "53108434",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "האיריס 4",
+      "dealDate": "2025-03-23",
+      "dealAmount": 670000,
+      "parcelNum": "39508-6-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000158,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8272,
+      "row_id": 1
+    },
+    {
+      "assetId": 50210153.0,
+      "addressId": 53492732,
+      "polygonId": "53035821",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 12",
+      "dealDate": "2025-03-20",
+      "dealAmount": 1065000,
+      "parcelNum": "39509-23-18",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 6.0,
+      "floor": "שניה",
+      "assetArea": 142.0,
+      "yearBuilt": 1980,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7500,
+      "row_id": 2
+    },
+    {
+      "assetId": 50210321.0,
+      "addressId": 53485317,
+      "polygonId": "53122204",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 7",
+      "dealDate": "2025-03-10",
+      "dealAmount": 500000,
+      "parcelNum": "39509-40-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-12-09",
+          "dealAmount": 315000
+        },
+        {
+          "dealDate": "2018-06-01",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2016-09-19",
+          "dealAmount": 289000
+        }
+      ],
+      "trend": {
+        "rate": 58.7,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 3
+    },
+    {
+      "assetId": 50210251.0,
+      "addressId": 53491493,
+      "polygonId": "53434927",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 9",
+      "dealDate": "2025-02-17",
+      "dealAmount": 1200000,
+      "parcelNum": "39509-37-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 94.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-06-11",
+          "dealAmount": 730000
+        }
+      ],
+      "trend": {
+        "rate": 64.4,
+        "years": 1.7
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 600000
+        },
+        {
+          "proportion": "50",
+          "price": 600000
+        }
+      ],
+      "priceSM": 12766,
+      "row_id": 4
+    },
+    {
+      "assetId": 50209980.0,
+      "addressId": 53850917,
+      "polygonId": "53100962",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 24",
+      "dealDate": "2025-01-15",
+      "dealAmount": 460000,
+      "parcelNum": "39509-13-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10502,
+      "row_id": 5
+    },
+    {
+      "assetId": 50209917.0,
+      "addressId": 53483083,
+      "polygonId": "53150906",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 9",
+      "dealDate": "2024-12-26",
+      "dealAmount": 585000,
+      "parcelNum": "39509-8-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 52.4,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11164,
+      "row_id": 6
+    },
+    {
+      "assetId": 50210136.0,
+      "addressId": 53492732,
+      "polygonId": "53035821",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 12",
+      "dealDate": "2024-12-04",
+      "dealAmount": 1200000,
+      "parcelNum": "39509-23-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 98.0,
+      "yearBuilt": 1980,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12245,
+      "row_id": 7
+    },
+    {
+      "assetId": 50209861.0,
+      "addressId": 53491051,
+      "polygonId": "53031799",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 1",
+      "dealDate": "2024-10-30",
+      "dealAmount": 720000,
+      "parcelNum": "39509-1-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-05-20",
+          "dealAmount": 680000
+        }
+      ],
+      "trend": {
+        "rate": 5.9,
+        "years": 0.4
+      },
+      "ownership": [],
+      "priceSM": 16744,
+      "row_id": 8
+    },
+    {
+      "assetId": 50209493.0,
+      "addressId": 53489753,
+      "polygonId": "53441934",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "האיריס 6",
+      "dealDate": "2024-10-27",
+      "dealAmount": 667000,
+      "parcelNum": "39508-5-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 34.9,
+      "yearBuilt": 1970,
+      "streetCode": 22000158,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19112,
+      "row_id": 9
+    },
+    {
+      "assetId": 50210004.0,
+      "addressId": 53485870,
+      "polygonId": "53437453",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 22",
+      "dealDate": "2024-09-22",
+      "dealAmount": 485000,
+      "parcelNum": "39509-15-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-08-17",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2018-06-20",
+          "dealAmount": 370000
+        },
+        {
+          "dealDate": "2015-12-06",
+          "dealAmount": 323000
+        },
+        {
+          "dealDate": "2009-11-22",
+          "dealAmount": 127000
+        }
+      ],
+      "trend": {
+        "rate": 42.6,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 13472,
+      "row_id": 10
+    },
+    {
+      "assetId": 50209966.0,
+      "addressId": 53850917,
+      "polygonId": "53100962",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 24",
+      "dealDate": "2024-09-03",
+      "dealAmount": 660000,
+      "parcelNum": "39509-13-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-11-07",
+          "dealAmount": 610000
+        }
+      ],
+      "trend": {
+        "rate": 8.2,
+        "years": 7.8
+      },
+      "ownership": [],
+      "priceSM": 15349,
+      "row_id": 11
+    },
+    {
+      "assetId": 50209936.0,
+      "addressId": 53489073,
+      "polygonId": "53437629",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 14",
+      "dealDate": "2024-08-29",
+      "dealAmount": 605000,
+      "parcelNum": "39509-11-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 70.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-11-14",
+          "dealAmount": 440000
+        },
+        {
+          "dealDate": "2013-12-17",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "1999-02-18",
+          "dealAmount": 142000
+        }
+      ],
+      "trend": {
+        "rate": 37.5,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 8643,
+      "row_id": 12
+    },
+    {
+      "assetId": 50209590.0,
+      "addressId": 53849215,
+      "polygonId": "53002431",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הכלנית 19",
+      "dealDate": "2024-08-05",
+      "dealAmount": 1330000,
+      "parcelNum": "39508-26-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 64.3,
+      "yearBuilt": 1950,
+      "streetCode": 22000115,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-07-25",
+          "dealAmount": 126000
+        }
+      ],
+      "trend": {
+        "rate": 955.6,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 20781,
+      "row_id": 13
+    },
+    {
+      "assetId": 50210318.0,
+      "addressId": 53485317,
+      "polygonId": "53122204",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 7",
+      "dealDate": "2024-07-04",
+      "dealAmount": 382000,
+      "parcelNum": "39509-40-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9386,
+      "row_id": 14
+    },
+    {
+      "assetId": 50210223.0,
+      "addressId": 53490821,
+      "polygonId": "53083264",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 79",
+      "dealDate": "2024-07-04",
+      "dealAmount": 360000,
+      "parcelNum": "39509-32-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 40.7,
+      "yearBuilt": 1980,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8845,
+      "row_id": 15
+    },
+    {
+      "assetId": 50210228.0,
+      "addressId": 53485700,
+      "polygonId": "53434383",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 89",
+      "dealDate": "2024-06-30",
+      "dealAmount": 300000,
+      "parcelNum": "39509-33-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 40.7,
+      "yearBuilt": 1970,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-22",
+          "dealAmount": 429000
+        }
+      ],
+      "trend": {
+        "rate": -30.1,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 7500,
+      "row_id": 16
+    },
+    {
+      "assetId": 50209606.0,
+      "addressId": 53487520,
+      "polygonId": "53108665",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הכלנית 38",
+      "dealDate": "2024-06-30",
+      "dealAmount": 1050000,
+      "parcelNum": "39508-31-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 59.1,
+      "yearBuilt": 1950,
+      "streetCode": 22000115,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-06-06",
+          "dealAmount": 670000
+        }
+      ],
+      "trend": {
+        "rate": 56.7,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 17797,
+      "row_id": 17
+    },
+    {
+      "assetId": 50209978.0,
+      "addressId": 53850917,
+      "polygonId": "53100962",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 24",
+      "dealDate": "2024-06-20",
+      "dealAmount": 665000,
+      "parcelNum": "39509-13-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-01-01",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2011-08-31",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 33.0,
+        "years": 8.5
+      },
+      "ownership": [],
+      "priceSM": 15465,
+      "row_id": 18
+    },
+    {
+      "assetId": 50209872.0,
+      "addressId": 53491051,
+      "polygonId": "53031799",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 1",
+      "dealDate": "2024-05-23",
+      "dealAmount": 540000,
+      "parcelNum": "39509-1-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-11-16",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 116.0,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 12558,
+      "row_id": 19
+    },
+    {
+      "assetId": 50210155.0,
+      "addressId": 53492732,
+      "polygonId": "53035821",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 12",
+      "dealDate": "2024-04-11",
+      "dealAmount": 1240000,
+      "parcelNum": "39509-23-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שניה",
+      "assetArea": 128.0,
+      "yearBuilt": 1980,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-08-01",
+          "dealAmount": 58000
+        }
+      ],
+      "trend": {
+        "rate": 2037.9,
+        "years": 24.7
+      },
+      "ownership": [
+        {
+          "proportion": "6",
+          "price": 74400
+        },
+        {
+          "proportion": "6",
+          "price": 74400
+        },
+        {
+          "proportion": "6",
+          "price": 74400
+        },
+        {
+          "proportion": "81",
+          "price": 1004400
+        }
+      ],
+      "priceSM": 9688,
+      "row_id": 20
+    },
+    {
+      "assetId": 50210016.0,
+      "addressId": 53475979,
+      "polygonId": "53437680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 32",
+      "dealDate": "2024-04-08",
+      "dealAmount": 455000,
+      "parcelNum": "39509-16-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12639,
+      "row_id": 21
+    },
+    {
+      "assetId": 50210167.0,
+      "addressId": 53491631,
+      "polygonId": "53448495",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 10",
+      "dealDate": "2024-03-20",
+      "dealAmount": 630000,
+      "parcelNum": "39509-24-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 49.1,
+      "yearBuilt": 1960,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-05-30",
+          "dealAmount": 385000
+        },
+        {
+          "dealDate": "2010-11-25",
+          "dealAmount": 265000
+        }
+      ],
+      "trend": {
+        "rate": 63.6,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 12857,
+      "row_id": 22
+    },
+    {
+      "assetId": 50209960.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2024-03-17",
+      "dealAmount": 550000,
+      "parcelNum": "39509-12-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-02",
+          "dealAmount": 370000
+        }
+      ],
+      "trend": {
+        "rate": 48.6,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 12791,
+      "row_id": 23
+    },
+    {
+      "assetId": 50210309.0,
+      "addressId": 53485317,
+      "polygonId": "53122204",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 7",
+      "dealDate": "2024-02-13",
+      "dealAmount": 62000,
+      "parcelNum": "39509-40-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1523,
+      "row_id": 24
+    },
+    {
+      "assetId": 50209877.0,
+      "addressId": 53808778,
+      "polygonId": "53082377",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 3",
+      "dealDate": "2024-02-11",
+      "dealAmount": 500000,
+      "parcelNum": "39509-2-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 52.4,
+      "yearBuilt": 1960,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9542,
+      "row_id": 25
+    },
+    {
+      "assetId": 50210278.0,
+      "addressId": 53492739,
+      "polygonId": "53143270",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 5",
+      "dealDate": "2024-02-01",
+      "dealAmount": 229000,
+      "parcelNum": "39509-38-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 34.9,
+      "yearBuilt": 1960,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6562,
+      "row_id": 26
+    },
+    {
+      "assetId": 50209853.0,
+      "addressId": 53491051,
+      "polygonId": "53031799",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 1",
+      "dealDate": "2024-01-21",
+      "dealAmount": 535000,
+      "parcelNum": "39509-1-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.8,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-02-23",
+          "dealAmount": 535000
+        },
+        {
+          "dealDate": "2012-10-19",
+          "dealAmount": 386000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 12442,
+      "row_id": 27
+    },
+    {
+      "assetId": 50210043.0,
+      "addressId": 53485600,
+      "polygonId": "52968680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 38",
+      "dealDate": "2024-01-01",
+      "dealAmount": 500000,
+      "parcelNum": "39509-17-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-06-15",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 66.7,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 13889,
+      "row_id": 28
+    },
+    {
+      "assetId": 50209948.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2023-12-25",
+      "dealAmount": 400000,
+      "parcelNum": "39509-12-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-11-25",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 9302,
+      "row_id": 29
+    },
+    {
+      "assetId": 50210260.0,
+      "addressId": 53491493,
+      "polygonId": "53434927",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 9",
+      "dealDate": "2023-11-02",
+      "dealAmount": 172000,
+      "parcelNum": "39509-37-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1970,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4226,
+      "row_id": 30
+    },
+    {
+      "assetId": 50209910.0,
+      "addressId": 53490299,
+      "polygonId": "52972039",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 8",
+      "dealDate": "2023-10-31",
+      "dealAmount": 380000,
+      "parcelNum": "39509-7-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 34.9,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10888,
+      "row_id": 31
+    },
+    {
+      "assetId": 50210058.0,
+      "addressId": 53475980,
+      "polygonId": "53091972",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 34",
+      "dealDate": "2023-09-28",
+      "dealAmount": 225000,
+      "parcelNum": "39509-19-3",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6250,
+      "row_id": 32
+    },
+    {
+      "assetId": 50210301.0,
+      "addressId": 72364732,
+      "polygonId": "53066385",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 77",
+      "dealDate": "2023-09-28",
+      "dealAmount": 400000,
+      "parcelNum": "39509-39-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-05-18",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 33.3,
+        "years": 0.4
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 33
+    },
+    {
+      "assetId": 50209504.0,
+      "addressId": 53488346,
+      "polygonId": "53108434",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "האיריס 4",
+      "dealDate": "2023-09-07",
+      "dealAmount": 1100000,
+      "parcelNum": "39508-6-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שניה",
+      "assetArea": 144.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000158,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7639,
+      "row_id": 34
+    },
+    {
+      "assetId": 50209567.0,
+      "addressId": 53485699,
+      "polygonId": "53435234",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הנרקיס 2",
+      "dealDate": "2023-08-09",
+      "dealAmount": 568000,
+      "parcelNum": "39508-20-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 54.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000113,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-09-14",
+          "dealAmount": 365000
+        }
+      ],
+      "trend": {
+        "rate": 55.6,
+        "years": 1.9
+      },
+      "ownership": [],
+      "priceSM": 10519,
+      "row_id": 35
+    },
+    {
+      "assetId": 50209594.0,
+      "addressId": 53485349,
+      "polygonId": "52967997",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הכלנית 25",
+      "dealDate": "2023-08-07",
+      "dealAmount": 840000,
+      "parcelNum": "39508-27-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 76.1,
+      "yearBuilt": 1970,
+      "streetCode": 22000115,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11038,
+      "row_id": 36
+    },
+    {
+      "assetId": 50209956.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2023-08-06",
+      "dealAmount": 490000,
+      "parcelNum": "39509-12-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-02-15",
+          "dealAmount": 295000
+        }
+      ],
+      "trend": {
+        "rate": 66.1,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 11395,
+      "row_id": 37
+    },
+    {
+      "assetId": 50209977.0,
+      "addressId": 53850917,
+      "polygonId": "53100962",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 24",
+      "dealDate": "2023-07-17",
+      "dealAmount": 400000,
+      "parcelNum": "39509-13-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9132,
+      "row_id": 38
+    },
+    {
+      "assetId": 50209623.0,
+      "addressId": 53491437,
+      "polygonId": "52987019",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הכלנית 22",
+      "dealDate": "2023-07-02",
+      "dealAmount": 650000,
+      "parcelNum": "39508-37-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 67.7,
+      "yearBuilt": 1960,
+      "streetCode": 22000115,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9601,
+      "row_id": 39
+    },
+    {
+      "assetId": 50210115.0,
+      "addressId": 53487748,
+      "polygonId": "53079257",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 14",
+      "dealDate": "2023-06-25",
+      "dealAmount": 1150000,
+      "parcelNum": "39509-22-1",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-05-25",
+          "dealAmount": 770000
+        }
+      ],
+      "trend": {
+        "rate": 49.4,
+        "years": 12.1
+      },
+      "ownership": [],
+      "priceSM": 9583,
+      "row_id": 40
+    },
+    {
+      "assetId": 50210062.0,
+      "addressId": 53475980,
+      "polygonId": "53091972",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 34",
+      "dealDate": "2023-06-01",
+      "dealAmount": 343000,
+      "parcelNum": "39509-19-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9528,
+      "row_id": 41
+    },
+    {
+      "assetId": 50210138.0,
+      "addressId": 53492732,
+      "polygonId": "53035821",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 12",
+      "dealDate": "2023-05-14",
+      "dealAmount": 1040000,
+      "parcelNum": "39509-23-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 130.0,
+      "yearBuilt": 1980,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-09",
+          "dealAmount": 555000
+        }
+      ],
+      "trend": {
+        "rate": 87.4,
+        "years": 13.7
+      },
+      "ownership": [],
+      "priceSM": 8000,
+      "row_id": 42
+    },
+    {
+      "assetId": 50209926.0,
+      "addressId": 53491048,
+      "polygonId": "53074907",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 10",
+      "dealDate": "2023-05-11",
+      "dealAmount": 400000,
+      "parcelNum": "39509-10-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-12-03",
+          "dealAmount": 370000
+        },
+        {
+          "dealDate": "2018-04-23",
+          "dealAmount": 330000
+        },
+        {
+          "dealDate": "2012-10-23",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 8.1,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 43
+    },
+    {
+      "assetId": 50210038.0,
+      "addressId": 53485600,
+      "polygonId": "52968680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 38",
+      "dealDate": "2023-04-18",
+      "dealAmount": 455000,
+      "parcelNum": "39509-17-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-07-09",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2016-08-25",
+          "dealAmount": 290000
+        }
+      ],
+      "trend": {
+        "rate": 33.8,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 12639,
+      "row_id": 44
+    },
+    {
+      "assetId": 50210229.0,
+      "addressId": 53485700,
+      "polygonId": "53434383",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 89",
+      "dealDate": "2023-04-02",
+      "dealAmount": 500000,
+      "parcelNum": "39509-33-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 40.7,
+      "yearBuilt": 1970,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-20",
+          "dealAmount": 377000
+        }
+      ],
+      "trend": {
+        "rate": 32.6,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 45
+    },
+    {
+      "assetId": 50210007.0,
+      "addressId": 53485870,
+      "polygonId": "53437453",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 22",
+      "dealDate": "2023-03-12",
+      "dealAmount": 370000,
+      "parcelNum": "39509-15-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10278,
+      "row_id": 46
+    },
+    {
+      "assetId": 50209499.0,
+      "addressId": 53489753,
+      "polygonId": "53441934",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "האיריס 6",
+      "dealDate": "2023-03-09",
+      "dealAmount": 430000,
+      "parcelNum": "39508-5-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1970,
+      "streetCode": 22000158,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10565,
+      "row_id": 47
+    },
+    {
+      "assetId": 50210219.0,
+      "addressId": 53490821,
+      "polygonId": "53083264",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 79",
+      "dealDate": "2023-02-15",
+      "dealAmount": 465000,
+      "parcelNum": "39509-32-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1980,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-07-19",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 55.0,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 11625,
+      "row_id": 48
+    },
+    {
+      "assetId": 50209979.0,
+      "addressId": 53850917,
+      "polygonId": "53100962",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 24",
+      "dealDate": "2023-02-08",
+      "dealAmount": 440000,
+      "parcelNum": "39509-13-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-11-11",
+          "dealAmount": 320000
+        },
+        {
+          "dealDate": "2012-12-09",
+          "dealAmount": 390000
+        },
+        {
+          "dealDate": "2010-01-20",
+          "dealAmount": 215000
+        }
+      ],
+      "trend": {
+        "rate": 37.5,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 10233,
+      "row_id": 49
+    },
+    {
+      "assetId": 50209565.0,
+      "addressId": 53485699,
+      "polygonId": "53435234",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הנרקיס 2",
+      "dealDate": "2023-01-25",
+      "dealAmount": 440000,
+      "parcelNum": "39508-20-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1970,
+      "streetCode": 22000113,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-11-30",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 266.7,
+        "years": 14.2
+      },
+      "ownership": [],
+      "priceSM": 11000,
+      "row_id": 50
+    },
+    {
+      "assetId": 50209564.0,
+      "addressId": 53485699,
+      "polygonId": "53435234",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הנרקיס 2",
+      "dealDate": "2023-01-25",
+      "dealAmount": 390000,
+      "parcelNum": "39508-20-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 34.9,
+      "yearBuilt": 1970,
+      "streetCode": 22000113,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-23",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 18.2,
+        "years": 7.6
+      },
+      "ownership": [],
+      "priceSM": 11471,
+      "row_id": 51
+    },
+    {
+      "assetId": 50209943.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2022-12-22",
+      "dealAmount": 470000,
+      "parcelNum": "39509-12-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-07-18",
+          "dealAmount": 247000
+        }
+      ],
+      "trend": {
+        "rate": 90.3,
+        "years": 18.4
+      },
+      "ownership": [],
+      "priceSM": 10930,
+      "row_id": 52
+    },
+    {
+      "assetId": 50209937.0,
+      "addressId": 53489073,
+      "polygonId": "53437629",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 14",
+      "dealDate": "2022-12-08",
+      "dealAmount": 440000,
+      "parcelNum": "39509-11-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 53.9,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8163,
+      "row_id": 53
+    },
+    {
+      "assetId": 50210015.0,
+      "addressId": 53475979,
+      "polygonId": "53437680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 32",
+      "dealDate": "2022-11-21",
+      "dealAmount": 333000,
+      "parcelNum": "39509-16-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9250,
+      "row_id": 54
+    },
+    {
+      "assetId": 50210021.0,
+      "addressId": 53475979,
+      "polygonId": "53437680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 32",
+      "dealDate": "2022-11-09",
+      "dealAmount": 363600,
+      "parcelNum": "39509-16-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-11-13",
+          "dealAmount": 285000
+        }
+      ],
+      "trend": {
+        "rate": 27.6,
+        "years": 7.0
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 119988
+        },
+        {
+          "proportion": "33",
+          "price": 119988
+        },
+        {
+          "proportion": "33",
+          "price": 119988
+        }
+      ],
+      "priceSM": 10100,
+      "row_id": 55
+    },
+    {
+      "assetId": 50210180.0,
+      "addressId": 53485799,
+      "polygonId": "53031579",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 113",
+      "dealDate": "2022-10-23",
+      "dealAmount": 1000000,
+      "parcelNum": "39509-25-11",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 137.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7299,
+      "row_id": 56
+    },
+    {
+      "assetId": 50209485.0,
+      "addressId": 53489804,
+      "polygonId": "53110578",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 6",
+      "dealDate": "2022-09-22",
+      "dealAmount": 420000,
+      "parcelNum": "39508-3-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 34.9,
+      "yearBuilt": 1970,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-11-15",
+          "dealAmount": 370000
+        },
+        {
+          "dealDate": "2014-11-23",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 13.5,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 12353,
+      "row_id": 57
+    },
+    {
+      "assetId": 50209500.0,
+      "addressId": 53489753,
+      "polygonId": "53441934",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "האיריס 6",
+      "dealDate": "2022-09-21",
+      "dealAmount": 380000,
+      "parcelNum": "39508-5-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 34.9,
+      "yearBuilt": 1970,
+      "streetCode": 22000158,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-05-17",
+          "dealAmount": 390000
+        },
+        {
+          "dealDate": "2017-07-04",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2011-06-14",
+          "dealAmount": 235000
+        }
+      ],
+      "trend": {
+        "rate": -2.6,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 11176,
+      "row_id": 58
+    },
+    {
+      "assetId": 50209957.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2022-09-19",
+      "dealAmount": 580000,
+      "parcelNum": "39509-12-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-09-15",
+          "dealAmount": 469000
+        },
+        {
+          "dealDate": "2001-07-09",
+          "dealAmount": 189000
+        }
+      ],
+      "trend": {
+        "rate": 23.7,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 13488,
+      "row_id": 59
+    },
+    {
+      "assetId": 50209873.0,
+      "addressId": 53491051,
+      "polygonId": "53031799",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 1",
+      "dealDate": "2022-08-25",
+      "dealAmount": 400000,
+      "parcelNum": "39509-1-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9132,
+      "row_id": 60
+    },
+    {
+      "assetId": 50209888.0,
+      "addressId": 53487512,
+      "polygonId": "53083695",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 4",
+      "dealDate": "2022-07-25",
+      "dealAmount": 395000,
+      "parcelNum": "39509-3-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-11-03",
+          "dealAmount": 395000
+        },
+        {
+          "dealDate": "2015-05-17",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2012-11-21",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 9875,
+      "row_id": 61
+    },
+    {
+      "assetId": 50209868.0,
+      "addressId": 53491051,
+      "polygonId": "53031799",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 1",
+      "dealDate": "2022-05-29",
+      "dealAmount": 405000,
+      "parcelNum": "39509-1-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-10-20",
+          "dealAmount": 385000
+        },
+        {
+          "dealDate": "2011-09-11",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 5.2,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 9419,
+      "row_id": 62
+    },
+    {
+      "assetId": 50210227.0,
+      "addressId": 53485700,
+      "polygonId": "53434383",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 89",
+      "dealDate": "2022-05-25",
+      "dealAmount": 350000,
+      "parcelNum": "39509-33-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 40.7,
+      "yearBuilt": 1970,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8600,
+      "row_id": 63
+    },
+    {
+      "assetId": 50209596.0,
+      "addressId": 53488650,
+      "polygonId": "52964781",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הכלנית 27",
+      "dealDate": "2022-05-03",
+      "dealAmount": 800000,
+      "parcelNum": "39508-28-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 66.8,
+      "yearBuilt": 1950,
+      "streetCode": 22000115,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11976,
+      "row_id": 64
+    },
+    {
+      "assetId": 50209993.0,
+      "addressId": 53485870,
+      "polygonId": "53437453",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 22",
+      "dealDate": "2022-04-01",
+      "dealAmount": 380000,
+      "parcelNum": "39509-15-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10556,
+      "row_id": 65
+    },
+    {
+      "assetId": 50210304.0,
+      "addressId": 72364732,
+      "polygonId": "53066385",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 77",
+      "dealDate": "2022-02-17",
+      "dealAmount": 392000,
+      "parcelNum": "39509-39-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-05-14",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 12.0,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 9800,
+      "row_id": 67
+    },
+    {
+      "assetId": 50209961.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2022-01-17",
+      "dealAmount": 480000,
+      "parcelNum": "39509-12-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-28",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 37.1,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 11163,
+      "row_id": 68
+    },
+    {
+      "assetId": 50210059.0,
+      "addressId": 53475980,
+      "polygonId": "53091972",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 34",
+      "dealDate": "2022-01-16",
+      "dealAmount": 410000,
+      "parcelNum": "39509-19-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-03",
+          "dealAmount": 289000
+        }
+      ],
+      "trend": {
+        "rate": 41.9,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 11389,
+      "row_id": 69
+    },
+    {
+      "assetId": 50209603.0,
+      "addressId": 53485472,
+      "polygonId": "53110541",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הכלנית 42",
+      "dealDate": "2022-01-09",
+      "dealAmount": 930000,
+      "parcelNum": "39508-30-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 105.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000115,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-04-22",
+          "dealAmount": 765000
+        }
+      ],
+      "trend": {
+        "rate": 21.6,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 8857,
+      "row_id": 70
+    },
+    {
+      "assetId": 50209530.0,
+      "addressId": 53488347,
+      "polygonId": "53074895",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הנרקיס 7",
+      "dealDate": "2021-12-28",
+      "dealAmount": 135000,
+      "parcelNum": "39508-12-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 55.0,
+      "yearBuilt": 1950,
+      "streetCode": 22000113,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2455,
+      "row_id": 71
+    },
+    {
+      "assetId": 50209638.0,
+      "addressId": 53491497,
+      "polygonId": "53084784",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "מצדה 1",
+      "dealDate": "2021-11-04",
+      "dealAmount": 191000,
+      "parcelNum": "39508-40-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1970,
+      "streetCode": 22000114,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4693,
+      "row_id": 72
+    },
+    {
+      "assetId": 50210259.0,
+      "addressId": 53491493,
+      "polygonId": "53434927",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 9",
+      "dealDate": "2021-11-04",
+      "dealAmount": 350000,
+      "parcelNum": "39509-37-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 34.9,
+      "yearBuilt": 1970,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-05-18",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2017-02-20",
+          "dealAmount": 319000
+        }
+      ],
+      "trend": {
+        "rate": 16.7,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 10294,
+      "row_id": 73
+    },
+    {
+      "assetId": 50210096.0,
+      "addressId": 53849322,
+      "polygonId": "53002909",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 121",
+      "dealDate": "2021-09-12",
+      "dealAmount": 865000,
+      "parcelNum": "39509-21-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 135.0,
+      "yearBuilt": 1965,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6407,
+      "row_id": 74
+    },
+    {
+      "assetId": 50209932.0,
+      "addressId": 53489073,
+      "polygonId": "53437629",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 14",
+      "dealDate": "2021-08-09",
+      "dealAmount": 520000,
+      "parcelNum": "39509-11-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 64.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8125,
+      "row_id": 75
+    },
+    {
+      "assetId": 50210137.0,
+      "addressId": 53492732,
+      "polygonId": "53035821",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 12",
+      "dealDate": "2021-08-02",
+      "dealAmount": 830000,
+      "parcelNum": "39509-23-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 1980,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 76
+    },
+    {
+      "assetId": 50210173.0,
+      "addressId": 53485799,
+      "polygonId": "53031579",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 113",
+      "dealDate": "2021-08-02",
+      "dealAmount": 730000,
+      "parcelNum": "39509-25-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 98.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-09-21",
+          "dealAmount": 720000
+        }
+      ],
+      "trend": {
+        "rate": 1.4,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 7449,
+      "row_id": 77
+    },
+    {
+      "assetId": 50210063.0,
+      "addressId": 53475980,
+      "polygonId": "53091972",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 34",
+      "dealDate": "2021-07-01",
+      "dealAmount": 630000,
+      "parcelNum": "39509-19-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17500,
+      "row_id": 78
+    },
+    {
+      "assetId": 50209539.0,
+      "addressId": 53850625,
+      "polygonId": "53075467",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הנרקיס 11",
+      "dealDate": "2021-05-03",
+      "dealAmount": 83000,
+      "parcelNum": "39508-13-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 55.0,
+      "yearBuilt": 1950,
+      "streetCode": 22000113,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1509,
+      "row_id": 79
+    },
+    {
+      "assetId": 50209866.0,
+      "addressId": 53491051,
+      "polygonId": "53031799",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 1",
+      "dealDate": "2021-04-13",
+      "dealAmount": 460000,
+      "parcelNum": "39509-1-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-18",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2010-11-10",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 2.2,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 10698,
+      "row_id": 80
+    },
+    {
+      "assetId": 50209479.0,
+      "addressId": 53489327,
+      "polygonId": "53441327",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 4",
+      "dealDate": "2021-04-12",
+      "dealAmount": 450000,
+      "parcelNum": "39508-2-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 84.0,
+      "yearBuilt": 1950,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5357,
+      "row_id": 81
+    },
+    {
+      "assetId": 50210275.0,
+      "addressId": 53492739,
+      "polygonId": "53143270",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 5",
+      "dealDate": "2021-03-15",
+      "dealAmount": 260000,
+      "parcelNum": "39509-38-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 37.4,
+      "yearBuilt": 1960,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-03-12",
+          "dealAmount": 275000
+        },
+        {
+          "dealDate": "2013-01-09",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "1998-04-22",
+          "dealAmount": 93000
+        }
+      ],
+      "trend": {
+        "rate": -5.5,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 7027,
+      "row_id": 82
+    },
+    {
+      "assetId": 50209635.0,
+      "addressId": 53491497,
+      "polygonId": "53084784",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "מצדה 1",
+      "dealDate": "2021-02-22",
+      "dealAmount": 270000,
+      "parcelNum": "39508-40-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 57.8,
+      "yearBuilt": 1970,
+      "streetCode": 22000114,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-08-30",
+          "dealAmount": 211000
+        }
+      ],
+      "trend": {
+        "rate": 28.0,
+        "years": 21.5
+      },
+      "ownership": [],
+      "priceSM": 4737,
+      "row_id": 83
+    },
+    {
+      "assetId": 50210316.0,
+      "addressId": 53485317,
+      "polygonId": "53122204",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 7",
+      "dealDate": "2021-01-25",
+      "dealAmount": 330000,
+      "parcelNum": "39509-40-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-06-14",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2000-09-05",
+          "dealAmount": 122000
+        }
+      ],
+      "trend": {
+        "rate": 10.0,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 8250,
+      "row_id": 84
+    },
+    {
+      "assetId": 50210160.0,
+      "addressId": 53491631,
+      "polygonId": "53448495",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 10",
+      "dealDate": "2020-12-28",
+      "dealAmount": 800000,
+      "parcelNum": "39509-24-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 49.1,
+      "yearBuilt": 1960,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16293,
+      "row_id": 85
+    },
+    {
+      "assetId": 50210134.0,
+      "addressId": 53487748,
+      "polygonId": "53079257",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 14",
+      "dealDate": "2020-11-29",
+      "dealAmount": 747000,
+      "parcelNum": "39509-22-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 140.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5336,
+      "row_id": 86
+    },
+    {
+      "assetId": 50209953.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2020-11-18",
+      "dealAmount": 128000,
+      "parcelNum": "39509-12-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-14",
+          "dealAmount": 50000
+        }
+      ],
+      "trend": {
+        "rate": 156.0,
+        "years": 0.2
+      },
+      "ownership": [],
+      "priceSM": 2977,
+      "row_id": 87
+    },
+    {
+      "assetId": 50210039.0,
+      "addressId": 53485600,
+      "polygonId": "52968680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 38",
+      "dealDate": "2020-08-17",
+      "dealAmount": 360000,
+      "parcelNum": "39509-17-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-02-07",
+          "dealAmount": 280000
+        },
+        {
+          "dealDate": "2012-05-31",
+          "dealAmount": 270000
+        },
+        {
+          "dealDate": "2011-12-19",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 28.6,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 88
+    },
+    {
+      "assetId": 50209950.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2020-08-11",
+      "dealAmount": 280000,
+      "parcelNum": "39509-12-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6393,
+      "row_id": 89
+    },
+    {
+      "assetId": 50209981.0,
+      "addressId": 53850917,
+      "polygonId": "53100962",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 24",
+      "dealDate": "2020-05-10",
+      "dealAmount": 240000,
+      "parcelNum": "39509-13-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-01-02",
+          "dealAmount": 211000
+        }
+      ],
+      "trend": {
+        "rate": 13.7,
+        "years": 16.4
+      },
+      "ownership": [],
+      "priceSM": 5581,
+      "row_id": 90
+    },
+    {
+      "assetId": 50209473.0,
+      "addressId": 53927228,
+      "polygonId": "53441327",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 2",
+      "dealDate": "2019-12-25",
+      "dealAmount": 360000,
+      "parcelNum": "39508-1-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 54.0,
+      "yearBuilt": 1950,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6667,
+      "row_id": 91
+    },
+    {
+      "assetId": 50209949.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2019-12-04",
+      "dealAmount": 400000,
+      "parcelNum": "39509-12-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9132,
+      "row_id": 92
+    },
+    {
+      "assetId": 50210092.0,
+      "addressId": 53850026,
+      "polygonId": "53098895",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 28",
+      "dealDate": "2019-12-02",
+      "dealAmount": 275000,
+      "parcelNum": "39509-20-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7639,
+      "row_id": 93
+    },
+    {
+      "assetId": 50209584.0,
+      "addressId": 53489197,
+      "polygonId": "53439442",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הכלנית 11",
+      "dealDate": "2019-11-24",
+      "dealAmount": 680000,
+      "parcelNum": "39508-24-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 64.3,
+      "yearBuilt": 1980,
+      "streetCode": 22000115,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10575,
+      "row_id": 94
+    },
+    {
+      "assetId": 50210041.0,
+      "addressId": 53485600,
+      "polygonId": "52968680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 38",
+      "dealDate": "2019-09-23",
+      "dealAmount": 285000,
+      "parcelNum": "39509-17-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-21",
+          "dealAmount": 310000
+        },
+        {
+          "dealDate": "2013-04-21",
+          "dealAmount": 360000
+        },
+        {
+          "dealDate": "2013-03-21",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": -8.1,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 7917,
+      "row_id": 95
+    },
+    {
+      "assetId": 50209900.0,
+      "addressId": 53808777,
+      "polygonId": "53074949",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 5",
+      "dealDate": "2019-09-02",
+      "dealAmount": 340000,
+      "parcelNum": "39509-5-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 36.4,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-07-01",
+          "dealAmount": 375000
+        }
+      ],
+      "trend": {
+        "rate": -9.3,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 9444,
+      "row_id": 96
+    },
+    {
+      "assetId": 50210302.0,
+      "addressId": 72364732,
+      "polygonId": "53066385",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 77",
+      "dealDate": "2019-08-27",
+      "dealAmount": 124000,
+      "parcelNum": "39509-39-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3047,
+      "row_id": 97
+    },
+    {
+      "assetId": 50210323.0,
+      "addressId": 53485317,
+      "polygonId": "53122204",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 7",
+      "dealDate": "2019-07-03",
+      "dealAmount": 55000,
+      "parcelNum": "39509-40-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1351,
+      "row_id": 98
+    },
+    {
+      "assetId": 50210124.0,
+      "addressId": 53487748,
+      "polygonId": "53079257",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 14",
+      "dealDate": "2019-05-23",
+      "dealAmount": 530000,
+      "parcelNum": "39509-22-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-08-26",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 6.0,
+        "years": 10.7
+      },
+      "ownership": [],
+      "priceSM": 5300,
+      "row_id": 99
+    },
+    {
+      "assetId": 50209497.0,
+      "addressId": 53489753,
+      "polygonId": "53441934",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "האיריס 6",
+      "dealDate": "2019-01-09",
+      "dealAmount": 345000,
+      "parcelNum": "39508-5-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 34.9,
+      "yearBuilt": 1970,
+      "streetCode": 22000158,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9885,
+      "row_id": 100
+    },
+    {
+      "assetId": 50210258.0,
+      "addressId": 53491493,
+      "polygonId": "53434927",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 9",
+      "dealDate": "2018-12-19",
+      "dealAmount": 299000,
+      "parcelNum": "39509-37-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 34.9,
+      "yearBuilt": 1970,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-01-22",
+          "dealAmount": 277000
+        }
+      ],
+      "trend": {
+        "rate": 7.9,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 8794,
+      "row_id": 101
+    },
+    {
+      "assetId": 50209973.0,
+      "addressId": 53850917,
+      "polygonId": "53100962",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 24",
+      "dealDate": "2018-12-04",
+      "dealAmount": 370000,
+      "parcelNum": "39509-13-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8447,
+      "row_id": 102
+    },
+    {
+      "assetId": 50210018.0,
+      "addressId": 53475979,
+      "polygonId": "53437680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 32",
+      "dealDate": "2018-10-09",
+      "dealAmount": 375000,
+      "parcelNum": "39509-16-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-26",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2008-08-27",
+          "dealAmount": 140000
+        }
+      ],
+      "trend": {
+        "rate": 7.1,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 10417,
+      "row_id": 103
+    },
+    {
+      "assetId": 50210292.0,
+      "addressId": 72364732,
+      "polygonId": "53066385",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 77",
+      "dealDate": "2018-07-08",
+      "dealAmount": 360000,
+      "parcelNum": "39509-39-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-16",
+          "dealAmount": 349000
+        }
+      ],
+      "trend": {
+        "rate": 3.2,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 9000,
+      "row_id": 104
+    },
+    {
+      "assetId": 50209967.0,
+      "addressId": 53850917,
+      "polygonId": "53100962",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 24",
+      "dealDate": "2018-06-04",
+      "dealAmount": 349000,
+      "parcelNum": "39509-13-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-12-05",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 16.3,
+        "years": 0.5
+      },
+      "ownership": [],
+      "priceSM": 8116,
+      "row_id": 105
+    },
+    {
+      "assetId": 50209642.0,
+      "addressId": 53490380,
+      "polygonId": "53093840",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הכלנית 14",
+      "dealDate": "2018-05-18",
+      "dealAmount": 840000,
+      "parcelNum": "39508-41-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 36.4,
+      "yearBuilt": 1970,
+      "streetCode": 22000115,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 23077,
+      "row_id": 106
+    },
+    {
+      "assetId": 50209498.0,
+      "addressId": 53489753,
+      "polygonId": "53441934",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "האיריס 6",
+      "dealDate": "2018-04-18",
+      "dealAmount": 299000,
+      "parcelNum": "39508-5-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 71.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000158,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4211,
+      "row_id": 107
+    },
+    {
+      "assetId": 50209958.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2018-03-09",
+      "dealAmount": 395000,
+      "parcelNum": "39509-12-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-06-03",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": 46.3,
+        "years": 5.8
+      },
+      "ownership": [],
+      "priceSM": 9186,
+      "row_id": 108
+    },
+    {
+      "assetId": 50209489.0,
+      "addressId": 53851089,
+      "polygonId": "53441101",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 8",
+      "dealDate": "2018-03-04",
+      "dealAmount": 385000,
+      "parcelNum": "39508-4-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 34.9,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11032,
+      "row_id": 109
+    },
+    {
+      "assetId": 50209901.0,
+      "addressId": 53808777,
+      "polygonId": "53074949",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 5",
+      "dealDate": "2018-02-12",
+      "dealAmount": 800000,
+      "parcelNum": "39509-5-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 56.1,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14260,
+      "row_id": 110
+    },
+    {
+      "assetId": 50210019.0,
+      "addressId": 53475979,
+      "polygonId": "53437680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 32",
+      "dealDate": "2017-11-10",
+      "dealAmount": 280000,
+      "parcelNum": "39509-16-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-30",
+          "dealAmount": 126000
+        },
+        {
+          "dealDate": "2000-01-21",
+          "dealAmount": 151000
+        }
+      ],
+      "trend": {
+        "rate": 122.2,
+        "years": 14.5
+      },
+      "ownership": [],
+      "priceSM": 7778,
+      "row_id": 111
+    },
+    {
+      "assetId": 50209928.0,
+      "addressId": 53491048,
+      "polygonId": "53074907",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 10",
+      "dealDate": "2017-10-30",
+      "dealAmount": 905000,
+      "parcelNum": "39509-10-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 107.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8458,
+      "row_id": 112
+    },
+    {
+      "assetId": 50210313.0,
+      "addressId": 53485317,
+      "polygonId": "53122204",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 7",
+      "dealDate": "2017-09-12",
+      "dealAmount": 500000,
+      "parcelNum": "39509-40-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1960,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12285,
+      "row_id": 113
+    },
+    {
+      "assetId": 50210131.0,
+      "addressId": 53487748,
+      "polygonId": "53079257",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 14",
+      "dealDate": "2017-09-06",
+      "dealAmount": 410000,
+      "parcelNum": "39509-22-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 49.1,
+      "yearBuilt": 1970,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8350,
+      "row_id": 114
+    },
+    {
+      "assetId": 50210011.0,
+      "addressId": 53475979,
+      "polygonId": "53437680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 32",
+      "dealDate": "2017-08-15",
+      "dealAmount": 415000,
+      "parcelNum": "39509-16-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11528,
+      "row_id": 115
+    },
+    {
+      "assetId": 50209633.0,
+      "addressId": 53491497,
+      "polygonId": "53084784",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "מצדה 1",
+      "dealDate": "2017-03-29",
+      "dealAmount": 420000,
+      "parcelNum": "39508-40-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 79.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000114,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5316,
+      "row_id": 116
+    },
+    {
+      "assetId": 50210071.0,
+      "addressId": 53475980,
+      "polygonId": "53091972",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 34",
+      "dealDate": "2016-12-12",
+      "dealAmount": 278000,
+      "parcelNum": "39509-19-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7722,
+      "row_id": 117
+    },
+    {
+      "assetId": 50209928.0,
+      "addressId": 53491048,
+      "polygonId": "53074907",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 10",
+      "dealDate": "2016-11-22",
+      "dealAmount": 840000,
+      "parcelNum": "39509-10-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 106.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7925,
+      "row_id": 118
+    },
+    {
+      "assetId": 50209928.0,
+      "addressId": 53491048,
+      "polygonId": "53074907",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 10",
+      "dealDate": "2016-07-04",
+      "dealAmount": 839000,
+      "parcelNum": "39509-10-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 107.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7841,
+      "row_id": 119
+    },
+    {
+      "assetId": 50209928.0,
+      "addressId": 53491048,
+      "polygonId": "53074907",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 10",
+      "dealDate": "2016-06-30",
+      "dealAmount": 850000,
+      "parcelNum": "39509-10-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 107.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7944,
+      "row_id": 120
+    },
+    {
+      "assetId": 50209928.0,
+      "addressId": 53491048,
+      "polygonId": "53074907",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 10",
+      "dealDate": "2016-05-19",
+      "dealAmount": 839000,
+      "parcelNum": "39509-10-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשיעית",
+      "assetArea": 107.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-19",
+          "dealAmount": 864000
+        }
+      ],
+      "trend": {
+        "rate": -2.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 7841,
+      "row_id": 122
+    },
+    {
+      "assetId": 50209593.0,
+      "addressId": 53487256,
+      "polygonId": "52967997",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הכלנית 23",
+      "dealDate": "2016-04-19",
+      "dealAmount": 670000,
+      "parcelNum": "39508-27-1",
+      "dealNature": "קוטג' טורי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 64.3,
+      "yearBuilt": 1970,
+      "streetCode": 22000115,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10420,
+      "row_id": 123
+    },
+    {
+      "assetId": 50210272.0,
+      "addressId": 53492739,
+      "polygonId": "53143270",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 5",
+      "dealDate": "2016-01-21",
+      "dealAmount": 320000,
+      "parcelNum": "39509-38-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 34.9,
+      "yearBuilt": 1960,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9169,
+      "row_id": 124
+    },
+    {
+      "assetId": 50210210.0,
+      "addressId": 53490821,
+      "polygonId": "53083264",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 79",
+      "dealDate": "2015-11-26",
+      "dealAmount": 330000,
+      "parcelNum": "39509-32-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 40.7,
+      "yearBuilt": 1980,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-02-01",
+          "dealAmount": 76000
+        }
+      ],
+      "trend": {
+        "rate": 334.2,
+        "years": 11.8
+      },
+      "ownership": [],
+      "priceSM": 8250,
+      "row_id": 125
+    },
+    {
+      "assetId": 50210002.0,
+      "addressId": 53485870,
+      "polygonId": "53437453",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 22",
+      "dealDate": "2015-11-16",
+      "dealAmount": 330000,
+      "parcelNum": "39509-15-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9167,
+      "row_id": 126
+    },
+    {
+      "assetId": 50210031.0,
+      "addressId": 53485600,
+      "polygonId": "52968680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 38",
+      "dealDate": "2015-08-26",
+      "dealAmount": 224000,
+      "parcelNum": "39509-17-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-07-29",
+          "dealAmount": 85000
+        }
+      ],
+      "trend": {
+        "rate": 163.5,
+        "years": 7.1
+      },
+      "ownership": [],
+      "priceSM": 6222,
+      "row_id": 127
+    },
+    {
+      "assetId": 50210042.0,
+      "addressId": 53485600,
+      "polygonId": "52968680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 38",
+      "dealDate": "2015-08-04",
+      "dealAmount": 264000,
+      "parcelNum": "39509-17-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-04",
+          "dealAmount": 148000
+        }
+      ],
+      "trend": {
+        "rate": 78.4,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 7333,
+      "row_id": 128
+    },
+    {
+      "assetId": 50209962.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2015-06-18",
+      "dealAmount": 410000,
+      "parcelNum": "39509-12-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9361,
+      "row_id": 129
+    },
+    {
+      "assetId": 50210017.0,
+      "addressId": 53475979,
+      "polygonId": "53437680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 32",
+      "dealDate": "2015-06-16",
+      "dealAmount": 340000,
+      "parcelNum": "39509-16-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9444,
+      "row_id": 130
+    },
+    {
+      "assetId": 50210120.0,
+      "addressId": 53487748,
+      "polygonId": "53079257",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 14",
+      "dealDate": "2015-06-01",
+      "dealAmount": 520000,
+      "parcelNum": "39509-22-6",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5200,
+      "row_id": 131
+    },
+    {
+      "assetId": 50210103.0,
+      "addressId": 53849322,
+      "polygonId": "53002909",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 121",
+      "dealDate": "2015-05-20",
+      "dealAmount": 1100000,
+      "parcelNum": "39509-21-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 135.0,
+      "yearBuilt": 1965,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-30",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2011-08-24",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 100.0,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 8148,
+      "row_id": 132
+    },
+    {
+      "assetId": 50209952.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2015-03-29",
+      "dealAmount": 365000,
+      "parcelNum": "39509-12-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.6,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8372,
+      "row_id": 133
+    },
+    {
+      "assetId": 50209997.0,
+      "addressId": 53485870,
+      "polygonId": "53437453",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 22",
+      "dealDate": "2015-03-01",
+      "dealAmount": 350000,
+      "parcelNum": "39509-15-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-20",
+          "dealAmount": 260000
+        },
+        {
+          "dealDate": "2001-12-26",
+          "dealAmount": 214000
+        },
+        {
+          "dealDate": "2000-01-30",
+          "dealAmount": 154000
+        }
+      ],
+      "trend": {
+        "rate": 34.6,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 9722,
+      "row_id": 134
+    },
+    {
+      "assetId": 50209995.0,
+      "addressId": 53485870,
+      "polygonId": "53437453",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 22",
+      "dealDate": "2015-02-15",
+      "dealAmount": 375000,
+      "parcelNum": "39509-15-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10417,
+      "row_id": 135
+    },
+    {
+      "assetId": 50209510.0,
+      "addressId": 53489754,
+      "polygonId": "53105686",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "האיריס 2",
+      "dealDate": "2015-02-08",
+      "dealAmount": 200000,
+      "parcelNum": "39508-7-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 34.9,
+      "yearBuilt": 1980,
+      "streetCode": 22000158,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5731,
+      "row_id": 136
+    },
+    {
+      "assetId": 50209508.0,
+      "addressId": 53489754,
+      "polygonId": "53105686",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "האיריס 2",
+      "dealDate": "2015-02-08",
+      "dealAmount": 300000,
+      "parcelNum": "39508-7-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 34.9,
+      "yearBuilt": 1980,
+      "streetCode": 22000158,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8596,
+      "row_id": 137
+    },
+    {
+      "assetId": 50209542.0,
+      "addressId": 53492727,
+      "polygonId": "53002861",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הנרקיס 24",
+      "dealDate": "2014-11-02",
+      "dealAmount": 910000,
+      "parcelNum": "39508-14-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 1996,
+      "streetCode": 22000113,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7583,
+      "row_id": 138
+    },
+    {
+      "assetId": 4490580.0,
+      "addressId": 53492740,
+      "polygonId": "53068902",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 18",
+      "dealDate": "2014-10-19",
+      "dealAmount": 1350000,
+      "parcelNum": "39509-36-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 163.0,
+      "yearBuilt": 2009,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8282,
+      "row_id": 139
+    },
+    {
+      "assetId": 50209507.0,
+      "addressId": 53489754,
+      "polygonId": "53105686",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "האיריס 2",
+      "dealDate": "2014-08-13",
+      "dealAmount": 230000,
+      "parcelNum": "39508-7-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 34.9,
+      "yearBuilt": 1980,
+      "streetCode": 22000158,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-28",
+          "dealAmount": 139000
+        }
+      ],
+      "trend": {
+        "rate": 65.5,
+        "years": 1.2
+      },
+      "ownership": [],
+      "priceSM": 6765,
+      "row_id": 140
+    },
+    {
+      "assetId": 50210233.0,
+      "addressId": 53485700,
+      "polygonId": "53434383",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 89",
+      "dealDate": "2014-06-23",
+      "dealAmount": 285000,
+      "parcelNum": "39509-33-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1970,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7002,
+      "row_id": 141
+    },
+    {
+      "assetId": 50209870.0,
+      "addressId": 53491051,
+      "polygonId": "53031799",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 1",
+      "dealDate": "2014-06-15",
+      "dealAmount": 370000,
+      "parcelNum": "39509-1-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8447,
+      "row_id": 142
+    },
+    {
+      "assetId": 50209871.0,
+      "addressId": 53491051,
+      "polygonId": "53031799",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 1",
+      "dealDate": "2014-05-15",
+      "dealAmount": 374000,
+      "parcelNum": "39509-1-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-01-05",
+          "dealAmount": 263000
+        }
+      ],
+      "trend": {
+        "rate": 42.2,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 8698,
+      "row_id": 143
+    },
+    {
+      "assetId": 50210257.0,
+      "addressId": 53491493,
+      "polygonId": "53434927",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 9",
+      "dealDate": "2014-01-21",
+      "dealAmount": 274000,
+      "parcelNum": "39509-37-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 40.7,
+      "yearBuilt": 1970,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-11-12",
+          "dealAmount": 259000
+        }
+      ],
+      "trend": {
+        "rate": 5.8,
+        "years": 1.2
+      },
+      "ownership": [],
+      "priceSM": 6850,
+      "row_id": 144
+    },
+    {
+      "assetId": 50209964.0,
+      "addressId": 53850917,
+      "polygonId": "53100962",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 24",
+      "dealDate": "2013-12-31",
+      "dealAmount": 319000,
+      "parcelNum": "39509-13-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-07-19",
+          "dealAmount": 143000
+        }
+      ],
+      "trend": {
+        "rate": 123.1,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 7419,
+      "row_id": 145
+    },
+    {
+      "assetId": 50209874.0,
+      "addressId": 53491051,
+      "polygonId": "53031799",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 1",
+      "dealDate": "2013-12-30",
+      "dealAmount": 200000,
+      "parcelNum": "39509-1-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-09-08",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": -20.0,
+        "years": 15.3
+      },
+      "ownership": [],
+      "priceSM": 4651,
+      "row_id": 146
+    },
+    {
+      "assetId": 50209955.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2013-10-20",
+      "dealAmount": 247000,
+      "parcelNum": "39509-12-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5639,
+      "row_id": 147
+    },
+    {
+      "assetId": 4490581.0,
+      "addressId": 53492740,
+      "polygonId": "53068902",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 18",
+      "dealDate": "2013-08-20",
+      "dealAmount": 1100000,
+      "parcelNum": "39509-36-1",
+      "dealNature": "בית בודד",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 137.0,
+      "yearBuilt": 2009,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8029,
+      "row_id": 148
+    },
+    {
+      "assetId": 50210025.0,
+      "addressId": 53475979,
+      "polygonId": "53437680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 32",
+      "dealDate": "2013-06-03",
+      "dealAmount": 225000,
+      "parcelNum": "39509-16-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 36.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-02-08",
+          "dealAmount": 50000
+        }
+      ],
+      "trend": {
+        "rate": 350.0,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 6250,
+      "row_id": 149
+    },
+    {
+      "assetId": 50210253.0,
+      "addressId": 53491493,
+      "polygonId": "53434927",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "קציעות 9",
+      "dealDate": "2013-04-17",
+      "dealAmount": 275000,
+      "parcelNum": "39509-37-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 34.9,
+      "yearBuilt": 1970,
+      "streetCode": 22000145,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-08-25",
+          "dealAmount": 210000
+        },
+        {
+          "dealDate": "2006-07-02",
+          "dealAmount": 66000
+        }
+      ],
+      "trend": {
+        "rate": 31.0,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 8088,
+      "row_id": 150
+    },
+    {
+      "assetId": 50209940.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2013-03-04",
+      "dealAmount": 400000,
+      "parcelNum": "39509-12-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-06-27",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2000-06-13",
+          "dealAmount": 205000
+        },
+        {
+          "dealDate": "1998-11-18",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 17.6,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 9302,
+      "row_id": 151
+    },
+    {
+      "assetId": 50210053.0,
+      "addressId": 53485600,
+      "polygonId": "52968680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 38",
+      "dealDate": "2013-02-03",
+      "dealAmount": 200000,
+      "parcelNum": "39509-17-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-03-31",
+          "dealAmount": 78000
+        }
+      ],
+      "trend": {
+        "rate": 156.4,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 5556,
+      "row_id": 152
+    },
+    {
+      "assetId": 50209971.0,
+      "addressId": 53850917,
+      "polygonId": "53100962",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 24",
+      "dealDate": "2012-12-19",
+      "dealAmount": 304000,
+      "parcelNum": "39509-13-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-15",
+          "dealAmount": 190000
+        }
+      ],
+      "trend": {
+        "rate": 60.0,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 7070,
+      "row_id": 153
+    },
+    {
+      "assetId": 50209605.0,
+      "addressId": 53849802,
+      "polygonId": "53108665",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הכלנית 36",
+      "dealDate": "2012-12-13",
+      "dealAmount": 393000,
+      "parcelNum": "39508-31-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 177.0,
+      "yearBuilt": 1950,
+      "streetCode": 22000115,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-01-17",
+          "dealAmount": 453000
+        }
+      ],
+      "trend": {
+        "rate": -13.2,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 2220,
+      "row_id": 154
+    },
+    {
+      "assetId": 50210151.0,
+      "addressId": 53492732,
+      "polygonId": "53035821",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 12",
+      "dealDate": "2012-11-26",
+      "dealAmount": 629000,
+      "parcelNum": "39509-23-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 104.0,
+      "yearBuilt": 1980,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6048,
+      "row_id": 155
+    },
+    {
+      "assetId": 50209549.0,
+      "addressId": 53487244,
+      "polygonId": "53101047",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הנרקיס 18",
+      "dealDate": "2012-10-18",
+      "dealAmount": 675000,
+      "parcelNum": "39508-16-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 141.0,
+      "yearBuilt": 1800,
+      "streetCode": 22000113,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-23",
+          "dealAmount": 920000
+        }
+      ],
+      "trend": {
+        "rate": -26.6,
+        "years": 1.7
+      },
+      "ownership": [
+        {
+          "proportion": "8",
+          "price": 54000
+        },
+        {
+          "proportion": "8",
+          "price": 54000
+        },
+        {
+          "proportion": "8",
+          "price": 54000
+        },
+        {
+          "proportion": "75",
+          "price": 506250
+        }
+      ],
+      "priceSM": 4787,
+      "row_id": 156
+    },
+    {
+      "assetId": 50210111.0,
+      "addressId": 53849322,
+      "polygonId": "53002909",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 121",
+      "dealDate": "2012-06-26",
+      "dealAmount": 257000,
+      "parcelNum": "39509-21-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 112.0,
+      "yearBuilt": 1965,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2295,
+      "row_id": 157
+    },
+    {
+      "assetId": 50209975.0,
+      "addressId": 53850917,
+      "polygonId": "53100962",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 24",
+      "dealDate": "2012-06-13",
+      "dealAmount": 200000,
+      "parcelNum": "39509-13-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4566,
+      "row_id": 158
+    },
+    {
+      "assetId": 50209941.0,
+      "addressId": 53476184,
+      "polygonId": "53444588",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 18",
+      "dealDate": "2012-06-05",
+      "dealAmount": 380000,
+      "parcelNum": "39509-12-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8676,
+      "row_id": 159
+    },
+    {
+      "assetId": 50209998.0,
+      "addressId": 53485870,
+      "polygonId": "53437453",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 22",
+      "dealDate": "2012-01-26",
+      "dealAmount": 290000,
+      "parcelNum": "39509-15-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-18",
+          "dealAmount": 220000
+        }
+      ],
+      "trend": {
+        "rate": 31.8,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 8056,
+      "row_id": 160
+    },
+    {
+      "assetId": 50210012.0,
+      "addressId": 53475979,
+      "polygonId": "53437680",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "יגאל אלון 32",
+      "dealDate": "2012-01-26",
+      "dealAmount": 345000,
+      "parcelNum": "39509-16-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000111,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-09-18",
+          "dealAmount": 243000
+        }
+      ],
+      "trend": {
+        "rate": 42.0,
+        "years": 0.4
+      },
+      "ownership": [],
+      "priceSM": 9583,
+      "row_id": 161
+    },
+    {
+      "assetId": 50209854.0,
+      "addressId": 53491051,
+      "polygonId": "53031799",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "רקפת 1",
+      "dealDate": "2012-01-11",
+      "dealAmount": 275000,
+      "parcelNum": "39509-1-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.8,
+      "yearBuilt": 1970,
+      "streetCode": 22000156,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-11-21",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": -11.3,
+        "years": 5.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 137500
+        },
+        {
+          "proportion": "50",
+          "price": 137500
+        }
+      ],
+      "priceSM": 6395,
+      "row_id": 162
+    },
+    {
+      "assetId": 50209994.0,
+      "addressId": 53485870,
+      "polygonId": "53437453",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "פרחי ארצנו 22",
+      "dealDate": "2011-12-11",
+      "dealAmount": 250000,
+      "parcelNum": "39509-15-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 36.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000157,
+      "settlmentID": 2200,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-12-31",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "1998-10-18",
+          "dealAmount": 180000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 6944,
+      "row_id": 163
+    },
+    {
+      "assetId": 50209571.0,
+      "addressId": 53490379,
+      "polygonId": "53136376",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "אריאל שרון 40",
+      "dealDate": "2011-11-03",
+      "dealAmount": 500000,
+      "parcelNum": "39508-21-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1960,
+      "streetCode": 22000275,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 164
+    },
+    {
+      "assetId": 50210098.0,
+      "addressId": 53849322,
+      "polygonId": "53002909",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 121",
+      "dealDate": "2011-10-06",
+      "dealAmount": 725000,
+      "parcelNum": "39509-21-5",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 98.0,
+      "yearBuilt": 1965,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7398,
+      "row_id": 165
+    },
+    {
+      "assetId": 50210104.0,
+      "addressId": 53849322,
+      "polygonId": "53002909",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 121",
+      "dealDate": "2011-06-26",
+      "dealAmount": 255000,
+      "parcelNum": "39509-21-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 49.1,
+      "yearBuilt": 1965,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5193,
+      "row_id": 166
+    },
+    {
+      "assetId": 50210174.0,
+      "addressId": 53485799,
+      "polygonId": "53031579",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 113",
+      "dealDate": "2010-12-09",
+      "dealAmount": 600000,
+      "parcelNum": "39509-25-5",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 167
+    },
+    {
+      "assetId": 50209546.0,
+      "addressId": 53487316,
+      "polygonId": "53086862",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הנרקיס 22",
+      "dealDate": "2010-10-25",
+      "dealAmount": 480000,
+      "parcelNum": "39508-15-2",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 47.1,
+      "yearBuilt": 1900,
+      "streetCode": 22000113,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10191,
+      "row_id": 168
+    },
+    {
+      "assetId": 50210141.0,
+      "addressId": 53492732,
+      "polygonId": "53035821",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 12",
+      "dealDate": "2010-07-01",
+      "dealAmount": 600000,
+      "parcelNum": "39509-23-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 110.0,
+      "yearBuilt": 1980,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5455,
+      "row_id": 169
+    },
+    {
+      "assetId": 50210205.0,
+      "addressId": 0,
+      "polygonId": "39509-30",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "0",
+      "dealDate": "2010-01-05",
+      "dealAmount": 155000,
+      "parcelNum": "39509-30-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 45.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3444,
+      "row_id": 172
+    },
+    {
+      "assetId": 50209511.0,
+      "addressId": 0,
+      "polygonId": "39508-8",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "0",
+      "dealDate": "2009-07-05",
+      "dealAmount": 110000,
+      "parcelNum": "39508-8-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1341,
+      "row_id": 173
+    },
+    {
+      "assetId": 4354256.0,
+      "addressId": 0,
+      "polygonId": "39509-31",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "0",
+      "dealDate": "2009-03-15",
+      "dealAmount": 130000,
+      "parcelNum": "39509-31-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3023,
+      "row_id": 174
+    },
+    {
+      "assetId": 50210204.0,
+      "addressId": 0,
+      "polygonId": "39509-29",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "0",
+      "dealDate": "2008-12-10",
+      "dealAmount": 155000,
+      "parcelNum": "39509-29-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 54.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2870,
+      "row_id": 175
+    },
+    {
+      "assetId": 4354256.0,
+      "addressId": 0,
+      "polygonId": "39509-31",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "0",
+      "dealDate": "2008-11-11",
+      "dealAmount": 160000,
+      "parcelNum": "39509-31-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2133,
+      "row_id": 176
+    },
+    {
+      "assetId": 50210116.0,
+      "addressId": 53487748,
+      "polygonId": "53079257",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הצבר 14",
+      "dealDate": "2008-10-23",
+      "dealAmount": 165000,
+      "parcelNum": "39509-22-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 49.1,
+      "yearBuilt": 1970,
+      "streetCode": 22000173,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3360,
+      "row_id": 177
+    },
+    {
+      "assetId": 50209563.0,
+      "addressId": 53485699,
+      "polygonId": "53435234",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הנרקיס 2",
+      "dealDate": "2008-08-28",
+      "dealAmount": 165000,
+      "parcelNum": "39508-20-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 54.0,
+      "yearBuilt": 1970,
+      "streetCode": 22000113,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3056,
+      "row_id": 178
+    },
+    {
+      "assetId": 50210205.0,
+      "addressId": 0,
+      "polygonId": "39509-30",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "0",
+      "dealDate": "2008-04-28",
+      "dealAmount": 240000,
+      "parcelNum": "39509-30-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 179
+    },
+    {
+      "assetId": 4354256.0,
+      "addressId": 0,
+      "polygonId": "39509-31",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "0",
+      "dealDate": "2008-02-21",
+      "dealAmount": 130000,
+      "parcelNum": "39509-31-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 54.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2407,
+      "row_id": 180
+    },
+    {
+      "assetId": 50210205.0,
+      "addressId": 0,
+      "polygonId": "39509-30",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "0",
+      "dealDate": "2008-02-03",
+      "dealAmount": 157000,
+      "parcelNum": "39509-30-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3651,
+      "row_id": 181
+    },
+    {
+      "assetId": 4354256.0,
+      "addressId": 0,
+      "polygonId": "39509-31",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "0",
+      "dealDate": "2005-12-11",
+      "dealAmount": 183000,
+      "parcelNum": "39509-31-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2440,
+      "row_id": 182
+    },
+    {
+      "assetId": 50210179.0,
+      "addressId": 53485799,
+      "polygonId": "53031579",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "בבא סאלי 113",
+      "dealDate": "2005-06-01",
+      "dealAmount": 56000,
+      "parcelNum": "39509-25-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 49.1,
+      "yearBuilt": 1970,
+      "streetCode": 22000118,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1141,
+      "row_id": 183
+    },
+    {
+      "assetId": 50209543.0,
+      "addressId": 53492727,
+      "polygonId": "53002861",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הנרקיס 24",
+      "dealDate": "2005-05-26",
+      "dealAmount": 118000,
+      "parcelNum": "39508-14-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 40.0,
+      "yearBuilt": 1996,
+      "streetCode": 22000113,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2950,
+      "row_id": 184
+    },
+    {
+      "assetId": 4354256.0,
+      "addressId": 0,
+      "polygonId": "39509-31",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "0",
+      "dealDate": "2004-10-24",
+      "dealAmount": 146000,
+      "parcelNum": "39509-31-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 44.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2200,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3318,
+      "row_id": 185
+    },
+    {
+      "assetId": 50209560.0,
+      "addressId": 53485699,
+      "polygonId": "53435234",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הנרקיס 2",
+      "dealDate": "2003-11-04",
+      "dealAmount": 151000,
+      "parcelNum": "39508-20-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 34.9,
+      "yearBuilt": 1970,
+      "streetCode": 22000113,
+      "settlmentID": 2200,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4327,
+      "row_id": 186
+    },
+    {
+      "assetId": 50209546.0,
+      "addressId": 53487316,
+      "polygonId": "53086862",
+      "neighborhoodName": "פרחי ארצנו",
+      "neighborhoodId": 65210791,
+      "address": "הנרקיס 22",
+      "dealDate": "2003-10-31",
+      "dealAmount": 237000,
+      "parcelNum": "39508-15-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 90.0,
+      "yearBuilt": 1958,
+      "streetCode": 22000113,
+      "settlmentID": 2200,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2633,
+      "row_id": 187
+    }
+  ]
+}

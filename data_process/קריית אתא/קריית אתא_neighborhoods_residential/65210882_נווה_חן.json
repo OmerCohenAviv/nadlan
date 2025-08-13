@@ -1,0 +1,7663 @@
+{
+  "neighborhood_name": "נווה חן",
+  "city_name": "קריית אתא",
+  "transaction_count": 231,
+  "transactions": [
+    {
+      "assetId": 70294453.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2025-07-24",
+      "dealAmount": 810000,
+      "parcelNum": "11543-14-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-02",
+          "dealAmount": 168000
+        },
+        {
+          "dealDate": "2009-10-21",
+          "dealAmount": 116000
+        },
+        {
+          "dealDate": "2001-03-26",
+          "dealAmount": 242000
+        },
+        {
+          "dealDate": "2001-01-18",
+          "dealAmount": 269000
+        },
+        {
+          "dealDate": "1999-12-14",
+          "dealAmount": 208000
+        }
+      ],
+      "trend": {
+        "rate": 382.1,
+        "years": 15.2
+      },
+      "ownership": [],
+      "priceSM": 18000,
+      "row_id": 1
+    },
+    {
+      "assetId": 70294634.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2025-07-22",
+      "dealAmount": 1020000,
+      "parcelNum": "11543-18-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 61.5,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-01-09",
+          "dealAmount": 360000
+        },
+        {
+          "dealDate": "2010-05-12",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 183.3,
+        "years": 13.5
+      },
+      "ownership": [],
+      "priceSM": 16721,
+      "row_id": 2
+    },
+    {
+      "assetId": 70294635.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2025-06-11",
+      "dealAmount": 965000,
+      "parcelNum": "11543-18-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14666,
+      "row_id": 3
+    },
+    {
+      "assetId": 70294181.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2025-06-10",
+      "dealAmount": 885500,
+      "parcelNum": "11543-9-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16490,
+      "row_id": 4
+    },
+    {
+      "assetId": 70294500.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2025-05-26",
+      "dealAmount": 750000,
+      "parcelNum": "11543-15-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-03-03",
+          "dealAmount": 285000
+        },
+        {
+          "dealDate": "2010-11-04",
+          "dealAmount": 225000
+        }
+      ],
+      "trend": {
+        "rate": 163.2,
+        "years": 12.2
+      },
+      "ownership": [],
+      "priceSM": 16667,
+      "row_id": 5
+    },
+    {
+      "assetId": 70294460.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2025-05-05",
+      "dealAmount": 830000,
+      "parcelNum": "11543-14-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-02-02",
+          "dealAmount": 680000
+        },
+        {
+          "dealDate": "2018-01-19",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2015-08-02",
+          "dealAmount": 310000
+        },
+        {
+          "dealDate": "2010-05-12",
+          "dealAmount": 180000
+        },
+        {
+          "dealDate": "2007-03-07",
+          "dealAmount": 109000
+        }
+      ],
+      "trend": {
+        "rate": 22.1,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 18444,
+      "row_id": 6
+    },
+    {
+      "assetId": 70294414.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2025-04-24",
+      "dealAmount": 825000,
+      "parcelNum": "11543-13-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-12-21",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2012-10-22",
+          "dealAmount": 320000
+        }
+      ],
+      "trend": {
+        "rate": 37.5,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 18333,
+      "row_id": 7
+    },
+    {
+      "assetId": 70294167.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2025-04-06",
+      "dealAmount": 1116100,
+      "parcelNum": "11543-9-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-04-25",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2011-08-16",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2000-02-28",
+          "dealAmount": 363000
+        }
+      ],
+      "trend": {
+        "rate": 95.8,
+        "years": 4.0
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 368313
+        },
+        {
+          "proportion": "33",
+          "price": 368313
+        },
+        {
+          "proportion": "33",
+          "price": 368313
+        }
+      ],
+      "priceSM": 20669,
+      "row_id": 8
+    },
+    {
+      "assetId": 70294496.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2025-03-17",
+      "dealAmount": 850000,
+      "parcelNum": "11543-15-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-20",
+          "dealAmount": 490000
+        }
+      ],
+      "trend": {
+        "rate": 73.5,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 18889,
+      "row_id": 9
+    },
+    {
+      "assetId": 70294384.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2025-03-15",
+      "dealAmount": 920000,
+      "parcelNum": "11543-13-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-07-18",
+          "dealAmount": 620000
+        },
+        {
+          "dealDate": "2011-06-05",
+          "dealAmount": 255000
+        },
+        {
+          "dealDate": "2007-10-09",
+          "dealAmount": 93000
+        },
+        {
+          "dealDate": "1999-07-04",
+          "dealAmount": 225000
+        }
+      ],
+      "trend": {
+        "rate": 48.4,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 20444,
+      "row_id": 10
+    },
+    {
+      "assetId": 70294573.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2025-03-12",
+      "dealAmount": 920000,
+      "parcelNum": "11543-17-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-09-30",
+          "dealAmount": 153000
+        }
+      ],
+      "trend": {
+        "rate": 501.3,
+        "years": 9.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 460000
+        },
+        {
+          "proportion": "50",
+          "price": 460000
+        }
+      ],
+      "priceSM": 16140,
+      "row_id": 11
+    },
+    {
+      "assetId": 70294537.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2025-03-02",
+      "dealAmount": 1090000,
+      "parcelNum": "11543-16-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-01-23",
+          "dealAmount": 890000
+        },
+        {
+          "dealDate": "2020-06-25",
+          "dealAmount": 545000
+        }
+      ],
+      "trend": {
+        "rate": 22.5,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 19123,
+      "row_id": 12
+    },
+    {
+      "assetId": 70294148.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2025-02-18",
+      "dealAmount": 1080000,
+      "parcelNum": "11543-8-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-12-31",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2019-07-12",
+          "dealAmount": 499000
+        },
+        {
+          "dealDate": "2018-05-29",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2018-02-27",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 116.0,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 20377,
+      "row_id": 13
+    },
+    {
+      "assetId": 70294624.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2025-02-10",
+      "dealAmount": 850000,
+      "parcelNum": "11543-18-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-03-05",
+          "dealAmount": 398000
+        }
+      ],
+      "trend": {
+        "rate": 113.6,
+        "years": 25.0
+      },
+      "ownership": [],
+      "priceSM": 13077,
+      "row_id": 14
+    },
+    {
+      "assetId": 70294248.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2025-01-30",
+      "dealAmount": 1060000,
+      "parcelNum": "11543-11-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 71.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-06-22",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 135.6,
+        "years": 10.6
+      },
+      "ownership": [],
+      "priceSM": 14930,
+      "row_id": 15
+    },
+    {
+      "assetId": 70294189.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2025-01-30",
+      "dealAmount": 870000,
+      "parcelNum": "11543-9-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-09-04",
+          "dealAmount": 425000
+        },
+        {
+          "dealDate": "2004-08-22",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 104.7,
+        "years": 9.4
+      },
+      "ownership": [],
+      "priceSM": 16111,
+      "row_id": 16
+    },
+    {
+      "assetId": 70294192.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2025-01-11",
+      "dealAmount": 950000,
+      "parcelNum": "11543-9-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-05-23",
+          "dealAmount": 425000
+        },
+        {
+          "dealDate": "2011-04-14",
+          "dealAmount": 295000
+        }
+      ],
+      "trend": {
+        "rate": 123.5,
+        "years": 6.6
+      },
+      "ownership": [],
+      "priceSM": 17593,
+      "row_id": 17
+    },
+    {
+      "assetId": 70294407.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2024-12-24",
+      "dealAmount": 600000,
+      "parcelNum": "11543-13-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-24",
+          "dealAmount": 289000
+        }
+      ],
+      "trend": {
+        "rate": 107.6,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 13333,
+      "row_id": 18
+    },
+    {
+      "assetId": 70294568.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2024-10-01",
+      "dealAmount": 900000,
+      "parcelNum": "11543-17-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-07-15",
+          "dealAmount": 610000
+        },
+        {
+          "dealDate": "2008-07-02",
+          "dealAmount": 123000
+        },
+        {
+          "dealDate": "1999-10-07",
+          "dealAmount": 391000
+        }
+      ],
+      "trend": {
+        "rate": 47.5,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 15517,
+      "row_id": 19
+    },
+    {
+      "assetId": 70294448.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2024-09-10",
+      "dealAmount": 650000,
+      "parcelNum": "11543-14-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-25",
+          "dealAmount": 280000
+        },
+        {
+          "dealDate": "2009-05-21",
+          "dealAmount": 145000
+        }
+      ],
+      "trend": {
+        "rate": 132.1,
+        "years": 12.3
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 325000
+        },
+        {
+          "proportion": "50",
+          "price": 325000
+        }
+      ],
+      "priceSM": 14444,
+      "row_id": 20
+    },
+    {
+      "assetId": 70294178.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2024-08-18",
+      "dealAmount": 810000,
+      "parcelNum": "11543-9-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15084,
+      "row_id": 21
+    },
+    {
+      "assetId": 70294203.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2024-08-14",
+      "dealAmount": 800000,
+      "parcelNum": "11543-10-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-13",
+          "dealAmount": 395000
+        }
+      ],
+      "trend": {
+        "rate": 102.5,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 15094,
+      "row_id": 22
+    },
+    {
+      "assetId": 70294198.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2024-08-04",
+      "dealAmount": 950000,
+      "parcelNum": "11543-10-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-16",
+          "dealAmount": 445000
+        }
+      ],
+      "trend": {
+        "rate": 113.5,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 17593,
+      "row_id": 23
+    },
+    {
+      "assetId": 70294599.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2024-07-24",
+      "dealAmount": 968700,
+      "parcelNum": "11543-18-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14722,
+      "row_id": 24
+    },
+    {
+      "assetId": 70294457.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2024-07-17",
+      "dealAmount": 760000,
+      "parcelNum": "11543-14-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16833,
+      "row_id": 25
+    },
+    {
+      "assetId": 70294225.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2024-07-03",
+      "dealAmount": 850000,
+      "parcelNum": "11543-10-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-10-19",
+          "dealAmount": 520000
+        },
+        {
+          "dealDate": "2010-09-27",
+          "dealAmount": 315000
+        }
+      ],
+      "trend": {
+        "rate": 63.5,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 15741,
+      "row_id": 26
+    },
+    {
+      "assetId": 70294228.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2024-07-01",
+      "dealAmount": 730000,
+      "parcelNum": "11543-10-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-05-10",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "1998-07-15",
+          "dealAmount": 237000
+        }
+      ],
+      "trend": {
+        "rate": 32.7,
+        "years": 3.1
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 365000
+        },
+        {
+          "proportion": "50",
+          "price": 365000
+        }
+      ],
+      "priceSM": 13774,
+      "row_id": 27
+    },
+    {
+      "assetId": 70294385.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2024-06-26",
+      "dealAmount": 750000,
+      "parcelNum": "11543-13-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-04-15",
+          "dealAmount": 410000
+        },
+        {
+          "dealDate": "2019-02-11",
+          "dealAmount": 395000
+        },
+        {
+          "dealDate": "2012-11-25",
+          "dealAmount": 299000
+        }
+      ],
+      "trend": {
+        "rate": 82.9,
+        "years": 5.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 375000
+        },
+        {
+          "proportion": "50",
+          "price": 375000
+        }
+      ],
+      "priceSM": 15625,
+      "row_id": 28
+    },
+    {
+      "assetId": 70294628.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2024-06-23",
+      "dealAmount": 1100000,
+      "parcelNum": "11543-18-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 61.5,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-07-02",
+          "dealAmount": 510000
+        }
+      ],
+      "trend": {
+        "rate": 115.7,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 18033,
+      "row_id": 29
+    },
+    {
+      "assetId": 70294527.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2024-04-21",
+      "dealAmount": 890000,
+      "parcelNum": "11543-16-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2023-05-20",
+          "dealAmount": 650000
+        }
+      ],
+      "trend": {
+        "rate": 36.9,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 15345,
+      "row_id": 30
+    },
+    {
+      "assetId": 70294204.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2024-03-07",
+      "dealAmount": 890000,
+      "parcelNum": "11543-10-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-10-07",
+          "dealAmount": 580000
+        }
+      ],
+      "trend": {
+        "rate": 53.4,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 16792,
+      "row_id": 31
+    },
+    {
+      "assetId": 70294619.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2024-02-26",
+      "dealAmount": 950000,
+      "parcelNum": "11543-18-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 61.5,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-10-07",
+          "dealAmount": 259000
+        }
+      ],
+      "trend": {
+        "rate": 266.8,
+        "years": 2.4
+      },
+      "ownership": [],
+      "priceSM": 15574,
+      "row_id": 32
+    },
+    {
+      "assetId": 70294173.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2024-02-07",
+      "dealAmount": 870000,
+      "parcelNum": "11543-9-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-03",
+          "dealAmount": 520000
+        },
+        {
+          "dealDate": "1999-09-30",
+          "dealAmount": 290000
+        }
+      ],
+      "trend": {
+        "rate": 67.3,
+        "years": 7.8
+      },
+      "ownership": [],
+      "priceSM": 16415,
+      "row_id": 33
+    },
+    {
+      "assetId": 70294259.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2024-01-25",
+      "dealAmount": 1150000,
+      "parcelNum": "11543-11-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שמינית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-07-01",
+          "dealAmount": 1030000
+        },
+        {
+          "dealDate": "2018-07-09",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 11.7,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 15972,
+      "row_id": 34
+    },
+    {
+      "assetId": 70294149.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2024-01-18",
+      "dealAmount": 840000,
+      "parcelNum": "11543-8-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-21",
+          "dealAmount": 305000
+        }
+      ],
+      "trend": {
+        "rate": 175.4,
+        "years": 14.1
+      },
+      "ownership": [],
+      "priceSM": 15849,
+      "row_id": 35
+    },
+    {
+      "assetId": 70294522.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2023-12-06",
+      "dealAmount": 750000,
+      "parcelNum": "11543-15-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "רביעית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-07-04",
+          "dealAmount": 470000
+        },
+        {
+          "dealDate": "2013-02-26",
+          "dealAmount": 278000
+        }
+      ],
+      "trend": {
+        "rate": 59.6,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 15625,
+      "row_id": 36
+    },
+    {
+      "assetId": 70294172.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2023-10-30",
+      "dealAmount": 820000,
+      "parcelNum": "11543-9-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-03-25",
+          "dealAmount": 560000
+        },
+        {
+          "dealDate": "2016-02-07",
+          "dealAmount": 508000
+        }
+      ],
+      "trend": {
+        "rate": 46.4,
+        "years": 4.6
+      },
+      "ownership": [],
+      "priceSM": 15185,
+      "row_id": 37
+    },
+    {
+      "assetId": 70294250.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2023-10-26",
+      "dealAmount": 860000,
+      "parcelNum": "11543-11-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-01-31",
+          "dealAmount": 244000
+        },
+        {
+          "dealDate": "2001-08-26",
+          "dealAmount": 85000
+        }
+      ],
+      "trend": {
+        "rate": 252.5,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 11944,
+      "row_id": 38
+    },
+    {
+      "assetId": 70294406.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2023-09-21",
+      "dealAmount": 700000,
+      "parcelNum": "11543-13-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-02-03",
+          "dealAmount": 520000
+        },
+        {
+          "dealDate": "2017-01-24",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 34.6,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 14583,
+      "row_id": 39
+    },
+    {
+      "assetId": 70294502.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2023-09-05",
+      "dealAmount": 740000,
+      "parcelNum": "11543-15-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-26",
+          "dealAmount": 600000
+        },
+        {
+          "dealDate": "2018-01-30",
+          "dealAmount": 370000
+        },
+        {
+          "dealDate": "2017-04-30",
+          "dealAmount": 352000
+        },
+        {
+          "dealDate": "2015-01-08",
+          "dealAmount": 259000
+        },
+        {
+          "dealDate": "2012-06-13",
+          "dealAmount": 247000
+        }
+      ],
+      "trend": {
+        "rate": 23.3,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 16444,
+      "row_id": 40
+    },
+    {
+      "assetId": 70294642.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2023-09-03",
+      "dealAmount": 760000,
+      "parcelNum": "11543-18-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-04-10",
+          "dealAmount": 415000
+        },
+        {
+          "dealDate": "2012-06-07",
+          "dealAmount": 335000
+        },
+        {
+          "dealDate": "2007-02-09",
+          "dealAmount": 148000
+        }
+      ],
+      "trend": {
+        "rate": 83.1,
+        "years": 9.4
+      },
+      "ownership": [],
+      "priceSM": 11692,
+      "row_id": 41
+    },
+    {
+      "assetId": 70294395.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2023-08-22",
+      "dealAmount": 500000,
+      "parcelNum": "11543-13-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-05-17",
+          "dealAmount": 240000
+        },
+        {
+          "dealDate": "1999-05-16",
+          "dealAmount": 142000
+        }
+      ],
+      "trend": {
+        "rate": 108.3,
+        "years": 11.3
+      },
+      "ownership": [],
+      "priceSM": 11111,
+      "row_id": 42
+    },
+    {
+      "assetId": 70294150.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2023-08-07",
+      "dealAmount": 790000,
+      "parcelNum": "11543-8-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-07",
+          "dealAmount": 290000
+        }
+      ],
+      "trend": {
+        "rate": 172.4,
+        "years": 13.4
+      },
+      "ownership": [],
+      "priceSM": 14630,
+      "row_id": 43
+    },
+    {
+      "assetId": 70294464.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2023-07-30",
+      "dealAmount": 710000,
+      "parcelNum": "11543-14-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שלישית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-12-06",
+          "dealAmount": 510000
+        },
+        {
+          "dealDate": "2018-01-09",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 39.2,
+        "years": 2.6
+      },
+      "ownership": [],
+      "priceSM": 14792,
+      "row_id": 44
+    },
+    {
+      "assetId": 70294432.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2023-07-10",
+      "dealAmount": 620000,
+      "parcelNum": "11543-14-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-01-13",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 210.0,
+        "years": 12.5
+      },
+      "ownership": [],
+      "priceSM": 13778,
+      "row_id": 45
+    },
+    {
+      "assetId": 70294152.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2023-07-06",
+      "dealAmount": 820000,
+      "parcelNum": "11543-8-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-10-11",
+          "dealAmount": 575000
+        }
+      ],
+      "trend": {
+        "rate": 42.6,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 15472,
+      "row_id": 46
+    },
+    {
+      "assetId": 70294217.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2023-07-03",
+      "dealAmount": 710000,
+      "parcelNum": "11543-10-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-07-28",
+          "dealAmount": 610000
+        }
+      ],
+      "trend": {
+        "rate": 16.4,
+        "years": 3.9
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 355000
+        },
+        {
+          "proportion": "50",
+          "price": 355000
+        }
+      ],
+      "priceSM": 13148,
+      "row_id": 47
+    },
+    {
+      "assetId": 70294256.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2023-06-18",
+      "dealAmount": 329000,
+      "parcelNum": "11543-11-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 71.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4634,
+      "row_id": 48
+    },
+    {
+      "assetId": 70294491.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2023-06-15",
+      "dealAmount": 705000,
+      "parcelNum": "11543-15-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-01-23",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "1999-06-10",
+          "dealAmount": 229000
+        }
+      ],
+      "trend": {
+        "rate": 56.7,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 15667,
+      "row_id": 49
+    },
+    {
+      "assetId": 70294434.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2023-06-13",
+      "dealAmount": 410000,
+      "parcelNum": "11543-14-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8542,
+      "row_id": 50
+    },
+    {
+      "assetId": 70294472.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2023-06-01",
+      "dealAmount": 447000,
+      "parcelNum": "11543-14-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9900,
+      "row_id": 51
+    },
+    {
+      "assetId": 70294468.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2023-06-01",
+      "dealAmount": 197000,
+      "parcelNum": "11543-14-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4363,
+      "row_id": 52
+    },
+    {
+      "assetId": 70294516.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2023-05-31",
+      "dealAmount": 790000,
+      "parcelNum": "11543-15-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-11-30",
+          "dealAmount": 740000
+        },
+        {
+          "dealDate": "2016-02-04",
+          "dealAmount": 360000
+        },
+        {
+          "dealDate": "2013-07-17",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2012-01-30",
+          "dealAmount": 280000
+        },
+        {
+          "dealDate": "1999-09-28",
+          "dealAmount": 342000
+        }
+      ],
+      "trend": {
+        "rate": 6.8,
+        "years": 0.5
+      },
+      "ownership": [],
+      "priceSM": 16458,
+      "row_id": 53
+    },
+    {
+      "assetId": 70294452.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2023-05-30",
+      "dealAmount": 251000,
+      "parcelNum": "11543-14-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5229,
+      "row_id": 54
+    },
+    {
+      "assetId": 70294430.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2023-05-30",
+      "dealAmount": 380000,
+      "parcelNum": "11543-14-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8416,
+      "row_id": 55
+    },
+    {
+      "assetId": 70294515.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2023-05-25",
+      "dealAmount": 454000,
+      "parcelNum": "11543-15-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10055,
+      "row_id": 56
+    },
+    {
+      "assetId": 70294420.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2023-05-25",
+      "dealAmount": 414000,
+      "parcelNum": "11543-13-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9169,
+      "row_id": 57
+    },
+    {
+      "assetId": 70294458.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2023-05-23",
+      "dealAmount": 640000,
+      "parcelNum": "11543-14-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-25",
+          "dealAmount": 190000
+        },
+        {
+          "dealDate": "2007-08-05",
+          "dealAmount": 116000
+        }
+      ],
+      "trend": {
+        "rate": 236.8,
+        "years": 12.6
+      },
+      "ownership": [],
+      "priceSM": 13333,
+      "row_id": 58
+    },
+    {
+      "assetId": 70294503.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2023-05-23",
+      "dealAmount": 620000,
+      "parcelNum": "11543-15-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-04-30",
+          "dealAmount": 430000
+        },
+        {
+          "dealDate": "2015-01-18",
+          "dealAmount": 200000
+        }
+      ],
+      "trend": {
+        "rate": 44.2,
+        "years": 5.1
+      },
+      "ownership": [],
+      "priceSM": 13778,
+      "row_id": 59
+    },
+    {
+      "assetId": 70294412.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2023-05-21",
+      "dealAmount": 520000,
+      "parcelNum": "11543-13-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-08-27",
+          "dealAmount": 385000
+        },
+        {
+          "dealDate": "2010-05-09",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "1998-10-06",
+          "dealAmount": 220000
+        }
+      ],
+      "trend": {
+        "rate": 35.1,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 10833,
+      "row_id": 60
+    },
+    {
+      "assetId": 70294235.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2023-05-16",
+      "dealAmount": 950000,
+      "parcelNum": "11543-11-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-12",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2000-07-11",
+          "dealAmount": 459000
+        }
+      ],
+      "trend": {
+        "rate": 171.4,
+        "years": 12.4
+      },
+      "ownership": [],
+      "priceSM": 13194,
+      "row_id": 61
+    },
+    {
+      "assetId": 70294211.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2023-04-24",
+      "dealAmount": 900000,
+      "parcelNum": "11543-10-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-07-21",
+          "dealAmount": 610000
+        },
+        {
+          "dealDate": "2019-05-07",
+          "dealAmount": 550000
+        }
+      ],
+      "trend": {
+        "rate": 47.5,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 16981,
+      "row_id": 62
+    },
+    {
+      "assetId": 70294495.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2023-03-26",
+      "dealAmount": 459000,
+      "parcelNum": "11543-15-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9562,
+      "row_id": 63
+    },
+    {
+      "assetId": 70294554.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2023-03-21",
+      "dealAmount": 146000,
+      "parcelNum": "11543-16-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2517,
+      "row_id": 64
+    },
+    {
+      "assetId": 70294571.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2023-03-21",
+      "dealAmount": 524000,
+      "parcelNum": "11543-17-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9034,
+      "row_id": 65
+    },
+    {
+      "assetId": 70294524.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2023-02-19",
+      "dealAmount": 180000,
+      "parcelNum": "11543-15-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3987,
+      "row_id": 66
+    },
+    {
+      "assetId": 70294200.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2023-02-12",
+      "dealAmount": 885000,
+      "parcelNum": "11543-10-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-08-05",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2001-08-19",
+          "dealAmount": 325000
+        }
+      ],
+      "trend": {
+        "rate": 77.0,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 16698,
+      "row_id": 67
+    },
+    {
+      "assetId": 70294421.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2023-01-12",
+      "dealAmount": 600000,
+      "parcelNum": "11543-13-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-10-24",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "2013-03-28",
+          "dealAmount": 250000
+        },
+        {
+          "dealDate": "2010-10-18",
+          "dealAmount": 170000
+        }
+      ],
+      "trend": {
+        "rate": 57.9,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 68
+    },
+    {
+      "assetId": 70294212.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2022-11-18",
+      "dealAmount": 730000,
+      "parcelNum": "11543-10-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13594,
+      "row_id": 69
+    },
+    {
+      "assetId": 70294400.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2022-11-08",
+      "dealAmount": 660000,
+      "parcelNum": "11543-13-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-25",
+          "dealAmount": 230000
+        }
+      ],
+      "trend": {
+        "rate": 187.0,
+        "years": 12.6
+      },
+      "ownership": [],
+      "priceSM": 13750,
+      "row_id": 70
+    },
+    {
+      "assetId": 70294139.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2022-11-03",
+      "dealAmount": 650000,
+      "parcelNum": "11543-8-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-01-04",
+          "dealAmount": 534000
+        }
+      ],
+      "trend": {
+        "rate": 21.7,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 12037,
+      "row_id": 71
+    },
+    {
+      "assetId": 70294427.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2022-09-19",
+      "dealAmount": 535000,
+      "parcelNum": "11543-13-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-07-15",
+          "dealAmount": 260000
+        }
+      ],
+      "trend": {
+        "rate": 105.8,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 11146,
+      "row_id": 72
+    },
+    {
+      "assetId": 70294441.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2022-09-11",
+      "dealAmount": 630000,
+      "parcelNum": "11543-14-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13953,
+      "row_id": 73
+    },
+    {
+      "assetId": 70294550.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2022-07-27",
+      "dealAmount": 690000,
+      "parcelNum": "11543-16-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-09-14",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 122.6,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 11897,
+      "row_id": 75
+    },
+    {
+      "assetId": 70294490.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2022-07-20",
+      "dealAmount": 510000,
+      "parcelNum": "11543-15-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-08-04",
+          "dealAmount": 490000
+        },
+        {
+          "dealDate": "2018-12-21",
+          "dealAmount": 452000
+        },
+        {
+          "dealDate": "2012-12-06",
+          "dealAmount": 290000
+        },
+        {
+          "dealDate": "2010-07-27",
+          "dealAmount": 165000
+        }
+      ],
+      "trend": {
+        "rate": 4.1,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 11333,
+      "row_id": 76
+    },
+    {
+      "assetId": 70294556.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2022-07-19",
+      "dealAmount": 750000,
+      "parcelNum": "11543-16-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-12-18",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2016-05-29",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2014-11-12",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2010-02-03",
+          "dealAmount": 210000
+        }
+      ],
+      "trend": {
+        "rate": 50.0,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 13158,
+      "row_id": 77
+    },
+    {
+      "assetId": 70294579.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2022-07-10",
+      "dealAmount": 840000,
+      "parcelNum": "11543-17-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-21",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 40.0,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 14483,
+      "row_id": 78
+    },
+    {
+      "assetId": 70294138.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2022-06-14",
+      "dealAmount": 700000,
+      "parcelNum": "11543-8-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-03-08",
+          "dealAmount": 565000
+        },
+        {
+          "dealDate": "2008-12-10",
+          "dealAmount": 175000
+        },
+        {
+          "dealDate": "2007-11-04",
+          "dealAmount": 138000
+        },
+        {
+          "dealDate": "2005-07-24",
+          "dealAmount": 181000
+        }
+      ],
+      "trend": {
+        "rate": 23.9,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 12963,
+      "row_id": 79
+    },
+    {
+      "assetId": 70294486.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2022-05-31",
+      "dealAmount": 245000,
+      "parcelNum": "11543-15-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5104,
+      "row_id": 80
+    },
+    {
+      "assetId": 70294242.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2022-05-15",
+      "dealAmount": 795000,
+      "parcelNum": "11543-11-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11042,
+      "row_id": 81
+    },
+    {
+      "assetId": 70294535.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2022-05-15",
+      "dealAmount": 655000,
+      "parcelNum": "11543-16-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-22",
+          "dealAmount": 285000
+        },
+        {
+          "dealDate": "2008-03-25",
+          "dealAmount": 168000
+        }
+      ],
+      "trend": {
+        "rate": 129.8,
+        "years": 11.7
+      },
+      "ownership": [],
+      "priceSM": 11293,
+      "row_id": 82
+    },
+    {
+      "assetId": 70294473.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2022-05-04",
+      "dealAmount": 460000,
+      "parcelNum": "11543-14-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-20",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2010-11-23",
+          "dealAmount": 260000
+        }
+      ],
+      "trend": {
+        "rate": 53.3,
+        "years": 9.4
+      },
+      "ownership": [],
+      "priceSM": 9583,
+      "row_id": 83
+    },
+    {
+      "assetId": 70294625.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2022-05-03",
+      "dealAmount": 800000,
+      "parcelNum": "11543-18-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 61.5,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-06-07",
+          "dealAmount": 535000
+        },
+        {
+          "dealDate": "2017-09-28",
+          "dealAmount": 360000
+        }
+      ],
+      "trend": {
+        "rate": 49.5,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 13115,
+      "row_id": 84
+    },
+    {
+      "assetId": 70294440.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2022-04-13",
+      "dealAmount": 197000,
+      "parcelNum": "11543-14-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4104,
+      "row_id": 85
+    },
+    {
+      "assetId": 70294186.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2022-03-30",
+      "dealAmount": 605000,
+      "parcelNum": "11543-9-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-21",
+          "dealAmount": 309000
+        },
+        {
+          "dealDate": "2007-09-18",
+          "dealAmount": 126000
+        },
+        {
+          "dealDate": "2002-01-20",
+          "dealAmount": 69000
+        }
+      ],
+      "trend": {
+        "rate": 95.8,
+        "years": 12.3
+      },
+      "ownership": [],
+      "priceSM": 11415,
+      "row_id": 86
+    },
+    {
+      "assetId": 70294185.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2022-03-14",
+      "dealAmount": 760000,
+      "parcelNum": "11543-9-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-13",
+          "dealAmount": 363000
+        }
+      ],
+      "trend": {
+        "rate": 109.4,
+        "years": 22.3
+      },
+      "ownership": [],
+      "priceSM": 14340,
+      "row_id": 87
+    },
+    {
+      "assetId": 70294145.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2022-03-07",
+      "dealAmount": 640000,
+      "parcelNum": "11543-8-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-11-06",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2006-09-03",
+          "dealAmount": 161000
+        },
+        {
+          "dealDate": "2000-02-21",
+          "dealAmount": 344000
+        }
+      ],
+      "trend": {
+        "rate": 16.4,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 12075,
+      "row_id": 88
+    },
+    {
+      "assetId": 70294562.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2022-03-02",
+      "dealAmount": 690000,
+      "parcelNum": "11543-17-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-01-08",
+          "dealAmount": 530000
+        },
+        {
+          "dealDate": "2019-11-13",
+          "dealAmount": 530000
+        },
+        {
+          "dealDate": "2018-06-21",
+          "dealAmount": 530000
+        },
+        {
+          "dealDate": "2012-01-18",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2010-09-15",
+          "dealAmount": 222000
+        },
+        {
+          "dealDate": "2000-04-17",
+          "dealAmount": 354000
+        }
+      ],
+      "trend": {
+        "rate": 30.2,
+        "years": 1.1
+      },
+      "ownership": [],
+      "priceSM": 12105,
+      "row_id": 89
+    },
+    {
+      "assetId": 70294155.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2022-01-20",
+      "dealAmount": 580000,
+      "parcelNum": "11543-8-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-11-06",
+          "dealAmount": 520000
+        }
+      ],
+      "trend": {
+        "rate": 11.5,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 10741,
+      "row_id": 90
+    },
+    {
+      "assetId": 70294523.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2021-12-26",
+      "dealAmount": 464000,
+      "parcelNum": "11543-15-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-02-15",
+          "dealAmount": 345000
+        }
+      ],
+      "trend": {
+        "rate": 34.5,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 10311,
+      "row_id": 91
+    },
+    {
+      "assetId": 70294179.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2021-12-22",
+      "dealAmount": 625000,
+      "parcelNum": "11543-9-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-12-18",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 11574,
+      "row_id": 92
+    },
+    {
+      "assetId": 70294541.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2021-12-16",
+      "dealAmount": 560000,
+      "parcelNum": "11543-16-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-08-01",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2009-12-30",
+          "dealAmount": 305000
+        }
+      ],
+      "trend": {
+        "rate": 64.7,
+        "years": 9.4
+      },
+      "ownership": [],
+      "priceSM": 9825,
+      "row_id": 93
+    },
+    {
+      "assetId": 70294489.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2021-12-15",
+      "dealAmount": 505000,
+      "parcelNum": "11543-15-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-30",
+          "dealAmount": 210000
+        }
+      ],
+      "trend": {
+        "rate": 140.5,
+        "years": 10.0
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 252500
+        },
+        {
+          "proportion": "50",
+          "price": 252500
+        }
+      ],
+      "priceSM": 10521,
+      "row_id": 94
+    },
+    {
+      "assetId": 70294499.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2021-11-16",
+      "dealAmount": 470000,
+      "parcelNum": "11543-15-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-09",
+          "dealAmount": 140000
+        }
+      ],
+      "trend": {
+        "rate": 235.7,
+        "years": 11.9
+      },
+      "ownership": [],
+      "priceSM": 10444,
+      "row_id": 95
+    },
+    {
+      "assetId": 70294227.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2021-11-15",
+      "dealAmount": 555000,
+      "parcelNum": "11543-10-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-09-11",
+          "dealAmount": 325000
+        },
+        {
+          "dealDate": "2000-07-09",
+          "dealAmount": 327000
+        }
+      ],
+      "trend": {
+        "rate": 70.8,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 10472,
+      "row_id": 96
+    },
+    {
+      "assetId": 70294637.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2021-11-14",
+      "dealAmount": 650000,
+      "parcelNum": "11543-18-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 61.5,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10569,
+      "row_id": 97
+    },
+    {
+      "assetId": 70294627.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2021-11-10",
+      "dealAmount": 600000,
+      "parcelNum": "11543-18-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9119,
+      "row_id": 98
+    },
+    {
+      "assetId": 70294136.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2021-11-02",
+      "dealAmount": 565000,
+      "parcelNum": "11543-8-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-12",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 82.3,
+        "years": 10.9
+      },
+      "ownership": [],
+      "priceSM": 10660,
+      "row_id": 99
+    },
+    {
+      "assetId": 70294156.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2021-10-29",
+      "dealAmount": 570000,
+      "parcelNum": "11543-8-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-01",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2010-01-05",
+          "dealAmount": 305000
+        },
+        {
+          "dealDate": "1999-05-06",
+          "dealAmount": 239000
+        }
+      ],
+      "trend": {
+        "rate": 90.0,
+        "years": 11.7
+      },
+      "ownership": [],
+      "priceSM": 10755,
+      "row_id": 100
+    },
+    {
+      "assetId": 70294552.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2021-07-23",
+      "dealAmount": 700000,
+      "parcelNum": "11543-16-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12281,
+      "row_id": 101
+    },
+    {
+      "assetId": 70294415.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2021-07-18",
+      "dealAmount": 143000,
+      "parcelNum": "11543-13-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2979,
+      "row_id": 102
+    },
+    {
+      "assetId": 70294505.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2021-06-02",
+      "dealAmount": 510000,
+      "parcelNum": "11543-15-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-03-28",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 54.5,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 11333,
+      "row_id": 103
+    },
+    {
+      "assetId": 70294482.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2021-05-25",
+      "dealAmount": 505000,
+      "parcelNum": "11543-15-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-07-11",
+          "dealAmount": 394000
+        }
+      ],
+      "trend": {
+        "rate": 28.2,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 11222,
+      "row_id": 104
+    },
+    {
+      "assetId": 70294393.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2021-03-25",
+      "dealAmount": 430000,
+      "parcelNum": "11543-13-14",
+      "dealNature": "דירת גן",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-02-12",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 79.2,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 9556,
+      "row_id": 105
+    },
+    {
+      "assetId": 70294166.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2021-03-16",
+      "dealAmount": 650000,
+      "parcelNum": "11543-9-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-02-06",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2009-12-01",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 18.2,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 12264,
+      "row_id": 106
+    },
+    {
+      "assetId": 70294199.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2021-03-15",
+      "dealAmount": 525000,
+      "parcelNum": "11543-10-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9777,
+      "row_id": 107
+    },
+    {
+      "assetId": 70294545.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2021-02-25",
+      "dealAmount": 550000,
+      "parcelNum": "11543-16-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-05-23",
+          "dealAmount": 500000
+        }
+      ],
+      "trend": {
+        "rate": 10.0,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 9649,
+      "row_id": 108
+    },
+    {
+      "assetId": 70294463.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2021-02-21",
+      "dealAmount": 291000,
+      "parcelNum": "11543-14-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-05-16",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": -16.9,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 6467,
+      "row_id": 109
+    },
+    {
+      "assetId": 70294461.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2021-02-10",
+      "dealAmount": 490000,
+      "parcelNum": "11543-14-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10208,
+      "row_id": 110
+    },
+    {
+      "assetId": 70294164.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2021-01-18",
+      "dealAmount": 590000,
+      "parcelNum": "11543-9-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-07-24",
+          "dealAmount": 440000
+        },
+        {
+          "dealDate": "2010-07-27",
+          "dealAmount": 335000
+        },
+        {
+          "dealDate": "2008-07-30",
+          "dealAmount": 155000
+        }
+      ],
+      "trend": {
+        "rate": 34.1,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 10926,
+      "row_id": 111
+    },
+    {
+      "assetId": 70294388.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2020-12-17",
+      "dealAmount": 485000,
+      "parcelNum": "11543-13-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10104,
+      "row_id": 112
+    },
+    {
+      "assetId": 70294558.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2020-12-08",
+      "dealAmount": 183000,
+      "parcelNum": "11543-16-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-07-04",
+          "dealAmount": 270000
+        }
+      ],
+      "trend": {
+        "rate": -32.2,
+        "years": 21.4
+      },
+      "ownership": [],
+      "priceSM": 3155,
+      "row_id": 113
+    },
+    {
+      "assetId": 70294507.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2020-12-01",
+      "dealAmount": 400000,
+      "parcelNum": "11543-15-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8333,
+      "row_id": 114
+    },
+    {
+      "assetId": 70294438.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2020-11-11",
+      "dealAmount": 450000,
+      "parcelNum": "11543-14-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-21",
+          "dealAmount": 287000
+        },
+        {
+          "dealDate": "2010-08-02",
+          "dealAmount": 215000
+        }
+      ],
+      "trend": {
+        "rate": 56.8,
+        "years": 8.1
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 115
+    },
+    {
+      "assetId": 70294484.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2020-11-10",
+      "dealAmount": 476000,
+      "parcelNum": "11543-15-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-01-04",
+          "dealAmount": 317000
+        }
+      ],
+      "trend": {
+        "rate": 50.2,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 10578,
+      "row_id": 116
+    },
+    {
+      "assetId": 70294586.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2020-10-05",
+      "dealAmount": 550000,
+      "parcelNum": "11543-17-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-12-19",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": 22.2,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 9649,
+      "row_id": 117
+    },
+    {
+      "assetId": 70294381.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2020-02-23",
+      "dealAmount": 173000,
+      "parcelNum": "11543-13-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3832,
+      "row_id": 118
+    },
+    {
+      "assetId": 70294512.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2019-11-20",
+      "dealAmount": 475000,
+      "parcelNum": "11543-15-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10520,
+      "row_id": 119
+    },
+    {
+      "assetId": 70294529.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2019-11-13",
+      "dealAmount": 585000,
+      "parcelNum": "11543-16-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-12",
+          "dealAmount": 399000
+        }
+      ],
+      "trend": {
+        "rate": 46.6,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 10263,
+      "row_id": 120
+    },
+    {
+      "assetId": 70294394.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2019-10-23",
+      "dealAmount": 475000,
+      "parcelNum": "11543-13-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-07-16",
+          "dealAmount": 235000
+        }
+      ],
+      "trend": {
+        "rate": 102.1,
+        "years": 18.3
+      },
+      "ownership": [],
+      "priceSM": 9896,
+      "row_id": 121
+    },
+    {
+      "assetId": 70294429.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2019-08-14",
+      "dealAmount": 480000,
+      "parcelNum": "11543-14-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-05-15",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2013-03-03",
+          "dealAmount": 266000
+        }
+      ],
+      "trend": {
+        "rate": 41.2,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 10667,
+      "row_id": 122
+    },
+    {
+      "assetId": 70294171.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2019-07-31",
+      "dealAmount": 570000,
+      "parcelNum": "11543-9-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10420,
+      "row_id": 123
+    },
+    {
+      "assetId": 70294510.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2019-07-02",
+      "dealAmount": 415000,
+      "parcelNum": "11543-15-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-29",
+          "dealAmount": 380000
+        }
+      ],
+      "trend": {
+        "rate": 9.2,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 8646,
+      "row_id": 124
+    },
+    {
+      "assetId": 70294160.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2019-06-12",
+      "dealAmount": 515000,
+      "parcelNum": "11543-8-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-10-08",
+          "dealAmount": 500000
+        },
+        {
+          "dealDate": "2015-03-01",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2007-07-03",
+          "dealAmount": 94000
+        },
+        {
+          "dealDate": "2000-02-09",
+          "dealAmount": 353000
+        }
+      ],
+      "trend": {
+        "rate": 3.0,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 9717,
+      "row_id": 125
+    },
+    {
+      "assetId": 70294439.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2019-02-20",
+      "dealAmount": 472000,
+      "parcelNum": "11543-14-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-04-18",
+          "dealAmount": 233000
+        }
+      ],
+      "trend": {
+        "rate": 102.6,
+        "years": 17.9
+      },
+      "ownership": [],
+      "priceSM": 10489,
+      "row_id": 126
+    },
+    {
+      "assetId": 70294626.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2019-02-18",
+      "dealAmount": 570000,
+      "parcelNum": "11543-18-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-03-17",
+          "dealAmount": 402000
+        }
+      ],
+      "trend": {
+        "rate": 41.8,
+        "years": 19.9
+      },
+      "ownership": [],
+      "priceSM": 8769,
+      "row_id": 127
+    },
+    {
+      "assetId": 70294219.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2018-12-20",
+      "dealAmount": 470000,
+      "parcelNum": "11543-10-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-31",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 56.7,
+        "years": 9.0
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 235000
+        },
+        {
+          "proportion": "50",
+          "price": 235000
+        }
+      ],
+      "priceSM": 8868,
+      "row_id": 128
+    },
+    {
+      "assetId": 70294454.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2018-12-13",
+      "dealAmount": 197000,
+      "parcelNum": "11543-14-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4363,
+      "row_id": 129
+    },
+    {
+      "assetId": 70294255.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2018-11-26",
+      "dealAmount": 625000,
+      "parcelNum": "11543-11-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-12-22",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2006-09-19",
+          "dealAmount": 155000
+        },
+        {
+          "dealDate": "1999-05-02",
+          "dealAmount": 392000
+        }
+      ],
+      "trend": {
+        "rate": 13.6,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 8681,
+      "row_id": 130
+    },
+    {
+      "assetId": 70294220.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2018-11-14",
+      "dealAmount": 470000,
+      "parcelNum": "11543-10-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8752,
+      "row_id": 131
+    },
+    {
+      "assetId": 70294396.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2018-10-07",
+      "dealAmount": 470000,
+      "parcelNum": "11543-13-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-01-06",
+          "dealAmount": 310000
+        },
+        {
+          "dealDate": "2012-11-20",
+          "dealAmount": 294000
+        }
+      ],
+      "trend": {
+        "rate": 51.6,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 10444,
+      "row_id": 132
+    },
+    {
+      "assetId": 70294444.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2018-10-04",
+      "dealAmount": 171000,
+      "parcelNum": "11543-14-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3787,
+      "row_id": 133
+    },
+    {
+      "assetId": 70294493.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2018-09-05",
+      "dealAmount": 445000,
+      "parcelNum": "11543-15-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-04-21",
+          "dealAmount": 350000
+        }
+      ],
+      "trend": {
+        "rate": 27.1,
+        "years": 3.4
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 222500
+        },
+        {
+          "proportion": "50",
+          "price": 222500
+        }
+      ],
+      "priceSM": 9889,
+      "row_id": 134
+    },
+    {
+      "assetId": 70294405.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2018-06-19",
+      "dealAmount": 324000,
+      "parcelNum": "11543-13-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7176,
+      "row_id": 135
+    },
+    {
+      "assetId": 70294188.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2018-05-23",
+      "dealAmount": 480000,
+      "parcelNum": "11543-9-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-03-26",
+          "dealAmount": 203000
+        },
+        {
+          "dealDate": "1998-11-24",
+          "dealAmount": 375000
+        }
+      ],
+      "trend": {
+        "rate": 136.5,
+        "years": 14.2
+      },
+      "ownership": [],
+      "priceSM": 8889,
+      "row_id": 136
+    },
+    {
+      "assetId": 70294177.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2018-05-07",
+      "dealAmount": 480000,
+      "parcelNum": "11543-9-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8939,
+      "row_id": 137
+    },
+    {
+      "assetId": 70294140.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2018-03-05",
+      "dealAmount": 550000,
+      "parcelNum": "11543-8-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10242,
+      "row_id": 138
+    },
+    {
+      "assetId": 70294133.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2018-02-27",
+      "dealAmount": 212000,
+      "parcelNum": "11543-8-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3948,
+      "row_id": 139
+    },
+    {
+      "assetId": 70294380.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2018-02-18",
+      "dealAmount": 431000,
+      "parcelNum": "11543-13-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-05-02",
+          "dealAmount": 260000
+        },
+        {
+          "dealDate": "1999-12-10",
+          "dealAmount": 337000
+        }
+      ],
+      "trend": {
+        "rate": 65.8,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 9578,
+      "row_id": 140
+    },
+    {
+      "assetId": 70294630.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2018-01-01",
+      "dealAmount": 600000,
+      "parcelNum": "11543-18-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9119,
+      "row_id": 141
+    },
+    {
+      "assetId": 70294389.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2017-12-13",
+      "dealAmount": 380000,
+      "parcelNum": "11543-13-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8416,
+      "row_id": 142
+    },
+    {
+      "assetId": 70294411.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2017-11-28",
+      "dealAmount": 181000,
+      "parcelNum": "11543-13-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4009,
+      "row_id": 143
+    },
+    {
+      "assetId": 70294144.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2017-10-15",
+      "dealAmount": 540000,
+      "parcelNum": "11543-8-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-21",
+          "dealAmount": 310000
+        }
+      ],
+      "trend": {
+        "rate": 74.2,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 10189,
+      "row_id": 144
+    },
+    {
+      "assetId": 70294158.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2017-09-27",
+      "dealAmount": 439000,
+      "parcelNum": "11543-8-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8026,
+      "row_id": 145
+    },
+    {
+      "assetId": 70294424.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2017-09-19",
+      "dealAmount": 369000,
+      "parcelNum": "11543-13-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7688,
+      "row_id": 146
+    },
+    {
+      "assetId": 70294476.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2017-09-12",
+      "dealAmount": 369000,
+      "parcelNum": "11543-14-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7688,
+      "row_id": 147
+    },
+    {
+      "assetId": 70294603.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2017-09-04",
+      "dealAmount": 645000,
+      "parcelNum": "11543-18-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-06",
+          "dealAmount": 401000
+        }
+      ],
+      "trend": {
+        "rate": 60.8,
+        "years": 18.9
+      },
+      "ownership": [],
+      "priceSM": 9923,
+      "row_id": 148
+    },
+    {
+      "assetId": 70294644.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2017-07-05",
+      "dealAmount": 535000,
+      "parcelNum": "11543-18-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8131,
+      "row_id": 149
+    },
+    {
+      "assetId": 70294492.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2017-06-07",
+      "dealAmount": 460000,
+      "parcelNum": "11543-15-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-03-21",
+          "dealAmount": 250000
+        },
+        {
+          "dealDate": "1999-09-30",
+          "dealAmount": 307000
+        }
+      ],
+      "trend": {
+        "rate": 84.0,
+        "years": 5.2
+      },
+      "ownership": [],
+      "priceSM": 9583,
+      "row_id": 150
+    },
+    {
+      "assetId": 70294135.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2017-06-05",
+      "dealAmount": 560000,
+      "parcelNum": "11543-8-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-31",
+          "dealAmount": 280000
+        }
+      ],
+      "trend": {
+        "rate": 100.0,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 10370,
+      "row_id": 151
+    },
+    {
+      "assetId": 70294382.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2017-02-16",
+      "dealAmount": 416000,
+      "parcelNum": "11543-13-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-01-05",
+          "dealAmount": 380000
+        },
+        {
+          "dealDate": "2010-12-08",
+          "dealAmount": 219000
+        }
+      ],
+      "trend": {
+        "rate": 9.5,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 8667,
+      "row_id": 152
+    },
+    {
+      "assetId": 70294210.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2016-11-20",
+      "dealAmount": 555000,
+      "parcelNum": "11543-10-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-06-23",
+          "dealAmount": 525000
+        }
+      ],
+      "trend": {
+        "rate": 5.7,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 10278,
+      "row_id": 153
+    },
+    {
+      "assetId": 70294151.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2016-09-29",
+      "dealAmount": 425000,
+      "parcelNum": "11543-8-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7770,
+      "row_id": 154
+    },
+    {
+      "assetId": 70294614.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2016-08-16",
+      "dealAmount": 520000,
+      "parcelNum": "11543-18-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-08-19",
+          "dealAmount": 259000
+        }
+      ],
+      "trend": {
+        "rate": 100.8,
+        "years": 14.0
+      },
+      "ownership": [],
+      "priceSM": 8000,
+      "row_id": 155
+    },
+    {
+      "assetId": 70294456.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2016-03-14",
+      "dealAmount": 380000,
+      "parcelNum": "11543-14-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8416,
+      "row_id": 156
+    },
+    {
+      "assetId": 70294218.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2016-02-22",
+      "dealAmount": 350000,
+      "parcelNum": "11543-10-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-17",
+          "dealAmount": 297000
+        },
+        {
+          "dealDate": "2008-06-22",
+          "dealAmount": 184000
+        }
+      ],
+      "trend": {
+        "rate": 17.8,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 6481,
+      "row_id": 157
+    },
+    {
+      "assetId": 70294410.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2015-11-03",
+      "dealAmount": 330000,
+      "parcelNum": "11543-13-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7309,
+      "row_id": 158
+    },
+    {
+      "assetId": 70294191.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2015-09-08",
+      "dealAmount": 405000,
+      "parcelNum": "11543-9-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7404,
+      "row_id": 159
+    },
+    {
+      "assetId": 70294608.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2015-08-12",
+      "dealAmount": 485000,
+      "parcelNum": "11543-18-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-19",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 21.2,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 7462,
+      "row_id": 160
+    },
+    {
+      "assetId": 70294547.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2015-08-05",
+      "dealAmount": 365000,
+      "parcelNum": "11543-16-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-01",
+          "dealAmount": 270000
+        },
+        {
+          "dealDate": "2007-04-13",
+          "dealAmount": 150000
+        }
+      ],
+      "trend": {
+        "rate": 35.2,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 6293,
+      "row_id": 161
+    },
+    {
+      "assetId": 70294436.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2015-08-02",
+      "dealAmount": 192000,
+      "parcelNum": "11543-14-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4252,
+      "row_id": 162
+    },
+    {
+      "assetId": 70294646.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2015-06-23",
+      "dealAmount": 421000,
+      "parcelNum": "11543-18-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 61.5,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6846,
+      "row_id": 163
+    },
+    {
+      "assetId": 70294423.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2015-05-05",
+      "dealAmount": 305000,
+      "parcelNum": "11543-13-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6755,
+      "row_id": 164
+    },
+    {
+      "assetId": 70294467.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2015-04-19",
+      "dealAmount": 290000,
+      "parcelNum": "11543-14-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "רביעית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-06-09",
+          "dealAmount": 279000
+        },
+        {
+          "dealDate": "2012-01-11",
+          "dealAmount": 240000
+        },
+        {
+          "dealDate": "2009-05-11",
+          "dealAmount": 180000
+        }
+      ],
+      "trend": {
+        "rate": 3.9,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 6042,
+      "row_id": 165
+    },
+    {
+      "assetId": 70294170.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2015-04-13",
+      "dealAmount": 160000,
+      "parcelNum": "11543-9-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2980,
+      "row_id": 166
+    },
+    {
+      "assetId": 70294501.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2015-03-25",
+      "dealAmount": 320000,
+      "parcelNum": "11543-15-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-30",
+          "dealAmount": 160000
+        }
+      ],
+      "trend": {
+        "rate": 100.0,
+        "years": 4.8
+      },
+      "ownership": [],
+      "priceSM": 6667,
+      "row_id": 167
+    },
+    {
+      "assetId": 70294221.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2015-02-02",
+      "dealAmount": 399000,
+      "parcelNum": "11543-10-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7294,
+      "row_id": 168
+    },
+    {
+      "assetId": 70294612.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2014-09-07",
+      "dealAmount": 425000,
+      "parcelNum": "11543-18-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6459,
+      "row_id": 169
+    },
+    {
+      "assetId": 70294446.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2014-09-04",
+      "dealAmount": 295000,
+      "parcelNum": "11543-14-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6146,
+      "row_id": 170
+    },
+    {
+      "assetId": 70294455.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2014-08-01",
+      "dealAmount": 358000,
+      "parcelNum": "11543-14-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7458,
+      "row_id": 171
+    },
+    {
+      "assetId": 70294443.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2014-06-23",
+      "dealAmount": 345000,
+      "parcelNum": "11543-14-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7188,
+      "row_id": 172
+    },
+    {
+      "assetId": 70294193.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2014-02-20",
+      "dealAmount": 370000,
+      "parcelNum": "11543-9-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-11-20",
+          "dealAmount": 285000
+        },
+        {
+          "dealDate": "2011-06-09",
+          "dealAmount": 190000
+        }
+      ],
+      "trend": {
+        "rate": 29.8,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 6852,
+      "row_id": 173
+    },
+    {
+      "assetId": 70294258.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2013-12-09",
+      "dealAmount": 410000,
+      "parcelNum": "11543-11-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5694,
+      "row_id": 174
+    },
+    {
+      "assetId": 70294589.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2013-08-06",
+      "dealAmount": 340000,
+      "parcelNum": "11543-17-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-03-22",
+          "dealAmount": 330000
+        }
+      ],
+      "trend": {
+        "rate": 3.0,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 5965,
+      "row_id": 175
+    },
+    {
+      "assetId": 70294615.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2013-08-01",
+      "dealAmount": 410000,
+      "parcelNum": "11543-18-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6231,
+      "row_id": 176
+    },
+    {
+      "assetId": 70294540.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2013-07-28",
+      "dealAmount": 360000,
+      "parcelNum": "11543-16-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-14",
+          "dealAmount": 126000
+        }
+      ],
+      "trend": {
+        "rate": 185.7,
+        "years": 3.6
+      },
+      "ownership": [],
+      "priceSM": 6316,
+      "row_id": 177
+    },
+    {
+      "assetId": 70294534.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2013-07-23",
+      "dealAmount": 380000,
+      "parcelNum": "11543-16-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6552,
+      "row_id": 178
+    },
+    {
+      "assetId": 70294168.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2013-06-04",
+      "dealAmount": 400000,
+      "parcelNum": "11543-9-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-06-14",
+          "dealAmount": 174000
+        }
+      ],
+      "trend": {
+        "rate": 129.9,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 7407,
+      "row_id": 179
+    },
+    {
+      "assetId": 70294131.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2013-01-13",
+      "dealAmount": 370000,
+      "parcelNum": "11543-8-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6764,
+      "row_id": 180
+    },
+    {
+      "assetId": 70294247.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2012-12-17",
+      "dealAmount": 249000,
+      "parcelNum": "11543-11-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3458,
+      "row_id": 181
+    },
+    {
+      "assetId": 70294201.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2012-12-11",
+      "dealAmount": 370000,
+      "parcelNum": "11543-10-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-02-17",
+          "dealAmount": 220000
+        },
+        {
+          "dealDate": "2000-11-29",
+          "dealAmount": 336000
+        }
+      ],
+      "trend": {
+        "rate": 68.2,
+        "years": 2.8
+      },
+      "ownership": [],
+      "priceSM": 6852,
+      "row_id": 182
+    },
+    {
+      "assetId": 70294226.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2012-12-10",
+      "dealAmount": 350000,
+      "parcelNum": "11543-10-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-07-27",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 45.8,
+        "years": 0.4
+      },
+      "ownership": [],
+      "priceSM": 6481,
+      "row_id": 183
+    },
+    {
+      "assetId": 70294530.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2012-10-10",
+      "dealAmount": 374000,
+      "parcelNum": "11543-16-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6448,
+      "row_id": 184
+    },
+    {
+      "assetId": 70294569.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2012-09-06",
+      "dealAmount": 220000,
+      "parcelNum": "11543-17-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-03-25",
+          "dealAmount": 73000
+        },
+        {
+          "dealDate": "2000-09-04",
+          "dealAmount": 357000
+        }
+      ],
+      "trend": {
+        "rate": 201.4,
+        "years": 4.5
+      },
+      "ownership": [],
+      "priceSM": 3860,
+      "row_id": 185
+    },
+    {
+      "assetId": 70294602.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2012-09-04",
+      "dealAmount": 460000,
+      "parcelNum": "11543-18-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6991,
+      "row_id": 186
+    },
+    {
+      "assetId": 70294478.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2012-09-02",
+      "dealAmount": 240000,
+      "parcelNum": "11543-15-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-21",
+          "dealAmount": 170000
+        }
+      ],
+      "trend": {
+        "rate": 41.2,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 5333,
+      "row_id": 187
+    },
+    {
+      "assetId": 70294563.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2012-08-09",
+      "dealAmount": 360000,
+      "parcelNum": "11543-17-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-08-10",
+          "dealAmount": 272000
+        }
+      ],
+      "trend": {
+        "rate": 32.4,
+        "years": 13.0
+      },
+      "ownership": [],
+      "priceSM": 6207,
+      "row_id": 188
+    },
+    {
+      "assetId": 70294544.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2012-07-11",
+      "dealAmount": 360000,
+      "parcelNum": "11543-16-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-09-17",
+          "dealAmount": 390000
+        }
+      ],
+      "trend": {
+        "rate": -7.7,
+        "years": 12.8
+      },
+      "ownership": [],
+      "priceSM": 6316,
+      "row_id": 189
+    },
+    {
+      "assetId": 70294645.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2012-06-21",
+      "dealAmount": 335000,
+      "parcelNum": "11543-18-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שמינית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5091,
+      "row_id": 190
+    },
+    {
+      "assetId": 70294234.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2012-06-21",
+      "dealAmount": 430000,
+      "parcelNum": "11543-11-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-29",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 43.3,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 5972,
+      "row_id": 191
+    },
+    {
+      "assetId": 70294621.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2011-12-04",
+      "dealAmount": 380000,
+      "parcelNum": "11543-18-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5775,
+      "row_id": 192
+    },
+    {
+      "assetId": 70294488.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2011-11-27",
+      "dealAmount": 250000,
+      "parcelNum": "11543-15-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-15",
+          "dealAmount": 194000
+        }
+      ],
+      "trend": {
+        "rate": 28.9,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 5556,
+      "row_id": 193
+    },
+    {
+      "assetId": 70294607.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2011-10-03",
+      "dealAmount": 440000,
+      "parcelNum": "11543-18-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 61.5,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-08",
+          "dealAmount": 220000
+        },
+        {
+          "dealDate": "2009-06-03",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 100.0,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 7213,
+      "row_id": 194
+    },
+    {
+      "assetId": 70294404.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2011-05-24",
+      "dealAmount": 205000,
+      "parcelNum": "11543-13-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4540,
+      "row_id": 195
+    },
+    {
+      "assetId": 70294531.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2011-02-14",
+      "dealAmount": 350000,
+      "parcelNum": "11543-16-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6034,
+      "row_id": 196
+    },
+    {
+      "assetId": 70294239.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2010-12-06",
+      "dealAmount": 365000,
+      "parcelNum": "11543-11-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5069,
+      "row_id": 197
+    },
+    {
+      "assetId": 70294249.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2010-12-06",
+      "dealAmount": 361000,
+      "parcelNum": "11543-11-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 71.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5085,
+      "row_id": 198
+    },
+    {
+      "assetId": 70294222.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2010-11-18",
+      "dealAmount": 320000,
+      "parcelNum": "11543-10-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-01",
+          "dealAmount": 389000
+        }
+      ],
+      "trend": {
+        "rate": -17.7,
+        "years": 11.0
+      },
+      "ownership": [],
+      "priceSM": 5926,
+      "row_id": 199
+    },
+    {
+      "assetId": 70294611.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2010-10-03",
+      "dealAmount": 310000,
+      "parcelNum": "11543-18-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4711,
+      "row_id": 200
+    },
+    {
+      "assetId": 70294620.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2010-07-21",
+      "dealAmount": 310000,
+      "parcelNum": "11543-18-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.8,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4711,
+      "row_id": 201
+    },
+    {
+      "assetId": 70294208.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2010-04-13",
+      "dealAmount": 310000,
+      "parcelNum": "11543-10-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5773,
+      "row_id": 202
+    },
+    {
+      "assetId": 70294182.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2010-04-12",
+      "dealAmount": 290000,
+      "parcelNum": "11543-9-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5400,
+      "row_id": 203
+    },
+    {
+      "assetId": 70294187.0,
+      "addressId": 53545537,
+      "polygonId": "51910897",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 5",
+      "dealDate": "2010-03-23",
+      "dealAmount": 300000,
+      "parcelNum": "11543-9-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5484,
+      "row_id": 204
+    },
+    {
+      "assetId": 70294549.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2010-03-22",
+      "dealAmount": 305000,
+      "parcelNum": "11543-16-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-10-05",
+          "dealAmount": 110000
+        },
+        {
+          "dealDate": "2000-02-09",
+          "dealAmount": 365000
+        }
+      ],
+      "trend": {
+        "rate": 177.3,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 5351,
+      "row_id": 205
+    },
+    {
+      "assetId": 70294397.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2010-03-04",
+      "dealAmount": 169000,
+      "parcelNum": "11543-13-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-10-23",
+          "dealAmount": 133000
+        }
+      ],
+      "trend": {
+        "rate": 27.1,
+        "years": 4.4
+      },
+      "ownership": [],
+      "priceSM": 3521,
+      "row_id": 206
+    },
+    {
+      "assetId": 70294240.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2010-01-03",
+      "dealAmount": 370000,
+      "parcelNum": "11543-11-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 71.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5211,
+      "row_id": 207
+    },
+    {
+      "assetId": 70294233.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2009-12-31",
+      "dealAmount": 366000,
+      "parcelNum": "11543-11-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 71.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-08-05",
+          "dealAmount": 188000
+        },
+        {
+          "dealDate": "1999-02-03",
+          "dealAmount": 461000
+        }
+      ],
+      "trend": {
+        "rate": 94.7,
+        "years": 0.4
+      },
+      "ownership": [],
+      "priceSM": 5155,
+      "row_id": 208
+    },
+    {
+      "assetId": 70294216.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2009-12-31",
+      "dealAmount": 305000,
+      "parcelNum": "11543-10-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5680,
+      "row_id": 209
+    },
+    {
+      "assetId": 70294202.0,
+      "addressId": 53544802,
+      "polygonId": "51916337",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 3",
+      "dealDate": "2009-12-03",
+      "dealAmount": 305000,
+      "parcelNum": "11543-10-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 54.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-02-07",
+          "dealAmount": 367000
+        }
+      ],
+      "trend": {
+        "rate": -16.9,
+        "years": 10.8
+      },
+      "ownership": [],
+      "priceSM": 5648,
+      "row_id": 210
+    },
+    {
+      "assetId": 70294631.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2009-11-24",
+      "dealAmount": 360000,
+      "parcelNum": "11543-18-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 61.5,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5854,
+      "row_id": 211
+    },
+    {
+      "assetId": 70294459.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2009-11-23",
+      "dealAmount": 110000,
+      "parcelNum": "11543-14-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-06-15",
+          "dealAmount": 100000
+        }
+      ],
+      "trend": {
+        "rate": 10.0,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 2444,
+      "row_id": 212
+    },
+    {
+      "assetId": 70294610.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2009-11-08",
+      "dealAmount": 320000,
+      "parcelNum": "11543-18-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 61.5,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5203,
+      "row_id": 213
+    },
+    {
+      "assetId": 70294604.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2009-10-20",
+      "dealAmount": 355000,
+      "parcelNum": "11543-18-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "ראשונה",
+      "assetArea": 61.5,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5772,
+      "row_id": 214
+    },
+    {
+      "assetId": 70294483.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2009-10-06",
+      "dealAmount": 110000,
+      "parcelNum": "11543-15-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2292,
+      "row_id": 215
+    },
+    {
+      "assetId": 70294565.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2009-08-16",
+      "dealAmount": 300000,
+      "parcelNum": "11543-17-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5263,
+      "row_id": 216
+    },
+    {
+      "assetId": 70294243.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2009-08-02",
+      "dealAmount": 355000,
+      "parcelNum": "11543-11-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-07-21",
+          "dealAmount": 231000
+        }
+      ],
+      "trend": {
+        "rate": 53.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 4931,
+      "row_id": 217
+    },
+    {
+      "assetId": 70294253.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2009-06-14",
+      "dealAmount": 350000,
+      "parcelNum": "11543-11-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 71.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4930,
+      "row_id": 218
+    },
+    {
+      "assetId": 70294520.0,
+      "addressId": 53770335,
+      "polygonId": "51915807",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 2",
+      "dealDate": "2009-06-10",
+      "dealAmount": 170000,
+      "parcelNum": "11543-15-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-26",
+          "dealAmount": 110000
+        }
+      ],
+      "trend": {
+        "rate": 54.5,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 3778,
+      "row_id": 219
+    },
+    {
+      "assetId": 70294580.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2009-04-27",
+      "dealAmount": 170000,
+      "parcelNum": "11543-17-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2931,
+      "row_id": 220
+    },
+    {
+      "assetId": 70294474.0,
+      "addressId": 53546443,
+      "polygonId": "53227375",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 4",
+      "dealDate": "2009-04-12",
+      "dealAmount": 82000,
+      "parcelNum": "11543-14-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 48.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-11-11",
+          "dealAmount": 145000
+        }
+      ],
+      "trend": {
+        "rate": -43.4,
+        "years": 9.4
+      },
+      "ownership": [],
+      "priceSM": 1708,
+      "row_id": 221
+    },
+    {
+      "assetId": 70294538.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2009-01-19",
+      "dealAmount": 115000,
+      "parcelNum": "11543-16-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1983,
+      "row_id": 222
+    },
+    {
+      "assetId": 70294543.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2008-08-31",
+      "dealAmount": 155000,
+      "parcelNum": "11543-16-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-09-30",
+          "dealAmount": 393000
+        }
+      ],
+      "trend": {
+        "rate": -60.6,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 2672,
+      "row_id": 223
+    },
+    {
+      "assetId": 70294536.0,
+      "addressId": 53558822,
+      "polygonId": "51911706",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 3",
+      "dealDate": "2007-11-26",
+      "dealAmount": 97000,
+      "parcelNum": "11543-16-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-07-30",
+          "dealAmount": 336000
+        }
+      ],
+      "trend": {
+        "rate": -71.1,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 1702,
+      "row_id": 224
+    },
+    {
+      "assetId": 70294262.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2007-08-13",
+      "dealAmount": 178000,
+      "parcelNum": "11543-11-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2472,
+      "row_id": 225
+    },
+    {
+      "assetId": 70294417.0,
+      "addressId": 53560215,
+      "polygonId": "51903592",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 6",
+      "dealDate": "2007-07-18",
+      "dealAmount": 120000,
+      "parcelNum": "11543-13-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "רביעית",
+      "assetArea": 45.15,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2658,
+      "row_id": 226
+    },
+    {
+      "assetId": 70294560.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2007-04-01",
+      "dealAmount": 84000,
+      "parcelNum": "11543-17-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 58.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1448,
+      "row_id": 227
+    },
+    {
+      "assetId": 70294594.0,
+      "addressId": 53545823,
+      "polygonId": "51915786",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "האסיף 2",
+      "dealDate": "2007-02-25",
+      "dealAmount": 87000,
+      "parcelNum": "11543-18-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 85.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000634,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1024,
+      "row_id": 228
+    },
+    {
+      "assetId": 70294161.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2006-02-27",
+      "dealAmount": 117000,
+      "parcelNum": "11543-8-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2179,
+      "row_id": 229
+    },
+    {
+      "assetId": 70294153.0,
+      "addressId": 53864180,
+      "polygonId": "51904518",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 7",
+      "dealDate": "2005-05-27",
+      "dealAmount": 131000,
+      "parcelNum": "11543-8-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 53.7,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2439,
+      "row_id": 230
+    },
+    {
+      "assetId": 70294590.0,
+      "addressId": 53558821,
+      "polygonId": "51919044",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "הגורן 1",
+      "dealDate": "2004-04-07",
+      "dealAmount": 185000,
+      "parcelNum": "11543-17-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 57.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000632,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3246,
+      "row_id": 231
+    },
+    {
+      "assetId": 70294251.0,
+      "addressId": 53862978,
+      "polygonId": "51844999",
+      "neighborhoodName": "נווה חן",
+      "neighborhoodId": 65210882,
+      "address": "בכורים 1",
+      "dealDate": "2000-08-15",
+      "dealAmount": 95000,
+      "parcelNum": "11543-11-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 72.0,
+      "yearBuilt": 1970,
+      "streetCode": 68000633,
+      "settlmentID": 6800,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1319,
+      "row_id": 235
+    }
+  ]
+}

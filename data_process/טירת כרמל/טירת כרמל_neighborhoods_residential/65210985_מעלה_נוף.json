@@ -1,0 +1,3412 @@
+{
+  "neighborhood_name": "מעלה נוף",
+  "city_name": "טירת כרמל",
+  "transaction_count": 109,
+  "transactions": [
+    {
+      "assetId": 70124391.0,
+      "addressId": 53662652,
+      "polygonId": "65054080",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 19",
+      "dealDate": "2024-12-24",
+      "dealAmount": 1570000,
+      "parcelNum": "10686-100-84",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 88.5,
+      "yearBuilt": 2001,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17740,
+      "row_id": 2
+    },
+    {
+      "assetId": 70124320.0,
+      "addressId": 53890601,
+      "polygonId": "65054086",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 13",
+      "dealDate": "2024-12-03",
+      "dealAmount": 1500000,
+      "parcelNum": "10686-100-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 100.38,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14943,
+      "row_id": 3
+    },
+    {
+      "assetId": 70123926.0,
+      "addressId": 53665169,
+      "polygonId": "51914761",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 4",
+      "dealDate": "2024-10-31",
+      "dealAmount": 1310000,
+      "parcelNum": "10686-79-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 92.37,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-06-07",
+          "dealAmount": 663000
+        }
+      ],
+      "trend": {
+        "rate": 97.6,
+        "years": 15.4
+      },
+      "ownership": [],
+      "priceSM": 14239,
+      "row_id": 4
+    },
+    {
+      "assetId": 70124428.0,
+      "addressId": 53659566,
+      "polygonId": "65053760",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 23",
+      "dealDate": "2024-10-15",
+      "dealAmount": 1645000,
+      "parcelNum": "10686-100-121",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 86.36,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-10-06",
+          "dealAmount": 915000
+        },
+        {
+          "dealDate": "2011-11-13",
+          "dealAmount": 860000
+        }
+      ],
+      "trend": {
+        "rate": 79.8,
+        "years": 10.0
+      },
+      "ownership": [],
+      "priceSM": 19128,
+      "row_id": 5
+    },
+    {
+      "assetId": 70123928.0,
+      "addressId": 53665169,
+      "polygonId": "51914761",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 4",
+      "dealDate": "2024-06-19",
+      "dealAmount": 1420000,
+      "parcelNum": "10686-79-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 93.94,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-12-06",
+          "dealAmount": 1180000
+        }
+      ],
+      "trend": {
+        "rate": 20.3,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 15269,
+      "row_id": 6
+    },
+    {
+      "assetId": 70123894.0,
+      "addressId": 53835552,
+      "polygonId": "53231313",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 12",
+      "dealDate": "2024-05-12",
+      "dealAmount": 1320000,
+      "parcelNum": "10686-78-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 77.31,
+      "yearBuilt": 1988,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17074,
+      "row_id": 7
+    },
+    {
+      "assetId": 70124395.0,
+      "addressId": 53658183,
+      "polygonId": "65053762",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 21",
+      "dealDate": "2024-03-28",
+      "dealAmount": 1850000,
+      "parcelNum": "10686-100-88",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 111.05,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16659,
+      "row_id": 8
+    },
+    {
+      "assetId": 70123898.0,
+      "addressId": 53772162,
+      "polygonId": "51930115",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 14",
+      "dealDate": "2024-03-01",
+      "dealAmount": 1845000,
+      "parcelNum": "10686-78-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה ושלישית",
+      "assetArea": 118.74,
+      "yearBuilt": 1997,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-11",
+          "dealAmount": 1000000
+        }
+      ],
+      "trend": {
+        "rate": 84.5,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 15636,
+      "row_id": 9
+    },
+    {
+      "assetId": 70124425.0,
+      "addressId": 53659566,
+      "polygonId": "65053760",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 23",
+      "dealDate": "2023-09-27",
+      "dealAmount": 1250000,
+      "parcelNum": "10686-100-118",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.07,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13011,
+      "row_id": 10
+    },
+    {
+      "assetId": 70123891.0,
+      "addressId": 53835552,
+      "polygonId": "53231313",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 12",
+      "dealDate": "2023-07-25",
+      "dealAmount": 1240000,
+      "parcelNum": "10686-78-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 81.17,
+      "yearBuilt": 1988,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-14",
+          "dealAmount": 333000
+        }
+      ],
+      "trend": {
+        "rate": 272.4,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 15309,
+      "row_id": 11
+    },
+    {
+      "assetId": 70123870.0,
+      "addressId": 53667677,
+      "polygonId": "51938883",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 8",
+      "dealDate": "2023-06-08",
+      "dealAmount": 1545000,
+      "parcelNum": "10686-78-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 81.24,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-02-09",
+          "dealAmount": 1000000
+        }
+      ],
+      "trend": {
+        "rate": 54.5,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 19074,
+      "row_id": 12
+    },
+    {
+      "assetId": 70124372.0,
+      "addressId": 53662652,
+      "polygonId": "65054080",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 19",
+      "dealDate": "2023-01-03",
+      "dealAmount": 1712000,
+      "parcelNum": "10686-100-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 110.26,
+      "yearBuilt": 2001,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-07-05",
+          "dealAmount": 1226000
+        },
+        {
+          "dealDate": "2002-05-22",
+          "dealAmount": 680000
+        }
+      ],
+      "trend": {
+        "rate": 39.6,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 15564,
+      "row_id": 13
+    },
+    {
+      "assetId": 70123923.0,
+      "addressId": 53665169,
+      "polygonId": "51914761",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 4",
+      "dealDate": "2022-11-24",
+      "dealAmount": 1320000,
+      "parcelNum": "10686-79-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 87.33,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15115,
+      "row_id": 14
+    },
+    {
+      "assetId": 70124345.0,
+      "addressId": 53657899,
+      "polygonId": "65054084",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 15",
+      "dealDate": "2022-09-06",
+      "dealAmount": 1200000,
+      "parcelNum": "10686-100-38",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.07,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-07-10",
+          "dealAmount": 985000
+        },
+        {
+          "dealDate": "1999-04-30",
+          "dealAmount": 559000
+        }
+      ],
+      "trend": {
+        "rate": 21.8,
+        "years": 10.2
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 15
+    },
+    {
+      "assetId": 4593546.0,
+      "addressId": 65649120,
+      "polygonId": "65734082",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 9",
+      "dealDate": "2022-08-23",
+      "dealAmount": 3030000,
+      "parcelNum": "10686-125-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 196.0,
+      "yearBuilt": 2019,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15459,
+      "row_id": 16
+    },
+    {
+      "assetId": 70123877.0,
+      "addressId": 53835556,
+      "polygonId": "51971355",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 10",
+      "dealDate": "2022-07-31",
+      "dealAmount": 1440000,
+      "parcelNum": "10686-78-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה ושלישית",
+      "assetArea": 102.12,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14101,
+      "row_id": 17
+    },
+    {
+      "assetId": 4593546.0,
+      "addressId": 65649120,
+      "polygonId": "65734082",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 9",
+      "dealDate": "2022-07-13",
+      "dealAmount": 1610000,
+      "parcelNum": "10686-125-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 225.0,
+      "yearBuilt": 2019,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7156,
+      "row_id": 18
+    },
+    {
+      "assetId": 4106635.0,
+      "addressId": 0,
+      "polygonId": "10686-124",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "0",
+      "dealDate": "2022-07-07",
+      "dealAmount": 2900000,
+      "parcelNum": "10686-124-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 233.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12446,
+      "row_id": 19
+    },
+    {
+      "assetId": 4106620.0,
+      "addressId": 0,
+      "polygonId": "10686-124",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "0",
+      "dealDate": "2022-06-16",
+      "dealAmount": 3250000,
+      "parcelNum": "10686-124-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 304.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10691,
+      "row_id": 20
+    },
+    {
+      "assetId": 70123927.0,
+      "addressId": 53665169,
+      "polygonId": "51914761",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 4",
+      "dealDate": "2022-05-17",
+      "dealAmount": 1250000,
+      "parcelNum": "10686-79-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 81.13,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-03-14",
+          "dealAmount": 1010000
+        },
+        {
+          "dealDate": "2014-02-27",
+          "dealAmount": 810000
+        },
+        {
+          "dealDate": "2003-05-08",
+          "dealAmount": 487000
+        }
+      ],
+      "trend": {
+        "rate": 23.8,
+        "years": 1.2
+      },
+      "ownership": [],
+      "priceSM": 15432,
+      "row_id": 21
+    },
+    {
+      "assetId": 70124452.0,
+      "addressId": 53666065,
+      "polygonId": "65082029",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 25",
+      "dealDate": "2022-05-15",
+      "dealAmount": 1400000,
+      "parcelNum": "10686-100-146",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 110.0,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12727,
+      "row_id": 22
+    },
+    {
+      "assetId": 70123935.0,
+      "addressId": 53667676,
+      "polygonId": "53235737",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 6",
+      "dealDate": "2022-05-10",
+      "dealAmount": 1180000,
+      "parcelNum": "10686-79-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 73.3,
+      "yearBuilt": 1970,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-11-04",
+          "dealAmount": 980000
+        },
+        {
+          "dealDate": "2014-02-13",
+          "dealAmount": 800000
+        },
+        {
+          "dealDate": "1998-08-09",
+          "dealAmount": 445000
+        }
+      ],
+      "trend": {
+        "rate": 20.4,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 16164,
+      "row_id": 23
+    },
+    {
+      "assetId": 70124330.0,
+      "addressId": 53890601,
+      "polygonId": "65054086",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 13",
+      "dealDate": "2022-03-24",
+      "dealAmount": 1330000,
+      "parcelNum": "10686-100-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 88.25,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-24",
+          "dealAmount": 1060000
+        }
+      ],
+      "trend": {
+        "rate": 25.5,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 15114,
+      "row_id": 24
+    },
+    {
+      "assetId": 70124364.0,
+      "addressId": 53660620,
+      "polygonId": "65054082",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 17",
+      "dealDate": "2022-03-07",
+      "dealAmount": 1270000,
+      "parcelNum": "10686-100-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.21,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-09-09",
+          "dealAmount": 715000
+        }
+      ],
+      "trend": {
+        "rate": 77.6,
+        "years": 19.5
+      },
+      "ownership": [],
+      "priceSM": 13229,
+      "row_id": 25
+    },
+    {
+      "assetId": 70124313.0,
+      "addressId": 53890601,
+      "polygonId": "65054086",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 13",
+      "dealDate": "2022-01-06",
+      "dealAmount": 1650000,
+      "parcelNum": "10686-100-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 110.26,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-11-26",
+          "dealAmount": 662000
+        }
+      ],
+      "trend": {
+        "rate": 149.2,
+        "years": 20.1
+      },
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 26
+    },
+    {
+      "assetId": 70124365.0,
+      "addressId": 53660620,
+      "polygonId": "65054082",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 17",
+      "dealDate": "2022-01-05",
+      "dealAmount": 1250000,
+      "parcelNum": "10686-100-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.07,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-03-01",
+          "dealAmount": 1150000
+        }
+      ],
+      "trend": {
+        "rate": 8.7,
+        "years": 4.9
+      },
+      "ownership": [],
+      "priceSM": 13021,
+      "row_id": 27
+    },
+    {
+      "assetId": 70124369.0,
+      "addressId": 53660620,
+      "polygonId": "65054082",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 17",
+      "dealDate": "2021-12-07",
+      "dealAmount": 1235000,
+      "parcelNum": "10686-100-62",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 86.36,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-12-27",
+          "dealAmount": 1090000
+        },
+        {
+          "dealDate": "2000-11-27",
+          "dealAmount": 557000
+        }
+      ],
+      "trend": {
+        "rate": 13.3,
+        "years": 6.0
+      },
+      "ownership": [],
+      "priceSM": 14360,
+      "row_id": 28
+    },
+    {
+      "assetId": 70124385.0,
+      "addressId": 53662652,
+      "polygonId": "65054080",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 19",
+      "dealDate": "2021-11-28",
+      "dealAmount": 1500000,
+      "parcelNum": "10686-100-78",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.07,
+      "yearBuilt": 2001,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15614,
+      "row_id": 29
+    },
+    {
+      "assetId": 70124349.0,
+      "addressId": 53657899,
+      "polygonId": "65054084",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 15",
+      "dealDate": "2021-11-17",
+      "dealAmount": 1250000,
+      "parcelNum": "10686-100-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 86.36,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-01",
+          "dealAmount": 920000
+        },
+        {
+          "dealDate": "1999-05-03",
+          "dealAmount": 526000
+        }
+      ],
+      "trend": {
+        "rate": 35.9,
+        "years": 8.4
+      },
+      "ownership": [],
+      "priceSM": 14535,
+      "row_id": 30
+    },
+    {
+      "assetId": 70124426.0,
+      "addressId": 53659566,
+      "polygonId": "65053760",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 23",
+      "dealDate": "2021-05-06",
+      "dealAmount": 1500000,
+      "parcelNum": "10686-100-119",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.87,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15485,
+      "row_id": 31
+    },
+    {
+      "assetId": 70124392.0,
+      "addressId": 53658183,
+      "polygonId": "65053762",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 21",
+      "dealDate": "2021-05-02",
+      "dealAmount": 1250000,
+      "parcelNum": "10686-100-85",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 110.26,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11337,
+      "row_id": 32
+    },
+    {
+      "assetId": 70124379.0,
+      "addressId": 53662652,
+      "polygonId": "65054080",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 19",
+      "dealDate": "2021-04-12",
+      "dealAmount": 1505000,
+      "parcelNum": "10686-100-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 100.31,
+      "yearBuilt": 2001,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15003,
+      "row_id": 33
+    },
+    {
+      "assetId": 70123904.0,
+      "addressId": 53772162,
+      "polygonId": "51930115",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 14",
+      "dealDate": "2021-03-18",
+      "dealAmount": 900000,
+      "parcelNum": "10686-78-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 81.24,
+      "yearBuilt": 1997,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11078,
+      "row_id": 34
+    },
+    {
+      "assetId": 70123899.0,
+      "addressId": 53772162,
+      "polygonId": "51930115",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 14",
+      "dealDate": "2021-03-08",
+      "dealAmount": 1390000,
+      "parcelNum": "10686-78-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה ושלישית",
+      "assetArea": 129.79,
+      "yearBuilt": 1997,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-10-29",
+          "dealAmount": 1061000
+        }
+      ],
+      "trend": {
+        "rate": 31.0,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 10775,
+      "row_id": 35
+    },
+    {
+      "assetId": 70123925.0,
+      "addressId": 53665169,
+      "polygonId": "51914761",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 4",
+      "dealDate": "2021-03-04",
+      "dealAmount": 990000,
+      "parcelNum": "10686-79-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 73.3,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13506,
+      "row_id": 36
+    },
+    {
+      "assetId": 70124431.0,
+      "addressId": 53659566,
+      "polygonId": "65053760",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 23",
+      "dealDate": "2021-01-20",
+      "dealAmount": 1130000,
+      "parcelNum": "10686-100-124",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 88.5,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12768,
+      "row_id": 37
+    },
+    {
+      "assetId": 70123920.0,
+      "addressId": 53665169,
+      "polygonId": "51914761",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 4",
+      "dealDate": "2021-01-18",
+      "dealAmount": 1550000,
+      "parcelNum": "10686-79-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 107.12,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-21",
+          "dealAmount": 703000
+        }
+      ],
+      "trend": {
+        "rate": 120.5,
+        "years": 22.3
+      },
+      "ownership": [],
+      "priceSM": 14486,
+      "row_id": 38
+    },
+    {
+      "assetId": 70123922.0,
+      "addressId": 53665169,
+      "polygonId": "51914761",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 4",
+      "dealDate": "2021-01-13",
+      "dealAmount": 1245000,
+      "parcelNum": "10686-79-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 110.22,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11296,
+      "row_id": 39
+    },
+    {
+      "assetId": 70124402.0,
+      "addressId": 53658183,
+      "polygonId": "65053762",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 21",
+      "dealDate": "2020-12-27",
+      "dealAmount": 625000,
+      "parcelNum": "10686-100-95",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 104.23,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5996,
+      "row_id": 40
+    },
+    {
+      "assetId": 70123864.0,
+      "addressId": 53667677,
+      "polygonId": "51938883",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 8",
+      "dealDate": "2020-12-22",
+      "dealAmount": 555000,
+      "parcelNum": "10686-78-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית ורביעית",
+      "assetArea": 130.0,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4269,
+      "row_id": 41
+    },
+    {
+      "assetId": 70123896.0,
+      "addressId": 53772162,
+      "polygonId": "51930115",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 14",
+      "dealDate": "2020-11-26",
+      "dealAmount": 1440000,
+      "parcelNum": "10686-78-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה ושניה",
+      "assetArea": 97.73,
+      "yearBuilt": 1997,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14734,
+      "row_id": 42
+    },
+    {
+      "assetId": 70123843.0,
+      "addressId": 53890473,
+      "polygonId": "51934248",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 26",
+      "dealDate": "2020-11-09",
+      "dealAmount": 1380000,
+      "parcelNum": "10686-72-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "מרתף קרקע",
+      "assetArea": 171.0,
+      "yearBuilt": 2018,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8070,
+      "row_id": 43
+    },
+    {
+      "assetId": 70124452.0,
+      "addressId": 53666065,
+      "polygonId": "65082029",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 25",
+      "dealDate": "2020-09-16",
+      "dealAmount": 1180000,
+      "parcelNum": "10686-100-147",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.0,
+      "yearBuilt": 1985,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12292,
+      "row_id": 44
+    },
+    {
+      "assetId": 70124408.0,
+      "addressId": 53658183,
+      "polygonId": "65053762",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 21",
+      "dealDate": "2020-09-04",
+      "dealAmount": 1180000,
+      "parcelNum": "10686-100-101",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 86.36,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13664,
+      "row_id": 45
+    },
+    {
+      "assetId": 70124429.0,
+      "addressId": 53659566,
+      "polygonId": "65053760",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 23",
+      "dealDate": "2020-06-30",
+      "dealAmount": 1090000,
+      "parcelNum": "10686-100-122",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 86.36,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-08-08",
+          "dealAmount": 850000
+        }
+      ],
+      "trend": {
+        "rate": 28.2,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 12674,
+      "row_id": 46
+    },
+    {
+      "assetId": 4593546.0,
+      "addressId": 65649120,
+      "polygonId": "65734082",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 9",
+      "dealDate": "2020-03-04",
+      "dealAmount": 2200000,
+      "parcelNum": "10686-125-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 228.0,
+      "yearBuilt": 2019,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9649,
+      "row_id": 47
+    },
+    {
+      "assetId": 4593546.0,
+      "addressId": 65649120,
+      "polygonId": "65734082",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 9",
+      "dealDate": "2020-01-28",
+      "dealAmount": 2200000,
+      "parcelNum": "10686-125-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 255.0,
+      "yearBuilt": 2019,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8627,
+      "row_id": 48
+    },
+    {
+      "assetId": 4106596.0,
+      "addressId": 0,
+      "polygonId": "10686-123",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "0",
+      "dealDate": "2020-01-09",
+      "dealAmount": 1050000,
+      "parcelNum": "10686-123-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 348.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3017,
+      "row_id": 49
+    },
+    {
+      "assetId": 70124328.0,
+      "addressId": 53890601,
+      "polygonId": "65054086",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 13",
+      "dealDate": "2019-10-23",
+      "dealAmount": 1175000,
+      "parcelNum": "10686-100-21",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 86.36,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-05-18",
+          "dealAmount": 680000
+        },
+        {
+          "dealDate": "1999-05-02",
+          "dealAmount": 515000
+        }
+      ],
+      "trend": {
+        "rate": 72.8,
+        "years": 10.4
+      },
+      "ownership": [],
+      "priceSM": 13663,
+      "row_id": 50
+    },
+    {
+      "assetId": 70124418.0,
+      "addressId": 53659566,
+      "polygonId": "65053760",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 23",
+      "dealDate": "2019-10-03",
+      "dealAmount": 1200000,
+      "parcelNum": "10686-100-111",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 100.31,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11963,
+      "row_id": 51
+    },
+    {
+      "assetId": 70123921.0,
+      "addressId": 53665169,
+      "polygonId": "51914761",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 4",
+      "dealDate": "2019-07-01",
+      "dealAmount": 1230000,
+      "parcelNum": "10686-79-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 88.05,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-03-20",
+          "dealAmount": 705000
+        },
+        {
+          "dealDate": "1998-07-06",
+          "dealAmount": 532000
+        }
+      ],
+      "trend": {
+        "rate": 74.5,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 13977,
+      "row_id": 52
+    },
+    {
+      "assetId": 70124337.0,
+      "addressId": 53657899,
+      "polygonId": "65054084",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 15",
+      "dealDate": "2019-06-30",
+      "dealAmount": 1200000,
+      "parcelNum": "10686-100-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 111.05,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-23",
+          "dealAmount": 965000
+        }
+      ],
+      "trend": {
+        "rate": 24.4,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 10811,
+      "row_id": 53
+    },
+    {
+      "assetId": 70124370.0,
+      "addressId": 53660620,
+      "polygonId": "65054082",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 17",
+      "dealDate": "2019-06-24",
+      "dealAmount": 1090000,
+      "parcelNum": "10686-100-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 88.25,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-01",
+          "dealAmount": 770000
+        },
+        {
+          "dealDate": "2006-03-30",
+          "dealAmount": 649000
+        }
+      ],
+      "trend": {
+        "rate": 41.6,
+        "years": 9.2
+      },
+      "ownership": [],
+      "priceSM": 12386,
+      "row_id": 54
+    },
+    {
+      "assetId": 70123902.0,
+      "addressId": 53772162,
+      "polygonId": "51930115",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 14",
+      "dealDate": "2019-06-24",
+      "dealAmount": 1000000,
+      "parcelNum": "10686-78-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 81.24,
+      "yearBuilt": 1997,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-10-03",
+          "dealAmount": 810000
+        },
+        {
+          "dealDate": "2010-02-26",
+          "dealAmount": 620000
+        }
+      ],
+      "trend": {
+        "rate": 23.5,
+        "years": 5.7
+      },
+      "ownership": [],
+      "priceSM": 12346,
+      "row_id": 55
+    },
+    {
+      "assetId": 70124371.0,
+      "addressId": 53660620,
+      "polygonId": "65054082",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 17",
+      "dealDate": "2019-04-01",
+      "dealAmount": 1050000,
+      "parcelNum": "10686-100-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 88.5,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-10-26",
+          "dealAmount": 558000
+        }
+      ],
+      "trend": {
+        "rate": 88.2,
+        "years": 18.4
+      },
+      "ownership": [],
+      "priceSM": 11932,
+      "row_id": 56
+    },
+    {
+      "assetId": 70124452.0,
+      "addressId": 53666065,
+      "polygonId": "65082029",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 25",
+      "dealDate": "2019-03-12",
+      "dealAmount": 1120000,
+      "parcelNum": "10686-100-148",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 86.0,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13023,
+      "row_id": 57
+    },
+    {
+      "assetId": 4106637.0,
+      "addressId": 0,
+      "polygonId": "10686-124",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "0",
+      "dealDate": "2018-07-23",
+      "dealAmount": 2400000,
+      "parcelNum": "10686-124-1",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 304.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7895,
+      "row_id": 58
+    },
+    {
+      "assetId": 70124344.0,
+      "addressId": 53657899,
+      "polygonId": "65054084",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 15",
+      "dealDate": "2018-07-06",
+      "dealAmount": 1300000,
+      "parcelNum": "10686-100-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.21,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-06-24",
+          "dealAmount": 840000
+        }
+      ],
+      "trend": {
+        "rate": 54.8,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 13542,
+      "row_id": 59
+    },
+    {
+      "assetId": 70124452.0,
+      "addressId": 53666065,
+      "polygonId": "65082029",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 25",
+      "dealDate": "2018-04-29",
+      "dealAmount": 1270000,
+      "parcelNum": "10686-100-149",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.0,
+      "yearBuilt": 1992,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13229,
+      "row_id": 60
+    },
+    {
+      "assetId": 70123909.0,
+      "addressId": 53771606,
+      "polygonId": "51929457",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 2",
+      "dealDate": "2018-04-12",
+      "dealAmount": 1490000,
+      "parcelNum": "10686-79-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.5,
+      "floor": "קרקע וראשונה",
+      "assetArea": 107.12,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-20",
+          "dealAmount": 700000
+        }
+      ],
+      "trend": {
+        "rate": 112.9,
+        "years": 19.5
+      },
+      "ownership": [],
+      "priceSM": 13925,
+      "row_id": 61
+    },
+    {
+      "assetId": 70124329.0,
+      "addressId": 53890601,
+      "polygonId": "65054086",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 13",
+      "dealDate": "2018-03-19",
+      "dealAmount": 1075000,
+      "parcelNum": "10686-100-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 86.36,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-06-05",
+          "dealAmount": 850000
+        },
+        {
+          "dealDate": "2002-03-13",
+          "dealAmount": 640000
+        }
+      ],
+      "trend": {
+        "rate": 26.5,
+        "years": 6.8
+      },
+      "ownership": [],
+      "priceSM": 12500,
+      "row_id": 62
+    },
+    {
+      "assetId": 70124420.0,
+      "addressId": 53659566,
+      "polygonId": "65053760",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 23",
+      "dealDate": "2018-02-28",
+      "dealAmount": 1180000,
+      "parcelNum": "10686-100-113",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 100.38,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-11-02",
+          "dealAmount": 1020000
+        },
+        {
+          "dealDate": "2001-09-16",
+          "dealAmount": 638000
+        }
+      ],
+      "trend": {
+        "rate": 15.7,
+        "years": 6.3
+      },
+      "ownership": [],
+      "priceSM": 11800,
+      "row_id": 63
+    },
+    {
+      "assetId": 70124416.0,
+      "addressId": 53659566,
+      "polygonId": "65053760",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 23",
+      "dealDate": "2017-12-24",
+      "dealAmount": 1600000,
+      "parcelNum": "10686-100-109",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 111.05,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-18",
+          "dealAmount": 774000
+        }
+      ],
+      "trend": {
+        "rate": 106.7,
+        "years": 18.0
+      },
+      "ownership": [],
+      "priceSM": 14414,
+      "row_id": 64
+    },
+    {
+      "assetId": 70124331.0,
+      "addressId": 53890601,
+      "polygonId": "65054086",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 13",
+      "dealDate": "2017-10-20",
+      "dealAmount": 1350000,
+      "parcelNum": "10686-100-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 88.5,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-10-11",
+          "dealAmount": 775000
+        },
+        {
+          "dealDate": "1999-06-11",
+          "dealAmount": 560000
+        }
+      ],
+      "trend": {
+        "rate": 74.2,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 15341,
+      "row_id": 65
+    },
+    {
+      "assetId": 70123915.0,
+      "addressId": 53771606,
+      "polygonId": "51929457",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 2",
+      "dealDate": "2017-07-25",
+      "dealAmount": 1100000,
+      "parcelNum": "10686-79-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 73.3,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-08-23",
+          "dealAmount": 510000
+        }
+      ],
+      "trend": {
+        "rate": 115.7,
+        "years": 9.9
+      },
+      "ownership": [],
+      "priceSM": 15068,
+      "row_id": 66
+    },
+    {
+      "assetId": 70124357.0,
+      "addressId": 53660620,
+      "polygonId": "65054082",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 17",
+      "dealDate": "2017-05-30",
+      "dealAmount": 1345000,
+      "parcelNum": "10686-100-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 111.05,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-05-13",
+          "dealAmount": 720000
+        }
+      ],
+      "trend": {
+        "rate": 86.8,
+        "years": 18.1
+      },
+      "ownership": [],
+      "priceSM": 12117,
+      "row_id": 67
+    },
+    {
+      "assetId": 70124347.0,
+      "addressId": 53657899,
+      "polygonId": "65054084",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 15",
+      "dealDate": "2017-03-21",
+      "dealAmount": 1320000,
+      "parcelNum": "10686-100-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 97.01,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-02-25",
+          "dealAmount": 800000
+        }
+      ],
+      "trend": {
+        "rate": 65.0,
+        "years": 10.1
+      },
+      "ownership": [],
+      "priceSM": 13608,
+      "row_id": 68
+    },
+    {
+      "assetId": 70123911.0,
+      "addressId": 53771606,
+      "polygonId": "51929457",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 2",
+      "dealDate": "2017-03-16",
+      "dealAmount": 1350000,
+      "parcelNum": "10686-79-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 88.05,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-10-28",
+          "dealAmount": 810000
+        },
+        {
+          "dealDate": "2012-07-19",
+          "dealAmount": 813000
+        },
+        {
+          "dealDate": "1998-06-21",
+          "dealAmount": 532000
+        }
+      ],
+      "trend": {
+        "rate": 66.7,
+        "years": 3.4
+      },
+      "ownership": [],
+      "priceSM": 15341,
+      "row_id": 69
+    },
+    {
+      "assetId": 70123938.0,
+      "addressId": 53667676,
+      "polygonId": "53235737",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 6",
+      "dealDate": "2017-01-24",
+      "dealAmount": 850000,
+      "parcelNum": "10686-79-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 93.94,
+      "yearBuilt": 1970,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9048,
+      "row_id": 70
+    },
+    {
+      "assetId": 70124404.0,
+      "addressId": 53658183,
+      "polygonId": "65053762",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 21",
+      "dealDate": "2016-11-02",
+      "dealAmount": 750000,
+      "parcelNum": "10686-100-97",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.21,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-01-15",
+          "dealAmount": 750000
+        },
+        {
+          "dealDate": "2000-07-16",
+          "dealAmount": 595000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 7812,
+      "row_id": 71
+    },
+    {
+      "assetId": 70124326.0,
+      "addressId": 53890601,
+      "polygonId": "65054086",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 13",
+      "dealDate": "2016-09-07",
+      "dealAmount": 1100000,
+      "parcelNum": "10686-100-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.87,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-04-01",
+          "dealAmount": 843000
+        },
+        {
+          "dealDate": "1999-04-26",
+          "dealAmount": 587000
+        }
+      ],
+      "trend": {
+        "rate": 30.5,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 11458,
+      "row_id": 72
+    },
+    {
+      "assetId": 70123874.0,
+      "addressId": 53835556,
+      "polygonId": "51971355",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 10",
+      "dealDate": "2016-04-10",
+      "dealAmount": 1280000,
+      "parcelNum": "10686-78-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה ושניה",
+      "assetArea": 102.02,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12547,
+      "row_id": 73
+    },
+    {
+      "assetId": 70124452.0,
+      "addressId": 53666065,
+      "polygonId": "65082029",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 25",
+      "dealDate": "2016-03-29",
+      "dealAmount": 1100000,
+      "parcelNum": "10686-100-150",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.0,
+      "yearBuilt": 1990,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11458,
+      "row_id": 74
+    },
+    {
+      "assetId": 70123916.0,
+      "addressId": 53771606,
+      "polygonId": "51929457",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 2",
+      "dealDate": "2016-03-15",
+      "dealAmount": 970000,
+      "parcelNum": "10686-79-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 92.37,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-08-10",
+          "dealAmount": 526000
+        }
+      ],
+      "trend": {
+        "rate": 84.4,
+        "years": 17.6
+      },
+      "ownership": [],
+      "priceSM": 10543,
+      "row_id": 75
+    },
+    {
+      "assetId": 70123903.0,
+      "addressId": 53772162,
+      "polygonId": "51930115",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 14",
+      "dealDate": "2016-02-11",
+      "dealAmount": 920000,
+      "parcelNum": "10686-78-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 75.42,
+      "yearBuilt": 1997,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12198,
+      "row_id": 76
+    },
+    {
+      "assetId": 70123887.0,
+      "addressId": 53835552,
+      "polygonId": "53231313",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 12",
+      "dealDate": "2015-10-19",
+      "dealAmount": 1087000,
+      "parcelNum": "10686-78-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שניה ושלישית",
+      "assetArea": 102.54,
+      "yearBuilt": 1988,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-10-07",
+          "dealAmount": 710000
+        }
+      ],
+      "trend": {
+        "rate": 53.1,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 10657,
+      "row_id": 77
+    },
+    {
+      "assetId": 70124452.0,
+      "addressId": 53666065,
+      "polygonId": "65082029",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 25",
+      "dealDate": "2015-10-19",
+      "dealAmount": 970000,
+      "parcelNum": "10686-100-151",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שמינית",
+      "assetArea": 86.0,
+      "yearBuilt": 2001,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11279,
+      "row_id": 78
+    },
+    {
+      "assetId": 70124348.0,
+      "addressId": 53657899,
+      "polygonId": "65054084",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 15",
+      "dealDate": "2015-06-25",
+      "dealAmount": 1020000,
+      "parcelNum": "10686-100-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שמינית",
+      "assetArea": 86.36,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-01-20",
+          "dealAmount": 690000
+        }
+      ],
+      "trend": {
+        "rate": 47.8,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 11860,
+      "row_id": 79
+    },
+    {
+      "assetId": 70124373.0,
+      "addressId": 53662652,
+      "polygonId": "65054080",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 19",
+      "dealDate": "2015-01-04",
+      "dealAmount": 1200000,
+      "parcelNum": "10686-100-66",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 110.26,
+      "yearBuilt": 2001,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-09-20",
+          "dealAmount": 660000
+        }
+      ],
+      "trend": {
+        "rate": 81.8,
+        "years": 13.3
+      },
+      "ownership": [],
+      "priceSM": 10909,
+      "row_id": 80
+    },
+    {
+      "assetId": 70124375.0,
+      "addressId": 53662652,
+      "polygonId": "65054080",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 19",
+      "dealDate": "2014-10-22",
+      "dealAmount": 1100000,
+      "parcelNum": "10686-100-68",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 111.05,
+      "yearBuilt": 2001,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-05-31",
+          "dealAmount": 705000
+        }
+      ],
+      "trend": {
+        "rate": 56.0,
+        "years": 13.4
+      },
+      "ownership": [],
+      "priceSM": 9910,
+      "row_id": 81
+    },
+    {
+      "assetId": 70123885.0,
+      "addressId": 53835552,
+      "polygonId": "53231313",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 12",
+      "dealDate": "2014-09-24",
+      "dealAmount": 1180000,
+      "parcelNum": "10686-78-25",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "ראשונה ושניה",
+      "assetArea": 102.54,
+      "yearBuilt": 1988,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11508,
+      "row_id": 82
+    },
+    {
+      "assetId": 70123936.0,
+      "addressId": 53667676,
+      "polygonId": "53235737",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 6",
+      "dealDate": "2014-08-31",
+      "dealAmount": 885000,
+      "parcelNum": "10686-79-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 92.37,
+      "yearBuilt": 1970,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9581,
+      "row_id": 83
+    },
+    {
+      "assetId": 70123913.0,
+      "addressId": 53771606,
+      "polygonId": "51929457",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 2",
+      "dealDate": "2014-05-07",
+      "dealAmount": 800000,
+      "parcelNum": "10686-79-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 79.07,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-06-27",
+          "dealAmount": 528000
+        }
+      ],
+      "trend": {
+        "rate": 51.5,
+        "years": 13.9
+      },
+      "ownership": [],
+      "priceSM": 10127,
+      "row_id": 84
+    },
+    {
+      "assetId": 70124413.0,
+      "addressId": 53659566,
+      "polygonId": "65053760",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 23",
+      "dealDate": "2014-03-02",
+      "dealAmount": 1150000,
+      "parcelNum": "10686-100-106",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 110.26,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-24",
+          "dealAmount": 780000
+        },
+        {
+          "dealDate": "2002-05-26",
+          "dealAmount": 680000
+        }
+      ],
+      "trend": {
+        "rate": 47.4,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 10455,
+      "row_id": 85
+    },
+    {
+      "assetId": 70124387.0,
+      "addressId": 53662652,
+      "polygonId": "65054080",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 19",
+      "dealDate": "2014-02-11",
+      "dealAmount": 1130000,
+      "parcelNum": "10686-100-80",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 97.01,
+      "yearBuilt": 2001,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11648,
+      "row_id": 86
+    },
+    {
+      "assetId": 70123869.0,
+      "addressId": 53667677,
+      "polygonId": "51938883",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 8",
+      "dealDate": "2013-11-14",
+      "dealAmount": 800000,
+      "parcelNum": "10686-78-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 75.84,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10549,
+      "row_id": 87
+    },
+    {
+      "assetId": 70123914.0,
+      "addressId": 53771606,
+      "polygonId": "51929457",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 2",
+      "dealDate": "2013-10-09",
+      "dealAmount": 890000,
+      "parcelNum": "10686-79-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שלישית",
+      "assetArea": 99.85,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-22",
+          "dealAmount": 560000
+        }
+      ],
+      "trend": {
+        "rate": 58.9,
+        "years": 15.0
+      },
+      "ownership": [],
+      "priceSM": 8990,
+      "row_id": 88
+    },
+    {
+      "assetId": 70123905.0,
+      "addressId": 53772162,
+      "polygonId": "51930115",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 14",
+      "dealDate": "2013-10-02",
+      "dealAmount": 900000,
+      "parcelNum": "10686-78-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 75.84,
+      "yearBuilt": 1997,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-08-13",
+          "dealAmount": 616000
+        }
+      ],
+      "trend": {
+        "rate": 46.1,
+        "years": 10.1
+      },
+      "ownership": [],
+      "priceSM": 12000,
+      "row_id": 89
+    },
+    {
+      "assetId": 70124338.0,
+      "addressId": 53657899,
+      "polygonId": "65054084",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 15",
+      "dealDate": "2013-07-31",
+      "dealAmount": 1080000,
+      "parcelNum": "10686-100-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 100.31,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-10-11",
+          "dealAmount": 845000
+        },
+        {
+          "dealDate": "1999-08-04",
+          "dealAmount": 683000
+        }
+      ],
+      "trend": {
+        "rate": 27.8,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 10800,
+      "row_id": 90
+    },
+    {
+      "assetId": 70124341.0,
+      "addressId": 53657899,
+      "polygonId": "65054084",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 15",
+      "dealDate": "2013-05-23",
+      "dealAmount": 1100000,
+      "parcelNum": "10686-100-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 100.38,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-03-02",
+          "dealAmount": 790000
+        }
+      ],
+      "trend": {
+        "rate": 39.2,
+        "years": 4.2
+      },
+      "ownership": [],
+      "priceSM": 11000,
+      "row_id": 91
+    },
+    {
+      "assetId": 70123897.0,
+      "addressId": 53772162,
+      "polygonId": "51930115",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 14",
+      "dealDate": "2013-03-11",
+      "dealAmount": 935000,
+      "parcelNum": "10686-78-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה ושניה",
+      "assetArea": 123.66,
+      "yearBuilt": 1997,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7561,
+      "row_id": 92
+    },
+    {
+      "assetId": 70124421.0,
+      "addressId": 53659566,
+      "polygonId": "65053760",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 23",
+      "dealDate": "2012-12-19",
+      "dealAmount": 1099000,
+      "parcelNum": "10686-100-114",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 100.38,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10948,
+      "row_id": 93
+    },
+    {
+      "assetId": 70124427.0,
+      "addressId": 53659566,
+      "polygonId": "65053760",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 23",
+      "dealDate": "2012-08-06",
+      "dealAmount": 1055000,
+      "parcelNum": "10686-100-120",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 97.01,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10875,
+      "row_id": 94
+    },
+    {
+      "assetId": 70124366.0,
+      "addressId": 53660620,
+      "polygonId": "65054082",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 17",
+      "dealDate": "2012-04-02",
+      "dealAmount": 1200000,
+      "parcelNum": "10686-100-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.87,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12388,
+      "row_id": 95
+    },
+    {
+      "assetId": 70124384.0,
+      "addressId": 53662652,
+      "polygonId": "65054080",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 19",
+      "dealDate": "2012-03-07",
+      "dealAmount": 901000,
+      "parcelNum": "10686-100-77",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.21,
+      "yearBuilt": 2001,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-05-30",
+          "dealAmount": 597000
+        }
+      ],
+      "trend": {
+        "rate": 50.9,
+        "years": 11.8
+      },
+      "ownership": [],
+      "priceSM": 9385,
+      "row_id": 96
+    },
+    {
+      "assetId": 70124399.0,
+      "addressId": 53658183,
+      "polygonId": "65053762",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 21",
+      "dealDate": "2010-09-21",
+      "dealAmount": 978000,
+      "parcelNum": "10686-100-92",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 100.31,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9750,
+      "row_id": 97
+    },
+    {
+      "assetId": 70124323.0,
+      "addressId": 53890601,
+      "polygonId": "65054086",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 13",
+      "dealDate": "2010-09-14",
+      "dealAmount": 1165000,
+      "parcelNum": "10686-100-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 104.23,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11177,
+      "row_id": 98
+    },
+    {
+      "assetId": 70124334.0,
+      "addressId": 53657899,
+      "polygonId": "65054084",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 15",
+      "dealDate": "2010-09-12",
+      "dealAmount": 690000,
+      "parcelNum": "10686-100-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 111.05,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6213,
+      "row_id": 99
+    },
+    {
+      "assetId": 70124452.0,
+      "addressId": 53666065,
+      "polygonId": "65082029",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 25",
+      "dealDate": "2010-09-01",
+      "dealAmount": 1218000,
+      "parcelNum": "10686-100-152",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 104.0,
+      "yearBuilt": 2002,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11712,
+      "row_id": 100
+    },
+    {
+      "assetId": 70123872.0,
+      "addressId": 53835556,
+      "polygonId": "51971355",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 10",
+      "dealDate": "2010-06-29",
+      "dealAmount": 975000,
+      "parcelNum": "10686-78-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 121.93,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7996,
+      "row_id": 101
+    },
+    {
+      "assetId": 70124423.0,
+      "addressId": 53659566,
+      "polygonId": "65053760",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 23",
+      "dealDate": "2009-11-29",
+      "dealAmount": 885000,
+      "parcelNum": "10686-100-116",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 104.23,
+      "yearBuilt": 2000,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8491,
+      "row_id": 102
+    },
+    {
+      "assetId": 70124386.0,
+      "addressId": 53662652,
+      "polygonId": "65054080",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 19",
+      "dealDate": "2009-10-13",
+      "dealAmount": 860000,
+      "parcelNum": "10686-100-79",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 96.87,
+      "yearBuilt": 2001,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-10-11",
+          "dealAmount": 630000
+        }
+      ],
+      "trend": {
+        "rate": 36.5,
+        "years": 10.0
+      },
+      "ownership": [],
+      "priceSM": 8958,
+      "row_id": 103
+    },
+    {
+      "assetId": 70124376.0,
+      "addressId": 53662652,
+      "polygonId": "65054080",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 19",
+      "dealDate": "2009-10-11",
+      "dealAmount": 900000,
+      "parcelNum": "10686-100-69",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 111.05,
+      "yearBuilt": 2001,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-08-24",
+          "dealAmount": 763000
+        }
+      ],
+      "trend": {
+        "rate": 18.0,
+        "years": 10.1
+      },
+      "ownership": [],
+      "priceSM": 8108,
+      "row_id": 104
+    },
+    {
+      "assetId": 70123910.0,
+      "addressId": 53771606,
+      "polygonId": "51929457",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 2",
+      "dealDate": "2009-09-01",
+      "dealAmount": 575000,
+      "parcelNum": "10686-79-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 107.12,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5368,
+      "row_id": 105
+    },
+    {
+      "assetId": 70124336.0,
+      "addressId": 53657899,
+      "polygonId": "65054084",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 15",
+      "dealDate": "2008-12-11",
+      "dealAmount": 910000,
+      "parcelNum": "10686-100-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 111.05,
+      "yearBuilt": 1999,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 8,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-08-30",
+          "dealAmount": 710000
+        }
+      ],
+      "trend": {
+        "rate": 28.2,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 8198,
+      "row_id": 106
+    },
+    {
+      "assetId": 70123886.0,
+      "addressId": 53835552,
+      "polygonId": "53231313",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 12",
+      "dealDate": "2008-05-01",
+      "dealAmount": 680000,
+      "parcelNum": "10686-78-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה ושניה",
+      "assetArea": 102.54,
+      "yearBuilt": 1988,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6632,
+      "row_id": 107
+    },
+    {
+      "assetId": 70123865.0,
+      "addressId": 53667677,
+      "polygonId": "51938883",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 8",
+      "dealDate": "2008-02-26",
+      "dealAmount": 700000,
+      "parcelNum": "10686-78-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית ורביעית",
+      "assetArea": 105.7,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 5,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6623,
+      "row_id": 108
+    },
+    {
+      "assetId": 70123918.0,
+      "addressId": 53771606,
+      "polygonId": "51929457",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 2",
+      "dealDate": "2008-01-30",
+      "dealAmount": 505000,
+      "parcelNum": "10686-79-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 93.94,
+      "yearBuilt": 1998,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 4,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-07-19",
+          "dealAmount": 541000
+        }
+      ],
+      "trend": {
+        "rate": -6.7,
+        "years": 9.5
+      },
+      "ownership": [],
+      "priceSM": 5430,
+      "row_id": 109
+    },
+    {
+      "assetId": 70123849.0,
+      "addressId": 53892300,
+      "polygonId": "51931714",
+      "neighborhoodName": "מעלה נוף",
+      "neighborhoodId": 65210985,
+      "address": "נוף 20",
+      "dealDate": "2007-09-04",
+      "dealAmount": 351000,
+      "parcelNum": "10686-74-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1980,
+      "streetCode": 21000471,
+      "settlmentID": 2100,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5400,
+      "row_id": 110
+    }
+  ]
+}

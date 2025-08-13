@@ -1,0 +1,6224 @@
+{
+  "neighborhood_name": "רבי עקיבא",
+  "city_name": "טבריה",
+  "transaction_count": 195,
+  "transactions": [
+    {
+      "assetId": 60104367.0,
+      "addressId": 53520003,
+      "polygonId": "51912626",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 44",
+      "dealDate": "2025-06-05",
+      "dealAmount": 1000000,
+      "parcelNum": "15062-70-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 142.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-10-22",
+          "dealAmount": 407000
+        }
+      ],
+      "trend": {
+        "rate": 145.7,
+        "years": 15.6
+      },
+      "ownership": [],
+      "priceSM": 7042,
+      "row_id": 1
+    },
+    {
+      "assetId": 60104430.0,
+      "addressId": 53513104,
+      "polygonId": "53227193",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 28",
+      "dealDate": "2025-05-08",
+      "dealAmount": 760000,
+      "parcelNum": "15062-84-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 54.2,
+      "yearBuilt": 1970,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-03-31",
+          "dealAmount": 560000
+        },
+        {
+          "dealDate": "2003-03-13",
+          "dealAmount": 406000
+        }
+      ],
+      "trend": {
+        "rate": 35.7,
+        "years": 3.1
+      },
+      "ownership": [],
+      "priceSM": 14074,
+      "row_id": 2
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2025-03-13",
+      "dealAmount": 1590000,
+      "parcelNum": "15038-171-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 99.0,
+      "yearBuilt": 2024,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16061,
+      "row_id": 3
+    },
+    {
+      "assetId": 60104634.0,
+      "addressId": 65229742,
+      "polygonId": "51907241",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 12",
+      "dealDate": "2025-03-04",
+      "dealAmount": 500000,
+      "parcelNum": "15062-125-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1970,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-01-18",
+          "dealAmount": 480000
+        }
+      ],
+      "trend": {
+        "rate": 4.2,
+        "years": 1.1
+      },
+      "ownership": [],
+      "priceSM": 20000,
+      "row_id": 4
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2025-03-04",
+      "dealAmount": 1590000,
+      "parcelNum": "15038-171-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 99.0,
+      "yearBuilt": 2025,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16061,
+      "row_id": 5
+    },
+    {
+      "assetId": 60104622.0,
+      "addressId": 65229740,
+      "polygonId": "51900769",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 8",
+      "dealDate": "2025-01-21",
+      "dealAmount": 550000,
+      "parcelNum": "15062-123-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 26.3,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-06-26",
+          "dealAmount": 550000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 0.6
+      },
+      "ownership": [],
+      "priceSM": 21154,
+      "row_id": 6
+    },
+    {
+      "assetId": 60104542.0,
+      "addressId": 53518146,
+      "polygonId": "53427902",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 8",
+      "dealDate": "2024-12-12",
+      "dealAmount": 440000,
+      "parcelNum": "15062-106-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-06-20",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "2002-10-20",
+          "dealAmount": 119000
+        }
+      ],
+      "trend": {
+        "rate": 10.0,
+        "years": 0.5
+      },
+      "ownership": [],
+      "priceSM": 17600,
+      "row_id": 7
+    },
+    {
+      "assetId": 60104474.0,
+      "addressId": 53515632,
+      "polygonId": "51915559",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 27",
+      "dealDate": "2024-12-11",
+      "dealAmount": 1060600,
+      "parcelNum": "15062-93-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 69.7,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15217,
+      "row_id": 8
+    },
+    {
+      "assetId": 60104486.0,
+      "addressId": 53857093,
+      "polygonId": "51919084",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 23",
+      "dealDate": "2024-10-29",
+      "dealAmount": 500000,
+      "parcelNum": "15062-95-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-09-08",
+          "dealAmount": 150000
+        },
+        {
+          "dealDate": "2011-01-10",
+          "dealAmount": 150000
+        }
+      ],
+      "trend": {
+        "rate": 233.3,
+        "years": 13.2
+      },
+      "ownership": [],
+      "priceSM": 20000,
+      "row_id": 9
+    },
+    {
+      "assetId": 60104283.0,
+      "addressId": 53510247,
+      "polygonId": "53229614",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 43",
+      "dealDate": "2024-10-08",
+      "dealAmount": 725000,
+      "parcelNum": "15062-52-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 45.1,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16075,
+      "row_id": 10
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2024-10-01",
+      "dealAmount": 1580000,
+      "parcelNum": "15038-171-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 100.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15800,
+      "row_id": 11
+    },
+    {
+      "assetId": 60104870.0,
+      "addressId": 0,
+      "polygonId": "15063-35",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2024-09-23",
+      "dealAmount": 1897000,
+      "parcelNum": "15063-35-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 215.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-03-04",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 532.3,
+        "years": 12.6
+      },
+      "ownership": [],
+      "priceSM": 8823,
+      "row_id": 13
+    },
+    {
+      "assetId": 60104414.0,
+      "addressId": 53511115,
+      "polygonId": "51916094",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רמח\"ל 13",
+      "dealDate": "2024-09-15",
+      "dealAmount": 525000,
+      "parcelNum": "15062-81-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 28.9,
+      "yearBuilt": 1980,
+      "streetCode": 67000329,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-11-10",
+          "dealAmount": 290000
+        },
+        {
+          "dealDate": "2011-10-06",
+          "dealAmount": 245000
+        },
+        {
+          "dealDate": "2009-02-03",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 81.0,
+        "years": 10.9
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 262500
+        },
+        {
+          "proportion": "50",
+          "price": 262500
+        }
+      ],
+      "priceSM": 18750,
+      "row_id": 14
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2024-07-22",
+      "dealAmount": 1600000,
+      "parcelNum": "15038-171-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 98.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16327,
+      "row_id": 15
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2024-07-03",
+      "dealAmount": 1650000,
+      "parcelNum": "15038-171-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 111.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14865,
+      "row_id": 17
+    },
+    {
+      "assetId": 60104906.0,
+      "addressId": 0,
+      "polygonId": "15063-42",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2024-06-20",
+      "dealAmount": 700000,
+      "parcelNum": "15063-42-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 39.8,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17588,
+      "row_id": 19
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2024-06-03",
+      "dealAmount": 1800000,
+      "parcelNum": "15038-171-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 113.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15929,
+      "row_id": 20
+    },
+    {
+      "assetId": 60104657.0,
+      "addressId": 65228976,
+      "polygonId": "51918840",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 16",
+      "dealDate": "2024-05-07",
+      "dealAmount": 585000,
+      "parcelNum": "15062-132-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 41.5,
+      "yearBuilt": 1960,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14096,
+      "row_id": 22
+    },
+    {
+      "assetId": 4389970.0,
+      "addressId": 72621474,
+      "polygonId": "51919669",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 3",
+      "dealDate": "2024-04-30",
+      "dealAmount": 1100000,
+      "parcelNum": "15063-101-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 95.0,
+      "yearBuilt": 1989,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11579,
+      "row_id": 23
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2024-03-18",
+      "dealAmount": 1495000,
+      "parcelNum": "15038-171-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 98.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15255,
+      "row_id": 24
+    },
+    {
+      "assetId": 60104660.0,
+      "addressId": 65228977,
+      "polygonId": "51942182",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 12",
+      "dealDate": "2024-02-19",
+      "dealAmount": 1120000,
+      "parcelNum": "15062-133-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 63.8,
+      "yearBuilt": 1950,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-05-27",
+          "dealAmount": 615000
+        }
+      ],
+      "trend": {
+        "rate": 82.1,
+        "years": 2.7
+      },
+      "ownership": [],
+      "priceSM": 17778,
+      "row_id": 26
+    },
+    {
+      "assetId": 60104664.0,
+      "addressId": 65228978,
+      "polygonId": "52991406",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 10",
+      "dealDate": "2024-01-16",
+      "dealAmount": 1650000,
+      "parcelNum": "15062-134-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 169.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-11-26",
+          "dealAmount": 370000
+        }
+      ],
+      "trend": {
+        "rate": 345.9,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 9763,
+      "row_id": 27
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2024-01-11",
+      "dealAmount": 2025000,
+      "parcelNum": "15038-171-49",
+      "dealNature": "דירת גן",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 135.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15000,
+      "row_id": 28
+    },
+    {
+      "assetId": 4389969.0,
+      "addressId": 72621474,
+      "polygonId": "51919669",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 3",
+      "dealDate": "2023-12-18",
+      "dealAmount": 1080000,
+      "parcelNum": "15063-101-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 130.0,
+      "yearBuilt": 1989,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8308,
+      "row_id": 30
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2023-08-29",
+      "dealAmount": 1450000,
+      "parcelNum": "15038-171-50",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 98.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14796,
+      "row_id": 31
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2023-08-28",
+      "dealAmount": 1630000,
+      "parcelNum": "15038-171-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 105.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15524,
+      "row_id": 32
+    },
+    {
+      "assetId": 60104421.0,
+      "addressId": 53856439,
+      "polygonId": "51915882",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 30",
+      "dealDate": "2023-08-06",
+      "dealAmount": 640000,
+      "parcelNum": "15062-82-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שלישית",
+      "assetArea": 45.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-08-25",
+          "dealAmount": 580000
+        },
+        {
+          "dealDate": "2016-04-07",
+          "dealAmount": 410000
+        }
+      ],
+      "trend": {
+        "rate": 10.3,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 14222,
+      "row_id": 34
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2023-07-05",
+      "dealAmount": 1500000,
+      "parcelNum": "15038-171-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 98.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15306,
+      "row_id": 35
+    },
+    {
+      "assetId": 60104618.0,
+      "addressId": 65229739,
+      "polygonId": "51914154",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 6",
+      "dealDate": "2023-07-04",
+      "dealAmount": 660000,
+      "parcelNum": "15062-122-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1970,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-08-31",
+          "dealAmount": 347000
+        },
+        {
+          "dealDate": "2013-06-23",
+          "dealAmount": 255000
+        }
+      ],
+      "trend": {
+        "rate": 90.2,
+        "years": 0.8
+      },
+      "ownership": [],
+      "priceSM": 26400,
+      "row_id": 36
+    },
+    {
+      "assetId": 60104897.0,
+      "addressId": 0,
+      "polygonId": "15063-40",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2023-06-27",
+      "dealAmount": 500000,
+      "parcelNum": "15063-40-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 52.5,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9524,
+      "row_id": 38
+    },
+    {
+      "assetId": 60104699.0,
+      "addressId": 65228794,
+      "polygonId": "53151045",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 5",
+      "dealDate": "2023-06-06",
+      "dealAmount": 450000,
+      "parcelNum": "15062-141-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 32.2,
+      "yearBuilt": 1950,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-05-23",
+          "dealAmount": 325000
+        }
+      ],
+      "trend": {
+        "rate": 38.5,
+        "years": 5.0
+      },
+      "ownership": [],
+      "priceSM": 14062,
+      "row_id": 39
+    },
+    {
+      "assetId": 60104718.0,
+      "addressId": 65228970,
+      "polygonId": "53178064",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 13",
+      "dealDate": "2023-05-21",
+      "dealAmount": 1450000,
+      "parcelNum": "15062-145-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 130.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11154,
+      "row_id": 40
+    },
+    {
+      "assetId": 60104952.0,
+      "addressId": 53517024,
+      "polygonId": "51908621",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רח' 115 114",
+      "dealDate": "2023-05-17",
+      "dealAmount": 800000,
+      "parcelNum": "15063-50-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 43.1,
+      "yearBuilt": 1970,
+      "streetCode": 67000332,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-02-16",
+          "dealAmount": 492000
+        }
+      ],
+      "trend": {
+        "rate": 62.6,
+        "years": 20.3
+      },
+      "ownership": [],
+      "priceSM": 18605,
+      "row_id": 41
+    },
+    {
+      "assetId": 60104831.0,
+      "addressId": 53857092,
+      "polygonId": "51911653",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 1",
+      "dealDate": "2023-04-02",
+      "dealAmount": 550000,
+      "parcelNum": "15062-230-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1970,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21484,
+      "row_id": 42
+    },
+    {
+      "assetId": 60104651.0,
+      "addressId": 65228975,
+      "polygonId": "51913764",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 18",
+      "dealDate": "2023-04-01",
+      "dealAmount": 750000,
+      "parcelNum": "15062-131-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 51.6,
+      "yearBuilt": 1980,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-05-09",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2015-10-20",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2010-12-27",
+          "dealAmount": 340000
+        }
+      ],
+      "trend": {
+        "rate": 19.0,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 14706,
+      "row_id": 43
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2023-03-30",
+      "dealAmount": 1650000,
+      "parcelNum": "15038-171-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 104.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15865,
+      "row_id": 44
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2023-03-20",
+      "dealAmount": 1640000,
+      "parcelNum": "15038-171-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 114.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14386,
+      "row_id": 46
+    },
+    {
+      "assetId": 60104522.0,
+      "addressId": 53516770,
+      "polygonId": "51916328",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 16",
+      "dealDate": "2023-01-19",
+      "dealAmount": 640000,
+      "parcelNum": "15062-102-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 41.7,
+      "yearBuilt": 1970,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-02-20",
+          "dealAmount": 435000
+        },
+        {
+          "dealDate": "2014-07-07",
+          "dealAmount": 355000
+        },
+        {
+          "dealDate": "2011-06-10",
+          "dealAmount": 230000
+        },
+        {
+          "dealDate": "2010-02-01",
+          "dealAmount": 83000
+        }
+      ],
+      "trend": {
+        "rate": 47.1,
+        "years": 2.9
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 320000
+        },
+        {
+          "proportion": "50",
+          "price": 320000
+        }
+      ],
+      "priceSM": 15610,
+      "row_id": 48
+    },
+    {
+      "assetId": 60104710.0,
+      "addressId": 65228796,
+      "polygonId": "51906747",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 9",
+      "dealDate": "2023-01-17",
+      "dealAmount": 525000,
+      "parcelNum": "15062-143-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.5,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1970,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-12-15",
+          "dealAmount": 431000
+        },
+        {
+          "dealDate": "2013-01-16",
+          "dealAmount": 230000
+        },
+        {
+          "dealDate": "2012-05-23",
+          "dealAmount": 170000
+        },
+        {
+          "dealDate": "2004-02-29",
+          "dealAmount": 96000
+        }
+      ],
+      "trend": {
+        "rate": 21.8,
+        "years": 1.1
+      },
+      "ownership": [],
+      "priceSM": 21000,
+      "row_id": 49
+    },
+    {
+      "assetId": 60104454.0,
+      "addressId": 53516944,
+      "polygonId": "51921837",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 35",
+      "dealDate": "2023-01-16",
+      "dealAmount": 92000,
+      "parcelNum": "15062-89-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 49.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2004-06-17",
+          "dealAmount": 261000
+        }
+      ],
+      "trend": {
+        "rate": -64.8,
+        "years": 18.6
+      },
+      "ownership": [],
+      "priceSM": 1878,
+      "row_id": 50
+    },
+    {
+      "assetId": 60104456.0,
+      "addressId": 53516944,
+      "polygonId": "51921837",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 35",
+      "dealDate": "2023-01-16",
+      "dealAmount": 430000,
+      "parcelNum": "15062-89-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 47.8,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-14",
+          "dealAmount": 199000
+        }
+      ],
+      "trend": {
+        "rate": 116.1,
+        "years": 12.7
+      },
+      "ownership": [],
+      "priceSM": 9149,
+      "row_id": 51
+    },
+    {
+      "assetId": 4272872.0,
+      "addressId": 72621478,
+      "polygonId": "53228530",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 5",
+      "dealDate": "2023-01-15",
+      "dealAmount": 1290000,
+      "parcelNum": "15063-103-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.0,
+      "yearBuilt": 0,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15926,
+      "row_id": 52
+    },
+    {
+      "assetId": 60104386.0,
+      "addressId": 53509714,
+      "polygonId": "51912563",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 40",
+      "dealDate": "2022-11-14",
+      "dealAmount": 1340000,
+      "parcelNum": "15062-74-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "שניה",
+      "assetArea": 100.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13400,
+      "row_id": 53
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2022-11-09",
+      "dealAmount": 1475000,
+      "parcelNum": "15038-171-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 114.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12939,
+      "row_id": 54
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2022-10-03",
+      "dealAmount": 1552000,
+      "parcelNum": "15038-171-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 111.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-10-03",
+          "dealAmount": 1372000
+        },
+        {
+          "dealDate": "2022-10-03",
+          "dealAmount": 1532000
+        },
+        {
+          "dealDate": "2022-10-03",
+          "dealAmount": 1474000
+        },
+        {
+          "dealDate": "2022-10-03",
+          "dealAmount": 1363000
+        },
+        {
+          "dealDate": "2022-10-03",
+          "dealAmount": 1340000
+        }
+      ],
+      "trend": {
+        "rate": 13.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 13982,
+      "row_id": 56
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2022-09-21",
+      "dealAmount": 1550000,
+      "parcelNum": "15038-171-62",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 111.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13964,
+      "row_id": 63
+    },
+    {
+      "assetId": 60104535.0,
+      "addressId": 53517674,
+      "polygonId": "51915139",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 10",
+      "dealDate": "2022-09-19",
+      "dealAmount": 1050000,
+      "parcelNum": "15062-105-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 116.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-01-28",
+          "dealAmount": 570000
+        }
+      ],
+      "trend": {
+        "rate": 84.2,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 9052,
+      "row_id": 65
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2022-09-19",
+      "dealAmount": 1900000,
+      "parcelNum": "15038-171-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 113.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16814,
+      "row_id": 66
+    },
+    {
+      "assetId": 60104729.0,
+      "addressId": 65228972,
+      "polygonId": "51909852",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 17",
+      "dealDate": "2022-09-15",
+      "dealAmount": 600000,
+      "parcelNum": "15062-147-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 56.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10601,
+      "row_id": 68
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2022-09-14",
+      "dealAmount": 1380000,
+      "parcelNum": "15038-171-66",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 99.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-09-14",
+          "dealAmount": 1400000
+        }
+      ],
+      "trend": {
+        "rate": -1.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 13939,
+      "row_id": 69
+    },
+    {
+      "assetId": 60104547.0,
+      "addressId": 53514097,
+      "polygonId": "51904146",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 6",
+      "dealDate": "2022-09-12",
+      "dealAmount": 650000,
+      "parcelNum": "15062-107-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25391,
+      "row_id": 72
+    },
+    {
+      "assetId": 60104669.0,
+      "addressId": 65228979,
+      "polygonId": "53232788",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 8",
+      "dealDate": "2022-09-08",
+      "dealAmount": 735000,
+      "parcelNum": "15062-135-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 61.4,
+      "yearBuilt": 1980,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-08-27",
+          "dealAmount": 504000
+        },
+        {
+          "dealDate": "2015-02-08",
+          "dealAmount": 492000
+        },
+        {
+          "dealDate": "2013-05-01",
+          "dealAmount": 429000
+        },
+        {
+          "dealDate": "2009-06-15",
+          "dealAmount": 370000
+        }
+      ],
+      "trend": {
+        "rate": 45.8,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 12049,
+      "row_id": 73
+    },
+    {
+      "assetId": 60104887.0,
+      "addressId": 0,
+      "polygonId": "15063-38",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2022-08-30",
+      "dealAmount": 640000,
+      "parcelNum": "15063-38-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-11-22",
+          "dealAmount": 537000
+        },
+        {
+          "dealDate": "2015-03-23",
+          "dealAmount": 529000
+        }
+      ],
+      "trend": {
+        "rate": 19.2,
+        "years": 3.8
+      },
+      "ownership": [],
+      "priceSM": 25600,
+      "row_id": 80
+    },
+    {
+      "assetId": 60100280.0,
+      "addressId": 53510271,
+      "polygonId": "51913331",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "טרומפלדור 1",
+      "dealDate": "2022-08-22",
+      "dealAmount": 1040000,
+      "parcelNum": "15035-129-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית ורביעית",
+      "assetArea": 122.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000311,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-05-17",
+          "dealAmount": 800000
+        }
+      ],
+      "trend": {
+        "rate": 30.0,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 8525,
+      "row_id": 82
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2022-08-17",
+      "dealAmount": 1445000,
+      "parcelNum": "15038-171-69",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 121.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11942,
+      "row_id": 83
+    },
+    {
+      "assetId": 60104714.0,
+      "addressId": 65228969,
+      "polygonId": "51936267",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 11",
+      "dealDate": "2022-08-10",
+      "dealAmount": 292000,
+      "parcelNum": "15062-144-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 42.4,
+      "yearBuilt": 1950,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-12-27",
+          "dealAmount": 450000
+        }
+      ],
+      "trend": {
+        "rate": -35.1,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 6952,
+      "row_id": 85
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2022-08-08",
+      "dealAmount": 1738000,
+      "parcelNum": "15038-171-70",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית",
+      "assetArea": 150.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11587,
+      "row_id": 86
+    },
+    {
+      "assetId": 60104944.0,
+      "addressId": 53510375,
+      "polygonId": "51905420",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רח' 115 116",
+      "dealDate": "2022-07-27",
+      "dealAmount": 438000,
+      "parcelNum": "15063-48-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1970,
+      "streetCode": 67000332,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2018-11-28",
+          "dealAmount": 390000
+        },
+        {
+          "dealDate": "2017-01-25",
+          "dealAmount": 369000
+        },
+        {
+          "dealDate": "2015-09-17",
+          "dealAmount": 239000
+        }
+      ],
+      "trend": {
+        "rate": 12.3,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 17520,
+      "row_id": 88
+    },
+    {
+      "assetId": 4664498.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2022-07-26",
+      "dealAmount": 1509000,
+      "parcelNum": "15038-171-71",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 135.0,
+      "yearBuilt": 2022,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2022-07-26",
+          "dealAmount": 1354000
+        },
+        {
+          "dealDate": "2022-07-26",
+          "dealAmount": 1399000
+        },
+        {
+          "dealDate": "2022-07-26",
+          "dealAmount": 1692000
+        },
+        {
+          "dealDate": "2022-07-26",
+          "dealAmount": 1601000
+        },
+        {
+          "dealDate": "2022-07-26",
+          "dealAmount": 1326000
+        },
+        {
+          "dealDate": "2022-07-26",
+          "dealAmount": 1473000
+        },
+        {
+          "dealDate": "2022-07-26",
+          "dealAmount": 1555000
+        },
+        {
+          "dealDate": "2022-07-26",
+          "dealAmount": 1409000
+        },
+        {
+          "dealDate": "2022-07-26",
+          "dealAmount": 1738000
+        },
+        {
+          "dealDate": "2022-07-26",
+          "dealAmount": 1418000
+        }
+      ],
+      "trend": {
+        "rate": 11.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 11178,
+      "row_id": 89
+    },
+    {
+      "assetId": 60104339.0,
+      "addressId": 53857096,
+      "polygonId": "51903220",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 54",
+      "dealDate": "2022-07-03",
+      "dealAmount": 1000000,
+      "parcelNum": "15062-64-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 70.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14286,
+      "row_id": 100
+    },
+    {
+      "assetId": 60100285.0,
+      "addressId": 65229932,
+      "polygonId": "51936744",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "החשמונאים 8",
+      "dealDate": "2022-06-01",
+      "dealAmount": 450000,
+      "parcelNum": "15035-129-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 78.0,
+      "yearBuilt": 1996,
+      "streetCode": 67000318,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-05-03",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2013-01-14",
+          "dealAmount": 440000
+        },
+        {
+          "dealDate": "2007-01-10",
+          "dealAmount": 315000
+        }
+      ],
+      "trend": {
+        "rate": -21.1,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 5769,
+      "row_id": 101
+    },
+    {
+      "assetId": 60104674.0,
+      "addressId": 65228980,
+      "polygonId": "51939018",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 6",
+      "dealDate": "2022-05-12",
+      "dealAmount": 1110000,
+      "parcelNum": "15062-136-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 26.3,
+      "yearBuilt": 1960,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-04-30",
+          "dealAmount": 289000
+        }
+      ],
+      "trend": {
+        "rate": 284.1,
+        "years": 21.0
+      },
+      "ownership": [],
+      "priceSM": 42692,
+      "row_id": 102
+    },
+    {
+      "assetId": 60100282.0,
+      "addressId": 53510271,
+      "polygonId": "51913331",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "טרומפלדור 1",
+      "dealDate": "2022-03-06",
+      "dealAmount": 1000000,
+      "parcelNum": "15035-129-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית ורביעית",
+      "assetArea": 122.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000311,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8197,
+      "row_id": 103
+    },
+    {
+      "assetId": 60104499.0,
+      "addressId": 53857885,
+      "polygonId": "51915986",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 17",
+      "dealDate": "2022-03-03",
+      "dealAmount": 1500000,
+      "parcelNum": "15062-98-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 38.8,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-19",
+          "dealAmount": 399000
+        },
+        {
+          "dealDate": "1999-03-16",
+          "dealAmount": 201000
+        }
+      ],
+      "trend": {
+        "rate": 275.9,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 39474,
+      "row_id": 104
+    },
+    {
+      "assetId": 60104511.0,
+      "addressId": 53509673,
+      "polygonId": "51904702",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 13",
+      "dealDate": "2022-02-07",
+      "dealAmount": 1050000,
+      "parcelNum": "15062-100-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 116.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2019-08-22",
+          "dealAmount": 810000
+        }
+      ],
+      "trend": {
+        "rate": 29.6,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 9052,
+      "row_id": 105
+    },
+    {
+      "assetId": 60104334.0,
+      "addressId": 53857655,
+      "polygonId": "53034127",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 56",
+      "dealDate": "2022-02-01",
+      "dealAmount": 660000,
+      "parcelNum": "15062-63-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 61.7,
+      "yearBuilt": 1970,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10697,
+      "row_id": 106
+    },
+    {
+      "assetId": 60104638.0,
+      "addressId": 65229743,
+      "polygonId": "51935294",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 14",
+      "dealDate": "2022-01-05",
+      "dealAmount": 460000,
+      "parcelNum": "15062-126-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 43.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-09-02",
+          "dealAmount": 325000
+        },
+        {
+          "dealDate": "2012-01-26",
+          "dealAmount": 320000
+        },
+        {
+          "dealDate": "2009-12-27",
+          "dealAmount": 132000
+        },
+        {
+          "dealDate": "2001-05-06",
+          "dealAmount": 248000
+        }
+      ],
+      "trend": {
+        "rate": 41.5,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 10698,
+      "row_id": 107
+    },
+    {
+      "assetId": 60104540.0,
+      "addressId": 53518146,
+      "polygonId": "53427902",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 8",
+      "dealDate": "2022-01-04",
+      "dealAmount": 707000,
+      "parcelNum": "15062-106-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 86.1,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8211,
+      "row_id": 108
+    },
+    {
+      "assetId": 4664512.0,
+      "addressId": 72621576,
+      "polygonId": "73088588",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "בר כוכבא 68",
+      "dealDate": "2021-12-22",
+      "dealAmount": 17192000,
+      "parcelNum": "15038-171-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 2403.0,
+      "yearBuilt": 0,
+      "streetCode": 67000323,
+      "settlmentID": 6700,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7154,
+      "row_id": 109
+    },
+    {
+      "assetId": 60104308.0,
+      "addressId": 53518577,
+      "polygonId": "51911885",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 62",
+      "dealDate": "2021-12-08",
+      "dealAmount": 1100000,
+      "parcelNum": "15062-57-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 220.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 110
+    },
+    {
+      "assetId": 60104900.0,
+      "addressId": 0,
+      "polygonId": "15063-41",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2021-12-07",
+      "dealAmount": 500000,
+      "parcelNum": "15063-41-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 48.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10417,
+      "row_id": 111
+    },
+    {
+      "assetId": 4502846.0,
+      "addressId": 65220019,
+      "polygonId": "53228137",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "קק\"ל 32",
+      "dealDate": "2021-11-28",
+      "dealAmount": 1000000,
+      "parcelNum": "15063-110-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 174.0,
+      "yearBuilt": 1984,
+      "streetCode": 67000512,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5747,
+      "row_id": 112
+    },
+    {
+      "assetId": 60104720.0,
+      "addressId": 65228970,
+      "polygonId": "53178064",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 13",
+      "dealDate": "2021-11-25",
+      "dealAmount": 700000,
+      "parcelNum": "15062-145-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 41.2,
+      "yearBuilt": 1950,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16990,
+      "row_id": 113
+    },
+    {
+      "assetId": 4272872.0,
+      "addressId": 72621478,
+      "polygonId": "53228530",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 5",
+      "dealDate": "2021-10-20",
+      "dealAmount": 1120000,
+      "parcelNum": "15063-103-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 124.0,
+      "yearBuilt": 0,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9032,
+      "row_id": 114
+    },
+    {
+      "assetId": 4273008.0,
+      "addressId": 0,
+      "polygonId": "15062-127",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2021-08-26",
+      "dealAmount": 840000,
+      "parcelNum": "15062-127-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 638.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1317,
+      "row_id": 115
+    },
+    {
+      "assetId": 60104695.0,
+      "addressId": 65228793,
+      "polygonId": "53029179",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 3",
+      "dealDate": "2021-08-17",
+      "dealAmount": 815000,
+      "parcelNum": "15062-140-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 122.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6680,
+      "row_id": 116
+    },
+    {
+      "assetId": 60100144.0,
+      "addressId": 65230109,
+      "polygonId": "51909807",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "החשמונאים 20",
+      "dealDate": "2021-07-08",
+      "dealAmount": 620000,
+      "parcelNum": "15035-64-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 102.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000318,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-02-25",
+          "dealAmount": 600000
+        }
+      ],
+      "trend": {
+        "rate": 3.3,
+        "years": 1.4
+      },
+      "ownership": [],
+      "priceSM": 6078,
+      "row_id": 117
+    },
+    {
+      "assetId": 60104515.0,
+      "addressId": 53516941,
+      "polygonId": "53227105",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 18",
+      "dealDate": "2021-06-23",
+      "dealAmount": 800000,
+      "parcelNum": "15062-101-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 67.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11940,
+      "row_id": 118
+    },
+    {
+      "assetId": 60104435.0,
+      "addressId": 53516943,
+      "polygonId": "51913769",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רמח\"ל 17",
+      "dealDate": "2021-06-23",
+      "dealAmount": 915000,
+      "parcelNum": "15062-85-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 117.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000329,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-09-01",
+          "dealAmount": 507000
+        }
+      ],
+      "trend": {
+        "rate": 80.5,
+        "years": 21.8
+      },
+      "ownership": [],
+      "priceSM": 7821,
+      "row_id": 119
+    },
+    {
+      "assetId": 60100284.0,
+      "addressId": 65229932,
+      "polygonId": "51936744",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "החשמונאים 8",
+      "dealDate": "2021-06-22",
+      "dealAmount": 850000,
+      "parcelNum": "15035-129-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 78.0,
+      "yearBuilt": 1996,
+      "streetCode": 67000318,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10897,
+      "row_id": 120
+    },
+    {
+      "assetId": 60104413.0,
+      "addressId": 53511115,
+      "polygonId": "51916094",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רמח\"ל 13",
+      "dealDate": "2021-06-21",
+      "dealAmount": 1425000,
+      "parcelNum": "15062-81-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 230.0,
+      "yearBuilt": 1980,
+      "streetCode": 67000329,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-01-24",
+          "dealAmount": 140000
+        }
+      ],
+      "trend": {
+        "rate": 917.9,
+        "years": 13.4
+      },
+      "ownership": [],
+      "priceSM": 6196,
+      "row_id": 121
+    },
+    {
+      "assetId": 60104566.0,
+      "addressId": 53510390,
+      "polygonId": "51913609",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 3",
+      "dealDate": "2021-05-10",
+      "dealAmount": 320000,
+      "parcelNum": "15062-111-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 26.3,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-03-20",
+          "dealAmount": 109000
+        }
+      ],
+      "trend": {
+        "rate": 193.6,
+        "years": 18.2
+      },
+      "ownership": [],
+      "priceSM": 12308,
+      "row_id": 122
+    },
+    {
+      "assetId": 60104498.0,
+      "addressId": 53857885,
+      "polygonId": "51915986",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 17",
+      "dealDate": "2021-05-03",
+      "dealAmount": 400000,
+      "parcelNum": "15062-98-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 42.2,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-01-07",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 0.3
+      },
+      "ownership": [],
+      "priceSM": 9524,
+      "row_id": 123
+    },
+    {
+      "assetId": 60104728.0,
+      "addressId": 65228972,
+      "polygonId": "51909852",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 17",
+      "dealDate": "2020-12-24",
+      "dealAmount": 870000,
+      "parcelNum": "15062-147-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 202.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4307,
+      "row_id": 124
+    },
+    {
+      "assetId": 60104953.0,
+      "addressId": 53517024,
+      "polygonId": "51908621",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רח' 115 114",
+      "dealDate": "2020-12-09",
+      "dealAmount": 520000,
+      "parcelNum": "15063-50-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1970,
+      "streetCode": 67000332,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-07-16",
+          "dealAmount": 200000
+        },
+        {
+          "dealDate": "2009-01-27",
+          "dealAmount": 175000
+        },
+        {
+          "dealDate": "1998-12-04",
+          "dealAmount": 192000
+        }
+      ],
+      "trend": {
+        "rate": 160.0,
+        "years": 11.4
+      },
+      "ownership": [],
+      "priceSM": 20800,
+      "row_id": 125
+    },
+    {
+      "assetId": 4490839.0,
+      "addressId": 72621486,
+      "polygonId": "53072320",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 4",
+      "dealDate": "2020-09-24",
+      "dealAmount": 1420000,
+      "parcelNum": "15063-107-2",
+      "dealNature": "דירת גן",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 1990,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11833,
+      "row_id": 126
+    },
+    {
+      "assetId": 60104356.0,
+      "addressId": 53511671,
+      "polygonId": "51915068",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 48",
+      "dealDate": "2020-09-08",
+      "dealAmount": 430000,
+      "parcelNum": "15062-67-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 29.2,
+      "yearBuilt": 1970,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-09-01",
+          "dealAmount": 339000
+        },
+        {
+          "dealDate": "2014-12-04",
+          "dealAmount": 340000
+        },
+        {
+          "dealDate": "2009-06-12",
+          "dealAmount": 130000
+        }
+      ],
+      "trend": {
+        "rate": 26.8,
+        "years": 4.0
+      },
+      "ownership": [],
+      "priceSM": 14828,
+      "row_id": 127
+    },
+    {
+      "assetId": 60104425.0,
+      "addressId": 53509627,
+      "polygonId": "51914044",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רמח\"ל 15",
+      "dealDate": "2020-09-06",
+      "dealAmount": 420000,
+      "parcelNum": "15062-83-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1950,
+      "streetCode": 67000329,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9589,
+      "row_id": 128
+    },
+    {
+      "assetId": 60104372.0,
+      "addressId": 53513103,
+      "polygonId": "51916533",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רמח\"ל 5",
+      "dealDate": "2020-08-04",
+      "dealAmount": 380000,
+      "parcelNum": "15062-71-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 29.2,
+      "yearBuilt": 1950,
+      "streetCode": 67000329,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13014,
+      "row_id": 129
+    },
+    {
+      "assetId": 60104741.0,
+      "addressId": 65228974,
+      "polygonId": "51916372",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 21",
+      "dealDate": "2020-07-21",
+      "dealAmount": 405000,
+      "parcelNum": "15062-149-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-06-02",
+          "dealAmount": 225000
+        }
+      ],
+      "trend": {
+        "rate": 80.0,
+        "years": 6.1
+      },
+      "ownership": [],
+      "priceSM": 16200,
+      "row_id": 130
+    },
+    {
+      "assetId": 60104913.0,
+      "addressId": 0,
+      "polygonId": "15063-43",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2020-07-12",
+      "dealAmount": 635000,
+      "parcelNum": "15063-43-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 27.8,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22842,
+      "row_id": 131
+    },
+    {
+      "assetId": 60104652.0,
+      "addressId": 65228975,
+      "polygonId": "51913764",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 18",
+      "dealDate": "2020-05-27",
+      "dealAmount": 650000,
+      "parcelNum": "15062-131-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 122.0,
+      "yearBuilt": 1980,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5328,
+      "row_id": 132
+    },
+    {
+      "assetId": 60104490.0,
+      "addressId": 53809971,
+      "polygonId": "51921820",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 21",
+      "dealDate": "2020-01-09",
+      "dealAmount": 375000,
+      "parcelNum": "15062-96-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-30",
+          "dealAmount": 325000
+        }
+      ],
+      "trend": {
+        "rate": 15.4,
+        "years": 3.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 187500
+        },
+        {
+          "proportion": "50",
+          "price": 187500
+        }
+      ],
+      "priceSM": 15000,
+      "row_id": 133
+    },
+    {
+      "assetId": 60104481.0,
+      "addressId": 53514096,
+      "polygonId": "51908728",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 25",
+      "dealDate": "2019-12-03",
+      "dealAmount": 700000,
+      "parcelNum": "15062-94-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 45.4,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2005-03-21",
+          "dealAmount": 224000
+        }
+      ],
+      "trend": {
+        "rate": 212.5,
+        "years": 14.7
+      },
+      "ownership": [],
+      "priceSM": 15556,
+      "row_id": 134
+    },
+    {
+      "assetId": 4273001.0,
+      "addressId": 0,
+      "polygonId": "15062-127",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2019-12-02",
+      "dealAmount": 830000,
+      "parcelNum": "15062-127-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 638.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1301,
+      "row_id": 135
+    },
+    {
+      "assetId": 60104579.0,
+      "addressId": 53510374,
+      "polygonId": "51937143",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 7",
+      "dealDate": "2019-11-09",
+      "dealAmount": 170000,
+      "parcelNum": "15062-113-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.5,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6641,
+      "row_id": 136
+    },
+    {
+      "assetId": 60104872.0,
+      "addressId": 0,
+      "polygonId": "15063-35",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2019-09-16",
+      "dealAmount": 360000,
+      "parcelNum": "15063-35-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-10-21",
+          "dealAmount": 290000
+        },
+        {
+          "dealDate": "2009-10-12",
+          "dealAmount": 205000
+        }
+      ],
+      "trend": {
+        "rate": 24.1,
+        "years": 9.9
+      },
+      "ownership": [],
+      "priceSM": 14400,
+      "row_id": 137
+    },
+    {
+      "assetId": 60104420.0,
+      "addressId": 53856439,
+      "polygonId": "51915882",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 30",
+      "dealDate": "2019-09-12",
+      "dealAmount": 460000,
+      "parcelNum": "15062-82-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-08-02",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 53.3,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 10698,
+      "row_id": 138
+    },
+    {
+      "assetId": 60104602.0,
+      "addressId": 65229151,
+      "polygonId": "51900831",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 5",
+      "dealDate": "2019-05-02",
+      "dealAmount": 570000,
+      "parcelNum": "15062-118-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 82.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6951,
+      "row_id": 139
+    },
+    {
+      "assetId": 4389971.0,
+      "addressId": 72621474,
+      "polygonId": "51919669",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 3",
+      "dealDate": "2019-04-15",
+      "dealAmount": 835000,
+      "parcelNum": "15063-101-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 130.0,
+      "yearBuilt": 1989,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6423,
+      "row_id": 140
+    },
+    {
+      "assetId": 60100278.0,
+      "addressId": 53510271,
+      "polygonId": "51913331",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "טרומפלדור 1",
+      "dealDate": "2019-03-28",
+      "dealAmount": 590000,
+      "parcelNum": "15035-129-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000311,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-08-01",
+          "dealAmount": 400000
+        }
+      ],
+      "trend": {
+        "rate": 47.5,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 9077,
+      "row_id": 141
+    },
+    {
+      "assetId": 60104910.0,
+      "addressId": 0,
+      "polygonId": "15063-42",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2019-02-20",
+      "dealAmount": 400000,
+      "parcelNum": "15063-42-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15625,
+      "row_id": 142
+    },
+    {
+      "assetId": 60104908.0,
+      "addressId": 0,
+      "polygonId": "15063-42",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2019-02-20",
+      "dealAmount": 680000,
+      "parcelNum": "15063-42-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 26.3,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25856,
+      "row_id": 143
+    },
+    {
+      "assetId": 60100273.0,
+      "addressId": 53510271,
+      "polygonId": "51913331",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "טרומפלדור 1",
+      "dealDate": "2019-01-12",
+      "dealAmount": 805000,
+      "parcelNum": "15035-129-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע וראשונה",
+      "assetArea": 109.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000311,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-10-05",
+          "dealAmount": 430000
+        },
+        {
+          "dealDate": "1998-12-07",
+          "dealAmount": 494000
+        }
+      ],
+      "trend": {
+        "rate": 87.2,
+        "years": 10.3
+      },
+      "ownership": [],
+      "priceSM": 7385,
+      "row_id": 144
+    },
+    {
+      "assetId": 60104873.0,
+      "addressId": 0,
+      "polygonId": "15063-35",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2019-01-09",
+      "dealAmount": 325000,
+      "parcelNum": "15063-35-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.5,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12695,
+      "row_id": 145
+    },
+    {
+      "assetId": 60104740.0,
+      "addressId": 65228974,
+      "polygonId": "51916372",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 21",
+      "dealDate": "2018-12-28",
+      "dealAmount": 500000,
+      "parcelNum": "15062-149-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 52.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-08-23",
+          "dealAmount": 320000
+        },
+        {
+          "dealDate": "2014-08-26",
+          "dealAmount": 250000
+        },
+        {
+          "dealDate": "2014-01-26",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 56.2,
+        "years": 2.3
+      },
+      "ownership": [],
+      "priceSM": 9615,
+      "row_id": 146
+    },
+    {
+      "assetId": 60104593.0,
+      "addressId": 65229153,
+      "polygonId": "53130016",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 9",
+      "dealDate": "2018-09-16",
+      "dealAmount": 380000,
+      "parcelNum": "15062-116-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-09-15",
+          "dealAmount": 121000
+        }
+      ],
+      "trend": {
+        "rate": 214.0,
+        "years": 10.0
+      },
+      "ownership": [],
+      "priceSM": 15200,
+      "row_id": 147
+    },
+    {
+      "assetId": 60100291.0,
+      "addressId": 65229932,
+      "polygonId": "51936744",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "החשמונאים 8",
+      "dealDate": "2018-07-10",
+      "dealAmount": 600000,
+      "parcelNum": "15035-129-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 78.0,
+      "yearBuilt": 1996,
+      "streetCode": 67000318,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-03-22",
+          "dealAmount": 462000
+        }
+      ],
+      "trend": {
+        "rate": 29.9,
+        "years": 19.3
+      },
+      "ownership": [],
+      "priceSM": 7692,
+      "row_id": 148
+    },
+    {
+      "assetId": 80303415.0,
+      "addressId": 72621479,
+      "polygonId": "51955283",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 7",
+      "dealDate": "2018-06-28",
+      "dealAmount": 1559000,
+      "parcelNum": "15063-102-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "קרקע, ראשונה, שניה",
+      "assetArea": 249.35,
+      "yearBuilt": 1986,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6252,
+      "row_id": 149
+    },
+    {
+      "assetId": 60104495.0,
+      "addressId": 53513065,
+      "polygonId": "51920905",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 19",
+      "dealDate": "2018-04-12",
+      "dealAmount": 170000,
+      "parcelNum": "15062-97-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6641,
+      "row_id": 150
+    },
+    {
+      "assetId": 60104514.0,
+      "addressId": 53516941,
+      "polygonId": "53227105",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 18",
+      "dealDate": "2018-03-14",
+      "dealAmount": 615000,
+      "parcelNum": "15062-101-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-05-25",
+          "dealAmount": 445000
+        },
+        {
+          "dealDate": "2010-10-27",
+          "dealAmount": 425000
+        },
+        {
+          "dealDate": "2009-06-25",
+          "dealAmount": 170000
+        }
+      ],
+      "trend": {
+        "rate": 38.2,
+        "years": 1.8
+      },
+      "ownership": [],
+      "priceSM": 14302,
+      "row_id": 151
+    },
+    {
+      "assetId": 60104358.0,
+      "addressId": 53858083,
+      "polygonId": "51911934",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 46",
+      "dealDate": "2018-01-18",
+      "dealAmount": 709000,
+      "parcelNum": "15062-68-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 30.4,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-10-22",
+          "dealAmount": 574000
+        },
+        {
+          "dealDate": "2013-07-02",
+          "dealAmount": 450000
+        },
+        {
+          "dealDate": "2009-12-08",
+          "dealAmount": 400000
+        },
+        {
+          "dealDate": "1999-04-18",
+          "dealAmount": 176000
+        }
+      ],
+      "trend": {
+        "rate": 23.5,
+        "years": 3.2
+      },
+      "ownership": [],
+      "priceSM": 23633,
+      "row_id": 152
+    },
+    {
+      "assetId": 60104361.0,
+      "addressId": 53858083,
+      "polygonId": "51911934",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 46",
+      "dealDate": "2017-11-30",
+      "dealAmount": 450000,
+      "parcelNum": "15062-68-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שניה",
+      "assetArea": 165.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-30",
+          "dealAmount": 365000
+        }
+      ],
+      "trend": {
+        "rate": 23.3,
+        "years": 6.7
+      },
+      "ownership": [],
+      "priceSM": 2727,
+      "row_id": 153
+    },
+    {
+      "assetId": 60104567.0,
+      "addressId": 53510390,
+      "polygonId": "51913609",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 3",
+      "dealDate": "2017-11-20",
+      "dealAmount": 710000,
+      "parcelNum": "15062-111-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 90.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-07-30",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": 184.0,
+        "years": 14.3
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 355000
+        },
+        {
+          "proportion": "50",
+          "price": 355000
+        }
+      ],
+      "priceSM": 7889,
+      "row_id": 154
+    },
+    {
+      "assetId": 60104491.0,
+      "addressId": 53809971,
+      "polygonId": "51921820",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 21",
+      "dealDate": "2017-07-14",
+      "dealAmount": 395000,
+      "parcelNum": "15062-96-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-31",
+          "dealAmount": 325000
+        },
+        {
+          "dealDate": "2001-12-03",
+          "dealAmount": 146000
+        }
+      ],
+      "trend": {
+        "rate": 21.5,
+        "years": 2.1
+      },
+      "ownership": [],
+      "priceSM": 15800,
+      "row_id": 155
+    },
+    {
+      "assetId": 80303413.0,
+      "addressId": 72621479,
+      "polygonId": "51955283",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 7",
+      "dealDate": "2017-06-01",
+      "dealAmount": 700000,
+      "parcelNum": "15063-102-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 7.0,
+      "floor": "קרקע, ראשונה, שניה",
+      "assetArea": 211.7,
+      "yearBuilt": 1986,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3307,
+      "row_id": 156
+    },
+    {
+      "assetId": 60104574.0,
+      "addressId": 53772057,
+      "polygonId": "53228851",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 5",
+      "dealDate": "2017-05-25",
+      "dealAmount": 169000,
+      "parcelNum": "15062-112-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6602,
+      "row_id": 157
+    },
+    {
+      "assetId": 60104462.0,
+      "addressId": 53516474,
+      "polygonId": "51906370",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 33",
+      "dealDate": "2016-12-22",
+      "dealAmount": 350000,
+      "parcelNum": "15062-90-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 43.8,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-09-12",
+          "dealAmount": 309000
+        },
+        {
+          "dealDate": "2013-01-03",
+          "dealAmount": 240000
+        },
+        {
+          "dealDate": "2009-10-30",
+          "dealAmount": 114000
+        }
+      ],
+      "trend": {
+        "rate": 13.3,
+        "years": 0.3
+      },
+      "ownership": [],
+      "priceSM": 8140,
+      "row_id": 158
+    },
+    {
+      "assetId": 60104461.0,
+      "addressId": 53516474,
+      "polygonId": "51906370",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 33",
+      "dealDate": "2016-11-29",
+      "dealAmount": 309000,
+      "parcelNum": "15062-90-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 29.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-10-03",
+          "dealAmount": 90000
+        }
+      ],
+      "trend": {
+        "rate": 243.3,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 10655,
+      "row_id": 159
+    },
+    {
+      "assetId": 60100137.0,
+      "addressId": 65229936,
+      "polygonId": "53225514",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "החשמונאים 18",
+      "dealDate": "2016-11-28",
+      "dealAmount": 420000,
+      "parcelNum": "15035-63-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 46.0,
+      "yearBuilt": 1952,
+      "streetCode": 67000318,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9130,
+      "row_id": 160
+    },
+    {
+      "assetId": 60100122.0,
+      "addressId": 65229933,
+      "polygonId": "65282574",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "החשמונאים 10",
+      "dealDate": "2016-05-25",
+      "dealAmount": 620000,
+      "parcelNum": "15035-60-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 124.5,
+      "yearBuilt": 1950,
+      "streetCode": 67000318,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-06-30",
+          "dealAmount": 233000
+        }
+      ],
+      "trend": {
+        "rate": 166.1,
+        "years": 13.9
+      },
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 161
+    },
+    {
+      "assetId": 4490839.0,
+      "addressId": 72621486,
+      "polygonId": "53072320",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 4",
+      "dealDate": "2016-03-30",
+      "dealAmount": 1044000,
+      "parcelNum": "15063-107-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 105.0,
+      "yearBuilt": 1990,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9943,
+      "row_id": 162
+    },
+    {
+      "assetId": 60104288.0,
+      "addressId": 53510389,
+      "polygonId": "51910327",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 45",
+      "dealDate": "2016-03-02",
+      "dealAmount": 900000,
+      "parcelNum": "15062-53-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 1980,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9000,
+      "row_id": 163
+    },
+    {
+      "assetId": 60104434.0,
+      "addressId": 53516943,
+      "polygonId": "51913769",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רמח\"ל 17",
+      "dealDate": "2016-01-26",
+      "dealAmount": 689000,
+      "parcelNum": "15062-85-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 60.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000329,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11370,
+      "row_id": 164
+    },
+    {
+      "assetId": 60104489.0,
+      "addressId": 53809971,
+      "polygonId": "51921820",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 21",
+      "dealDate": "2016-01-05",
+      "dealAmount": 280000,
+      "parcelNum": "15062-96-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 42.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6573,
+      "row_id": 165
+    },
+    {
+      "assetId": 60104541.0,
+      "addressId": 53518146,
+      "polygonId": "53427902",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 8",
+      "dealDate": "2015-11-15",
+      "dealAmount": 350000,
+      "parcelNum": "15062-106-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 86.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-30",
+          "dealAmount": 350000
+        },
+        {
+          "dealDate": "2003-04-10",
+          "dealAmount": 222000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 5.5
+      },
+      "ownership": [],
+      "priceSM": 4070,
+      "row_id": 166
+    },
+    {
+      "assetId": 60100283.0,
+      "addressId": 53510271,
+      "polygonId": "51913331",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "טרומפלדור 1",
+      "dealDate": "2015-11-10",
+      "dealAmount": 750000,
+      "parcelNum": "15035-129-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית ורביעית",
+      "assetArea": 122.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000311,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6148,
+      "row_id": 167
+    },
+    {
+      "assetId": 60100125.0,
+      "addressId": 65229933,
+      "polygonId": "65282574",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "החשמונאים 10",
+      "dealDate": "2015-11-04",
+      "dealAmount": 620000,
+      "parcelNum": "15035-60-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 113.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000318,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5487,
+      "row_id": 168
+    },
+    {
+      "assetId": 4490839.0,
+      "addressId": 72621486,
+      "polygonId": "53072320",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 4",
+      "dealDate": "2015-10-14",
+      "dealAmount": 899000,
+      "parcelNum": "15063-107-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 81.0,
+      "yearBuilt": 1990,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11099,
+      "row_id": 169
+    },
+    {
+      "assetId": 60104346.0,
+      "addressId": 53510252,
+      "polygonId": "51898925",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 52",
+      "dealDate": "2015-09-10",
+      "dealAmount": 460000,
+      "parcelNum": "15062-65-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 44.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10314,
+      "row_id": 170
+    },
+    {
+      "assetId": 4272872.0,
+      "addressId": 72621478,
+      "polygonId": "53228530",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 5",
+      "dealDate": "2015-09-07",
+      "dealAmount": 830000,
+      "parcelNum": "15063-103-3",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 85.0,
+      "yearBuilt": 0,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9765,
+      "row_id": 171
+    },
+    {
+      "assetId": 60104636.0,
+      "addressId": 65229743,
+      "polygonId": "51935294",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 14",
+      "dealDate": "2015-08-17",
+      "dealAmount": 766000,
+      "parcelNum": "15062-126-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 110.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6964,
+      "row_id": 172
+    },
+    {
+      "assetId": 60104433.0,
+      "addressId": 53516943,
+      "polygonId": "51913769",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רמח\"ל 17",
+      "dealDate": "2015-07-02",
+      "dealAmount": 310000,
+      "parcelNum": "15062-85-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 50.5,
+      "yearBuilt": 1960,
+      "streetCode": 67000329,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-06-08",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 3.3,
+        "years": 1.1
+      },
+      "ownership": [],
+      "priceSM": 6200,
+      "row_id": 173
+    },
+    {
+      "assetId": 60104661.0,
+      "addressId": 65228977,
+      "polygonId": "51942182",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 12",
+      "dealDate": "2015-06-18",
+      "dealAmount": 389000,
+      "parcelNum": "15062-133-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 100.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3890,
+      "row_id": 174
+    },
+    {
+      "assetId": 60104907.0,
+      "addressId": 0,
+      "polygonId": "15063-42",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2015-06-03",
+      "dealAmount": 999000,
+      "parcelNum": "15063-42-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 80.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12488,
+      "row_id": 175
+    },
+    {
+      "assetId": 60104928.0,
+      "addressId": 53858145,
+      "polygonId": "53439591",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רח' 115 3",
+      "dealDate": "2015-06-03",
+      "dealAmount": 266000,
+      "parcelNum": "15063-45-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000332,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-10-26",
+          "dealAmount": 198000
+        },
+        {
+          "dealDate": "2011-09-15",
+          "dealAmount": 160000
+        },
+        {
+          "dealDate": "2009-06-25",
+          "dealAmount": 105000
+        },
+        {
+          "dealDate": "2009-03-19",
+          "dealAmount": 50000
+        }
+      ],
+      "trend": {
+        "rate": 34.3,
+        "years": 0.6
+      },
+      "ownership": [],
+      "priceSM": 10640,
+      "row_id": 176
+    },
+    {
+      "assetId": 60100139.0,
+      "addressId": 65229936,
+      "polygonId": "53225514",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "החשמונאים 18",
+      "dealDate": "2015-05-18",
+      "dealAmount": 370000,
+      "parcelNum": "15035-63-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 46.6,
+      "yearBuilt": 1952,
+      "streetCode": 67000318,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-07-01",
+          "dealAmount": 161600
+        }
+      ],
+      "trend": {
+        "rate": 129.0,
+        "years": 7.9
+      },
+      "ownership": [],
+      "priceSM": 8043,
+      "row_id": 177
+    },
+    {
+      "assetId": 60104896.0,
+      "addressId": 0,
+      "polygonId": "15063-40",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2015-03-18",
+      "dealAmount": 399000,
+      "parcelNum": "15063-40-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 53.8,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-02-19",
+          "dealAmount": 460000
+        }
+      ],
+      "trend": {
+        "rate": -13.3,
+        "years": 1.1
+      },
+      "ownership": [],
+      "priceSM": 7528,
+      "row_id": 178
+    },
+    {
+      "assetId": 4272872.0,
+      "addressId": 72621478,
+      "polygonId": "53228530",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 5",
+      "dealDate": "2014-12-25",
+      "dealAmount": 850000,
+      "parcelNum": "15063-103-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8500,
+      "row_id": 179
+    },
+    {
+      "assetId": 60104632.0,
+      "addressId": 65229742,
+      "polygonId": "51907241",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 12",
+      "dealDate": "2014-11-27",
+      "dealAmount": 400000,
+      "parcelNum": "15062-125-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 38.75,
+      "yearBuilt": 1970,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-16",
+          "dealAmount": 445000
+        },
+        {
+          "dealDate": "2012-08-16",
+          "dealAmount": 250000
+        }
+      ],
+      "trend": {
+        "rate": -10.1,
+        "years": 1.9
+      },
+      "ownership": [],
+      "priceSM": 10526,
+      "row_id": 180
+    },
+    {
+      "assetId": 60104381.0,
+      "addressId": 53510736,
+      "polygonId": "51907925",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רמח\"ל 7",
+      "dealDate": "2014-08-24",
+      "dealAmount": 450000,
+      "parcelNum": "15062-73-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 90.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000329,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5000,
+      "row_id": 181
+    },
+    {
+      "assetId": 4389970.0,
+      "addressId": 72621474,
+      "polygonId": "51919669",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 3",
+      "dealDate": "2014-06-16",
+      "dealAmount": 710000,
+      "parcelNum": "15063-101-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 88.0,
+      "yearBuilt": 1989,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8068,
+      "row_id": 182
+    },
+    {
+      "assetId": 60104941.0,
+      "addressId": 53510375,
+      "polygonId": "51905420",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רח' 115 116",
+      "dealDate": "2014-05-28",
+      "dealAmount": 450000,
+      "parcelNum": "15063-48-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 67.35,
+      "yearBuilt": 1970,
+      "streetCode": 67000332,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-12-18",
+          "dealAmount": 387000
+        }
+      ],
+      "trend": {
+        "rate": 16.3,
+        "years": 13.4
+      },
+      "ownership": [
+        {
+          "proportion": "20",
+          "price": 90000
+        },
+        {
+          "proportion": "20",
+          "price": 90000
+        },
+        {
+          "proportion": "20",
+          "price": 90000
+        },
+        {
+          "proportion": "20",
+          "price": 90000
+        },
+        {
+          "proportion": "20",
+          "price": 90000
+        }
+      ],
+      "priceSM": 6716,
+      "row_id": 183
+    },
+    {
+      "assetId": 60105358.0,
+      "addressId": 0,
+      "polygonId": "51906075",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 6",
+      "dealDate": "2014-02-09",
+      "dealAmount": 1100000,
+      "parcelNum": "15063-108-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "ראשונה",
+      "assetArea": 131.0,
+      "yearBuilt": 1990,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8397,
+      "row_id": 184
+    },
+    {
+      "assetId": 60104315.0,
+      "addressId": 53508396,
+      "polygonId": "53129269",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רמח\"ל 2",
+      "dealDate": "2014-02-08",
+      "dealAmount": 348000,
+      "parcelNum": "15062-58-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 29.2,
+      "yearBuilt": 1950,
+      "streetCode": 67000329,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-03-28",
+          "dealAmount": 220000
+        },
+        {
+          "dealDate": "1999-05-02",
+          "dealAmount": 145000
+        }
+      ],
+      "trend": {
+        "rate": 58.2,
+        "years": 3.9
+      },
+      "ownership": [],
+      "priceSM": 12000,
+      "row_id": 185
+    },
+    {
+      "assetId": 60100281.0,
+      "addressId": 53510271,
+      "polygonId": "51913331",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "טרומפלדור 1",
+      "dealDate": "2014-01-27",
+      "dealAmount": 390000,
+      "parcelNum": "15035-129-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שלישית ורביעית",
+      "assetArea": 122.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000311,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3197,
+      "row_id": 186
+    },
+    {
+      "assetId": 4272872.0,
+      "addressId": 72621478,
+      "polygonId": "53228530",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 5",
+      "dealDate": "2013-10-07",
+      "dealAmount": 755000,
+      "parcelNum": "15063-103-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 120.0,
+      "yearBuilt": 0,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6292,
+      "row_id": 187
+    },
+    {
+      "assetId": 60104951.0,
+      "addressId": 53517024,
+      "polygonId": "51908621",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רח' 115 114",
+      "dealDate": "2013-10-07",
+      "dealAmount": 270000,
+      "parcelNum": "15063-50-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 26.3,
+      "yearBuilt": 1970,
+      "streetCode": 67000332,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10266,
+      "row_id": 188
+    },
+    {
+      "assetId": 4389970.0,
+      "addressId": 72621474,
+      "polygonId": "51919669",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 3",
+      "dealDate": "2013-08-19",
+      "dealAmount": 550000,
+      "parcelNum": "15063-101-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 78.0,
+      "yearBuilt": 1989,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7051,
+      "row_id": 189
+    },
+    {
+      "assetId": 60104292.0,
+      "addressId": 53854682,
+      "polygonId": "51916034",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 47",
+      "dealDate": "2013-06-27",
+      "dealAmount": 680000,
+      "parcelNum": "15062-54-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 64.4,
+      "yearBuilt": 1970,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10559,
+      "row_id": 190
+    },
+    {
+      "assetId": 60104464.0,
+      "addressId": 53516768,
+      "polygonId": "51902206",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 31",
+      "dealDate": "2013-05-17",
+      "dealAmount": 300000,
+      "parcelNum": "15062-91-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 30.4,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-04-26",
+          "dealAmount": 300000
+        }
+      ],
+      "trend": {
+        "rate": 0.0,
+        "years": 0.1
+      },
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 191
+    },
+    {
+      "assetId": 60104665.0,
+      "addressId": 65228978,
+      "polygonId": "52991406",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 10",
+      "dealDate": "2012-12-26",
+      "dealAmount": 250000,
+      "parcelNum": "15062-134-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 26.3,
+      "yearBuilt": 1960,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-02-18",
+          "dealAmount": 189000
+        }
+      ],
+      "trend": {
+        "rate": 32.3,
+        "years": 13.9
+      },
+      "ownership": [],
+      "priceSM": 9615,
+      "row_id": 192
+    },
+    {
+      "assetId": 60104384.0,
+      "addressId": 53509714,
+      "polygonId": "51912563",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 40",
+      "dealDate": "2012-12-11",
+      "dealAmount": 399000,
+      "parcelNum": "15062-74-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 26.3,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-12-08",
+          "dealAmount": 225000
+        }
+      ],
+      "trend": {
+        "rate": 77.3,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 15346,
+      "row_id": 193
+    },
+    {
+      "assetId": 60104893.0,
+      "addressId": 0,
+      "polygonId": "15063-39",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2012-12-06",
+      "dealAmount": 95000,
+      "parcelNum": "15063-39-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3711,
+      "row_id": 194
+    },
+    {
+      "assetId": 60104934.0,
+      "addressId": 53519936,
+      "polygonId": "51939085",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רח' 115 113",
+      "dealDate": "2012-11-06",
+      "dealAmount": 290000,
+      "parcelNum": "15063-46-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 44.0,
+      "yearBuilt": 1955,
+      "streetCode": 67000332,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-04-13",
+          "dealAmount": 149000
+        }
+      ],
+      "trend": {
+        "rate": 94.6,
+        "years": 9.6
+      },
+      "ownership": [],
+      "priceSM": 6591,
+      "row_id": 195
+    },
+    {
+      "assetId": 60104366.0,
+      "addressId": 53520003,
+      "polygonId": "51912626",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 44",
+      "dealDate": "2012-10-31",
+      "dealAmount": 340000,
+      "parcelNum": "15062-70-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-10-07",
+          "dealAmount": 135000
+        },
+        {
+          "dealDate": "1999-11-03",
+          "dealAmount": 169000
+        }
+      ],
+      "trend": {
+        "rate": 151.9,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 13600,
+      "row_id": 196
+    },
+    {
+      "assetId": 4490839.0,
+      "addressId": 72621486,
+      "polygonId": "53072320",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "לולב 4",
+      "dealDate": "2012-08-07",
+      "dealAmount": 850000,
+      "parcelNum": "15063-107-4",
+      "dealNature": "קוטג' דו משפחתי",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 90.0,
+      "yearBuilt": 1990,
+      "streetCode": 67000268,
+      "settlmentID": 6700,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9444,
+      "row_id": 197
+    },
+    {
+      "assetId": 60104943.0,
+      "addressId": 53510375,
+      "polygonId": "51905420",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רח' 115 116",
+      "dealDate": "2012-03-09",
+      "dealAmount": 480000,
+      "parcelNum": "15063-48-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1970,
+      "streetCode": 67000332,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18750,
+      "row_id": 198
+    },
+    {
+      "assetId": 60104633.0,
+      "addressId": 65229742,
+      "polygonId": "51907241",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 12",
+      "dealDate": "2012-02-05",
+      "dealAmount": 400000,
+      "parcelNum": "15062-125-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1970,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15625,
+      "row_id": 199
+    },
+    {
+      "assetId": 60104436.0,
+      "addressId": 53516943,
+      "polygonId": "51913769",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רמח\"ל 17",
+      "dealDate": "2012-01-18",
+      "dealAmount": 250000,
+      "parcelNum": "15062-85-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 29.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000329,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-05-05",
+          "dealAmount": 240000
+        },
+        {
+          "dealDate": "2010-04-21",
+          "dealAmount": 130000
+        }
+      ],
+      "trend": {
+        "rate": 4.2,
+        "years": 1.7
+      },
+      "ownership": [],
+      "priceSM": 8621,
+      "row_id": 200
+    },
+    {
+      "assetId": 60100277.0,
+      "addressId": 53510271,
+      "polygonId": "51913331",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "טרומפלדור 1",
+      "dealDate": "2012-01-16",
+      "dealAmount": 455000,
+      "parcelNum": "15035-129-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000311,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-03",
+          "dealAmount": 466000
+        }
+      ],
+      "trend": {
+        "rate": -2.4,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 7000,
+      "row_id": 201
+    },
+    {
+      "assetId": 60104530.0,
+      "addressId": 53517275,
+      "polygonId": "53225302",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 12",
+      "dealDate": "2011-12-26",
+      "dealAmount": 450000,
+      "parcelNum": "15062-104-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 26.3,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-02-14",
+          "dealAmount": 252000
+        }
+      ],
+      "trend": {
+        "rate": 78.6,
+        "years": 0.9
+      },
+      "ownership": [],
+      "priceSM": 17308,
+      "row_id": 202
+    },
+    {
+      "assetId": 60104532.0,
+      "addressId": 53517275,
+      "polygonId": "53225302",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 12",
+      "dealDate": "2011-12-26",
+      "dealAmount": 300000,
+      "parcelNum": "15062-104-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-09-05",
+          "dealAmount": 240000
+        },
+        {
+          "dealDate": "2008-07-29",
+          "dealAmount": 120000
+        },
+        {
+          "dealDate": "2005-11-10",
+          "dealAmount": 127000
+        }
+      ],
+      "trend": {
+        "rate": 25.0,
+        "years": 0.3
+      },
+      "ownership": [],
+      "priceSM": 12000,
+      "row_id": 203
+    },
+    {
+      "assetId": 60104569.0,
+      "addressId": 53510390,
+      "polygonId": "51913609",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 3",
+      "dealDate": "2011-11-01",
+      "dealAmount": 308000,
+      "parcelNum": "15062-111-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 35.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-08",
+          "dealAmount": 225000
+        }
+      ],
+      "trend": {
+        "rate": 36.9,
+        "years": 1.6
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 154000
+        },
+        {
+          "proportion": "50",
+          "price": 154000
+        }
+      ],
+      "priceSM": 8800,
+      "row_id": 204
+    },
+    {
+      "assetId": 60104829.0,
+      "addressId": 53857092,
+      "polygonId": "51911653",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 1",
+      "dealDate": "2011-09-08",
+      "dealAmount": 560000,
+      "parcelNum": "15062-230-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 143.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3916,
+      "row_id": 205
+    },
+    {
+      "assetId": 60100276.0,
+      "addressId": 53510271,
+      "polygonId": "51913331",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "טרומפלדור 1",
+      "dealDate": "2011-08-10",
+      "dealAmount": 515000,
+      "parcelNum": "15035-129-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000311,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-27",
+          "dealAmount": 310000
+        },
+        {
+          "dealDate": "2003-12-04",
+          "dealAmount": 355000
+        }
+      ],
+      "trend": {
+        "rate": 66.1,
+        "years": 1.6
+      },
+      "ownership": [],
+      "priceSM": 7923,
+      "row_id": 206
+    },
+    {
+      "assetId": 60104639.0,
+      "addressId": 65229743,
+      "polygonId": "51935294",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 14",
+      "dealDate": "2011-02-24",
+      "dealAmount": 255000,
+      "parcelNum": "15062-126-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-07-09",
+          "dealAmount": 170000
+        },
+        {
+          "dealDate": "2009-06-08",
+          "dealAmount": 145000
+        },
+        {
+          "dealDate": "2009-05-27",
+          "dealAmount": 650000
+        }
+      ],
+      "trend": {
+        "rate": 50.0,
+        "years": 0.6
+      },
+      "ownership": [],
+      "priceSM": 10200,
+      "row_id": 208
+    },
+    {
+      "assetId": 60104476.0,
+      "addressId": 53515632,
+      "polygonId": "51915559",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 27",
+      "dealDate": "2011-02-06",
+      "dealAmount": 255000,
+      "parcelNum": "15062-93-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-01-20",
+          "dealAmount": 120000
+        }
+      ],
+      "trend": {
+        "rate": 112.5,
+        "years": 1.0
+      },
+      "ownership": [],
+      "priceSM": 10200,
+      "row_id": 209
+    },
+    {
+      "assetId": 60104532.0,
+      "addressId": 53517275,
+      "polygonId": "53225302",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 12",
+      "dealDate": "2011-01-12",
+      "dealAmount": 720000,
+      "parcelNum": "15062-104-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": null,
+      "assetArea": 135.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5333,
+      "row_id": 210
+    },
+    {
+      "assetId": 60104828.0,
+      "addressId": 53857092,
+      "polygonId": "51911653",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 1",
+      "dealDate": "2010-09-03",
+      "dealAmount": 181000,
+      "parcelNum": "15062-230-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 26.3,
+      "yearBuilt": 1970,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6882,
+      "row_id": 211
+    },
+    {
+      "assetId": 60104459.0,
+      "addressId": 53516474,
+      "polygonId": "51906370",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 33",
+      "dealDate": "2010-06-25",
+      "dealAmount": 245000,
+      "parcelNum": "15062-90-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 30.4,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8059,
+      "row_id": 212
+    },
+    {
+      "assetId": 60104882.0,
+      "addressId": 0,
+      "polygonId": "15063-37",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2010-05-16",
+      "dealAmount": 160000,
+      "parcelNum": "15063-37-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-05-21",
+          "dealAmount": 97000
+        }
+      ],
+      "trend": {
+        "rate": 64.9,
+        "years": 7.0
+      },
+      "ownership": [],
+      "priceSM": 6400,
+      "row_id": 213
+    },
+    {
+      "assetId": 60104694.0,
+      "addressId": 65228793,
+      "polygonId": "53029179",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 3",
+      "dealDate": "2010-03-16",
+      "dealAmount": 280000,
+      "parcelNum": "15062-140-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 32.3,
+      "yearBuilt": 1950,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8669,
+      "row_id": 214
+    },
+    {
+      "assetId": 60104548.0,
+      "addressId": 53514097,
+      "polygonId": "51904146",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 6",
+      "dealDate": "2010-02-22",
+      "dealAmount": 104000,
+      "parcelNum": "15062-107-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4062,
+      "row_id": 215
+    },
+    {
+      "assetId": 60104470.0,
+      "addressId": 53855618,
+      "polygonId": "51923738",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 29",
+      "dealDate": "2009-11-19",
+      "dealAmount": 232000,
+      "parcelNum": "15062-92-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "ראשונה",
+      "assetArea": 48.8,
+      "yearBuilt": 1955,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-07-13",
+          "dealAmount": 261000
+        }
+      ],
+      "trend": {
+        "rate": -11.1,
+        "years": 6.4
+      },
+      "ownership": [],
+      "priceSM": 4833,
+      "row_id": 216
+    },
+    {
+      "assetId": 60104406.0,
+      "addressId": 53513105,
+      "polygonId": "53224471",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 32",
+      "dealDate": "2009-05-31",
+      "dealAmount": 125000,
+      "parcelNum": "15062-80-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 26.3,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-05-29",
+          "dealAmount": 113000
+        }
+      ],
+      "trend": {
+        "rate": 10.6,
+        "years": 2.0
+      },
+      "ownership": [],
+      "priceSM": 4808,
+      "row_id": 217
+    },
+    {
+      "assetId": 60104531.0,
+      "addressId": 53517275,
+      "polygonId": "53225302",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 12",
+      "dealDate": "2009-03-29",
+      "dealAmount": 92000,
+      "parcelNum": "15062-104-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3594,
+      "row_id": 218
+    },
+    {
+      "assetId": 60104408.0,
+      "addressId": 53513105,
+      "polygonId": "53224471",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 32",
+      "dealDate": "2008-12-07",
+      "dealAmount": 90000,
+      "parcelNum": "15062-80-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3516,
+      "row_id": 219
+    },
+    {
+      "assetId": 60104672.0,
+      "addressId": 65228979,
+      "polygonId": "53232788",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 8",
+      "dealDate": "2008-05-02",
+      "dealAmount": 155000,
+      "parcelNum": "15062-135-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 61.0,
+      "yearBuilt": 1980,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2541,
+      "row_id": 220
+    },
+    {
+      "assetId": 60104613.0,
+      "addressId": 65229738,
+      "polygonId": "51915541",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 4",
+      "dealDate": "2008-03-13",
+      "dealAmount": 180000,
+      "parcelNum": "15062-121-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7031,
+      "row_id": 221
+    },
+    {
+      "assetId": 60104621.0,
+      "addressId": 65229740,
+      "polygonId": "51900769",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 8",
+      "dealDate": "2008-03-02",
+      "dealAmount": 130000,
+      "parcelNum": "15062-123-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 43.9,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2961,
+      "row_id": 222
+    },
+    {
+      "assetId": 60104532.0,
+      "addressId": 53517275,
+      "polygonId": "53225302",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 12",
+      "dealDate": "2007-08-14",
+      "dealAmount": 274000,
+      "parcelNum": "15062-104-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 70.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3914,
+      "row_id": 223
+    },
+    {
+      "assetId": 60104376.0,
+      "addressId": 53513991,
+      "polygonId": "51915960",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 42",
+      "dealDate": "2007-08-12",
+      "dealAmount": 197000,
+      "parcelNum": "15062-72-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1980,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7695,
+      "row_id": 224
+    },
+    {
+      "assetId": 60100123.0,
+      "addressId": 65229933,
+      "polygonId": "65282574",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "החשמונאים 10",
+      "dealDate": "2007-07-25",
+      "dealAmount": 106000,
+      "parcelNum": "15035-60-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.5,
+      "floor": "שניה",
+      "assetArea": 29.2,
+      "yearBuilt": 1950,
+      "streetCode": 67000318,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3630,
+      "row_id": 225
+    },
+    {
+      "assetId": 60100279.0,
+      "addressId": 53510271,
+      "polygonId": "51913331",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "טרומפלדור 1",
+      "dealDate": "2007-01-07",
+      "dealAmount": 328000,
+      "parcelNum": "15035-129-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 65.0,
+      "yearBuilt": 1970,
+      "streetCode": 67000311,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5046,
+      "row_id": 226
+    },
+    {
+      "assetId": 60104532.0,
+      "addressId": 53517275,
+      "polygonId": "53225302",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "מצדה 12",
+      "dealDate": "2006-12-28",
+      "dealAmount": 441000,
+      "parcelNum": "15062-104-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000327,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5880,
+      "row_id": 227
+    },
+    {
+      "assetId": 60104307.0,
+      "addressId": 53518577,
+      "polygonId": "51911885",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 62",
+      "dealDate": "2006-08-29",
+      "dealAmount": 131000,
+      "parcelNum": "15062-57-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 30.4,
+      "yearBuilt": 1950,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4309,
+      "row_id": 228
+    },
+    {
+      "assetId": 60104626.0,
+      "addressId": 65229741,
+      "polygonId": "51940843",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 10",
+      "dealDate": "2006-06-07",
+      "dealAmount": 201000,
+      "parcelNum": "15062-124-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 69.0,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2913,
+      "row_id": 229
+    },
+    {
+      "assetId": 60104409.0,
+      "addressId": 53513105,
+      "polygonId": "53224471",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "שטרית 32",
+      "dealDate": "2005-12-01",
+      "dealAmount": 149000,
+      "parcelNum": "15062-80-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 1960,
+      "streetCode": 67000326,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-08-22",
+          "dealAmount": 228000
+        }
+      ],
+      "trend": {
+        "rate": -34.6,
+        "years": 4.3
+      },
+      "ownership": [],
+      "priceSM": 5960,
+      "row_id": 230
+    },
+    {
+      "assetId": 60104380.0,
+      "addressId": 53510736,
+      "polygonId": "51907925",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "רמח\"ל 7",
+      "dealDate": "2005-09-21",
+      "dealAmount": 336000,
+      "parcelNum": "15062-73-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 147.0,
+      "yearBuilt": 1950,
+      "streetCode": 67000329,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2286,
+      "row_id": 231
+    },
+    {
+      "assetId": 60104914.0,
+      "addressId": 0,
+      "polygonId": "15063-43",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2005-09-18",
+      "dealAmount": 135000,
+      "parcelNum": "15063-43-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 27.8,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4856,
+      "row_id": 232
+    },
+    {
+      "assetId": 60104878.0,
+      "addressId": 0,
+      "polygonId": "15063-36",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "0",
+      "dealDate": "2004-08-20",
+      "dealAmount": 135000,
+      "parcelNum": "15063-36-4",
+      "dealNature": "בית בודד",
+      "roomNum": 1.0,
+      "floor": "שניה",
+      "assetArea": 25.6,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 6700,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5273,
+      "row_id": 233
+    },
+    {
+      "assetId": 60104719.0,
+      "addressId": 65228970,
+      "polygonId": "53178064",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 13",
+      "dealDate": "2004-02-08",
+      "dealAmount": 245000,
+      "parcelNum": "15062-145-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 26.3,
+      "yearBuilt": 1950,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9316,
+      "row_id": 234
+    },
+    {
+      "assetId": 60100289.0,
+      "addressId": 65229932,
+      "polygonId": "51936744",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "החשמונאים 8",
+      "dealDate": "2002-01-20",
+      "dealAmount": 355000,
+      "parcelNum": "15035-129-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 78.0,
+      "yearBuilt": 1996,
+      "streetCode": 67000318,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4551,
+      "row_id": 241
+    },
+    {
+      "assetId": 60104655.0,
+      "addressId": 65228976,
+      "polygonId": "51918840",
+      "neighborhoodName": "רבי עקיבא",
+      "neighborhoodId": 65210980,
+      "address": "ציפורי 16",
+      "dealDate": "1998-07-08",
+      "dealAmount": 210000,
+      "parcelNum": "15062-132-2",
+      "dealNature": "בית בודד",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 42.2,
+      "yearBuilt": 1960,
+      "streetCode": 67000211,
+      "settlmentID": 6700,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4976,
+      "row_id": 260
+    }
+  ]
+}

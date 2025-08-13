@@ -1,0 +1,1730 @@
+{
+  "neighborhood_name": "אזור שדה דב",
+  "city_name": "תל אביב-יפו",
+  "transaction_count": 42,
+  "transactions": [
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-07-10",
+      "dealAmount": 486000,
+      "parcelNum": "6900-23-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 1
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-07-09",
+      "dealAmount": 481000,
+      "parcelNum": "6900-23-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-07-09",
+          "dealAmount": 374000
+        },
+        {
+          "dealDate": "2025-07-09",
+          "dealAmount": 308000
+        },
+        {
+          "dealDate": "2025-07-09",
+          "dealAmount": 311000
+        },
+        {
+          "dealDate": "2025-07-09",
+          "dealAmount": 337000
+        },
+        {
+          "dealDate": "2025-07-09",
+          "dealAmount": 399000
+        },
+        {
+          "dealDate": "2025-07-09",
+          "dealAmount": 305000
+        }
+      ],
+      "trend": {
+        "rate": 28.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 2
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-07-08",
+      "dealAmount": 502000,
+      "parcelNum": "6900-23-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-07-08",
+          "dealAmount": 348000
+        },
+        {
+          "dealDate": "2025-07-08",
+          "dealAmount": 496000
+        },
+        {
+          "dealDate": "2025-07-08",
+          "dealAmount": 298000
+        },
+        {
+          "dealDate": "2025-07-08",
+          "dealAmount": 384000
+        },
+        {
+          "dealDate": "2025-07-08",
+          "dealAmount": 351000
+        },
+        {
+          "dealDate": "2025-07-08",
+          "dealAmount": 463000
+        },
+        {
+          "dealDate": "2025-07-08",
+          "dealAmount": 478000
+        }
+      ],
+      "trend": {
+        "rate": 44.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 3
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-07-07",
+      "dealAmount": 525000,
+      "parcelNum": "6900-23-18",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-07-07",
+          "dealAmount": 610000
+        },
+        {
+          "dealDate": "2025-07-07",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2025-07-07",
+          "dealAmount": 674000
+        },
+        {
+          "dealDate": "2025-07-07",
+          "dealAmount": 732000
+        },
+        {
+          "dealDate": "2025-07-07",
+          "dealAmount": 609000
+        }
+      ],
+      "trend": {
+        "rate": -13.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 4
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-07-06",
+      "dealAmount": 498000,
+      "parcelNum": "6900-23-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-07-06",
+          "dealAmount": 627000
+        },
+        {
+          "dealDate": "2025-07-06",
+          "dealAmount": 647000
+        },
+        {
+          "dealDate": "2025-07-06",
+          "dealAmount": 761000
+        },
+        {
+          "dealDate": "2025-07-06",
+          "dealAmount": 606000
+        }
+      ],
+      "trend": {
+        "rate": -20.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 5
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-07-04",
+      "dealAmount": 669000,
+      "parcelNum": "6900-23-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-07-04",
+          "dealAmount": 770000
+        },
+        {
+          "dealDate": "2025-07-04",
+          "dealAmount": 446000
+        },
+        {
+          "dealDate": "2025-07-04",
+          "dealAmount": 482000
+        }
+      ],
+      "trend": {
+        "rate": -13.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 6
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-07-03",
+      "dealAmount": 730000,
+      "parcelNum": "6900-23-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 632000
+        },
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 609000
+        },
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 733000
+        },
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 592000
+        },
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 642000
+        },
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 776000
+        },
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 562000
+        },
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 496000
+        },
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 722000
+        },
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 649000
+        },
+        {
+          "dealDate": "2025-07-03",
+          "dealAmount": 645000
+        }
+      ],
+      "trend": {
+        "rate": 15.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 7
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-07-02",
+      "dealAmount": 461000,
+      "parcelNum": "6900-23-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-07-02",
+          "dealAmount": 768000
+        },
+        {
+          "dealDate": "2025-07-02",
+          "dealAmount": 507000
+        }
+      ],
+      "trend": {
+        "rate": -40.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 8
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-07-01",
+      "dealAmount": 404000,
+      "parcelNum": "6900-23-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-07-01",
+          "dealAmount": 498000
+        },
+        {
+          "dealDate": "2025-07-01",
+          "dealAmount": 706000
+        },
+        {
+          "dealDate": "2025-07-01",
+          "dealAmount": 469000
+        },
+        {
+          "dealDate": "2025-07-01",
+          "dealAmount": 494000
+        },
+        {
+          "dealDate": "2025-07-01",
+          "dealAmount": 604000
+        },
+        {
+          "dealDate": "2025-07-01",
+          "dealAmount": 449000
+        }
+      ],
+      "trend": {
+        "rate": -18.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 9
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-30",
+      "dealAmount": 762000,
+      "parcelNum": "6900-23-58",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-30",
+          "dealAmount": 1079000
+        },
+        {
+          "dealDate": "2025-06-30",
+          "dealAmount": 742000
+        },
+        {
+          "dealDate": "2025-06-30",
+          "dealAmount": 704000
+        },
+        {
+          "dealDate": "2025-06-30",
+          "dealAmount": 748000
+        },
+        {
+          "dealDate": "2025-06-30",
+          "dealAmount": 1072000
+        },
+        {
+          "dealDate": "2025-06-30",
+          "dealAmount": 701000
+        }
+      ],
+      "trend": {
+        "rate": -29.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 10
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-29",
+      "dealAmount": 519000,
+      "parcelNum": "6900-23-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-29",
+          "dealAmount": 782000
+        },
+        {
+          "dealDate": "2025-06-29",
+          "dealAmount": 593000
+        },
+        {
+          "dealDate": "2025-06-29",
+          "dealAmount": 505000
+        }
+      ],
+      "trend": {
+        "rate": -33.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 11
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-27",
+      "dealAmount": 584000,
+      "parcelNum": "6900-23-69",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-27",
+          "dealAmount": 630000
+        },
+        {
+          "dealDate": "2025-06-27",
+          "dealAmount": 511000
+        }
+      ],
+      "trend": {
+        "rate": -7.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 12
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-26",
+      "dealAmount": 489000,
+      "parcelNum": "6900-23-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 490000
+        },
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 647000
+        },
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 574000
+        },
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 633000
+        },
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 742000
+        },
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 656000
+        },
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 598000
+        },
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 736000
+        },
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 505000
+        },
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 658000
+        },
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 675000
+        },
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 588000
+        },
+        {
+          "dealDate": "2025-06-26",
+          "dealAmount": 585000
+        }
+      ],
+      "trend": {
+        "rate": -0.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 13
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-25",
+      "dealAmount": 635000,
+      "parcelNum": "6900-23-87",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-25",
+          "dealAmount": 595000
+        },
+        {
+          "dealDate": "2025-06-25",
+          "dealAmount": 718000
+        },
+        {
+          "dealDate": "2025-06-25",
+          "dealAmount": 759000
+        },
+        {
+          "dealDate": "2025-06-25",
+          "dealAmount": 397000
+        }
+      ],
+      "trend": {
+        "rate": 6.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 14
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-24",
+      "dealAmount": 730000,
+      "parcelNum": "6900-23-92",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-24",
+          "dealAmount": 733000
+        },
+        {
+          "dealDate": "2025-06-24",
+          "dealAmount": 578000
+        },
+        {
+          "dealDate": "2025-06-24",
+          "dealAmount": 632000
+        },
+        {
+          "dealDate": "2025-06-24",
+          "dealAmount": 570000
+        },
+        {
+          "dealDate": "2025-06-24",
+          "dealAmount": 755000
+        },
+        {
+          "dealDate": "2025-06-24",
+          "dealAmount": 567000
+        }
+      ],
+      "trend": {
+        "rate": -0.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 15
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-23",
+      "dealAmount": 493000,
+      "parcelNum": "6900-23-99",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-23",
+          "dealAmount": 435000
+        },
+        {
+          "dealDate": "2025-06-23",
+          "dealAmount": 787000
+        },
+        {
+          "dealDate": "2025-06-23",
+          "dealAmount": 443000
+        },
+        {
+          "dealDate": "2025-06-23",
+          "dealAmount": 608000
+        },
+        {
+          "dealDate": "2025-06-23",
+          "dealAmount": 655000
+        },
+        {
+          "dealDate": "2025-06-23",
+          "dealAmount": 578000
+        },
+        {
+          "dealDate": "2025-06-23",
+          "dealAmount": 392000
+        },
+        {
+          "dealDate": "2025-06-23",
+          "dealAmount": 494000
+        },
+        {
+          "dealDate": "2025-06-23",
+          "dealAmount": 444000
+        },
+        {
+          "dealDate": "2025-06-23",
+          "dealAmount": 550000
+        },
+        {
+          "dealDate": "2025-06-23",
+          "dealAmount": 749000
+        }
+      ],
+      "trend": {
+        "rate": 13.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 16
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-22",
+      "dealAmount": 634000,
+      "parcelNum": "6900-23-111",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-22",
+          "dealAmount": 438000
+        },
+        {
+          "dealDate": "2025-06-22",
+          "dealAmount": 724000
+        },
+        {
+          "dealDate": "2025-06-22",
+          "dealAmount": 605000
+        },
+        {
+          "dealDate": "2025-06-22",
+          "dealAmount": 516000
+        },
+        {
+          "dealDate": "2025-06-22",
+          "dealAmount": 505000
+        },
+        {
+          "dealDate": "2025-06-22",
+          "dealAmount": 519000
+        },
+        {
+          "dealDate": "2025-06-22",
+          "dealAmount": 628000
+        },
+        {
+          "dealDate": "2025-06-22",
+          "dealAmount": 619000
+        },
+        {
+          "dealDate": "2025-06-22",
+          "dealAmount": 635000
+        },
+        {
+          "dealDate": "2025-06-22",
+          "dealAmount": 720000
+        },
+        {
+          "dealDate": "2025-06-22",
+          "dealAmount": 621000
+        },
+        {
+          "dealDate": "2025-06-22",
+          "dealAmount": 585000
+        }
+      ],
+      "trend": {
+        "rate": 44.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 17
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-20",
+      "dealAmount": 710000,
+      "parcelNum": "6900-23-124",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 18
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-19",
+      "dealAmount": 618000,
+      "parcelNum": "6900-23-125",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 19
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-18",
+      "dealAmount": 427000,
+      "parcelNum": "6900-23-126",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-18",
+          "dealAmount": 504000
+        },
+        {
+          "dealDate": "2025-06-18",
+          "dealAmount": 284000
+        },
+        {
+          "dealDate": "2025-06-18",
+          "dealAmount": 390000
+        },
+        {
+          "dealDate": "2025-06-18",
+          "dealAmount": 316000
+        },
+        {
+          "dealDate": "2025-06-18",
+          "dealAmount": 431000
+        }
+      ],
+      "trend": {
+        "rate": -15.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 20
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-17",
+      "dealAmount": 452000,
+      "parcelNum": "6900-23-132",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-17",
+          "dealAmount": 408000
+        },
+        {
+          "dealDate": "2025-06-17",
+          "dealAmount": 323000
+        },
+        {
+          "dealDate": "2025-06-17",
+          "dealAmount": 416000
+        },
+        {
+          "dealDate": "2025-06-17",
+          "dealAmount": 327000
+        },
+        {
+          "dealDate": "2025-06-17",
+          "dealAmount": 412000
+        },
+        {
+          "dealDate": "2025-06-17",
+          "dealAmount": 458000
+        }
+      ],
+      "trend": {
+        "rate": 10.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 21
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-16",
+      "dealAmount": 591000,
+      "parcelNum": "6900-23-139",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-16",
+          "dealAmount": 563000
+        },
+        {
+          "dealDate": "2025-06-16",
+          "dealAmount": 505000
+        },
+        {
+          "dealDate": "2025-06-16",
+          "dealAmount": 555000
+        },
+        {
+          "dealDate": "2025-06-16",
+          "dealAmount": 380000
+        }
+      ],
+      "trend": {
+        "rate": 5.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 22
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-12",
+      "dealAmount": 496000,
+      "parcelNum": "6900-23-144",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-12",
+          "dealAmount": 493000
+        },
+        {
+          "dealDate": "2025-06-12",
+          "dealAmount": 627000
+        },
+        {
+          "dealDate": "2025-06-12",
+          "dealAmount": 661000
+        },
+        {
+          "dealDate": "2025-06-12",
+          "dealAmount": 514000
+        },
+        {
+          "dealDate": "2025-06-12",
+          "dealAmount": 458000
+        },
+        {
+          "dealDate": "2025-06-12",
+          "dealAmount": 499000
+        },
+        {
+          "dealDate": "2025-06-12",
+          "dealAmount": 434000
+        },
+        {
+          "dealDate": "2025-06-12",
+          "dealAmount": 606000
+        }
+      ],
+      "trend": {
+        "rate": 0.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 23
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-11",
+      "dealAmount": 299000,
+      "parcelNum": "6900-23-153",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-11",
+          "dealAmount": 497000
+        },
+        {
+          "dealDate": "2025-06-11",
+          "dealAmount": 505000
+        }
+      ],
+      "trend": {
+        "rate": -39.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 24
+    },
+    {
+      "assetId": 215976.0,
+      "addressId": 0,
+      "polygonId": "6900-23",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2025-06-10",
+      "dealAmount": 426000,
+      "parcelNum": "6900-23-156",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": "ראשונה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2025-06-10",
+          "dealAmount": 501000
+        }
+      ],
+      "trend": {
+        "rate": -15.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 25
+    },
+    {
+      "assetId": 4154652.0,
+      "addressId": 0,
+      "polygonId": "6896-79",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2024-12-24",
+      "dealAmount": 11299000,
+      "parcelNum": "6896-79-1",
+      "dealNature": "מסחרי + מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 26
+    },
+    {
+      "assetId": 4154654.0,
+      "addressId": 0,
+      "polygonId": "6896-75",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2024-12-24",
+      "dealAmount": 2357000,
+      "parcelNum": "6896-75-7",
+      "dealNature": "מסחרי + מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 27
+    },
+    {
+      "assetId": 4154657.0,
+      "addressId": 0,
+      "polygonId": "6896-75",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2024-12-24",
+      "dealAmount": 589000,
+      "parcelNum": "6896-75-5",
+      "dealNature": "מסחרי + מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 28
+    },
+    {
+      "assetId": 4154590.0,
+      "addressId": 0,
+      "polygonId": "6896-75",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2024-12-24",
+      "dealAmount": 587000,
+      "parcelNum": "6896-75-4",
+      "dealNature": "מסחרי + מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 29
+    },
+    {
+      "assetId": 4154526.0,
+      "addressId": 0,
+      "polygonId": "6896-16",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2024-12-24",
+      "dealAmount": 773000,
+      "parcelNum": "6896-16-1",
+      "dealNature": "מסחרי + מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-12-24",
+          "dealAmount": 309000
+        },
+        {
+          "dealDate": "2024-12-24",
+          "dealAmount": 2402000
+        }
+      ],
+      "trend": {
+        "rate": 150.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 30
+    },
+    {
+      "assetId": 4154684.0,
+      "addressId": 0,
+      "polygonId": "6896-14",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2024-12-24",
+      "dealAmount": 8008000,
+      "parcelNum": "6896-14-1",
+      "dealNature": "מסחרי + מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 31
+    },
+    {
+      "assetId": 4154620.0,
+      "addressId": 0,
+      "polygonId": "6896-81",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2024-01-18",
+      "dealAmount": 180000,
+      "parcelNum": "6896-81-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 35
+    },
+    {
+      "assetId": 4154684.0,
+      "addressId": 0,
+      "polygonId": "6896-14",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2023-02-05",
+      "dealAmount": 11100000,
+      "parcelNum": "6896-14-7",
+      "dealNature": "מסחרי + מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 39
+    },
+    {
+      "assetId": 4154684.0,
+      "addressId": 0,
+      "polygonId": "6896-14",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2020-07-09",
+      "dealAmount": 11000000,
+      "parcelNum": "6896-14-12",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 1000.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11000,
+      "row_id": 54
+    },
+    {
+      "assetId": 4154684.0,
+      "addressId": 0,
+      "polygonId": "6896-14",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2019-03-26",
+      "dealAmount": 1800000,
+      "parcelNum": "6896-14-13",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 180.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 55
+    },
+    {
+      "assetId": 4193786.0,
+      "addressId": 0,
+      "polygonId": "6632-280",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2018-05-09",
+      "dealAmount": 3528000,
+      "parcelNum": "6632-280-1",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 702.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5026,
+      "row_id": 56
+    },
+    {
+      "assetId": 4154655.0,
+      "addressId": 0,
+      "polygonId": "6896-75",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2018-03-19",
+      "dealAmount": 375000,
+      "parcelNum": "6896-75-3",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 52.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7212,
+      "row_id": 57
+    },
+    {
+      "assetId": 4154526.0,
+      "addressId": 0,
+      "polygonId": "6896-16",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2018-02-28",
+      "dealAmount": 900000,
+      "parcelNum": "6896-16-5",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 150.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6000,
+      "row_id": 58
+    },
+    {
+      "assetId": 4154656.0,
+      "addressId": 0,
+      "polygonId": "6896-75",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2017-11-29",
+      "dealAmount": 313000,
+      "parcelNum": "6896-75-2",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 52.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6019,
+      "row_id": 59
+    },
+    {
+      "assetId": 4154661.0,
+      "addressId": 0,
+      "polygonId": "6896-75",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2017-06-08",
+      "dealAmount": 450000,
+      "parcelNum": "6896-75-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 1000.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 450,
+      "row_id": 60
+    },
+    {
+      "assetId": 4154684.0,
+      "addressId": 0,
+      "polygonId": "6896-14",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2016-06-15",
+      "dealAmount": 6967000,
+      "parcelNum": "6896-14-14",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 1000.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6967,
+      "row_id": 61
+    },
+    {
+      "assetId": 4196442.0,
+      "addressId": 0,
+      "polygonId": "6635-39",
+      "neighborhoodName": "אזור שדה דב",
+      "neighborhoodId": 65210724,
+      "address": "0",
+      "dealDate": "2011-06-20",
+      "dealAmount": 6444000,
+      "parcelNum": "6635-39-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 1.0,
+      "floor": null,
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 5000,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 62
+    }
+  ]
+}

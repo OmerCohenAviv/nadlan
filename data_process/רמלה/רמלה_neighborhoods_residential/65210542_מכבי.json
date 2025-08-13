@@ -1,0 +1,4066 @@
+{
+  "neighborhood_name": "מכבי",
+  "city_name": "רמלה",
+  "transaction_count": 105,
+  "transactions": [
+    {
+      "assetId": 4644051.0,
+      "addressId": 73144714,
+      "polygonId": "71181212",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 2",
+      "dealDate": "2025-06-12",
+      "dealAmount": 1670000,
+      "parcelNum": "4338-140-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשע עשרה",
+      "assetArea": 94.0,
+      "yearBuilt": 2023,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17766,
+      "row_id": 1
+    },
+    {
+      "assetId": 4644051.0,
+      "addressId": 73144714,
+      "polygonId": "71181212",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 2",
+      "dealDate": "2025-06-11",
+      "dealAmount": 2000000,
+      "parcelNum": "4338-140-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שש עשרה",
+      "assetArea": 100.0,
+      "yearBuilt": 2023,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20000,
+      "row_id": 2
+    },
+    {
+      "assetId": 4644052.0,
+      "addressId": 73144722,
+      "polygonId": "71181211",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 4",
+      "dealDate": "2025-04-29",
+      "dealAmount": 1970000,
+      "parcelNum": "4338-140-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שתים עשרה",
+      "assetArea": 94.0,
+      "yearBuilt": 2023,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20957,
+      "row_id": 3
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-12-12",
+      "dealAmount": 1968000,
+      "parcelNum": "4338-139-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמש עשרה",
+      "assetArea": 129.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15256,
+      "row_id": 4
+    },
+    {
+      "assetId": 4644051.0,
+      "addressId": 73144714,
+      "polygonId": "71181212",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 2",
+      "dealDate": "2024-11-14",
+      "dealAmount": 1900000,
+      "parcelNum": "4338-140-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 94.0,
+      "yearBuilt": 2023,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20213,
+      "row_id": 5
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-10-10",
+      "dealAmount": 1967000,
+      "parcelNum": "4338-139-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שש עשרה",
+      "assetArea": 129.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15248,
+      "row_id": 6
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-09-11",
+      "dealAmount": 1974000,
+      "parcelNum": "4338-139-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שבע עשרה",
+      "assetArea": 129.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15302,
+      "row_id": 8
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-08-11",
+      "dealAmount": 1572000,
+      "parcelNum": "4338-139-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "אחת עשרה",
+      "assetArea": 110.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14291,
+      "row_id": 9
+    },
+    {
+      "assetId": 4644047.0,
+      "addressId": 73144714,
+      "polygonId": "71181212",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 2",
+      "dealDate": "2024-08-06",
+      "dealAmount": 3250000,
+      "parcelNum": "4338-140-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "עשרים",
+      "assetArea": 178.0,
+      "yearBuilt": 2023,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18258,
+      "row_id": 10
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-07-11",
+      "dealAmount": 1960000,
+      "parcelNum": "4338-139-44",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שש עשרה",
+      "assetArea": 130.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15077,
+      "row_id": 11
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-05-26",
+      "dealAmount": 1949000,
+      "parcelNum": "4338-139-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שש עשרה",
+      "assetArea": 130.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-05-26",
+          "dealAmount": 2014000
+        }
+      ],
+      "trend": {
+        "rate": -3.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14992,
+      "row_id": 12
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-05-07",
+      "dealAmount": 1603000,
+      "parcelNum": "4338-139-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "אחת עשרה",
+      "assetArea": 130.0,
+      "yearBuilt": 2027,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-05-07",
+          "dealAmount": 1568000
+        },
+        {
+          "dealDate": "2024-05-07",
+          "dealAmount": 1615000
+        },
+        {
+          "dealDate": "2024-05-07",
+          "dealAmount": 1960000
+        },
+        {
+          "dealDate": "2024-05-07",
+          "dealAmount": 1536000
+        }
+      ],
+      "trend": {
+        "rate": 2.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 12331,
+      "row_id": 13
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-05-01",
+      "dealAmount": 2320000,
+      "parcelNum": "4338-139-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 110.0,
+      "yearBuilt": 2027,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21091,
+      "row_id": 14
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-04-30",
+      "dealAmount": 2310000,
+      "parcelNum": "4338-139-53",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלוש עשרה",
+      "assetArea": 110.0,
+      "yearBuilt": 2027,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21000,
+      "row_id": 15
+    },
+    {
+      "assetId": 4644051.0,
+      "addressId": 73144714,
+      "polygonId": "71181212",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 2",
+      "dealDate": "2024-04-21",
+      "dealAmount": 1900000,
+      "parcelNum": "4338-140-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שש עשרה",
+      "assetArea": 94.0,
+      "yearBuilt": 2023,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20213,
+      "row_id": 16
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-04-18",
+      "dealAmount": 1011000,
+      "parcelNum": "4338-139-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 79.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12797,
+      "row_id": 17
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-04-16",
+      "dealAmount": 1497000,
+      "parcelNum": "4338-139-55",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שתים עשרה",
+      "assetArea": 110.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-16",
+          "dealAmount": 1045000
+        },
+        {
+          "dealDate": "2024-04-16",
+          "dealAmount": 1138000
+        },
+        {
+          "dealDate": "2024-04-16",
+          "dealAmount": 1592000
+        },
+        {
+          "dealDate": "2024-04-16",
+          "dealAmount": 1506000
+        },
+        {
+          "dealDate": "2024-04-16",
+          "dealAmount": 1577000
+        },
+        {
+          "dealDate": "2024-04-16",
+          "dealAmount": 1559000
+        },
+        {
+          "dealDate": "2024-04-16",
+          "dealAmount": 1461000
+        }
+      ],
+      "trend": {
+        "rate": 43.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 13609,
+      "row_id": 18
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-04-15",
+      "dealAmount": 2630000,
+      "parcelNum": "4338-139-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשרים",
+      "assetArea": 130.0,
+      "yearBuilt": 2027,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20231,
+      "row_id": 19
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-04-10",
+      "dealAmount": 1470000,
+      "parcelNum": "4338-139-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 110.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-04-10",
+          "dealAmount": 1480000
+        },
+        {
+          "dealDate": "2024-04-10",
+          "dealAmount": 1517000
+        },
+        {
+          "dealDate": "2024-04-10",
+          "dealAmount": 1065000
+        },
+        {
+          "dealDate": "2024-04-10",
+          "dealAmount": 1038000
+        },
+        {
+          "dealDate": "2024-04-10",
+          "dealAmount": 1526000
+        },
+        {
+          "dealDate": "2024-04-10",
+          "dealAmount": 1120000
+        },
+        {
+          "dealDate": "2024-04-10",
+          "dealAmount": 1138000
+        }
+      ],
+      "trend": {
+        "rate": -0.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 13364,
+      "row_id": 20
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-31",
+      "dealAmount": 1161000,
+      "parcelNum": "4338-139-72",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 110.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-03-31",
+          "dealAmount": 1025000
+        },
+        {
+          "dealDate": "2024-03-31",
+          "dealAmount": 2320000
+        },
+        {
+          "dealDate": "2024-03-31",
+          "dealAmount": 1126000
+        },
+        {
+          "dealDate": "2024-03-31",
+          "dealAmount": 1507000
+        },
+        {
+          "dealDate": "2024-03-31",
+          "dealAmount": 1461000
+        },
+        {
+          "dealDate": "2024-03-31",
+          "dealAmount": 1622000
+        }
+      ],
+      "trend": {
+        "rate": 13.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10555,
+      "row_id": 21
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-28",
+      "dealAmount": 1534000,
+      "parcelNum": "4338-139-79",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 128.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1058000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1183000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 2025000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1133000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1052000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1038000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1470000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1584000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1553000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1525000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1176000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1480000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1189000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1576000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1147000
+        },
+        {
+          "dealDate": "2024-03-28",
+          "dealAmount": 1191000
+        }
+      ],
+      "trend": {
+        "rate": 45.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 11984,
+      "row_id": 22
+    },
+    {
+      "assetId": 4092900.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-27",
+      "dealAmount": 1133741,
+      "parcelNum": "4338-139-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 80.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14172,
+      "row_id": 24
+    },
+    {
+      "assetId": 4092915.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-27",
+      "dealAmount": 1176205,
+      "parcelNum": "4338-139-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 8.0,
+      "floor": "שביעית",
+      "assetArea": 89.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13216,
+      "row_id": 27
+    },
+    {
+      "assetId": 4092920.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-27",
+      "dealAmount": 1085000,
+      "parcelNum": "4338-139-32",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 79.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13734,
+      "row_id": 28
+    },
+    {
+      "assetId": 4092917.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-27",
+      "dealAmount": 1603000,
+      "parcelNum": "4338-139-33",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "אחת עשרה",
+      "assetArea": 109.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14706,
+      "row_id": 29
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-27",
+      "dealAmount": 1168000,
+      "parcelNum": "4338-139-100",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 90.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1252000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1498000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1138000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1126000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1221000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1118000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1575000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1018000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1976000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1183000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1025000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1194000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1153000
+        },
+        {
+          "dealDate": "2024-03-27",
+          "dealAmount": 1120000
+        }
+      ],
+      "trend": {
+        "rate": -6.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 12978,
+      "row_id": 30
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-26",
+      "dealAmount": 2300000,
+      "parcelNum": "4338-139-119",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 90.0,
+      "yearBuilt": 2024,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25556,
+      "row_id": 32
+    },
+    {
+      "assetId": 4092910.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-21",
+      "dealAmount": 1527000,
+      "parcelNum": "4338-139-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 109.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14009,
+      "row_id": 33
+    },
+    {
+      "assetId": 4092919.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-20",
+      "dealAmount": 1535000,
+      "parcelNum": "4338-139-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "תשיעית",
+      "assetArea": 109.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14083,
+      "row_id": 34
+    },
+    {
+      "assetId": 4092918.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-20",
+      "dealAmount": 1140000,
+      "parcelNum": "4338-139-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשע עשרה",
+      "assetArea": 79.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14430,
+      "row_id": 35
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-20",
+      "dealAmount": 1515000,
+      "parcelNum": "4338-139-120",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "עשירית",
+      "assetArea": 110.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-03-20",
+          "dealAmount": 1120000
+        },
+        {
+          "dealDate": "2024-03-20",
+          "dealAmount": 1545000
+        },
+        {
+          "dealDate": "2024-03-20",
+          "dealAmount": 1489000
+        },
+        {
+          "dealDate": "2024-03-20",
+          "dealAmount": 1045000
+        },
+        {
+          "dealDate": "2024-03-20",
+          "dealAmount": 1153000
+        },
+        {
+          "dealDate": "2024-03-20",
+          "dealAmount": 1146000
+        }
+      ],
+      "trend": {
+        "rate": 35.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 13773,
+      "row_id": 36
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-19",
+      "dealAmount": 1377000,
+      "parcelNum": "4338-139-128",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 110.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-03-19",
+          "dealAmount": 1153000
+        },
+        {
+          "dealDate": "2024-03-19",
+          "dealAmount": 1561000
+        },
+        {
+          "dealDate": "2024-03-19",
+          "dealAmount": 1161000
+        },
+        {
+          "dealDate": "2024-03-19",
+          "dealAmount": 1487000
+        },
+        {
+          "dealDate": "2024-03-19",
+          "dealAmount": 1154000
+        },
+        {
+          "dealDate": "2024-03-19",
+          "dealAmount": 1518000
+        },
+        {
+          "dealDate": "2024-03-19",
+          "dealAmount": 1118000
+        },
+        {
+          "dealDate": "2024-03-19",
+          "dealAmount": 1546000
+        },
+        {
+          "dealDate": "2024-03-19",
+          "dealAmount": 1586000
+        },
+        {
+          "dealDate": "2024-03-19",
+          "dealAmount": 1565000
+        },
+        {
+          "dealDate": "2024-03-19",
+          "dealAmount": 1043000
+        }
+      ],
+      "trend": {
+        "rate": 19.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 12518,
+      "row_id": 37
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-12",
+      "dealAmount": 1224000,
+      "parcelNum": "4338-139-140",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שש עשרה",
+      "assetArea": 90.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-03-12",
+          "dealAmount": 1201000
+        }
+      ],
+      "trend": {
+        "rate": 1.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 13600,
+      "row_id": 39
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-06",
+      "dealAmount": 2640000,
+      "parcelNum": "4338-139-142",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "עשרים ואחת",
+      "assetArea": 130.0,
+      "yearBuilt": 2027,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20308,
+      "row_id": 40
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-05",
+      "dealAmount": 2620000,
+      "parcelNum": "4338-139-144",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשע עשרה",
+      "assetArea": 130.0,
+      "yearBuilt": 2027,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20154,
+      "row_id": 41
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-04",
+      "dealAmount": 1567000,
+      "parcelNum": "4338-139-145",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 110.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-03-04",
+          "dealAmount": 1118000
+        },
+        {
+          "dealDate": "2024-03-04",
+          "dealAmount": 1586000
+        },
+        {
+          "dealDate": "2024-03-04",
+          "dealAmount": 1052000
+        },
+        {
+          "dealDate": "2024-03-04",
+          "dealAmount": 1513000
+        },
+        {
+          "dealDate": "2024-03-04",
+          "dealAmount": 1168000
+        },
+        {
+          "dealDate": "2024-03-04",
+          "dealAmount": 1146000
+        },
+        {
+          "dealDate": "2024-03-04",
+          "dealAmount": 1147000
+        },
+        {
+          "dealDate": "2024-03-04",
+          "dealAmount": 1554000
+        },
+        {
+          "dealDate": "2024-03-04",
+          "dealAmount": 1018000
+        },
+        {
+          "dealDate": "2024-03-04",
+          "dealAmount": 1557000
+        },
+        {
+          "dealDate": "2024-03-04",
+          "dealAmount": 1559000
+        }
+      ],
+      "trend": {
+        "rate": 40.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14245,
+      "row_id": 42
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-03-03",
+      "dealAmount": 2280000,
+      "parcelNum": "4338-139-158",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 110.0,
+      "yearBuilt": 2025,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20727,
+      "row_id": 44
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-02-29",
+      "dealAmount": 1144000,
+      "parcelNum": "4338-139-159",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 110.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1176000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1154000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1147000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1140000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1548000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1604000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1146000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1168000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1489000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1603000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1198000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1183000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1594000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1153000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1031000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1124000
+        },
+        {
+          "dealDate": "2024-02-29",
+          "dealAmount": 1161000
+        }
+      ],
+      "trend": {
+        "rate": -2.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10400,
+      "row_id": 49
+    },
+    {
+      "assetId": 4092898.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-02-28",
+      "dealAmount": 1147400,
+      "parcelNum": "4338-139-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים",
+      "assetArea": 80.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14342,
+      "row_id": 50
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2024-02-28",
+      "dealAmount": 1198000,
+      "parcelNum": "4338-139-179",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים",
+      "assetArea": 89.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1625000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1594000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1134000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1577000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1498000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1536000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1632000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1982000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1245000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1571000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1650000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1140000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1230000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1191000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1065000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1559000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1611000
+        },
+        {
+          "dealDate": "2024-02-28",
+          "dealAmount": 1537000
+        }
+      ],
+      "trend": {
+        "rate": -26.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 13461,
+      "row_id": 53
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2023-07-30",
+      "dealAmount": 2800000,
+      "parcelNum": "4338-123-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 161.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17391,
+      "row_id": 71
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2023-04-20",
+      "dealAmount": 2900000,
+      "parcelNum": "4338-123-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 161.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18012,
+      "row_id": 72
+    },
+    {
+      "assetId": 4092651.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2023-03-27",
+      "dealAmount": 1161000,
+      "parcelNum": "4338-139-201",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 90.0,
+      "yearBuilt": 2028,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12900,
+      "row_id": 73
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2022-11-17",
+      "dealAmount": 2650000,
+      "parcelNum": "4338-123-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשע עשרה",
+      "assetArea": 139.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19065,
+      "row_id": 76
+    },
+    {
+      "assetId": 4092659.0,
+      "addressId": 73144715,
+      "polygonId": "4338-139",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 1",
+      "dealDate": "2022-07-27",
+      "dealAmount": 41555000,
+      "parcelNum": "4338-139-1",
+      "dealNature": "קרקע למגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 4493.0,
+      "yearBuilt": 0,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9249,
+      "row_id": 78
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-11-23",
+      "dealAmount": 1755000,
+      "parcelNum": "4338-123-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 96.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18281,
+      "row_id": 82
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-11-10",
+      "dealAmount": 1735000,
+      "parcelNum": "4338-123-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18457,
+      "row_id": 83
+    },
+    {
+      "assetId": 4092670.0,
+      "addressId": 0,
+      "polygonId": "4338-116",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-11-02",
+      "dealAmount": 2360000,
+      "parcelNum": "4338-116-1",
+      "dealNature": "דירה",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 139.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16978,
+      "row_id": 84
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-11-02",
+      "dealAmount": 2360000,
+      "parcelNum": "4338-123-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "תשע עשרה",
+      "assetArea": 139.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16978,
+      "row_id": 85
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-10-27",
+      "dealAmount": 2520000,
+      "parcelNum": "4338-123-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "תשע עשרה",
+      "assetArea": 161.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-10-27",
+          "dealAmount": 1940000
+        }
+      ],
+      "trend": {
+        "rate": 29.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 15652,
+      "row_id": 86
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-10-24",
+      "dealAmount": 1992000,
+      "parcelNum": "4338-123-29",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21191,
+      "row_id": 87
+    },
+    {
+      "assetId": 4644048.0,
+      "addressId": 73144714,
+      "polygonId": "71181212",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 2",
+      "dealDate": "2021-09-19",
+      "dealAmount": 1600000,
+      "parcelNum": "4338-140-5",
+      "dealNature": "דירה",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 92.0,
+      "yearBuilt": 2023,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 3,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17391,
+      "row_id": 88
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-09-19",
+      "dealAmount": 1600000,
+      "parcelNum": "4338-123-30",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17391,
+      "row_id": 89
+    },
+    {
+      "assetId": 4644050.0,
+      "addressId": 73144714,
+      "polygonId": "71181212",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 2",
+      "dealDate": "2021-08-25",
+      "dealAmount": 1771000,
+      "parcelNum": "4338-140-3",
+      "dealNature": "דירה",
+      "roomNum": 3.0,
+      "floor": null,
+      "assetArea": 92.0,
+      "yearBuilt": 2023,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 3,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19250,
+      "row_id": 90
+    },
+    {
+      "assetId": 4644053.0,
+      "addressId": 73144714,
+      "polygonId": "71181212",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 2",
+      "dealDate": "2021-08-25",
+      "dealAmount": 2257000,
+      "parcelNum": "4338-140-4",
+      "dealNature": "דירה",
+      "roomNum": 5.0,
+      "floor": null,
+      "assetArea": 139.0,
+      "yearBuilt": 2023,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 3,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16237,
+      "row_id": 91
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-08-25",
+      "dealAmount": 2257000,
+      "parcelNum": "4338-123-31",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "ראשונה",
+      "assetArea": 139.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-08-25",
+          "dealAmount": 1771000
+        }
+      ],
+      "trend": {
+        "rate": 27.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 16237,
+      "row_id": 92
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-07-27",
+      "dealAmount": 1674000,
+      "parcelNum": "4338-123-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשע עשרה",
+      "assetArea": 96.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17438,
+      "row_id": 95
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-07-15",
+      "dealAmount": 1715000,
+      "parcelNum": "4338-123-35",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18641,
+      "row_id": 96
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-06-08",
+      "dealAmount": 1629000,
+      "parcelNum": "4338-123-36",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמונה עשרה",
+      "assetArea": 96.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16969,
+      "row_id": 97
+    },
+    {
+      "assetId": 4092640.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-05-23",
+      "dealAmount": 1591000,
+      "parcelNum": "4338-123-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שש עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17293,
+      "row_id": 99
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-04-13",
+      "dealAmount": 1601000,
+      "parcelNum": "4338-123-39",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמש עשרה",
+      "assetArea": 0.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-04-13",
+          "dealAmount": 2813000
+        },
+        {
+          "dealDate": "2021-04-13",
+          "dealAmount": 1581000
+        }
+      ],
+      "trend": {
+        "rate": -43.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 0,
+      "row_id": 100
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-03-22",
+      "dealAmount": 1591000,
+      "parcelNum": "4338-123-42",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמש עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17293,
+      "row_id": 101
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-03-11",
+      "dealAmount": 2910000,
+      "parcelNum": "4338-123-43",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "עשרים",
+      "assetArea": 178.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16348,
+      "row_id": 102
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-01-12",
+      "dealAmount": 926000,
+      "parcelNum": "4338-123-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-01-12",
+          "dealAmount": 1677000
+        }
+      ],
+      "trend": {
+        "rate": -44.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 11293,
+      "row_id": 104
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2021-01-01",
+      "dealAmount": 1510000,
+      "parcelNum": "4338-123-47",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שתים עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16413,
+      "row_id": 105
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-12-31",
+      "dealAmount": 1540000,
+      "parcelNum": "4338-123-48",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-12-31",
+          "dealAmount": 1566000
+        },
+        {
+          "dealDate": "2020-12-31",
+          "dealAmount": 1602000
+        }
+      ],
+      "trend": {
+        "rate": -1.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 16739,
+      "row_id": 106
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-12-29",
+      "dealAmount": 1641000,
+      "parcelNum": "4338-123-51",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שש עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17837,
+      "row_id": 107
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-12-16",
+      "dealAmount": 1540000,
+      "parcelNum": "4338-123-52",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-12-16",
+          "dealAmount": 1550000
+        }
+      ],
+      "trend": {
+        "rate": -0.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 16739,
+      "row_id": 108
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-11-23",
+      "dealAmount": 1454000,
+      "parcelNum": "4338-123-54",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשירית",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-11-23",
+          "dealAmount": 892000
+        }
+      ],
+      "trend": {
+        "rate": 63.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 15804,
+      "row_id": 109
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-10-28",
+      "dealAmount": 1515000,
+      "parcelNum": "4338-123-56",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שתים עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-10-28",
+          "dealAmount": 952000
+        },
+        {
+          "dealDate": "2020-10-28",
+          "dealAmount": 1800000
+        }
+      ],
+      "trend": {
+        "rate": 59.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 16467,
+      "row_id": 110
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-10-18",
+      "dealAmount": 970000,
+      "parcelNum": "4338-123-59",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמש עשרה",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-10-18",
+          "dealAmount": 857000
+        },
+        {
+          "dealDate": "2020-10-18",
+          "dealAmount": 934000
+        },
+        {
+          "dealDate": "2020-10-18",
+          "dealAmount": 1603000
+        },
+        {
+          "dealDate": "2020-10-18",
+          "dealAmount": 943000
+        },
+        {
+          "dealDate": "2020-10-18",
+          "dealAmount": 935000
+        }
+      ],
+      "trend": {
+        "rate": 13.2,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10543,
+      "row_id": 111
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-10-14",
+      "dealAmount": 952000,
+      "parcelNum": "4338-123-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-10-14",
+          "dealAmount": 2100000
+        }
+      ],
+      "trend": {
+        "rate": -54.7,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 11610,
+      "row_id": 112
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-09-29",
+      "dealAmount": 934000,
+      "parcelNum": "4338-123-67",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שש עשרה",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-29",
+          "dealAmount": 930000
+        },
+        {
+          "dealDate": "2020-09-29",
+          "dealAmount": 943000
+        },
+        {
+          "dealDate": "2020-09-29",
+          "dealAmount": 860000
+        }
+      ],
+      "trend": {
+        "rate": 0.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 11390,
+      "row_id": 113
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-09-23",
+      "dealAmount": 1543000,
+      "parcelNum": "4338-123-71",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשע עשרה",
+      "assetArea": 96.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-23",
+          "dealAmount": 926000
+        },
+        {
+          "dealDate": "2020-09-23",
+          "dealAmount": 1542000
+        },
+        {
+          "dealDate": "2020-09-23",
+          "dealAmount": 1551000
+        },
+        {
+          "dealDate": "2020-09-23",
+          "dealAmount": 927000
+        },
+        {
+          "dealDate": "2020-09-23",
+          "dealAmount": 1531000
+        },
+        {
+          "dealDate": "2020-09-23",
+          "dealAmount": 1552000
+        },
+        {
+          "dealDate": "2020-09-23",
+          "dealAmount": 1538000
+        }
+      ],
+      "trend": {
+        "rate": 66.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 16073,
+      "row_id": 114
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-09-21",
+      "dealAmount": 883000,
+      "parcelNum": "4338-123-79",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-21",
+          "dealAmount": 870000
+        },
+        {
+          "dealDate": "2020-09-21",
+          "dealAmount": 917000
+        },
+        {
+          "dealDate": "2020-09-21",
+          "dealAmount": 857000
+        },
+        {
+          "dealDate": "2020-09-21",
+          "dealAmount": 994000
+        },
+        {
+          "dealDate": "2020-09-21",
+          "dealAmount": 849000
+        }
+      ],
+      "trend": {
+        "rate": 1.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 9394,
+      "row_id": 115
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-09-15",
+      "dealAmount": 882000,
+      "parcelNum": "4338-123-85",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-15",
+          "dealAmount": 874000
+        },
+        {
+          "dealDate": "2020-09-15",
+          "dealAmount": 866361
+        }
+      ],
+      "trend": {
+        "rate": 0.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10756,
+      "row_id": 116
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-09-09",
+      "dealAmount": 873000,
+      "parcelNum": "4338-123-89",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10646,
+      "row_id": 117
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-09-08",
+      "dealAmount": 883000,
+      "parcelNum": "4338-123-90",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-08",
+          "dealAmount": 926000
+        },
+        {
+          "dealDate": "2020-09-08",
+          "dealAmount": 902000
+        }
+      ],
+      "trend": {
+        "rate": -4.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10768,
+      "row_id": 118
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-09-02",
+      "dealAmount": 945000,
+      "parcelNum": "4338-123-93",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11524,
+      "row_id": 119
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-09-01",
+      "dealAmount": 1362000,
+      "parcelNum": "4338-123-94",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשירית",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-09-01",
+          "dealAmount": 1340000
+        }
+      ],
+      "trend": {
+        "rate": 1.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14804,
+      "row_id": 120
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-08-23",
+      "dealAmount": 880000,
+      "parcelNum": "4338-123-96",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10732,
+      "row_id": 121
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-08-20",
+      "dealAmount": 969000,
+      "parcelNum": "4338-123-97",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-08-20",
+          "dealAmount": 885000
+        },
+        {
+          "dealDate": "2020-08-20",
+          "dealAmount": 919000
+        },
+        {
+          "dealDate": "2020-08-20",
+          "dealAmount": 921103
+        },
+        {
+          "dealDate": "2020-08-20",
+          "dealAmount": 976000
+        }
+      ],
+      "trend": {
+        "rate": 9.5,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10309,
+      "row_id": 122
+    },
+    {
+      "assetId": 4644049.0,
+      "addressId": 73144714,
+      "polygonId": "71181212",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "גאולה כהן 2",
+      "dealDate": "2020-08-19",
+      "dealAmount": 2728000,
+      "parcelNum": "4338-140-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "עשרים",
+      "assetArea": 178.0,
+      "yearBuilt": 2023,
+      "streetCode": 85000215,
+      "settlmentID": 8500,
+      "buildingFloors": 3,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15326,
+      "row_id": 123
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-08-19",
+      "dealAmount": 1372000,
+      "parcelNum": "4338-123-102",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-08-19",
+          "dealAmount": 1450000
+        },
+        {
+          "dealDate": "2020-08-19",
+          "dealAmount": 1491000
+        },
+        {
+          "dealDate": "2020-08-19",
+          "dealAmount": 1354000
+        },
+        {
+          "dealDate": "2020-08-19",
+          "dealAmount": 1703000
+        }
+      ],
+      "trend": {
+        "rate": -5.4,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14913,
+      "row_id": 124
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-08-17",
+      "dealAmount": 1381000,
+      "parcelNum": "4338-123-107",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשירית",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-08-17",
+          "dealAmount": 1683000
+        },
+        {
+          "dealDate": "2020-08-17",
+          "dealAmount": 1441000
+        },
+        {
+          "dealDate": "2020-08-17",
+          "dealAmount": 1500000
+        },
+        {
+          "dealDate": "2020-08-17",
+          "dealAmount": 1387000
+        },
+        {
+          "dealDate": "2020-08-17",
+          "dealAmount": 1400000
+        },
+        {
+          "dealDate": "2020-08-17",
+          "dealAmount": 1411000
+        }
+      ],
+      "trend": {
+        "rate": -17.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 15011,
+      "row_id": 125
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-08-16",
+      "dealAmount": 1361000,
+      "parcelNum": "4338-123-114",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "עשרים",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-08-16",
+          "dealAmount": 2703000
+        },
+        {
+          "dealDate": "2020-08-16",
+          "dealAmount": 1650000
+        },
+        {
+          "dealDate": "2020-08-16",
+          "dealAmount": 1444000
+        },
+        {
+          "dealDate": "2020-08-16",
+          "dealAmount": 1350000
+        },
+        {
+          "dealDate": "2020-08-16",
+          "dealAmount": 1345000
+        },
+        {
+          "dealDate": "2020-08-16",
+          "dealAmount": 1498000
+        }
+      ],
+      "trend": {
+        "rate": -49.6,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 14793,
+      "row_id": 126
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-08-02",
+      "dealAmount": 979000,
+      "parcelNum": "4338-123-121",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10415,
+      "row_id": 127
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-29",
+      "dealAmount": 1106000,
+      "parcelNum": "4338-123-122",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-29",
+          "dealAmount": 963000
+        },
+        {
+          "dealDate": "2020-07-29",
+          "dealAmount": 893000
+        }
+      ],
+      "trend": {
+        "rate": 14.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 11766,
+      "row_id": 128
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-28",
+      "dealAmount": 883000,
+      "parcelNum": "4338-123-125",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10768,
+      "row_id": 129
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-27",
+      "dealAmount": 974000,
+      "parcelNum": "4338-123-126",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11878,
+      "row_id": 130
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-26",
+      "dealAmount": 1027000,
+      "parcelNum": "4338-123-127",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שמינית",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-26",
+          "dealAmount": 854000
+        },
+        {
+          "dealDate": "2020-07-26",
+          "dealAmount": 989000
+        },
+        {
+          "dealDate": "2020-07-26",
+          "dealAmount": 958000
+        },
+        {
+          "dealDate": "2020-07-26",
+          "dealAmount": 926000
+        },
+        {
+          "dealDate": "2020-07-26",
+          "dealAmount": 959000
+        },
+        {
+          "dealDate": "2020-07-26",
+          "dealAmount": 979000
+        },
+        {
+          "dealDate": "2020-07-26",
+          "dealAmount": 941000
+        },
+        {
+          "dealDate": "2020-07-26",
+          "dealAmount": 1018000
+        }
+      ],
+      "trend": {
+        "rate": 20.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10926,
+      "row_id": 131
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-23",
+      "dealAmount": 1047000,
+      "parcelNum": "4338-123-137",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-23",
+          "dealAmount": 1056000
+        },
+        {
+          "dealDate": "2020-07-23",
+          "dealAmount": 1001000
+        },
+        {
+          "dealDate": "2020-07-23",
+          "dealAmount": 1038000
+        },
+        {
+          "dealDate": "2020-07-23",
+          "dealAmount": 963000
+        },
+        {
+          "dealDate": "2020-07-23",
+          "dealAmount": 979000
+        }
+      ],
+      "trend": {
+        "rate": -0.9,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 11138,
+      "row_id": 132
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-22",
+      "dealAmount": 1047000,
+      "parcelNum": "4338-123-143",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "תשיעית",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 874000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 922000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 982000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 1006000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 1017000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 963000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 1008000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 868000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 939000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 832000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 866000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 935000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 1015000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 974000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 863000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 880000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 1009000
+        },
+        {
+          "dealDate": "2020-07-22",
+          "dealAmount": 1058000
+        }
+      ],
+      "trend": {
+        "rate": 19.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 11138,
+      "row_id": 133
+    },
+    {
+      "assetId": 4092631.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-21",
+      "dealAmount": 875554,
+      "parcelNum": "4338-123-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 1,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10677,
+      "row_id": 134
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-21",
+      "dealAmount": 863000,
+      "parcelNum": "4338-123-164",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 1056000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 1040000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 982000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 988000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 962000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 966000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 1066000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 963000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 1057000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 870000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 1037000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 923000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 973000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 989000
+        },
+        {
+          "dealDate": "2020-07-21",
+          "dealAmount": 953000
+        }
+      ],
+      "trend": {
+        "rate": -18.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 9181,
+      "row_id": 135
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-20",
+      "dealAmount": 991000,
+      "parcelNum": "4338-123-182",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 988000
+        },
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 975000
+        },
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 1018000
+        },
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 898000
+        },
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 969000
+        },
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 966000
+        },
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 979000
+        },
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 984000
+        },
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 1050000
+        },
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 973000
+        },
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 961000
+        },
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 885000
+        },
+        {
+          "dealDate": "2020-07-20",
+          "dealAmount": 983000
+        }
+      ],
+      "trend": {
+        "rate": 0.3,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10543,
+      "row_id": 136
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-15",
+      "dealAmount": 969000,
+      "parcelNum": "4338-123-198",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ארבע עשרה",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-15",
+          "dealAmount": 1089000
+        },
+        {
+          "dealDate": "2020-07-15",
+          "dealAmount": 1008000
+        },
+        {
+          "dealDate": "2020-07-15",
+          "dealAmount": 992000
+        },
+        {
+          "dealDate": "2020-07-15",
+          "dealAmount": 1047000
+        },
+        {
+          "dealDate": "2020-07-15",
+          "dealAmount": 982000
+        }
+      ],
+      "trend": {
+        "rate": -11.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10309,
+      "row_id": 137
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-14",
+      "dealAmount": 969000,
+      "parcelNum": "4338-123-205",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שבע עשרה",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 1010000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 973000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 967000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 978000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 991000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 982000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 959000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 919000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 900000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 1056000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 995000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 1093000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 914000
+        },
+        {
+          "dealDate": "2020-07-14",
+          "dealAmount": 984000
+        }
+      ],
+      "trend": {
+        "rate": -4.1,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10309,
+      "row_id": 138
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-13",
+      "dealAmount": 1037000,
+      "parcelNum": "4338-123-221",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-13",
+          "dealAmount": 960000
+        },
+        {
+          "dealDate": "2020-07-13",
+          "dealAmount": 959000
+        },
+        {
+          "dealDate": "2020-07-13",
+          "dealAmount": 1040000
+        },
+        {
+          "dealDate": "2020-07-13",
+          "dealAmount": 992229
+        },
+        {
+          "dealDate": "2020-07-13",
+          "dealAmount": 1017000
+        },
+        {
+          "dealDate": "2020-07-13",
+          "dealAmount": 1011000
+        },
+        {
+          "dealDate": "2020-07-13",
+          "dealAmount": 1042000
+        },
+        {
+          "dealDate": "2020-07-13",
+          "dealAmount": 878000
+        },
+        {
+          "dealDate": "2020-07-13",
+          "dealAmount": 998000
+        },
+        {
+          "dealDate": "2020-07-13",
+          "dealAmount": 887000
+        },
+        {
+          "dealDate": "2020-07-13",
+          "dealAmount": 1000000
+        }
+      ],
+      "trend": {
+        "rate": 8.0,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 11032,
+      "row_id": 139
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-09",
+      "dealAmount": 963000,
+      "parcelNum": "4338-123-233",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-09",
+          "dealAmount": 991000
+        },
+        {
+          "dealDate": "2020-07-09",
+          "dealAmount": 967488
+        }
+      ],
+      "trend": {
+        "rate": -2.8,
+        "years": 0.0
+      },
+      "ownership": [],
+      "priceSM": 10245,
+      "row_id": 140
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-08",
+      "dealAmount": 871000,
+      "parcelNum": "4338-123-236",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 82.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10622,
+      "row_id": 141
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-07",
+      "dealAmount": 1066000,
+      "parcelNum": "4338-123-237",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שש עשרה",
+      "assetArea": 94.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11340,
+      "row_id": 142
+    },
+    {
+      "assetId": 4092637.0,
+      "addressId": 0,
+      "polygonId": "4338-123",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2020-07-05",
+      "dealAmount": 986000,
+      "parcelNum": "4338-123-238",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 92.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10717,
+      "row_id": 143
+    },
+    {
+      "assetId": 4092923.0,
+      "addressId": 0,
+      "polygonId": "4338-25",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2018-07-16",
+      "dealAmount": 7577000,
+      "parcelNum": "4338-25-1",
+      "dealNature": "מגורים",
+      "roomNum": 0.0,
+      "floor": null,
+      "assetArea": 4553.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1664,
+      "row_id": 144
+    },
+    {
+      "assetId": 4092875.0,
+      "addressId": 0,
+      "polygonId": "4338-21",
+      "neighborhoodName": "מכבי",
+      "neighborhoodId": 65210542,
+      "address": "0",
+      "dealDate": "2009-12-02",
+      "dealAmount": 1315000,
+      "parcelNum": "4338-21-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 120.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 8500,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10958,
+      "row_id": 145
+    }
+  ]
+}

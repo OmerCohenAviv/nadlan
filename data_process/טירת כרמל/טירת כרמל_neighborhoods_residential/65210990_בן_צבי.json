@@ -1,0 +1,1419 @@
+{
+  "neighborhood_name": "בן צבי",
+  "city_name": "טירת כרמל",
+  "transaction_count": 45,
+  "transactions": [
+    {
+      "assetId": 70356046.0,
+      "addressId": 53893262,
+      "polygonId": "53238200",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 26",
+      "dealDate": "2024-10-23",
+      "dealAmount": 775000,
+      "parcelNum": "12300-8-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "שניה",
+      "assetArea": 51.03,
+      "yearBuilt": 1950,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-31",
+          "dealAmount": 249000
+        },
+        {
+          "dealDate": "2008-10-16",
+          "dealAmount": 109000
+        }
+      ],
+      "trend": {
+        "rate": 211.2,
+        "years": 11.8
+      },
+      "ownership": [],
+      "priceSM": 15196,
+      "row_id": 1
+    },
+    {
+      "assetId": 70356106.0,
+      "addressId": 53662648,
+      "polygonId": "53151293",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 4",
+      "dealDate": "2024-08-15",
+      "dealAmount": 930000,
+      "parcelNum": "12300-29-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.9,
+      "yearBuilt": 1965,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-04-13",
+          "dealAmount": 240000
+        }
+      ],
+      "trend": {
+        "rate": 287.5,
+        "years": 14.4
+      },
+      "ownership": [],
+      "priceSM": 22683,
+      "row_id": 2
+    },
+    {
+      "assetId": 70356103.0,
+      "addressId": 53662648,
+      "polygonId": "53151293",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 4",
+      "dealDate": "2024-07-15",
+      "dealAmount": 1060000,
+      "parcelNum": "12300-29-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 41.9,
+      "yearBuilt": 1965,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25298,
+      "row_id": 3
+    },
+    {
+      "assetId": 70356054.0,
+      "addressId": 53841456,
+      "polygonId": "51932077",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 12",
+      "dealDate": "2024-06-03",
+      "dealAmount": 1060000,
+      "parcelNum": "12300-9-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 50.6,
+      "yearBuilt": 1960,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2021-02-21",
+          "dealAmount": 650000
+        }
+      ],
+      "trend": {
+        "rate": 63.1,
+        "years": 3.3
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 530000
+        },
+        {
+          "proportion": "50",
+          "price": 530000
+        }
+      ],
+      "priceSM": 21200,
+      "row_id": 4
+    },
+    {
+      "assetId": 70356014.0,
+      "addressId": 53666722,
+      "polygonId": "53237689",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 40",
+      "dealDate": "2024-03-17",
+      "dealAmount": 1075000,
+      "parcelNum": "12300-6-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-07-07",
+          "dealAmount": 178000
+        }
+      ],
+      "trend": {
+        "rate": 503.9,
+        "years": 3.7
+      },
+      "ownership": [],
+      "priceSM": 26220,
+      "row_id": 5
+    },
+    {
+      "assetId": 70122322.0,
+      "addressId": 53892536,
+      "polygonId": "51974571",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "אלבז נתן 23",
+      "dealDate": "2023-05-10",
+      "dealAmount": 1120000,
+      "parcelNum": "10679-35-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 50.9,
+      "yearBuilt": 1950,
+      "streetCode": 21000449,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-11-15",
+          "dealAmount": 525000
+        },
+        {
+          "dealDate": "2012-07-19",
+          "dealAmount": 370000
+        }
+      ],
+      "trend": {
+        "rate": 113.3,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 22400,
+      "row_id": 6
+    },
+    {
+      "assetId": 70356099.0,
+      "addressId": 53662648,
+      "polygonId": "53151293",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 4",
+      "dealDate": "2023-03-12",
+      "dealAmount": 498000,
+      "parcelNum": "12300-29-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 41.9,
+      "yearBuilt": 1965,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11885,
+      "row_id": 7
+    },
+    {
+      "assetId": 70355988.0,
+      "addressId": 53663956,
+      "polygonId": "53085401",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 26",
+      "dealDate": "2023-02-09",
+      "dealAmount": 403000,
+      "parcelNum": "12300-4-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9618,
+      "row_id": 8
+    },
+    {
+      "assetId": 70355975.0,
+      "addressId": 53891424,
+      "polygonId": "51957877",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 18",
+      "dealDate": "2022-12-21",
+      "dealAmount": 382000,
+      "parcelNum": "12300-3-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9117,
+      "row_id": 9
+    },
+    {
+      "assetId": 70122333.0,
+      "addressId": 53666654,
+      "polygonId": "51962948",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "נתן אלבז 27",
+      "dealDate": "2022-12-18",
+      "dealAmount": 221000,
+      "parcelNum": "10679-36-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 45.0,
+      "yearBuilt": 1960,
+      "streetCode": 21000449,
+      "settlmentID": 2100,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4911,
+      "row_id": 10
+    },
+    {
+      "assetId": 70356055.0,
+      "addressId": 53841456,
+      "polygonId": "51932077",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 12",
+      "dealDate": "2022-11-08",
+      "dealAmount": 260000,
+      "parcelNum": "12300-9-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 50.6,
+      "yearBuilt": 1960,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5138,
+      "row_id": 11
+    },
+    {
+      "assetId": 70356016.0,
+      "addressId": 53666722,
+      "polygonId": "53237689",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 40",
+      "dealDate": "2021-07-14",
+      "dealAmount": 250000,
+      "parcelNum": "12300-6-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5967,
+      "row_id": 12
+    },
+    {
+      "assetId": 70356100.0,
+      "addressId": 53662648,
+      "polygonId": "53151293",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 4",
+      "dealDate": "2021-06-24",
+      "dealAmount": 277000,
+      "parcelNum": "12300-29-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 41.9,
+      "yearBuilt": 1965,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6611,
+      "row_id": 13
+    },
+    {
+      "assetId": 70356001.0,
+      "addressId": 53840702,
+      "polygonId": "51972179",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 32",
+      "dealDate": "2021-05-14",
+      "dealAmount": 162000,
+      "parcelNum": "12300-5-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3866,
+      "row_id": 14
+    },
+    {
+      "assetId": 70355995.0,
+      "addressId": 53840702,
+      "polygonId": "51972179",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 32",
+      "dealDate": "2021-03-25",
+      "dealAmount": 535000,
+      "parcelNum": "12300-5-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-10-24",
+          "dealAmount": 395000
+        }
+      ],
+      "trend": {
+        "rate": 35.4,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 13049,
+      "row_id": 15
+    },
+    {
+      "assetId": 70355992.0,
+      "addressId": 53663956,
+      "polygonId": "53085401",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 26",
+      "dealDate": "2021-03-22",
+      "dealAmount": 300000,
+      "parcelNum": "12300-4-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7160,
+      "row_id": 16
+    },
+    {
+      "assetId": 70356067.0,
+      "addressId": 53891657,
+      "polygonId": "51972805",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 4",
+      "dealDate": "2021-03-22",
+      "dealAmount": 770000,
+      "parcelNum": "12300-10-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 51.2,
+      "yearBuilt": 1960,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-12-11",
+          "dealAmount": 470000
+        },
+        {
+          "dealDate": "2011-01-23",
+          "dealAmount": 302000
+        },
+        {
+          "dealDate": "2005-11-29",
+          "dealAmount": 255000
+        }
+      ],
+      "trend": {
+        "rate": 63.8,
+        "years": 8.3
+      },
+      "ownership": [],
+      "priceSM": 15098,
+      "row_id": 17
+    },
+    {
+      "assetId": 70122324.0,
+      "addressId": 53892536,
+      "polygonId": "51974571",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "אלבז נתן 23",
+      "dealDate": "2020-10-21",
+      "dealAmount": 700000,
+      "parcelNum": "10679-35-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 50.9,
+      "yearBuilt": 1950,
+      "streetCode": 21000449,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2006-03-24",
+          "dealAmount": 184000
+        }
+      ],
+      "trend": {
+        "rate": 280.4,
+        "years": 14.6
+      },
+      "ownership": [],
+      "priceSM": 14000,
+      "row_id": 18
+    },
+    {
+      "assetId": 70356039.0,
+      "addressId": 53660008,
+      "polygonId": "53238200",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 24",
+      "dealDate": "2020-06-21",
+      "dealAmount": 650000,
+      "parcelNum": "12300-8-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 50.6,
+      "yearBuilt": 1950,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-07-17",
+          "dealAmount": 290000
+        },
+        {
+          "dealDate": "2002-05-26",
+          "dealAmount": 258000
+        }
+      ],
+      "trend": {
+        "rate": 124.1,
+        "years": 8.9
+      },
+      "ownership": [],
+      "priceSM": 13000,
+      "row_id": 19
+    },
+    {
+      "assetId": 70355985.0,
+      "addressId": 53663956,
+      "polygonId": "53085401",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 26",
+      "dealDate": "2020-01-13",
+      "dealAmount": 400000,
+      "parcelNum": "12300-4-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-12-08",
+          "dealAmount": 118000
+        }
+      ],
+      "trend": {
+        "rate": 239.0,
+        "years": 9.1
+      },
+      "ownership": [],
+      "priceSM": 9756,
+      "row_id": 20
+    },
+    {
+      "assetId": 70356064.0,
+      "addressId": 53891657,
+      "polygonId": "51972805",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 4",
+      "dealDate": "2018-08-22",
+      "dealAmount": 182000,
+      "parcelNum": "12300-10-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 51.2,
+      "yearBuilt": 1960,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3555,
+      "row_id": 21
+    },
+    {
+      "assetId": 70355996.0,
+      "addressId": 53840702,
+      "polygonId": "51972179",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 32",
+      "dealDate": "2016-05-08",
+      "dealAmount": 350000,
+      "parcelNum": "12300-5-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.5,
+      "floor": "קרקע",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8353,
+      "row_id": 22
+    },
+    {
+      "assetId": 70356025.0,
+      "addressId": 53660009,
+      "polygonId": "51967545",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 32",
+      "dealDate": "2015-12-22",
+      "dealAmount": 700000,
+      "parcelNum": "12300-7-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 50.6,
+      "yearBuilt": 1960,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13834,
+      "row_id": 23
+    },
+    {
+      "assetId": 70356069.0,
+      "addressId": 53891657,
+      "polygonId": "51972805",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 4",
+      "dealDate": "2015-07-05",
+      "dealAmount": 505000,
+      "parcelNum": "12300-10-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 51.2,
+      "yearBuilt": 1960,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-08-19",
+          "dealAmount": 290000
+        },
+        {
+          "dealDate": "2010-01-25",
+          "dealAmount": 140000
+        }
+      ],
+      "trend": {
+        "rate": 74.1,
+        "years": 2.9
+      },
+      "ownership": [],
+      "priceSM": 9902,
+      "row_id": 24
+    },
+    {
+      "assetId": 70356018.0,
+      "addressId": 53666722,
+      "polygonId": "53237689",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 40",
+      "dealDate": "2014-10-24",
+      "dealAmount": 315000,
+      "parcelNum": "12300-6-11",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7518,
+      "row_id": 25
+    },
+    {
+      "assetId": 70122319.0,
+      "addressId": 53662647,
+      "polygonId": "51974571",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "אלבז נתן 25",
+      "dealDate": "2014-03-20",
+      "dealAmount": 319000,
+      "parcelNum": "10679-35-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 50.9,
+      "yearBuilt": 1950,
+      "streetCode": 21000449,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2011-03-06",
+          "dealAmount": 300000
+        },
+        {
+          "dealDate": "2008-10-02",
+          "dealAmount": 113000
+        },
+        {
+          "dealDate": "2000-03-29",
+          "dealAmount": 332000
+        }
+      ],
+      "trend": {
+        "rate": 6.3,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 6380,
+      "row_id": 26
+    },
+    {
+      "assetId": 70355990.0,
+      "addressId": 53663956,
+      "polygonId": "53085401",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 26",
+      "dealDate": "2013-02-06",
+      "dealAmount": 389000,
+      "parcelNum": "12300-4-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 53.3,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7298,
+      "row_id": 27
+    },
+    {
+      "assetId": 70122332.0,
+      "addressId": 53666654,
+      "polygonId": "51962948",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "נתן אלבז 27",
+      "dealDate": "2013-02-04",
+      "dealAmount": 184000,
+      "parcelNum": "10679-36-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 45.0,
+      "yearBuilt": 1960,
+      "streetCode": 21000449,
+      "settlmentID": 2100,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 4089,
+      "row_id": 28
+    },
+    {
+      "assetId": 70356000.0,
+      "addressId": 53840702,
+      "polygonId": "51972179",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 32",
+      "dealDate": "2012-10-11",
+      "dealAmount": 280000,
+      "parcelNum": "12300-5-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 6683,
+      "row_id": 29
+    },
+    {
+      "assetId": 70356057.0,
+      "addressId": 53841456,
+      "polygonId": "51932077",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 12",
+      "dealDate": "2011-04-05",
+      "dealAmount": 350000,
+      "parcelNum": "12300-9-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 50.6,
+      "yearBuilt": 1960,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-02-12",
+          "dealAmount": 127000
+        }
+      ],
+      "trend": {
+        "rate": 175.6,
+        "years": 4.1
+      },
+      "ownership": [],
+      "priceSM": 7000,
+      "row_id": 30
+    },
+    {
+      "assetId": 70356036.0,
+      "addressId": 53893262,
+      "polygonId": "53238200",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 26",
+      "dealDate": "2010-11-16",
+      "dealAmount": 230000,
+      "parcelNum": "12300-8-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.32,
+      "yearBuilt": 1950,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-05-16",
+          "dealAmount": 369000
+        }
+      ],
+      "trend": {
+        "rate": -37.7,
+        "years": 11.5
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 115000
+        },
+        {
+          "proportion": "50",
+          "price": 115000
+        }
+      ],
+      "priceSM": 3067,
+      "row_id": 31
+    },
+    {
+      "assetId": 70356105.0,
+      "addressId": 53662648,
+      "polygonId": "53151293",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 4",
+      "dealDate": "2010-06-22",
+      "dealAmount": 200000,
+      "parcelNum": "12300-29-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.9,
+      "yearBuilt": 1965,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-01-24",
+          "dealAmount": 199000
+        }
+      ],
+      "trend": {
+        "rate": 0.5,
+        "years": 9.4
+      },
+      "ownership": [],
+      "priceSM": 4878,
+      "row_id": 32
+    },
+    {
+      "assetId": 70356022.0,
+      "addressId": 53660009,
+      "polygonId": "51967545",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 32",
+      "dealDate": "2010-05-06",
+      "dealAmount": 199000,
+      "parcelNum": "12300-7-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 50.6,
+      "yearBuilt": 1960,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3933,
+      "row_id": 33
+    },
+    {
+      "assetId": 70356104.0,
+      "addressId": 53662648,
+      "polygonId": "53151293",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 4",
+      "dealDate": "2010-02-17",
+      "dealAmount": 147000,
+      "parcelNum": "12300-29-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 41.9,
+      "yearBuilt": 1965,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3508,
+      "row_id": 34
+    },
+    {
+      "assetId": 70356009.0,
+      "addressId": 53666722,
+      "polygonId": "53237689",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 40",
+      "dealDate": "2009-11-15",
+      "dealAmount": 250000,
+      "parcelNum": "12300-6-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 73.0,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3425,
+      "row_id": 35
+    },
+    {
+      "assetId": 70356013.0,
+      "addressId": 53666722,
+      "polygonId": "53237689",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 40",
+      "dealDate": "2008-06-16",
+      "dealAmount": 130000,
+      "parcelNum": "12300-6-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3103,
+      "row_id": 36
+    },
+    {
+      "assetId": 70356042.0,
+      "addressId": 53658727,
+      "polygonId": "53238200",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 22",
+      "dealDate": "2008-06-10",
+      "dealAmount": 150000,
+      "parcelNum": "12300-8-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 50.6,
+      "yearBuilt": 1950,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 2,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 2964,
+      "row_id": 37
+    },
+    {
+      "assetId": 70356026.0,
+      "addressId": 53660009,
+      "polygonId": "51967545",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 32",
+      "dealDate": "2007-11-15",
+      "dealAmount": 157000,
+      "parcelNum": "12300-7-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 50.6,
+      "yearBuilt": 1960,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2002-07-21",
+          "dealAmount": 261000
+        }
+      ],
+      "trend": {
+        "rate": -39.8,
+        "years": 5.3
+      },
+      "ownership": [],
+      "priceSM": 3140,
+      "row_id": 38
+    },
+    {
+      "assetId": 70355997.0,
+      "addressId": 53840702,
+      "polygonId": "51972179",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 32",
+      "dealDate": "2007-05-02",
+      "dealAmount": 69000,
+      "parcelNum": "12300-5-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 1647,
+      "row_id": 39
+    },
+    {
+      "assetId": 70356056.0,
+      "addressId": 53841456,
+      "polygonId": "51932077",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 12",
+      "dealDate": "2006-02-12",
+      "dealAmount": 160000,
+      "parcelNum": "12300-9-8",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 50.6,
+      "yearBuilt": 1960,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3162,
+      "row_id": 40
+    },
+    {
+      "assetId": 70356068.0,
+      "addressId": 53891657,
+      "polygonId": "51972805",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "רזיאל 4",
+      "dealDate": "2006-02-02",
+      "dealAmount": 207000,
+      "parcelNum": "12300-10-6",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 52.0,
+      "yearBuilt": 1960,
+      "streetCode": 21000446,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3981,
+      "row_id": 41
+    },
+    {
+      "assetId": 70355999.0,
+      "addressId": 53840702,
+      "polygonId": "51972179",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 32",
+      "dealDate": "2005-12-13",
+      "dealAmount": 165000,
+      "parcelNum": "12300-5-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3938,
+      "row_id": 42
+    },
+    {
+      "assetId": 70355980.0,
+      "addressId": 53891424,
+      "polygonId": "51957877",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 18",
+      "dealDate": "2004-10-21",
+      "dealAmount": 135000,
+      "parcelNum": "12300-3-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 3222,
+      "row_id": 43
+    },
+    {
+      "assetId": 70356107.0,
+      "addressId": 53662648,
+      "polygonId": "53151293",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 4",
+      "dealDate": "2003-04-29",
+      "dealAmount": 226000,
+      "parcelNum": "12300-29-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 41.9,
+      "yearBuilt": 1965,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-12-30",
+          "dealAmount": 266000
+        }
+      ],
+      "trend": {
+        "rate": -15.0,
+        "years": 4.3
+      },
+      "ownership": [
+        {
+          "proportion": "16",
+          "price": 36160
+        },
+        {
+          "proportion": "16",
+          "price": 36160
+        },
+        {
+          "proportion": "16",
+          "price": 36160
+        },
+        {
+          "proportion": "50",
+          "price": 113000
+        }
+      ],
+      "priceSM": 5512,
+      "row_id": 45
+    },
+    {
+      "assetId": 70355984.0,
+      "addressId": 53663956,
+      "polygonId": "53085401",
+      "neighborhoodName": "בן צבי",
+      "neighborhoodId": 65210990,
+      "address": "בן צבי 26",
+      "dealDate": "2003-04-21",
+      "dealAmount": 228000,
+      "parcelNum": "12300-4-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "ראשונה",
+      "assetArea": 41.9,
+      "yearBuilt": 1960,
+      "streetCode": 21000310,
+      "settlmentID": 2100,
+      "buildingFloors": 1,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5442,
+      "row_id": 46
+    }
+  ]
+}

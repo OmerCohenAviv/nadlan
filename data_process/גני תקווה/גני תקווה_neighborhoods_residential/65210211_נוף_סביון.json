@@ -1,0 +1,3008 @@
+{
+  "neighborhood_name": "נוף סביון",
+  "city_name": "גני תקווה",
+  "transaction_count": 95,
+  "transactions": [
+    {
+      "assetId": 80239068.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2025-07-08",
+      "dealAmount": 2380000,
+      "parcelNum": "6720-1046-153",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "קרקע שלישית",
+      "assetArea": 96.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-03-09",
+          "dealAmount": 1599000
+        },
+        {
+          "dealDate": "2000-10-27",
+          "dealAmount": 734000
+        }
+      ],
+      "trend": {
+        "rate": 48.8,
+        "years": 9.3
+      },
+      "ownership": [],
+      "priceSM": 24792,
+      "row_id": 1
+    },
+    {
+      "assetId": 80238979.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2025-06-05",
+      "dealAmount": 2600000,
+      "parcelNum": "6720-1046-64",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 114.4,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-19",
+          "dealAmount": 780000
+        }
+      ],
+      "trend": {
+        "rate": 233.3,
+        "years": 26.6
+      },
+      "ownership": [],
+      "priceSM": 22807,
+      "row_id": 2
+    },
+    {
+      "assetId": 80238993.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2024-11-21",
+      "dealAmount": 2600000,
+      "parcelNum": "6720-1046-78",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 92.1,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2017-07-13",
+          "dealAmount": 1720000
+        },
+        {
+          "dealDate": "1999-12-15",
+          "dealAmount": 769000
+        }
+      ],
+      "trend": {
+        "rate": 51.2,
+        "years": 7.4
+      },
+      "ownership": [],
+      "priceSM": 28261,
+      "row_id": 3
+    },
+    {
+      "assetId": 80239049.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2024-11-04",
+      "dealAmount": 2350000,
+      "parcelNum": "6720-1046-134",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "מרתף + חמישית",
+      "assetArea": 93.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-03-15",
+          "dealAmount": 1575000
+        }
+      ],
+      "trend": {
+        "rate": 49.2,
+        "years": 9.6
+      },
+      "ownership": [
+        {
+          "proportion": "25",
+          "price": 587500
+        },
+        {
+          "proportion": "25",
+          "price": 587500
+        },
+        {
+          "proportion": "25",
+          "price": 587500
+        },
+        {
+          "proportion": "25",
+          "price": 587500
+        }
+      ],
+      "priceSM": 25269,
+      "row_id": 4
+    },
+    {
+      "assetId": 80239102.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2023-11-09",
+      "dealAmount": 2770000,
+      "parcelNum": "6720-1046-187",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 65.2,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 42485,
+      "row_id": 5
+    },
+    {
+      "assetId": 80238955.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2023-05-09",
+      "dealAmount": 2570000,
+      "parcelNum": "6720-1046-40",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 102.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-07-30",
+          "dealAmount": 950000
+        },
+        {
+          "dealDate": "1998-05-14",
+          "dealAmount": 759000
+        }
+      ],
+      "trend": {
+        "rate": 170.5,
+        "years": 15.8
+      },
+      "ownership": [],
+      "priceSM": 25196,
+      "row_id": 6
+    },
+    {
+      "assetId": 80239094.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2023-03-21",
+      "dealAmount": 2090000,
+      "parcelNum": "6720-1046-179",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 84.2,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 24822,
+      "row_id": 7
+    },
+    {
+      "assetId": 80238934.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2022-10-20",
+      "dealAmount": 3450000,
+      "parcelNum": "6720-1046-19",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "מרתף חמישית ושישית",
+      "assetArea": 185.9,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18558,
+      "row_id": 8
+    },
+    {
+      "assetId": 80238908.0,
+      "addressId": 53879840,
+      "polygonId": "52384982",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין חנוך 5",
+      "dealDate": "2022-03-08",
+      "dealAmount": 2450000,
+      "parcelNum": "6720-1043-25",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "שישית+שביעית",
+      "assetArea": 143.2,
+      "yearBuilt": 2000,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-06-27",
+          "dealAmount": 985000
+        }
+      ],
+      "trend": {
+        "rate": 148.7,
+        "years": 20.7
+      },
+      "ownership": [],
+      "priceSM": 17133,
+      "row_id": 9
+    },
+    {
+      "assetId": 80239093.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2022-03-02",
+      "dealAmount": 1550000,
+      "parcelNum": "6720-1046-178",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 59.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-03-23",
+          "dealAmount": 1120000
+        }
+      ],
+      "trend": {
+        "rate": 38.4,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 26271,
+      "row_id": 10
+    },
+    {
+      "assetId": 80238935.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2022-03-01",
+      "dealAmount": 1425000,
+      "parcelNum": "6720-1046-20",
+      "dealNature": "דירת גג",
+      "roomNum": 5.0,
+      "floor": "קרקע חמישית שישית",
+      "assetArea": 134.6,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2016-12-25",
+          "dealAmount": 2460000
+        }
+      ],
+      "trend": {
+        "rate": -42.1,
+        "years": 5.2
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 712500
+        },
+        {
+          "proportion": "50",
+          "price": 712500
+        }
+      ],
+      "priceSM": 10634,
+      "row_id": 11
+    },
+    {
+      "assetId": 80238928.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2022-02-22",
+      "dealAmount": 1790000,
+      "parcelNum": "6720-1046-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 72.9,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2020-08-10",
+          "dealAmount": 1550000
+        },
+        {
+          "dealDate": "2008-03-12",
+          "dealAmount": 635000
+        },
+        {
+          "dealDate": "1998-06-21",
+          "dealAmount": 573000
+        }
+      ],
+      "trend": {
+        "rate": 15.5,
+        "years": 1.5
+      },
+      "ownership": [],
+      "priceSM": 24861,
+      "row_id": 12
+    },
+    {
+      "assetId": 80238972.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2022-02-16",
+      "dealAmount": 2600000,
+      "parcelNum": "6720-1046-57",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "רביעית",
+      "assetArea": 119.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-06",
+          "dealAmount": 832000
+        }
+      ],
+      "trend": {
+        "rate": 212.5,
+        "years": 23.4
+      },
+      "ownership": [],
+      "priceSM": 21849,
+      "row_id": 13
+    },
+    {
+      "assetId": 80238998.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2021-12-19",
+      "dealAmount": 2000000,
+      "parcelNum": "6720-1046-83",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 112.6,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-09-09",
+          "dealAmount": 1405000
+        }
+      ],
+      "trend": {
+        "rate": 42.3,
+        "years": 12.3
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 1000000
+        },
+        {
+          "proportion": "50",
+          "price": 1000000
+        }
+      ],
+      "priceSM": 17857,
+      "row_id": 14
+    },
+    {
+      "assetId": 80239058.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2021-11-16",
+      "dealAmount": 856000,
+      "parcelNum": "6720-1046-143",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע שמינית",
+      "assetArea": 146.0,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 5863,
+      "row_id": 15
+    },
+    {
+      "assetId": 80238956.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2021-09-30",
+      "dealAmount": 1600000,
+      "parcelNum": "6720-1046-41",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "מרתף חמישית",
+      "assetArea": 76.1,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21025,
+      "row_id": 16
+    },
+    {
+      "assetId": 80239023.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2021-07-25",
+      "dealAmount": 2150000,
+      "parcelNum": "6720-1046-108",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "מרתף חמישית",
+      "assetArea": 115.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2014-01-09",
+          "dealAmount": 1735000
+        },
+        {
+          "dealDate": "1999-03-19",
+          "dealAmount": 838000
+        }
+      ],
+      "trend": {
+        "rate": 23.9,
+        "years": 7.5
+      },
+      "ownership": [],
+      "priceSM": 18696,
+      "row_id": 17
+    },
+    {
+      "assetId": 80239116.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2021-07-05",
+      "dealAmount": 2050000,
+      "parcelNum": "6720-1046-201",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית שישית",
+      "assetArea": 99.9,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20521,
+      "row_id": 18
+    },
+    {
+      "assetId": 80239062.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2021-06-22",
+      "dealAmount": 910000,
+      "parcelNum": "6720-1046-147",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 94.0,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-09-14",
+          "dealAmount": 722000
+        }
+      ],
+      "trend": {
+        "rate": 26.0,
+        "years": 20.8
+      },
+      "ownership": [],
+      "priceSM": 9681,
+      "row_id": 19
+    },
+    {
+      "assetId": 80239109.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2021-04-27",
+      "dealAmount": 1400000,
+      "parcelNum": "6720-1046-194",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.4,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21739,
+      "row_id": 20
+    },
+    {
+      "assetId": 80238925.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2020-12-27",
+      "dealAmount": 1800000,
+      "parcelNum": "6720-1046-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 84.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-01-26",
+          "dealAmount": 676000
+        }
+      ],
+      "trend": {
+        "rate": 166.3,
+        "years": 21.9
+      },
+      "ownership": [],
+      "priceSM": 21429,
+      "row_id": 21
+    },
+    {
+      "assetId": 80239110.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2020-12-09",
+      "dealAmount": 1440000,
+      "parcelNum": "6720-1046-195",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 65.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21884,
+      "row_id": 22
+    },
+    {
+      "assetId": 80238920.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2020-11-11",
+      "dealAmount": 1800000,
+      "parcelNum": "6720-1046-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 85.3,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21102,
+      "row_id": 23
+    },
+    {
+      "assetId": 80238930.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2020-09-14",
+      "dealAmount": 2020000,
+      "parcelNum": "6720-1046-15",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.5,
+      "floor": "רביעית",
+      "assetArea": 124.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16186,
+      "row_id": 24
+    },
+    {
+      "assetId": 80238895.0,
+      "addressId": 53879840,
+      "polygonId": "52384982",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין חנוך 5",
+      "dealDate": "2020-06-24",
+      "dealAmount": 1835000,
+      "parcelNum": "6720-1043-12",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שנייה",
+      "assetArea": 90.7,
+      "yearBuilt": 2000,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-03-28",
+          "dealAmount": 748000
+        }
+      ],
+      "trend": {
+        "rate": 145.3,
+        "years": 20.3
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 605550
+        },
+        {
+          "proportion": "33",
+          "price": 605550
+        },
+        {
+          "proportion": "33",
+          "price": 605550
+        }
+      ],
+      "priceSM": 20389,
+      "row_id": 25
+    },
+    {
+      "assetId": 80238960.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2020-05-11",
+      "dealAmount": 2700000,
+      "parcelNum": "6720-1046-45",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 122.9,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 21969,
+      "row_id": 26
+    },
+    {
+      "assetId": 80239118.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2020-01-09",
+      "dealAmount": 1558000,
+      "parcelNum": "6720-1046-203",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 59.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2013-07-29",
+          "dealAmount": 1170000
+        }
+      ],
+      "trend": {
+        "rate": 33.2,
+        "years": 6.5
+      },
+      "ownership": [],
+      "priceSM": 26407,
+      "row_id": 27
+    },
+    {
+      "assetId": 80239008.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2020-01-02",
+      "dealAmount": 2650000,
+      "parcelNum": "6720-1046-93",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע שמינית",
+      "assetArea": 139.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-09-23",
+          "dealAmount": 2100000
+        }
+      ],
+      "trend": {
+        "rate": 26.2,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 19065,
+      "row_id": 28
+    },
+    {
+      "assetId": 80239002.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2019-08-18",
+      "dealAmount": 1760000,
+      "parcelNum": "6720-1046-87",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שישית",
+      "assetArea": 90.9,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-13",
+          "dealAmount": 643000
+        }
+      ],
+      "trend": {
+        "rate": 173.7,
+        "years": 20.9
+      },
+      "ownership": [],
+      "priceSM": 19556,
+      "row_id": 29
+    },
+    {
+      "assetId": 80239086.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2019-05-28",
+      "dealAmount": 2300000,
+      "parcelNum": "6720-1046-171",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 65.2,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-10-07",
+          "dealAmount": 1100000
+        }
+      ],
+      "trend": {
+        "rate": 109.1,
+        "years": 8.6
+      },
+      "ownership": [],
+      "priceSM": 35385,
+      "row_id": 30
+    },
+    {
+      "assetId": 80239105.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2019-05-28",
+      "dealAmount": 1800000,
+      "parcelNum": "6720-1046-190",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 84.3,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-04-06",
+          "dealAmount": 940000
+        }
+      ],
+      "trend": {
+        "rate": 91.5,
+        "years": 10.1
+      },
+      "ownership": [],
+      "priceSM": 21429,
+      "row_id": 31
+    },
+    {
+      "assetId": 80238916.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2019-03-07",
+      "dealAmount": 2400000,
+      "parcelNum": "6720-1046-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע",
+      "assetArea": 131.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18209,
+      "row_id": 32
+    },
+    {
+      "assetId": 80238978.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2018-12-02",
+      "dealAmount": 2425000,
+      "parcelNum": "6720-1046-63",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע שישית",
+      "assetArea": 124.6,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19462,
+      "row_id": 33
+    },
+    {
+      "assetId": 80238941.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2018-11-29",
+      "dealAmount": 1850000,
+      "parcelNum": "6720-1046-26",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 85.4,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2015-05-14",
+          "dealAmount": 1624000
+        }
+      ],
+      "trend": {
+        "rate": 13.9,
+        "years": 3.5
+      },
+      "ownership": [],
+      "priceSM": 21765,
+      "row_id": 34
+    },
+    {
+      "assetId": 80238938.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2018-09-17",
+      "dealAmount": 2080000,
+      "parcelNum": "6720-1046-23",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "קרקע",
+      "assetArea": 83.1,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 25030,
+      "row_id": 35
+    },
+    {
+      "assetId": 80239030.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2018-04-30",
+      "dealAmount": 1745000,
+      "parcelNum": "6720-1046-115",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "קרקע שביעית",
+      "assetArea": 94.4,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-12-02",
+          "dealAmount": 960000
+        }
+      ],
+      "trend": {
+        "rate": 81.8,
+        "years": 9.4
+      },
+      "ownership": [],
+      "priceSM": 18564,
+      "row_id": 36
+    },
+    {
+      "assetId": 80238991.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2017-12-11",
+      "dealAmount": 2245000,
+      "parcelNum": "6720-1046-76",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע, שניה",
+      "assetArea": 123.1,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-07",
+          "dealAmount": 817000
+        }
+      ],
+      "trend": {
+        "rate": 174.8,
+        "years": 19.2
+      },
+      "ownership": [],
+      "priceSM": 18252,
+      "row_id": 37
+    },
+    {
+      "assetId": 80238911.0,
+      "addressId": 53879840,
+      "polygonId": "52384982",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין חנוך 5",
+      "dealDate": "2017-03-23",
+      "dealAmount": 2164000,
+      "parcelNum": "6720-1043-28",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית+שביעית",
+      "assetArea": 130.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16582,
+      "row_id": 38
+    },
+    {
+      "assetId": 80239071.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2017-03-01",
+      "dealAmount": 1720000,
+      "parcelNum": "6720-1046-156",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית+קרקע",
+      "assetArea": 96.3,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-11-16",
+          "dealAmount": 704000
+        }
+      ],
+      "trend": {
+        "rate": 144.3,
+        "years": 16.3
+      },
+      "ownership": [],
+      "priceSM": 17917,
+      "row_id": 39
+    },
+    {
+      "assetId": 80238995.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2016-11-15",
+      "dealAmount": 1960000,
+      "parcelNum": "6720-1046-80",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "מרתף רביעית",
+      "assetArea": 117.0,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-15",
+          "dealAmount": 805000
+        }
+      ],
+      "trend": {
+        "rate": 143.5,
+        "years": 18.1
+      },
+      "ownership": [],
+      "priceSM": 16752,
+      "row_id": 40
+    },
+    {
+      "assetId": 80238949.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2016-09-25",
+      "dealAmount": 1765000,
+      "parcelNum": "6720-1046-34",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע שלישית",
+      "assetArea": 87.6,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2010-11-15",
+          "dealAmount": 1372000
+        }
+      ],
+      "trend": {
+        "rate": 28.6,
+        "years": 5.9
+      },
+      "ownership": [],
+      "priceSM": 20287,
+      "row_id": 41
+    },
+    {
+      "assetId": 80238980.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2016-08-04",
+      "dealAmount": 1599000,
+      "parcelNum": "6720-1046-65",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 91.0,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-07-22",
+          "dealAmount": 915000
+        }
+      ],
+      "trend": {
+        "rate": 74.8,
+        "years": 8.0
+      },
+      "ownership": [],
+      "priceSM": 17571,
+      "row_id": 42
+    },
+    {
+      "assetId": 80239074.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2016-06-27",
+      "dealAmount": 1555000,
+      "parcelNum": "6720-1046-159",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "מרתף חמישית",
+      "assetArea": 93.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-12-29",
+          "dealAmount": 738000
+        }
+      ],
+      "trend": {
+        "rate": 110.7,
+        "years": 15.5
+      },
+      "ownership": [],
+      "priceSM": 16720,
+      "row_id": 43
+    },
+    {
+      "assetId": 80239061.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2016-05-29",
+      "dealAmount": 1850000,
+      "parcelNum": "6720-1046-146",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "ראשונה",
+      "assetArea": 112.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-09-14",
+          "dealAmount": 874000
+        }
+      ],
+      "trend": {
+        "rate": 111.7,
+        "years": 15.7
+      },
+      "ownership": [],
+      "priceSM": 16518,
+      "row_id": 44
+    },
+    {
+      "assetId": 80238937.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2016-01-26",
+      "dealAmount": 2062000,
+      "parcelNum": "6720-1046-22",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "חמישית שישית",
+      "assetArea": 113.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18167,
+      "row_id": 45
+    },
+    {
+      "assetId": 80239090.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2015-12-02",
+      "dealAmount": 1250000,
+      "parcelNum": "6720-1046-175",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 64.4,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 19410,
+      "row_id": 46
+    },
+    {
+      "assetId": 80239080.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2015-11-01",
+      "dealAmount": 1530000,
+      "parcelNum": "6720-1046-165",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שביעית",
+      "assetArea": 90.9,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-12-07",
+          "dealAmount": 666000
+        }
+      ],
+      "trend": {
+        "rate": 129.7,
+        "years": 14.9
+      },
+      "ownership": [],
+      "priceSM": 17000,
+      "row_id": 47
+    },
+    {
+      "assetId": 80239034.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2015-09-06",
+      "dealAmount": 2560000,
+      "parcelNum": "6720-1046-119",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 6.0,
+      "floor": "מרתף תשיעית",
+      "assetArea": 173.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14755,
+      "row_id": 48
+    },
+    {
+      "assetId": 80239020.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2015-07-01",
+      "dealAmount": 1766000,
+      "parcelNum": "6720-1046-105",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 112.6,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-04-22",
+          "dealAmount": 950000
+        },
+        {
+          "dealDate": "1999-05-04",
+          "dealAmount": 833000
+        }
+      ],
+      "trend": {
+        "rate": 85.9,
+        "years": 7.2
+      },
+      "ownership": [],
+      "priceSM": 15768,
+      "row_id": 49
+    },
+    {
+      "assetId": 80238931.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2015-06-02",
+      "dealAmount": 1665000,
+      "parcelNum": "6720-1046-16",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "מרתף רביעית",
+      "assetArea": 107.6,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2007-09-19",
+          "dealAmount": 892000
+        }
+      ],
+      "trend": {
+        "rate": 86.7,
+        "years": 7.7
+      },
+      "ownership": [],
+      "priceSM": 15561,
+      "row_id": 50
+    },
+    {
+      "assetId": 80239089.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2015-05-12",
+      "dealAmount": 1350000,
+      "parcelNum": "6720-1046-174",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 65.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2009-12-27",
+          "dealAmount": 922000
+        }
+      ],
+      "trend": {
+        "rate": 46.4,
+        "years": 5.4
+      },
+      "ownership": [],
+      "priceSM": 20769,
+      "row_id": 51
+    },
+    {
+      "assetId": 80239037.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2015-04-16",
+      "dealAmount": 1600000,
+      "parcelNum": "6720-1046-122",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 94.0,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2008-05-27",
+          "dealAmount": 855000
+        },
+        {
+          "dealDate": "2000-02-06",
+          "dealAmount": 906000
+        }
+      ],
+      "trend": {
+        "rate": 87.1,
+        "years": 6.9
+      },
+      "ownership": [],
+      "priceSM": 17021,
+      "row_id": 52
+    },
+    {
+      "assetId": 80238939.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2015-03-19",
+      "dealAmount": 1830000,
+      "parcelNum": "6720-1046-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 87.6,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 20890,
+      "row_id": 53
+    },
+    {
+      "assetId": 80238952.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2015-02-18",
+      "dealAmount": 1285000,
+      "parcelNum": "6720-1046-37",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 73.7,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 17436,
+      "row_id": 54
+    },
+    {
+      "assetId": 80239015.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2015-01-16",
+      "dealAmount": 1549000,
+      "parcelNum": "6720-1046-100",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שניה",
+      "assetArea": 93.0,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-04-08",
+          "dealAmount": 712000
+        }
+      ],
+      "trend": {
+        "rate": 117.6,
+        "years": 15.8
+      },
+      "ownership": [
+        {
+          "proportion": "33",
+          "price": 511170
+        },
+        {
+          "proportion": "33",
+          "price": 511170
+        },
+        {
+          "proportion": "33",
+          "price": 511170
+        }
+      ],
+      "priceSM": 16656,
+      "row_id": 55
+    },
+    {
+      "assetId": 80239032.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2015-01-15",
+      "dealAmount": 2100000,
+      "parcelNum": "6720-1046-117",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שמינית",
+      "assetArea": 127.7,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16445,
+      "row_id": 56
+    },
+    {
+      "assetId": 80238932.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2014-12-28",
+      "dealAmount": 1299000,
+      "parcelNum": "6720-1046-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע רביעית",
+      "assetArea": 75.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2012-07-01",
+          "dealAmount": 1240000
+        },
+        {
+          "dealDate": "2007-12-20",
+          "dealAmount": 1050000
+        }
+      ],
+      "trend": {
+        "rate": 4.8,
+        "years": 2.5
+      },
+      "ownership": [],
+      "priceSM": 17320,
+      "row_id": 57
+    },
+    {
+      "assetId": 80239085.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2014-10-27",
+      "dealAmount": 1640000,
+      "parcelNum": "6720-1046-170",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 73.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 22313,
+      "row_id": 58
+    },
+    {
+      "assetId": 80238910.0,
+      "addressId": 53879840,
+      "polygonId": "52384982",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין חנוך 5",
+      "dealDate": "2014-10-22",
+      "dealAmount": 2200000,
+      "parcelNum": "6720-1043-27",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שישית+שביעית",
+      "assetArea": 136.3,
+      "yearBuilt": 2000,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2000-07-18",
+          "dealAmount": 982000
+        }
+      ],
+      "trend": {
+        "rate": 124.0,
+        "years": 14.3
+      },
+      "ownership": [],
+      "priceSM": 16176,
+      "row_id": 59
+    },
+    {
+      "assetId": 80238900.0,
+      "addressId": 53879840,
+      "polygonId": "52384982",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין חנוך 5",
+      "dealDate": "2014-06-18",
+      "dealAmount": 1400000,
+      "parcelNum": "6720-1043-17",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "רביעית",
+      "assetArea": 98.4,
+      "yearBuilt": 2000,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-06-27",
+          "dealAmount": 747000
+        }
+      ],
+      "trend": {
+        "rate": 87.4,
+        "years": 13.0
+      },
+      "ownership": [],
+      "priceSM": 14286,
+      "row_id": 60
+    },
+    {
+      "assetId": 80238990.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2014-01-06",
+      "dealAmount": 1460000,
+      "parcelNum": "6720-1046-75",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "שניה",
+      "assetArea": 93.0,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-08",
+          "dealAmount": 651000
+        }
+      ],
+      "trend": {
+        "rate": 124.3,
+        "years": 15.3
+      },
+      "ownership": [],
+      "priceSM": 15699,
+      "row_id": 61
+    },
+    {
+      "assetId": 80239046.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2013-05-31",
+      "dealAmount": 1359000,
+      "parcelNum": "6720-1046-131",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "רביעית",
+      "assetArea": 91.1,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-08-29",
+          "dealAmount": 896000
+        }
+      ],
+      "trend": {
+        "rate": 51.7,
+        "years": 13.8
+      },
+      "ownership": [],
+      "priceSM": 14934,
+      "row_id": 62
+    },
+    {
+      "assetId": 80239042.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2013-04-22",
+      "dealAmount": 1450000,
+      "parcelNum": "6720-1046-127",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 112.3,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12912,
+      "row_id": 63
+    },
+    {
+      "assetId": 80238896.0,
+      "addressId": 53879840,
+      "polygonId": "52384982",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין חנוך 5",
+      "dealDate": "2013-04-10",
+      "dealAmount": 1400000,
+      "parcelNum": "6720-1043-13",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.5,
+      "floor": "שלישית",
+      "assetArea": 98.3,
+      "yearBuilt": 2000,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14242,
+      "row_id": 64
+    },
+    {
+      "assetId": 80239097.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2012-12-03",
+      "dealAmount": 1350000,
+      "parcelNum": "6720-1046-182",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 84.6,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 15957,
+      "row_id": 65
+    },
+    {
+      "assetId": 80239054.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2012-11-11",
+      "dealAmount": 1649000,
+      "parcelNum": "6720-1046-139",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שביעית",
+      "assetArea": 114.6,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14389,
+      "row_id": 66
+    },
+    {
+      "assetId": 80239026.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2012-06-28",
+      "dealAmount": 1630000,
+      "parcelNum": "6720-1046-111",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שישית",
+      "assetArea": 113.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14323,
+      "row_id": 67
+    },
+    {
+      "assetId": 80239113.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2012-06-06",
+      "dealAmount": 1215000,
+      "parcelNum": "6720-1046-198",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "רביעית",
+      "assetArea": 65.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 18550,
+      "row_id": 68
+    },
+    {
+      "assetId": 80238893.0,
+      "addressId": 53879840,
+      "polygonId": "52384982",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין חנוך 5",
+      "dealDate": "2011-10-31",
+      "dealAmount": 1800000,
+      "parcelNum": "6720-1043-10",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "שנייה",
+      "assetArea": 124.9,
+      "yearBuilt": 2000,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-06-10",
+          "dealAmount": 851000
+        }
+      ],
+      "trend": {
+        "rate": 111.5,
+        "years": 12.4
+      },
+      "ownership": [
+        {
+          "proportion": "50",
+          "price": 900000
+        },
+        {
+          "proportion": "50",
+          "price": 900000
+        }
+      ],
+      "priceSM": 14516,
+      "row_id": 69
+    },
+    {
+      "assetId": 80238971.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2011-05-18",
+      "dealAmount": 1290000,
+      "parcelNum": "6720-1046-56",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.5,
+      "floor": "מרתף רביעית",
+      "assetArea": 95.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 13508,
+      "row_id": 70
+    },
+    {
+      "assetId": 80238994.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2011-02-22",
+      "dealAmount": 1800000,
+      "parcelNum": "6720-1046-79",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "קרקע שלישית",
+      "assetArea": 124.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 14423,
+      "row_id": 71
+    },
+    {
+      "assetId": 80238929.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2010-12-23",
+      "dealAmount": 1400000,
+      "parcelNum": "6720-1046-14",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע שלישית",
+      "assetArea": 87.0,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16092,
+      "row_id": 72
+    },
+    {
+      "assetId": 80239111.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2010-10-26",
+      "dealAmount": 900000,
+      "parcelNum": "6720-1046-196",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "שלישית",
+      "assetArea": 84.2,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10689,
+      "row_id": 73
+    },
+    {
+      "assetId": 80239088.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2010-06-23",
+      "dealAmount": 1350000,
+      "parcelNum": "6720-1046-173",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 84.3,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 16014,
+      "row_id": 74
+    },
+    {
+      "assetId": 80238885.0,
+      "addressId": 53879840,
+      "polygonId": "52384982",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין חנוך 5",
+      "dealDate": "2010-06-23",
+      "dealAmount": 700000,
+      "parcelNum": "6720-1043-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 53.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2003-02-27",
+          "dealAmount": 473000
+        }
+      ],
+      "trend": {
+        "rate": 48.0,
+        "years": 7.3
+      },
+      "ownership": [],
+      "priceSM": 13208,
+      "row_id": 75
+    },
+    {
+      "assetId": 80238961.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2010-01-10",
+      "dealAmount": 1400000,
+      "parcelNum": "6720-1046-46",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע ראשונה",
+      "assetArea": 115.4,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-10-08",
+          "dealAmount": 736000
+        }
+      ],
+      "trend": {
+        "rate": 90.2,
+        "years": 11.3
+      },
+      "ownership": [],
+      "priceSM": 12174,
+      "row_id": 76
+    },
+    {
+      "assetId": 80239057.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2009-09-29",
+      "dealAmount": 1590000,
+      "parcelNum": "6720-1046-142",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 5.0,
+      "floor": "קרקע שמינית",
+      "assetArea": 125.6,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "2001-01-26",
+          "dealAmount": 1122000
+        }
+      ],
+      "trend": {
+        "rate": 41.7,
+        "years": 8.7
+      },
+      "ownership": [],
+      "priceSM": 12720,
+      "row_id": 77
+    },
+    {
+      "assetId": 4174215.0,
+      "addressId": 0,
+      "polygonId": "6720-1048",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "0",
+      "dealDate": "2009-09-07",
+      "dealAmount": 1380000,
+      "parcelNum": "6720-1048-1",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "שלישית",
+      "assetArea": 140.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 229,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9857,
+      "row_id": 78
+    },
+    {
+      "assetId": 4174216.0,
+      "addressId": 0,
+      "polygonId": "6720-1047",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "0",
+      "dealDate": "2009-08-17",
+      "dealAmount": 1160000,
+      "parcelNum": "6720-1047-1",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "חמישית",
+      "assetArea": 128.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 229,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9062,
+      "row_id": 79
+    },
+    {
+      "assetId": 80238924.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2009-08-02",
+      "dealAmount": 850000,
+      "parcelNum": "6720-1046-9",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 69.1,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12301,
+      "row_id": 80
+    },
+    {
+      "assetId": 80239103.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2009-07-25",
+      "dealAmount": 900000,
+      "parcelNum": "6720-1046-188",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 3.0,
+      "floor": "קרקע",
+      "assetArea": 73.7,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 12212,
+      "row_id": 81
+    },
+    {
+      "assetId": 80238903.0,
+      "addressId": 53879840,
+      "polygonId": "52384982",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין חנוך 5",
+      "dealDate": "2009-01-25",
+      "dealAmount": 1000000,
+      "parcelNum": "6720-1043-20",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "רביעית",
+      "assetArea": 90.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11013,
+      "row_id": 82
+    },
+    {
+      "assetId": 4174216.0,
+      "addressId": 0,
+      "polygonId": "6720-1047",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "0",
+      "dealDate": "2009-01-22",
+      "dealAmount": 827000,
+      "parcelNum": "6720-1047-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שלישית",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 229,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 11027,
+      "row_id": 83
+    },
+    {
+      "assetId": 4174215.0,
+      "addressId": 0,
+      "polygonId": "6720-1048",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "0",
+      "dealDate": "2008-10-22",
+      "dealAmount": 1092000,
+      "parcelNum": "6720-1048-2",
+      "dealNature": "קוטג' חד משפחתי",
+      "roomNum": 5.0,
+      "floor": "שניה",
+      "assetArea": 100.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 229,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10920,
+      "row_id": 84
+    },
+    {
+      "assetId": 4174216.0,
+      "addressId": 0,
+      "polygonId": "6720-1047",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "0",
+      "dealDate": "2008-05-29",
+      "dealAmount": 775000,
+      "parcelNum": "6720-1047-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 85.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 229,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 9118,
+      "row_id": 85
+    },
+    {
+      "assetId": 80239040.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2008-03-11",
+      "dealAmount": 855000,
+      "parcelNum": "6720-1046-125",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "שניה",
+      "assetArea": 93.1,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-27",
+          "dealAmount": 865000
+        }
+      ],
+      "trend": {
+        "rate": -1.2,
+        "years": 8.2
+      },
+      "ownership": [],
+      "priceSM": 9194,
+      "row_id": 86
+    },
+    {
+      "assetId": 4174215.0,
+      "addressId": 0,
+      "polygonId": "6720-1048",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "0",
+      "dealDate": "2007-08-26",
+      "dealAmount": 900000,
+      "parcelNum": "6720-1048-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": null,
+      "assetArea": 90.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 229,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10000,
+      "row_id": 87
+    },
+    {
+      "assetId": 4174216.0,
+      "addressId": 0,
+      "polygonId": "6720-1047",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "0",
+      "dealDate": "2007-08-12",
+      "dealAmount": 635000,
+      "parcelNum": "6720-1047-4",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "ראשונה",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 229,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8467,
+      "row_id": 88
+    },
+    {
+      "assetId": 80238907.0,
+      "addressId": 53879840,
+      "polygonId": "52384982",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין חנוך 5",
+      "dealDate": "2007-05-14",
+      "dealAmount": 826000,
+      "parcelNum": "6720-1043-24",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 95.5,
+      "yearBuilt": 2000,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8649,
+      "row_id": 89
+    },
+    {
+      "assetId": 80239027.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2007-04-29",
+      "dealAmount": 825000,
+      "parcelNum": "6720-1046-112",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.5,
+      "floor": "קרקע שישית",
+      "assetArea": 93.9,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8786,
+      "row_id": 90
+    },
+    {
+      "assetId": 4174216.0,
+      "addressId": 0,
+      "polygonId": "6720-1047",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "0",
+      "dealDate": "2007-04-17",
+      "dealAmount": 597000,
+      "parcelNum": "6720-1047-5",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 3.0,
+      "floor": "חמישית",
+      "assetArea": 75.0,
+      "yearBuilt": 0,
+      "streetCode": 0,
+      "settlmentID": 229,
+      "buildingFloors": 0,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 7960,
+      "row_id": 91
+    },
+    {
+      "assetId": 80238999.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2007-03-23",
+      "dealAmount": 1005000,
+      "parcelNum": "6720-1046-84",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "חמישית",
+      "assetArea": 90.9,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1998-06-21",
+          "dealAmount": 713000
+        }
+      ],
+      "trend": {
+        "rate": 41.0,
+        "years": 8.8
+      },
+      "ownership": [],
+      "priceSM": 11167,
+      "row_id": 92
+    },
+    {
+      "assetId": 80238917.0,
+      "addressId": 53620954,
+      "polygonId": "53045728",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין שמש 19",
+      "dealDate": "2005-02-17",
+      "dealAmount": 1177000,
+      "parcelNum": "6720-1046-2",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "קרקע",
+      "assetArea": 113.9,
+      "yearBuilt": 2000,
+      "streetCode": 2290211,
+      "settlmentID": 229,
+      "buildingFloors": 10,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 10334,
+      "row_id": 93
+    },
+    {
+      "assetId": 80238890.0,
+      "addressId": 53879840,
+      "polygonId": "52384982",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין חנוך 5",
+      "dealDate": "2002-12-25",
+      "dealAmount": 842000,
+      "parcelNum": "6720-1043-7",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 4.0,
+      "floor": "ראשונה",
+      "assetArea": 101.0,
+      "yearBuilt": 2000,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "prevDeals": [
+        {
+          "dealDate": "1999-12-26",
+          "dealAmount": 714000
+        }
+      ],
+      "trend": {
+        "rate": 17.9,
+        "years": 3.0
+      },
+      "ownership": [],
+      "priceSM": 8337,
+      "row_id": 94
+    },
+    {
+      "assetId": 80238886.0,
+      "addressId": 53879840,
+      "polygonId": "52384982",
+      "neighborhoodName": "נוף סביון",
+      "neighborhoodId": 65210211,
+      "address": "עין חנוך 5",
+      "dealDate": "2002-10-03",
+      "dealAmount": 468000,
+      "parcelNum": "6720-1043-3",
+      "dealNature": "דירה בבית קומות",
+      "roomNum": 2.0,
+      "floor": "קרקע",
+      "assetArea": 52.8,
+      "yearBuilt": 2000,
+      "streetCode": 2290141,
+      "settlmentID": 229,
+      "buildingFloors": 6,
+      "hokHamecher": 0,
+      "trend": {
+        "rate": 0,
+        "years": 0
+      },
+      "prevDeals": [],
+      "ownership": [],
+      "priceSM": 8864,
+      "row_id": 95
+    }
+  ]
+}
